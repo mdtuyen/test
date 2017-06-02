@@ -1,0 +1,43 @@
+{
+  "Ads": {
+    "delay": 7,
+    "forcepopup": true,
+    "ids": {
+      "admob": {
+        "banner": "ca-app-pub-3310732296129502/5664251878",
+        "native": "",
+        "popup": "ca-app-pub-3310732296129502/8617718273"
+      },
+      "facebook": {
+        "banner": "",
+        "native": "",
+        "popup": ""
+      },
+      "startapp": "203367275"
+    },
+    "numClick": 10,
+    "timeafterinstall": 48,
+    "timepopupshow": 6,
+    "types": {
+      "banner": 2,
+      "popup": {
+        "changenet": 0,
+        "closeapp": 2,
+        "lockscreen": 0,
+        "openapp": 0
+      }
+    }
+  },
+  "App": {
+    "code": 15,
+    "force": false,
+    "link": "https://drive.google.com/uc?export=download&id=0B50eyu1h_Rc1X01LSDVDeHgwSlk"
+  },
+  "androidKey": "AIzaSyDLKSMnl3wgSxM9wh0YGcJv_-r9ZVWqRGU",
+  "enableApi": true,
+  "filterCountry": "^(VN|JP|KR|MX|TH)$",
+  "info": "",
+  "keyData": "12322789ghhjkabc",
+  "linkData": "http://api.footballtv.info/menu/menuandroidvn.php?v=153",
+  "timeAfterBuild": 0
+}
