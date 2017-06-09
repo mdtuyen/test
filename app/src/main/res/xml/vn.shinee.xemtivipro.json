@@ -30,9 +30,9 @@
     }
   },
   "App" : {
-    "code" : 1,
+    "code" : 20,
     "force" : true,
-    "link" : "https://drive.google.com/uc?export=download&id=0B50eyu1h_Rc1X01LSDVDeHgwSlk"
+    "link" : ""
   },
   "androidKey" : "AIzaSyDLKSMnl3wgSxM9wh0YGcJv_-r9ZVWqRGU",
   "enableApi" : true,
@@ -42,5 +42,5 @@
   "linkTivi" : "http://api.rysapk.com/bdtvios/datanew2.php?v=9",
   "linkBongda" : "http://api.rysapk.com/bdtvios/tructiepvn.php",
   "linkHL" : "http://apps.crackgame.net/bongda/datavideo.php",
-  "timeAfterBuild" : 0
+  "timeAfterBuild" : 2
 }
