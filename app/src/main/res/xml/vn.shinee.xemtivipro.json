@@ -30,9 +30,9 @@
     }
   },
   "App" : {
-    "code" : 1,
+    "code" : 20,
     "force" : true,
-    "link" : ""
+    "link" : "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/res/xml/21.apk"
   },
   "androidKey" : "AIzaSyDLKSMnl3wgSxM9wh0YGcJv_-r9ZVWqRGU",
   "enableApi" : true,
@@ -42,5 +42,5 @@
   "linkTivi" : "http://api.rysapk.com/bdtvios/datanew2.php?v=9",
   "linkBongda" : "http://api.rysapk.com/bdtvios/tructiepvn.php",
   "linkHL" : "http://apps.crackgame.net/bongda/datavideo.php",
-  "timeAfterBuild" : 2
+  "timeAfterBuild" : 0
 }
