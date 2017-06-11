@@ -13,7 +13,7 @@
         "native" : "",
         "popup" : ""
       },
-      "startapp" : "207389433"
+      "startapp" : "207749379"
     },
     "numClick" : 10,
     "timeafterinstall" : 48,
@@ -21,18 +21,18 @@
     "types" : {
       "banner" : 1,
       "popup" : {
-        "changenet" : 0,
+        "changenet" : 2,
         "lick" : 2,
         "closeapp" : 2,
         "lockscreen" : 0,
-        "openapp" : 2
+        "openapp" : 1
       }
     }
   },
   "App" : {
     "code" : 1,
-    "force" : true,
-    "link" : "https://drive.google.com/uc?export=download&id=0B50eyu1h_Rc1X01LSDVDeHgwSlk"
+    "force" : false,
+    "link" : ""
   },
   "androidKey" : "AIzaSyDLKSMnl3wgSxM9wh0YGcJv_-r9ZVWqRGU",
   "enableApi" : true,
