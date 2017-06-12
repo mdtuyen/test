@@ -22,7 +22,7 @@
       "banner" : 1,
       "popup" : {
         "changenet" : 2,
-        "lick" : 2,
+        "click" : 2,
         "closeapp" : 2,
         "lockscreen" : 0,
         "openapp" : 1
