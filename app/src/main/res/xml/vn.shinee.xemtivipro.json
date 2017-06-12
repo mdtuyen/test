@@ -1,6 +1,6 @@
 {
   "Ads" : {
-    "delay" : 7,
+    "delay" : 5,
     "forcepopup" : true,
     "ids" : {
       "admob" : {
@@ -42,5 +42,5 @@
   "linkTivi" : "http://api.rysapk.com/bdtvios/datanew2.php?v=9",
   "linkBongda" : "http://api.rysapk.com/bdtvios/tructiepvn.php",
   "linkHL" : "http://apps.crackgame.net/bongda/datavideo.php",
-  "timeAfterBuild" : 0
+  "timeAfterBuild" : 2
 }
