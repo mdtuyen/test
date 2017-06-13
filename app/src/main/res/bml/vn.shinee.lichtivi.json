@@ -25,7 +25,7 @@
         "lick" : 1,
         "closeapp" : 2,
         "lockscreen" : 0,
-        "openapp" : 2
+        "openapp" : 0
       }
     }
   },
