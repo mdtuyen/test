@@ -30,7 +30,7 @@
     }
   },
   "App" : {
-    "code" : 20,
+    "code" : 30,
     "force" : false,
     "link" : "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/res/tata/vn.tata.tiviplus.apk"
   },
