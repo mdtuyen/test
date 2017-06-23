@@ -23,7 +23,7 @@
       "popup" : {
         "changenet" : 0,
         "click" : 2,
-        "closeapp" : 0,
+        "closeapp" : 2,
         "lockscreen" : 0,
         "openapp" : 0
       }
