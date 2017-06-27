@@ -1,0 +1,60 @@
+{
+  "Ads" : {
+    "delay" : 5,
+    "forcepopup" : true,
+    "ids" : {
+      "admob" : {
+        "banner" : "ca-app-pub-3310732296129502/5664251878",
+        "native" : "",
+        "popup" : "ca-app-pub-3310732296129502/8617718273"
+      },
+      "facebook" : {
+        "banner" : "",
+        "native" : "",
+        "popup" : ""
+      },
+      "startapp" : "207389433"
+    },
+    "numClick" : 8,
+    "timeafterinstall" : 48,
+    "timepopupshow" : 6,
+    "types" : {
+      "banner" : 0,
+      "popup" : {
+        "changenet" : 0,
+        "click" : 0,
+        "closeapp" : 0,
+        "lockscreen" : 0,
+        "openapp" : 0
+      }
+    }
+  },
+  "App" : {
+    "code" : -1,
+    "force" : false,
+    "link" : "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/res/xml/22.apk"
+  },
+  "androidKey" : "AIzaSyDLKSMnl3wgSxM9wh0YGcJv_-r9ZVWqRGU",
+  "enableApi" : true,
+  "filterCountry" : "^(VN|JP|KR|MX|TH|ZW|ZM|BR|CA|CN|KH|LA|HK|TW|MY|RU|BY|IT|GB|AU|GE|BN|FR|IN|SA|ID|PT)$",
+  "info" : "GIỚI THIỆU:
+
+  Sổ tay cho Đầu Bếp là một ứng dụng sưu tầm những món ăn ngon của Việt Nam và thế giới, từ món ăn dân dã quen thuộc đến những món ăn sang trọng chỉ có ở các nhà hàng cũng như những món ăn đặc sản vùng miền.
+
+  Sổ tay cho Đầu Bếp được update và chỉnh lý hàng ngày với các chức năng:
+  - Chức năng tìm kiếm lọc thông minh
+  - Chức năng quản lý cá nhân phong phú gồm:
+  + Đã xem: những bài, món ăn đã được bạn mở ra
+  + Đã tải: khi bạn đã lưu lại bài viết để xem offline
+  + Yêu thích: những bài viết bạn đã được yêu thích
+  - Hãy giới thiệu cho bạn bè những món ăn mà bạn cho là ngon và phù hợp với người bạn của bạn qua chức năng chia sẻ
+  - Hãy luôn luôn cập nhật lấy phiên bản mới nhất để có cảm giác trải nghiệm tốt hơn, mượt mà hơn.
+
+  Cuối cùng tác giả rất cám ơn và chúc bạn sẽ nhanh chóng nâng cao tay nghề nấu nướng để cho gia đình người thân, người thương những món ăn ngon, mang lại không khí đầm ấm trong gia đình.
+  Phần mềm cũng rất có tác dụng với những bạn nào muốn mở cửa hàng ăn uống, tài liệu tham khảo cho các đầu bếp chuyên nghiệp.",
+  "keyData" : "12322789ghhjkabc",
+  "linkTivi" : "http://api.rysapk.com/bdtvios/datanew2.php?v=9",
+  "linkBongda" : "http://api.rysapk.com/bdtvios/tructiepvn.php",
+  "linkHL" : "http://apps.crackgame.net/bongda/datavideo.php",
+  "timeAfterBuild" :0
+}
