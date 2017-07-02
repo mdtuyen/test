@@ -2,42 +2,35 @@
   "ver": 1,
   "items": [
     {
+      "id": 1,
       "name": "Kamasutra",
       "avatar": "http://media2.intoday.in/dailyo//story/embed/201508/kam_080915074834.jpg",
       "group": [
       ]
     },
     {
+      "id": 2,
       "name": "Kamasutra",
       "avatar": "http://media2.intoday.in/dailyo//story/embed/201508/kam_080915074834.jpg",
       "group": [
       ]
     },
     {
+      "id": 3,
       "name": "Kamasutra",
       "avatar": "http://media2.intoday.in/dailyo//story/embed/201508/kam_080915074834.jpg",
       "group": [
       ]
     },
     {
+      "id": 4,
       "name": "Kamasutra",
       "avatar": "http://media2.intoday.in/dailyo//story/embed/201508/kam_080915074834.jpg",
       "group": [
       ]
     },
     {
-      "name": "Kamasutra",
-      "avatar": "http://media2.intoday.in/dailyo//story/embed/201508/kam_080915074834.jpg",
-      "group": [
-      ]
-    },
-    {
-      "name": "Kamasutra",
-      "avatar": "http://media2.intoday.in/dailyo//story/embed/201508/kam_080915074834.jpg",
-      "group": [
-      ]
-    },
-    {
+      "id": 5,
       "name": "Kamasutra",
       "avatar": "http://media2.intoday.in/dailyo//story/embed/201508/kam_080915074834.jpg",
       "group": [
