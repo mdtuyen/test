@@ -13,9 +13,9 @@
         "native" : "",
         "popup" : ""
       },
-      "startapp" : "207389433"
+      "startapp" : "206610674"
     },
-    "numClick" : 4,
+    "numClick" : 8,
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
@@ -24,7 +24,7 @@
         "changenet" : 2,
         "click" : 2,
         "closeapp" : 2,
-        "lockscreen" : 2,
+        "lockscreen" : 0,
         "openapp" : 2
       }
     }
