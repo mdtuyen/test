@@ -80,6 +80,81 @@
           "desc": "Tuyệt đỉnh song ca nhí với đỉnh cao hòa âm của các tài năng nhí. Sự kết hợp chưa từng có giữa một ca sĩ và một nghệ sĩ chuyên về diễn xuất"
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "Ca nhạc",
+      "avatar": "http://vetinhtv.com/tvstream_new/web/images/1100588548Am%20Nhac%20Icon.png",
+      "group": [
+        {
+          "name": "Bản nhạc hàng đầu - Sơn Tùng M-TP",
+          "avatar": "https://i.ytimg.com/vi/FN7ALfpGxiI/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDRuOyz3NTXegIqPmgW4MOQEYkvDQ",
+          "link": "PLpAwiDR3-1hjgLQHbBT6DisJY9jjgs9Bv",
+          "desc": "Bản nhạc hàng đầu - Sơn Tùng M-TP"
+        },
+        {
+          "name": "Tuyển tập nhạc tháng 05/2017",
+          "avatar": "https://i.ytimg.com/vi/rMD0VQxUJEg/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAeh-2AxxomO5pID30Tvy8QnVAbhA",
+          "link": "PL18ydGudVEHUXcH9Z7Derq_m8KdJnYdSt",
+          "desc": "Tuyển tập nhạc tháng 05/2017"
+        },
+        {
+          "name": "Tuyển Tập Nhạc Tình Yêu Hay Nhất",
+          "avatar": "https://i.ytimg.com/vi/BcxNiVFjFVg/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBsl0zOOqPuzgK1UBlSsR3Z4OBDLQ",
+          "link": "PL18ydGudVEHVDlywYzxc5l6Mc1NS9-RbV",
+          "desc": "Tuyển Tập Nhạc Tình Yêu Hay Nhất"
+        },
+        {
+          "name": "Nhạc Vàng Tuyệt Phẩm",
+          "avatar": "https://i.ytimg.com/vi/iHa7eFvzWC4/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCO7DbDSh_SmglXuluw1K44orRRjg",
+          "link": "PLkzAdpbBG6D7P7BYwnC0R1XjYo80g2_WL",
+          "desc": "Nhạc vàng là tên gọi dòng tân nhạc Việt Nam ra đời trong thập niên 1960 với lời ca trữ tình bình dân được viết trên những giai điệu chậm buồn đều đều (bolero, rumba, ballade...), âm hưởng dân ca, hát bằng giọng "
+        },
+        {
+          "name": "Trịnh Công Sơn & Khánh Ly - Hát Cho Quê Hương Việt Nam",
+          "avatar": "https://i.ytimg.com/vi/FgUy6NGpxgU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDocb3ZrxDykZ4zkMx-DfpLruVS2g",
+          "link": "PL6chPFwZY6mb3VPUs4jnLM58G-Iz7bC-L",
+          "desc": "Trịnh Công Sơn & Khánh Ly - Hát Cho Quê Hương Việt Nam"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Phim",
+      "avatar": "https://s1.mzstatic.com/us/r30/Purple3/v4/44/f2/d7/44f2d7cc-9e38-0a08-fcdb-d5faffb11343/mzl.owrmvsca.png",
+      "group": [
+        {
+          "name": "Tuyển tập phim hài Châu Tinh Trì Bản Đẹp",
+          "avatar": "https://i.ytimg.com/vi/HsNhuoH41bw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBNJ8xLuOVosuvzTwjLeVcoKhne4Q",
+          "link": "PLreE8l6UGfoMt2rFXH5BofgxIa4KKIofx",
+          "desc": "Tuyển tập phim hài Châu Tinh Trì Bản Đẹp"
+        },
+        {
+          "name": "Tuyển tập Lý Liên Kiệt",
+          "avatar": "https://i.ytimg.com/vi/PRYlzUI6oqM/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDGxc0MFmrusvzu5ZmLSybrZqJA-w",
+          "link": "PLK0QguWseZvV2NcfzMy-gBIiaZV7JpNpZ",
+          "desc": "Tuyển tập Lý Liên Kiệt"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Hài tổng hợp",
+      "avatar": "https://s1.mzstatic.com/us/r30/Purple3/v4/44/f2/d7/44f2d7cc-9e38-0a08-fcdb-d5faffb11343/mzl.owrmvsca.png",
+      "group": [
+        {
+          "name": "Không cười không làm người",
+          "avatar": "https://i.ytimg.com/vi/VxmWIDtO4Rk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCAtLLn3-UxN9FEdusD3g6xivyiFA",
+          "link": "PLU_OT_6-NrCjLVbgNvJliGOrvWg5s-Xud",
+          "desc": "không cười không làm người"
+        },
+        {
+          "name": "All Zach's Magical Vids",
+          "avatar": "https://i.ytimg.com/vi/CCoWvR3ltRg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCrkWB34l8ri7sfr0FHZkXOs5pjVg",
+          "link": "PLEL8booG6gbC9DtSIk2tWKwACybq3fKTC",
+          "desc": "All Zach's Magical Vids"
+        }
+      ]
     }
   ]
 }
