@@ -30,9 +30,9 @@
     }
   },
   "App" : {
-    "code" : 30,
+    "code" : 31,
     "force" : true,
-    "link" : "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/res/tata/vn.tata.tiviplus.apk"
+    "link" : "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/res/apk/vn.tata.tiviplus.apk"
   },
   "androidKey" : "AIzaSyDLKSMnl3wgSxM9wh0YGcJv_-r9ZVWqRGU",
   "enableApi" : true,
