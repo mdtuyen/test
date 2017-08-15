@@ -2,6 +2,169 @@
   "ver": 1,
   "items": [
     {
+      "id": 0,
+      "name": "THVL Giải Trí",
+      "avatar": "https://yt3.ggpht.com/-2yYewwG1-fs/AAAAAAAAAAI/AAAAAAAAAAA/oLPMDpbkg1I/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "group": [
+        {
+          "name": "Phút thư giãn",
+          "avatar": "https://i.ytimg.com/vi/1hbUoj1-RdI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAa3tMUXTMxPTqkn7zpTdL_wTcN8w",
+          "link": "PLQh3fXiPKDP_3xuyQp9s6SjikVXRyMYz8",
+          "desc": "Gồm nhiều tiểu phẩm ngắn mang đến những tiếng cười hài hước, Phút thư giãn gửi gấm những thông điệp ý nghĩa, phản ánh các khía cạnh khác nhau trong cuộc sống qua đó rút ra được nhiều bài học quý giá. Đón xem chương trình lúc 11h50 hàng ngày trên kênh THVL1."
+        },
+        {
+          "name": "Thế giới cổ tích",
+          "avatar": "https://i.ytimg.com/vi/zVd4DVeuZmk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCg0AVHcA_FT9Cc6W-ec4me34uSdw",
+          "link": "PLQh3fXiPKDP93piTAVcuaaV8XrPE9pKE9",
+          "desc": "Chương trình phát sóng lúc 19h30 chủ nhật hàng tuần trên THVL1."
+        },
+        {
+          "name": "Kịch cùng Bolero",
+          "avatar": "https://i.ytimg.com/vi/g8YEQqL85xg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBBStRW2OqLhocT4t-OemwQ_5joSA",
+          "link": "PLQh3fXiPKDP9QSmpVWy6AEHVx3Um1aJN-",
+          "desc": "Kịch cùng Bolero với sự kết hợp đặc biệt chưa từng có giữa kịch và nhạc Bolero trong cùng một tác phẩm. Những tình huống kịch được đẩy lên cao trào, giây phút lắng đọng đầy cảm xúc khi nhiều mảnh ghép cuộc sống được tái hiện cùng sự tranh tài của 4 đạo diễn trẻ cá tính và tài năng. Ngọt ngào, sâu lắng, kịch tính và hấp dẫn. "
+        },
+        {
+          "name": "Chuyện của Đốm",
+          "avatar": "https://i.ytimg.com/vi/4fHXyaSma5o/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCTaKjFUI7aU6UyWJxNISEizXuqrw",
+          "link": "PLQh3fXiPKDP91pvFsnZcdSRCEduZyjF6F",
+          "desc": "Chuyện của Đốm là câu chuyện kể về chú Đốm tinh nghịch, dễ thương với các tình huống xảy ra trong cuộc sống và cùng rút ra nhiều bài học ý nghĩa."
+        },
+        {
+          "name": "Hành trình văn hóa Việt",
+          "avatar": "https://i.ytimg.com/vi/DagaXfNutHQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBUQfEY5kGilqVpE-4AJc6kxsKecQ",
+          "link": "PLQh3fXiPKDP-IkK-R_47RC4fTGk1mGWTh",
+          "desc": "Những cuộc gặp gỡ bất ngờ, những hành trình thú vị, những trải nghiệm sâu sắc, những nét đẹp văn hóa đỉnh cao. Hãy đến với Việt Nam mến yêu lúc 19h50 Thứ Bảy hàng tuần trên kênh THVL1."
+        },
+        {
+          "name": "Vợ tôi là số 1",
+          "avatar": "https://i.ytimg.com/vi/djUnutVEhPs/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA_sSF5GmdVetp0eAppFn-eN6fkCQ",
+          "link": "PLQh3fXiPKDP_EOOZswWqW959yZLWsf_z-",
+          "desc": "Gameshow “Vợ tôi là số 1” do Đài truyền hình Vĩnh Long thực hiện và phát sóng vào lúc 20h30 Chủ Nhật hàng tuần trên THVL1, là trò chơi truyền hình dành cho những người phụ nữ nội trợ khắp các tỉnh thành cả nước"
+        },
+        {
+          "name": "Ca sĩ giấu mặt",
+          "avatar": "https://i.ytimg.com/vi/ml_iBTbPtKM/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD4HqgP8ai-_he58dcNeCUbxglkvw",
+          "link": "PLQh3fXiPKDP8_sQ1SdmXZ6MSlvWKo1_xW",
+          "desc": "Ca sỹ giấu mặt - Hidden singer là gameshow truyền hình ăn khách hàng đầu Hàn Quốc và Thái Lan nay đã đến Việt Nam. Đây là chương trình tìm kiếm những “GIỌNG CA” đặc biệt."
+        },
+        {
+          "name": "Thiên thần đi học",
+          "avatar": "https://i.ytimg.com/vi/_DJNz7k_gcw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDE1vgDgBoegVn6AiKTkws3tKp7ng",
+          "link": "PLQh3fXiPKDP_kps4NYwvIrx62hO9_9PFC",
+          "desc": "Thiên thần đi học"
+        },
+        {
+          "name": "Tuyệt đỉnh song ca nhí",
+          "avatar": "https://i.ytimg.com/vi/NifmPHwoiQg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAKx5L6hRyH8_-egzkIdGejnJLtpw",
+          "link": "PLQh3fXiPKDP_zMdSDSuAwp6OH-aGyDsGD",
+          "desc": "Tuyệt đỉnh song ca nhí với đỉnh cao hòa âm của các tài năng nhí. Sự kết hợp chưa từng có giữa một ca sĩ và một nghệ sĩ chuyên về diễn xuất: nghệ sĩ Thanh Bạch – Đoan Trang, Đại Nghĩa – Cẩm Ly, Thu Trang – Dương Triệu Vũ và cùng chung tay rèn luyện để các tài năng nhí tỏa sáng. "
+        },
+        {
+          "name": "Cười xuyên Việt",
+          "avatar": "https://i.ytimg.com/vi/pEGb_yYkzeA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBi2yI-4NxBHkVwxtVGTBP4TVw-eg",
+          "link": "PLQh3fXiPKDP_eR2VyphDX9r4N_uSRGN8h",
+          "desc": "Bùng nổ những tiếng cười sảng khoái, thỏa mãn tình huống, nội dung sâu sắc; Cười xuyên Việt 2017 với sự xuất hiện của giám khảo Việt Hương trên ghế nóng trong suốt chương trình cùng những đánh giá chuyên môn đầy tâm huyết của các giám khảo gạo cội và dàn cố vấn tài năng: Gia Bảo, Khả Như, Huỳnh Lập, tổng đạo diễn Diệp Tiên."
+        },
+        {
+          "name": "Quyền năng phái đẹp",
+          "avatar": "https://i.ytimg.com/vi/obgqwosUjeg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCl7UvYb4e0HBp3rT4tpGFpar74gA",
+          "link": "PLQh3fXiPKDP8CU1cxJgiNQoEFxmtsktIa",
+          "desc": "Quyền năng phái đẹp"
+        },
+        {
+          "name": "Làng hài mở hội",
+          "avatar": "https://i.ytimg.com/vi/LU2EcLURsAw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCzi095btXwEsfMSBM1Z9ofgImPEQ",
+          "link": "PLQh3fXiPKDP_lgKaTo_1RWOi3c6N33_rf",
+          "desc": "àng Hài Mở Hội năm 2016 được phát sóng lúc 21h thứ Tư hàng tuần trên kênh THVL1 với sự tham gia của Việt Hương, Trấn Thành và các đội chơi tên tuổi."
+        },
+        {
+          "name": "Sao nối ngôi",
+          "avatar": "https://i.ytimg.com/vi/v4l06mKEWpU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDBMEmBeA1Q5U2bbT7bXDsoJRBEqw",
+          "link": "PLQh3fXiPKDP89enXbRXdaYIHrywTqqC7N",
+          "desc": "SAO NỐI NGÔI - Một sân chơi hoàn toàn mới dành cho những nghệ sĩ trẻ tài năng sinh trưởng trong các gia đình nghệ thuật - được phát sóng lúc 21h thứ ba hàng tuần trên kênh THVL1 và phát lại lúc 11h45 thứ tư trên kênh THVL2"
+        },
+        {
+          "name": "Tiếu lâm tứ trụ nhí",
+          "avatar": "https://i.ytimg.com/vi/cuKO4oTTAF8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCjkdhk0yPLqXR47omer9zPuAhUQg",
+          "link": "PLQh3fXiPKDP_a5NyumY7h5FKgn3KblI45",
+          "desc": "Tiếu lâm tứ trụ nhí - Một sân chơi cho những tài năng nhí tỏa sáng với những tiết mục ca vũ nhạc kịch thật đặc sắc, hấp dẫn, thú vị cùng sự tranh tài của 4 vương quốc: vương quốc Kẹo Ngọt của huấn luyện viên Hoàng Mèo - Đại Ngọc Trâm, vương quốc Cổ Tích của huấn luyện viên Gia Bảo - Thanh Hiền, vương quốc Loài Hoa của huấn luyện viên Hứa Minh Đạt - Lâm Vỹ Dạ, vương quốc Đồ Chơi của huấn luyện viên Minh Trọng - Lê Nam"
+        },
+        {
+          "name": "Solo cùng Bolero",
+          "avatar": "https://i.ytimg.com/vi/-gYHoa5Xyqo/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAEVpBDbDbxTaFDQW9sM-VjjRBHuA",
+          "link": "PLQh3fXiPKDP-_K10JsIx0jYQ-WEs349bW",
+          "desc": "Solo cùng Bolero"
+        },
+        {
+          "name": "Tuyệt đỉnh song ca",
+          "avatar": "https://i.ytimg.com/vi/dzKj2FM8wg4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCgP_c4D9miynfoAMc4cfNkpTPxMw",
+          "link": "PLQh3fXiPKDP90DPao6NHwkxor_S3a8hvc",
+          "desc": "TUYỆT ĐỈNH SONG CA - Một chương trình lần đầu tiên xuất hiện tại Việt Nam và chỉ dành riêng cho các cặp song ca. Với sự xuất hiện của ba cặp huấn luyện viên tên tuổi: Đan Trường - Cẩm Ly, Minh Tuyết - Noo Phước Thịnh, Đàm Vĩnh Hưng - Dương Triệu V..."
+        },
+        {
+          "name": "Cổ tích Việt Nam",
+          "avatar": "https://i.ytimg.com/vi/PF8k9n7FYuk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDdk3dT3EN5L8zf_cnjEm1TkpzaEw",
+          "link": "PLQh3fXiPKDP9hpFzIQMAeZkyd0tUMcQO5",
+          "desc": "Chương trình được phát sóng lúc 19h45 Chủ nhật hàng tuần trên THVL1."
+        },
+        {
+          "name": "Cặp đôi hài hước",
+          "avatar": "https://i.ytimg.com/vi/k4MrFw6tFYo/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCeQGLsz6aRM6epFRx89lins7bQ0A",
+          "link": "PLQh3fXiPKDP_ZBSY-OH_-ZKf_sS5xx9Zk",
+          "desc": "Một cuộc tranh tài hoàn toàn mới lạ mang đến những tràng cười thoải mái và bùng nổ với sự kết hợp giữa một ca sĩ và một nghệ sĩ: Võ Minh Lâm - Bảo Lâm, Don Nguyễn - Huỳnh Tiến Khoa, Tô Thiên Kiều - Lê Hùng, Tuyền Mập - Châu Gia Kiệt, Tùng Linh - Mai Yến Chi, Huy Nam - Hải Yến cùng bộ tứ giám khảo quyền lực: Thanh Bạch - Kiều Oanh, Lý Hùng - Việt Trinh. "
+        },
+        {
+          "name": "Ngôi sao phương Nam",
+          "avatar": "https://i.ytimg.com/vi/i7SpHM5Y90Q/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAx_wNUF6brG1kPXIw5EbWv9rmErA",
+          "link": "PLQh3fXiPKDP_lzXQuIXaMp0oU6Fpygoxp",
+          "desc": "Một cuộc thi hoành tráng, sâu sắc, ngập tràn cảm xúc - Ngôi sao phương Nam 2016 nơi tôn vinh bản sắc dân tộc. Những MC trẻ trung và đa tài, những ca sĩ chuyên nghiệp dòng nhạc quê hương, những biên đạo múa tài năng cùng hội tụ"
+        },
+        {
+          "name": "Solo cùng Bolero 2016",
+          "avatar": "https://i.ytimg.com/vi/u86hSNEPMcA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLADRcUzNMzSNh6VaufD90ufJvtznw",
+          "link": "PLQh3fXiPKDP8OZRNQrkav5DfeoYrB6zzL",
+          "desc": "Solo cùng Bolero 2016 - Một chương trình tụng ca vẻ đẹp của âm nhạc trữ tình Bolero giữa cuộc sống đời thường và tìm kiếm giá trị đích thực của nghệ thuật giải trí. Ban giám khảo là những danh ca nổi tiếng gần gũi và thân thiện: Thái Châu, Giao Li..."
+        },
+        {
+          "name": "Biệt đội tài năng",
+          "avatar": "https://i.ytimg.com/vi/syeNSP5tDpQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDb8aR44BBRTrsQ_OjjlG1_XSG6fA",
+          "link": "PLQh3fXiPKDP8QFQLRevFW1B8KmHzChZBY",
+          "desc": "Một chương trình được đầu tư hoành tráng, quy mô với những phần tranh tài nảy lửa và có tổng giải thưởng lên đến 1 tỷ đồng - BIỆT ĐỘI TÀI NĂNG được phát sóng lúc 21h Chủ Nhật hàng tuần trên kênh THVL1 "
+        },
+        {
+          "name": "Cười xuyên Việt - Phiên bản nghệ sĩ",
+          "avatar": "https://i.ytimg.com/vi/FwbKPPkm2tw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDqLDQOAxkc0HC4A5IdS_glQ-OEqg",
+          "link": "PLQh3fXiPKDP-5pp9Yj9yrTHVtEDLHYvy2",
+          "desc": "Cười xuyên Việt - Phiên bản nghệ sĩ 2016 - Với sự tham gia của 6 gương mặt hài nổi bật: diễn viên MaiKa, Tấn Bo, Lê Nam, Puka, Gia Bảo, Trịnh Tú Trung cùng 6 người bạn đồng hành Khắc Duy, Thanh Phong, Vũ Trần, Khả Như, Phi Long, Thanh Hiền. Một sân khấu hài đẳng cấp cùng sự đồng hành của vị giám khảo duy nhất NSƯT Hoài Linh"
+        },
+        {
+          "name": "Cùng nhau tỏa sáng",
+          "avatar": "https://i.ytimg.com/vi/w3TUWqShf-U/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDokoHtajYFdUADjWI8C7x2X-6t9g",
+          "link": "PLQh3fXiPKDP956mkIreyXfEA-mTFgJ3UP",
+          "desc": "CÙNG NHAU TỎA SÁNG 2016 được phát sóng lúc 21g Thứ Sáu hàng tuần trên kênh THVL1 và phát lại lúc 11g45 Thứ Bảy trên kênh THVL2"
+        },
+        {
+          "name": "Quán ăn vui vẻ",
+          "avatar": "https://i.ytimg.com/vi/5SDLSi30jK0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAUi_12V92OyI1O5J90d86frv2csg",
+          "link": "PLQh3fXiPKDP9kVdtHKMPrUGx6eRMlnxUt",
+          "desc": "Quán ăn vui vẻ"
+        },
+        {
+          "name": "Bức tường bí ẩn",
+          "avatar": "https://i.ytimg.com/vi/sNFl639x0LQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDb2FlNUPkUtPq5WBLF2m6Y03e2Rg",
+          "link": "PLQh3fXiPKDP-exaokdxjZVVugjWQ0JKhZ",
+          "desc": "Bức tường bí ẩn là phiên bản việt Nam của Wall of fame - gameshow truyền hình ăn khách ở nhiều quốc gia trên thế giới. Tham gia chương trình, người chơi không chỉ được khám phá khả năng kiến thức mà còn có cơ hội tương tác với 12 người nổi tiếng yêu thích."
+        },
+        {
+          "name": "Tuyệt đỉnh giác quan",
+          "avatar": "https://i.ytimg.com/vi/qlCvFhFpayc/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCAz6MOHOE_0L-TZKs_OkVPC-y5qg",
+          "link": "PLQh3fXiPKDP_riPhM1b-6XPA8rb_QVob3",
+          "desc": "Tuyệt đỉnh giác quan - Một chương trình truyền hình đánh thức mọi giác quan của bạn: thị giác, thính giác, xúc giác, khứu giác, vị giác."
+        }
+      ]
+    },
+    {
       "id": 1,
       "name": "FAP TV",
       "avatar": "https://yt3.ggpht.com/-bR_nQqJQnWs/AAAAAAAAAAI/AAAAAAAAAAA/lKHB_DPfUeM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",
