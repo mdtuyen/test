@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
             <title>Xem TV trực tuyến | Live TV | TV Online | Truyền hình trực tuyến | beebTV</title>
@@ -40,13 +40,14 @@
         function tickx(){
             $('footer #ticker_01 li:first').slideUp( function () { $(this).appendTo($('footer #ticker_01')).slideDown(); });
         }
-        
+
         setInterval(function(){ tickx () }, 5000);
 
         var checkTogTab = 0;
         $(document).ready(function(){
-                            togTab();            
+                            togTab();
         });
+        var timers_reconnect = [];
 
         var keysx = {
                 up: 38,
@@ -164,9 +165,9 @@ truc tiep ngoai hang anh
         <div class="channel">
             <input type="input" id="channel" maxlength="4" onblur='$(".channel").animate({right: "-70vmin"}, 500)' /> &nbsp; <span id="name"></span>
         </div>
-        
+
         <div class="socialbox"  style="display: none">
-            <div class="fb-like" data-href="https://facebook.com/beeb.vn" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div>   
+            <div class="fb-like" data-href="https://facebook.com/beeb.vn" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div>
             <br>
             <br>
             <iframe id="zcount" src="http://beeb.vn/patch/count.html?ref=http://tv.beeb.vn/___" frameborder="0" scrolling="no" height="25px" width="72px"></iframe>
@@ -200,24 +201,24 @@ truc tiep ngoai hang anh
             </style>
             <center>
 
-                <div style="height:100%;width:100%;display:table-cell;vertical-align:middle">
-                    <div style="color: #fff; font-size:7vmin; font-weight: bold; padding-top: 10vmin" id="welcome" onclick="checkHe()">Welcome to beebTV</div>
+            <div style="height:100%;width:100%;display:table-cell;vertical-align:middle">
+                <div style="color: #fff; font-size:7vmin; font-weight: bold; padding-top: 10vmin" id="welcome">Welcome to BeePLAY</div>
 
-                    <ul id="ticker_01" class="ticker">
-                        <li>
-                            <a href="https://facebook.com/beeb.vn" target="_blank">Truy cập và like fanpage để cập nhật lịch trực tiếp bóng đá nhé :)</a>
-                        </li>
-                        <li>
-                            Dịch vụ truyền hình trực tuyến OTT - Một sản phẩm của <b>BEEB</b><sup><font style="font-size: 1vmin">TM</font></sup>
-                        </li>
-                        <li>
-                            Nghe nhạc lossless trực tuyến tại <a href='https://play.beeb.vn'>https://play.beeb.vn</a> !!!
-                        </li>
-            <!--            <li>
-                            Đừng bỏ lỡ các trận đấu đỉnh cao tại beebTV => <a href='/footballshedule'>xem lịch thi đấu</a>
-                        </li> -->
-                    </ul>
-                    <script>
+                <ul id="ticker_01" class="ticker">
+                    <li>
+                        Dịch vụ truyền hình trực tuyến miễn phí của <b>Bee</b><sup><font style="font-size:1vmin">PLAY</font></sup>
+                    </li>
+                    <li>
+                        Hỗ trợ Smart TV
+                    </li>
+                    <li>
+                        Mọi ý kiến đóng góp xin gửi về email: recreate_yourself@yahoo.com
+                    </li>
+                    <!--            <li>
+                                    Đừng bỏ lỡ các trận đấu đỉnh cao tại beebTV => <a href='/footballshedule'>xem lịch thi đấu</a>
+                                </li> -->
+                </ul>
+                <script>
                         function tick(){
                             $('#ticker_01 li:first').slideUp( function () { $(this).appendTo($('#ticker_01')).slideDown(); });
                         }
@@ -228,12 +229,12 @@ truc tiep ngoai hang anh
             // permission to use this Javascript on your web page is granted
             // provided that all of the code in this script (including these
             // comments) is used without any alteration
-            
+
             // var stopafter = 0;
             // var firestop = []; var fire = []; var stdDOM = document.getElementById; var nsDOM = ((navigator.appName.indexOf('Netscape') != -1) && (parseInt(navigator.appVersion) ==4)); function pageWidth() {return window.innerWidth != null? window.innerWidth: document.body != null? document.body.clientWidth:700;}function pageHeight() {return window.innerHeight != null? window.innerHeight: document.body != null? document.body.clientHeight:500;} function posLeft() {return typeof window.pageXOffset != 'undefined' ? window.pageXOffset:document.documentElement.scrollLeft? document.documentElement.scrollLeft:document.body.scrollLeft? document.body.scrollLeft:0;} function posTop() {return typeof window.pageYOffset != 'undefined' ? window.pageYOffset:document.documentElement.scrollTop? document.documentElement.scrollTop: document.body.scrollTop?document.body.scrollTop:0;} var hD="0123456789ABCDEF"; function d2h(d) {return hD.substr(d>>>4,1)+hD.substr(d&15,1);} layernum=0; piece = function(parent) {this.elem = null; if(nsDOM) {if(parent == null) this.elem=new Layer(1); else {this.elem=new Layer(1,parent.elem); this.style.visibility = "inherit";} this.parent = parent; this.style = this.elem;} else if (stdDOM) {if(parent == null) this.parent=document.body; else this.parent=parent.elem; this.elem = document.createElement('div'); var xName = "xLayer" + layernum++; this.elem.setAttribute('id', xName); elemc = document.createTextNode('.'); this.elem.appendChild(elemc); this.parent.appendChild(this.elem); this.style = this.elem.style;document.getElementById(xName).style.lineHeight = '3px'; document.getElementById(xName).style.color = '#fff'; document.getElementById(xName).style.position = 'absolute';} window[this.elem.id]=this; this.ay = .1; this.type = 0;}; piece.prototype.moveTo = function(x,y) {if(nsDOM) this.elem.moveTo(x,y); else {this.style.left = x+"px"; this.style.top = y+"px";}}; piece.prototype.setC = function(colour) {if(nsDOM) this.elem.bgColor = colour; else this.style.backgroundColor = colour==null?'transparent':colour; };  piece.prototype.fire = function(sx, sy, fw) {var a = Math.random() * Math.PI * 2; switch (fw) {case 1: var s = Math.random() * 2; break; case 2: var s = 2; break; case 3: var s = (Math.PI * 2) - a - Math.random(); break; case 4: var s =  a - Math.random(); break; default: var s = Math.random() * 2; if(Math.random() >.6) s = 1.5;} this.dx = s*Math.sin(a); this.dy = s*Math.cos(a) - 2; this.x = sx; this.y = sy; this.moveTo(sx, sy);}; piece.prototype.sCol = function(hex,hex2,cl) {switch (cl) {case 1: this.setC("#" + hex + hex2 + "00"); break; case 2: this.setC("#00" + hex + "00"); break; case 3: this.setC("#00" + hex + hex2); break; case 4: this.setC("#" + hex + "0000"); break; case 5: this.setC("#" + hex + hex + "00"); break; case 6: this.setC("#" + hex + hex + hex); break; case 7: this.setC("#" + hex2 + hex + "00"); break; default: this.setC("#" + hex + hex2 + hex);}}; piece.prototype.animate = function(step,cl) {var colour = (step > 25) ?  Math.random()*(380-(step*5)) : 255-(step*4); var hex = d2h(colour-112); if (colour < 112) hex = d2h(colour); this.sCol(d2h(colour),hex,cl); this.dy += this.ay; this.x += this.dx; this.y += this.dy; this.moveTo(this.x, this.y);}; fo = function(numst) {this.id = "fo"+fo.count++;this.sp = new Array(); for(i=0 ; i<numst; i++) {this.sp[i]=new piece(); if(nsDOM){this.sp[i].style.clip.top =0; this.sp[i].style.clip.left = 0; this.sp[i].style.clip.bottom = 3; this.sp[i].style.clip.right = 3;} else this.sp[i].style.clip="rect("+0+" "+3+" "+3+" "+0+")"; this.sp[i].style.visibility = "visible";} this.step = 0; window[this.id]=this; fire.push(this); firestop.push(setInterval("window."+this.id+".animate()", 15));}; fo.count = 0; fo.prototype.animate = function() {if(this.step > 55) this.step = 0; if(this.step == 0) {var x = posLeft() + 50 + (Math.random()*(pageWidth() - 200)); var y = posTop() + 50 + (Math.random()*(pageHeight() - 250)); var fw = Math.floor(Math.random() * 5); this.cl = Math.floor(Math.random() * 8); for(i=0 ; i<this.sp.length ; i++)this.sp[i].fire(x, y, fw);} this.step++; for(i=0 ; i<this.sp.length ; i++) this.sp[i].animate(this.step,this.cl);};
             // function stopfire() {for(var i = firestop.length - 1; i >= 0; i--) {clearInterval(firestop[i]); for (var j = fire[i].sp.length - 1; j >= 0; j--) {fire[i].sp[j].style.visibility = "hidden";}}}
             // function fireworks() {new fo(50);setTimeout('new fo(50)',750);if (stopafter > 0) {setTimeout('stopfire()',stopafter * 60000);}} window.onload=fireworks;
-                              
+
                     </script>
                                     </div>
                 <div style="color: #fff;text-align: center;font-size: 2vmin;margin-top: 6vh;">
@@ -261,977 +262,959 @@ truc tiep ngoai hang anh
             </div></div>
                     <div class="channel_list">
                 <ul>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtv1-vtv1-beebTV.html"-->
-                                        <a href="javascript:load('vtv1');togTab()"
-                                            data-type="5" 
-                                            data-c="vtv1" 
-                                            name="VTV1">
+                                        <a href="javascript:load('vtv1', true);togTab()" data-type="5" data-c="vtv1" name="VTV1">
                                             <img src="/img/vtv1.jpg">
                                             <span>1. VTV1</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtv1-hd-vtv1hd-beebTV.html"-->
-                                        <a href="javascript:load('vtv1hd');togTab()"
-                                            data-type="5" 
-                                            data-c="vtv1hd" 
-                                            name="VTV1 HD">
+                                        <a href="javascript:load('vtv1hd', true);togTab()" data-type="5" data-c="vtv1hd" name="VTV1 HD">
                                             <img src="/img/vtv1hd.jpg">
                                             <span>2. VTV1 HD</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtv2-vtv2-beebTV.html"-->
-                                        <a href="javascript:load('vtv2');togTab()"
-                                            data-type="8" 
-                                            data-c="vtv2" 
-                                            name="VTV2">
+                                        <a href="javascript:load('vtv2', true);togTab()" data-type="8" data-c="vtv2" name="VTV2">
                                             <img src="/img/vtv2.jpg">
                                             <span>3. VTV2</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtv3-vtv3-beebTV.html"-->
-                                        <a href="javascript:load('vtv3');togTab()"
-                                            data-type="6" 
-                                            data-c="vtv3" 
-                                            name="VTV3">
+                                        <a href="javascript:load('vtv3', true);togTab()" data-type="6" data-c="vtv3" name="VTV3">
                                             <img src="/img/vtv3.jpg">
                                             <span>4. VTV3</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtv3-hd-vtv3hd-beebTV.html"-->
-                                        <a href="javascript:load('vtv3hd');togTab()"
-                                            data-type="6" 
-                                            data-c="vtv3hd" 
-                                            name="VTV3 HD">
+                                        <a href="javascript:load('vtv3hd', true);togTab()" data-type="6" data-c="vtv3hd" name="VTV3 HD">
                                             <img src="/img/vtv3hd.jpg">
                                             <span>5. VTV3 HD</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtv4-vtv4-beebTV.html"-->
-                                        <a href="javascript:load('vtv4');togTab()"
-                                            data-type="6" 
-                                            data-c="vtv4" 
-                                            name="VTV4">
+                                        <a href="javascript:load('vtv4', true);togTab()" data-type="6" data-c="vtv4" name="VTV4">
                                             <img src="/img/vtv4.jpg">
                                             <span>6. VTV4</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtv5-vtv5-beebTV.html"-->
-                                        <a href="javascript:load('vtv5');togTab()"
-                                            data-type="6" 
-                                            data-c="vtv5" 
-                                            name="VTV5">
+                                        <a href="javascript:load('vtv5', true);togTab()" data-type="6" data-c="vtv5" name="VTV5">
                                             <img src="/img/vtv5.jpg">
                                             <span>7. VTV5</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtv6-vtv6-beebTV.html"-->
-                                        <a href="javascript:load('vtv6');togTab()"
-                                            data-type="6" 
-                                            data-c="vtv6" 
-                                            name="VTV6">
+                                        <a href="javascript:load('vtv6', true);togTab()" data-type="6" data-c="vtv6" name="VTV6">
                                             <img src="/img/vtv6.jpg">
                                             <span>8. VTV6</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtv6-hd-vtv6hd-beebTV.html"-->
-                                        <a href="javascript:load('vtv6hd');togTab()"
-                                            data-type="6" 
-                                            data-c="vtv6hd" 
-                                            name="VTV6 HD">
+                                        <a href="javascript:load('vtv6hd', true);togTab()" data-type="6" data-c="vtv6hd" name="VTV6 HD">
                                             <img src="/img/vtv6hd.jpg">
                                             <span>9. VTV6 HD</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtv7-vtv7-beebTV.html"-->
-                                        <a href="javascript:load('vtv7');togTab()"
-                                            data-type="6" 
-                                            data-c="vtv7" 
-                                            name="VTV7">
+                                        <a href="javascript:load('vtv7', true);togTab()" data-type="6" data-c="vtv7" name="VTV7">
                                             <img src="/img/vtv7.jpg">
                                             <span>10. VTV7</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtv8-vtv8-beebTV.html"-->
-                                        <a href="javascript:load('vtv8');togTab()"
-                                            data-type="6" 
-                                            data-c="vtv8" 
-                                            name="VTV8">
+                                        <a href="javascript:load('vtv8', true);togTab()" data-type="6" data-c="vtv8" name="VTV8">
                                             <img src="/img/vtv8.jpg">
                                             <span>11. VTV8</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtv9-vtv9-beebTV.html"-->
-                                        <a href="javascript:load('vtv9');togTab()"
-                                            data-type="6" 
-                                            data-c="vtv9" 
-                                            name="VTV9">
+                                        <a href="javascript:load('vtv9', true);togTab()" data-type="6" data-c="vtv9" name="VTV9">
                                             <img src="/img/vtv9.jpg">
                                             <span>12. VTV9</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-htv-the-thao-htvthethao-beebTV.html"-->
-                                        <a href="javascript:load('htvthethao');togTab()"
-                                            data-type="4" 
-                                            data-c="htvthethao" 
-                                            name="HTV Thể Thao">
-                                            <img src="/img/htvthethao.jpg">
-                                            <span>13. HTV Thể Thao</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-math-futbol-1-matchfootball1-beebTV.html"-->
+                                        <a href="javascript:load('matchfootball1', true);togTab()" data-type="4" data-c="matchfootball1" name="МАТЧ! Футбол 1">
+                                            <img src="/img/matchfootball1.jpg">
+                                            <span>13. МАТЧ! Футбол 1</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc3-vtc3-beebTV.html"-->
-                                        <a href="javascript:load('vtc3');togTab()"
-                                            data-type="4" 
-                                            data-c="vtc3" 
-                                            name="VTC3">
-                                            <img src="/img/vtc3.jpg">
-                                            <span>14. VTC3</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-eurosport-1-eurosport1-beebTV.html"-->
+                                        <a href="javascript:load('eurosport1', true);togTab()" data-type="4" data-c="eurosport1" name="Eurosport 1">
+                                            <img src="/img/eurosport1.jpg">
+                                            <span>14. Eurosport 1</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc3-hd-vtc3hd-beebTV.html"-->
-                                        <a href="javascript:load('vtc3hd');togTab()"
-                                            data-type="4" 
-                                            data-c="vtc3hd" 
-                                            name="VTC3 HD">
-                                            <img src="/img/vtc3hd.jpg">
-                                            <span>15. VTC3 HD</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-eurosport-2-eurosport2-beebTV.html"-->
+                                        <a href="javascript:load('eurosport2', true);togTab()" data-type="4" data-c="eurosport2" name="Eurosport 2">
+                                            <img src="/img/eurosport2.jpg">
+                                            <span>15. Eurosport 2</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-btv10-ncm-ncm-beebTV.html"-->
-                                        <a href="javascript:load('ncm');togTab()"
-                                            data-type="4" 
-                                            data-c="ncm" 
-                                            name="BTV10 - NCM">
-                                            <img src="/img/ncm.jpg">
-                                            <span>16. BTV10 - NCM</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-super-sport-1-supersport1-beebTV.html"-->
+                                        <a href="javascript:load('supersport1', true);togTab()" data-type="4" data-c="supersport1" name="Super Sport 1">
+                                            <img src="/img/supersport1.jpg">
+                                            <span>16. Super Sport 1</span>
                                         </a>
-                    
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-super-sport-2-supersport2-beebTV.html"-->
+                                        <a href="javascript:load('supersport2', true);togTab()" data-type="4" data-c="supersport2" name="Super Sport 2">
+                                            <img src="/img/supersport2.jpg">
+                                            <span>17. Super Sport 2</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-super-sport-3-supersport3-beebTV.html"-->
+                                        <a href="javascript:load('supersport3', true);togTab()" data-type="4" data-c="supersport3" name="Super Sport 3">
+                                            <img src="/img/supersport3.jpg">
+                                            <span>18. Super Sport 3</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-super-sport-4-supersport4-beebTV.html"-->
+                                        <a href="javascript:load('supersport4', true);togTab()" data-type="4" data-c="supersport4" name="Super Sport 4">
+                                            <img src="/img/supersport4.jpg">
+                                            <span>19. Super Sport 4</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-arena-sport-2-arenasport2-beebTV.html"-->
+                                        <a href="javascript:load('arenasport2', true);togTab()" data-type="4" data-c="arenasport2" name="Arena Sport 2">
+                                            <img src="/img/arenasport2.jpg">
+                                            <span>20. Arena Sport 2</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-arena-sport-3-arenasport3-beebTV.html"-->
+                                        <a href="javascript:load('arenasport3', true);togTab()" data-type="4" data-c="arenasport3" name="Arena Sport 3">
+                                            <img src="/img/arenasport3.jpg">
+                                            <span>21. Arena Sport 3</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bein-sports-2-beinsports2-beebTV.html"-->
+                                        <a href="javascript:load('beinsports2', true);togTab()" data-type="4" data-c="beinsports2" name="beIN SPORTS 2">
+                                            <img src="/img/beinsports2.jpg">
+                                            <span>22. beIN SPORTS 2</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bein-sports-3-beinsports3-beebTV.html"-->
+                                        <a href="javascript:load('beinsports3', true);togTab()" data-type="4" data-c="beinsports3" name="beIN SPORTS 3">
+                                            <img src="/img/beinsports3.jpg">
+                                            <span>23. beIN SPORTS 3</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bein-sports-4-beinsports4-beebTV.html"-->
+                                        <a href="javascript:load('beinsports4', true);togTab()" data-type="4" data-c="beinsports4" name="beIN SPORTS 4">
+                                            <img src="/img/beinsports4.jpg">
+                                            <span>24. beIN SPORTS 4</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bein-sports-5-beinsports5-beebTV.html"-->
+                                        <a href="javascript:load('beinsports5', true);togTab()" data-type="4" data-c="beinsports5" name="beIN SPORTS 5">
+                                            <img src="/img/beinsports5.jpg">
+                                            <span>25. beIN SPORTS 5</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bein-sports-6-beinsports6-beebTV.html"-->
+                                        <a href="javascript:load('beinsports6', true);togTab()" data-type="4" data-c="beinsports6" name="beIN SPORTS 6">
+                                            <img src="/img/beinsports6.jpg">
+                                            <span>26. beIN SPORTS 6</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bein-sports-7-beinsports7-beebTV.html"-->
+                                        <a href="javascript:load('beinsports7', true);togTab()" data-type="4" data-c="beinsports7" name="beIN SPORTS 7">
+                                            <img src="/img/beinsports7.jpg">
+                                            <span>27. beIN SPORTS 7</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bein-sports-8-beinsports8-beebTV.html"-->
+                                        <a href="javascript:load('beinsports8', true);togTab()" data-type="4" data-c="beinsports8" name="beIN SPORTS 8">
+                                            <img src="/img/beinsports8.jpg">
+                                            <span>28. beIN SPORTS 8</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bein-sports-9-beinsports9-beebTV.html"-->
+                                        <a href="javascript:load('beinsports9', true);togTab()" data-type="4" data-c="beinsports9" name="beIN SPORTS 9">
+                                            <img src="/img/beinsports9.jpg">
+                                            <span>29. beIN SPORTS 9</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bein-sports-10-beinsports10-beebTV.html"-->
+                                        <a href="javascript:load('beinsports10', true);togTab()" data-type="4" data-c="beinsports10" name="beIN SPORTS 10">
+                                            <img src="/img/beinsports10.jpg">
+                                            <span>30. beIN SPORTS 10</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bt-sport-1-btsport1-beebTV.html"-->
+                                        <a href="javascript:load('btsport1', true);togTab()" data-type="4" data-c="btsport1" name="BT Sport 1">
+                                            <img src="/img/btsport1.jpg">
+                                            <span>31. BT Sport 1</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bt-sport-2-btsport2-beebTV.html"-->
+                                        <a href="javascript:load('btsport2', true);togTab()" data-type="4" data-c="btsport2" name="BT Sport 2">
+                                            <img src="/img/btsport2.jpg">
+                                            <span>32. BT Sport 2</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bt-sport-3-btsport3-beebTV.html"-->
+                                        <a href="javascript:load('btsport3', true);togTab()" data-type="4" data-c="btsport3" name="BT Sport 3">
+                                            <img src="/img/btsport3.jpg">
+                                            <span>33. BT Sport 3</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bt-sport-espn-btsportespn-beebTV.html"-->
+                                        <a href="javascript:load('btsportespn', true);togTab()" data-type="4" data-c="btsportespn" name="BT Sport - ESPN">
+                                            <img src="/img/btsportespn.jpg">
+                                            <span>34. BT Sport - ESPN</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-golf-channel-golfchannel-beebTV.html"-->
+                                        <a href="javascript:load('golfchannel', true);togTab()" data-type="4" data-c="golfchannel" name="Golf Channel">
+                                            <img src="/img/golfchannel.jpg">
+                                            <span>35. Golf Channel</span>
+                                        </a>
+
                                         <!--<a href="http://tv.beeb.vn/livetv-mtv-vietnam-mtv-beebTV.html"-->
-                                        <a href="javascript:load('mtv');togTab()"
-                                            data-type="3" 
-                                            data-c="mtv" 
-                                            name="MTV Vietnam">
+                                        <a href="javascript:load('mtv', true);togTab()" data-type="3" data-c="mtv" name="MTV Vietnam">
                                             <img src="/img/mtv.jpg">
-                                            <span>17. MTV Vietnam</span>
+                                            <span>36. MTV Vietnam</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc13-itv-itv-beebTV.html"-->
-                                        <a href="javascript:load('itv');togTab()"
-                                            data-type="3" 
-                                            data-c="itv" 
-                                            name="VTC13 - ITV">
-                                            <img src="/img/itv.jpg">
-                                            <span>18. VTC13 - ITV</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-mtv-music-mtvmusic-beebTV.html"-->
+                                        <a href="javascript:load('mtvmusic', true);togTab()" data-type="3" data-c="mtvmusic" name="MTV Music">
+                                            <img src="/img/mtvmusic.jpg">
+                                            <span>37. MTV Music</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-htvc-ca-nhac-canhac-beebTV.html"-->
-                                        <a href="javascript:load('canhac');togTab()"
-                                            data-type="3" 
-                                            data-c="canhac" 
-                                            name="HTVC Ca Nhạc">
-                                            <img src="/img/canhac.jpg">
-                                            <span>19. HTVC Ca Nhạc</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-mtv-live-hd-mtvlivehd-beebTV.html"-->
+                                        <a href="javascript:load('mtvlivehd', true);togTab()" data-type="3" data-c="mtvlivehd" name="MTV Live HD">
+                                            <img src="/img/mtvlivehd.jpg">
+                                            <span>38. MTV Live HD</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-n-live-nct-beebTV.html"-->
-                                        <a href="javascript:load('nct');togTab()"
-                                            data-type="3" 
-                                            data-c="nct" 
-                                            name="N+ Live">
+                                        <a href="javascript:load('nct', true);togTab()" data-type="3" data-c="nct" name="N+ Live">
                                             <img src="/img/nct.jpg">
-                                            <span>20. N+ Live</span>
+                                            <span>39. N+ Live</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-all-the-k-pop-allthekpop-beebTV.html"-->
-                                        <a href="javascript:load('allthekpop');togTab()"
-                                            data-type="3" 
-                                            data-c="allthekpop" 
-                                            name="ALL THE K-POP">
-                                            <img src="/img/allthekpop.jpg">
-                                            <span>21. ALL THE K-POP</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-cartoon-network-cartoon-beebTV.html"-->
+                                        <a href="javascript:load('cartoon', true);togTab()" data-type="2" data-c="cartoon" name="Cartoon Network">
+                                            <img src="/img/cartoon.jpg">
+                                            <span>40. Cartoon Network</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-htv3-htv3-beebTV.html"-->
-                                        <a href="javascript:load('htv3');togTab()"
-                                            data-type="2" 
-                                            data-c="htv3" 
-                                            name="HTV3">
-                                            <img src="/img/htv3.jpg">
-                                            <span>22. HTV3</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-disney-channel-disney-beebTV.html"-->
+                                        <a href="javascript:load('disney', true);togTab()" data-type="2" data-c="disney" name="Disney Channel">
+                                            <img src="/img/disney.jpg">
+                                            <span>41. Disney Channel</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-btv11-sam-hd-sam-beebTV.html"-->
-                                        <a href="javascript:load('sam');togTab()"
-                                            data-type="2" 
-                                            data-c="sam" 
-                                            name="BTV11 - SAM HD">
-                                            <img src="/img/sam.jpg">
-                                            <span>23. BTV11 - SAM HD</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-baby-tv-babytv-beebTV.html"-->
+                                        <a href="javascript:load('babytv', true);togTab()" data-type="2" data-c="babytv" name="Baby TV">
+                                            <img src="/img/babytv.jpg">
+                                            <span>42. Baby TV</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc11-kids-tv-kidstv-beebTV.html"-->
-                                        <a href="javascript:load('kidstv');togTab()"
-                                            data-type="2" 
-                                            data-c="kidstv" 
-                                            name="VTC11 - Kids TV">
-                                            <img src="/img/kidstv.jpg">
-                                            <span>24. VTC11 - Kids TV</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-animax-animax-beebTV.html"-->
+                                        <a href="javascript:load('animax', true);togTab()" data-type="2" data-c="animax" name="Animax">
+                                            <img src="/img/animax.jpg">
+                                            <span>43. Animax</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-sbs-plus-sbsplus-beebTV.html"-->
-                                        <a href="javascript:load('sbsplus');togTab()"
-                                            data-type="1" 
-                                            data-c="sbsplus" 
-                                            name="SBS Plus">
-                                            <img src="/img/sbsplus.jpg">
-                                            <span>25. SBS Plus</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-nick-jr-nickjr-beebTV.html"-->
+                                        <a href="javascript:load('nickjr', true);togTab()" data-type="2" data-c="nickjr" name="Nick Jr.">
+                                            <img src="/img/nickjr.jpg">
+                                            <span>44. Nick Jr.</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-kbs-drama-kbsdrama-beebTV.html"-->
-                                        <a href="javascript:load('kbsdrama');togTab()"
-                                            data-type="1" 
-                                            data-c="kbsdrama" 
-                                            name="KBS Drama">
-                                            <img src="/img/kbsdrama.jpg">
-                                            <span>26. KBS Drama</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-hbo-hbo-beebTV.html"-->
+                                        <a href="javascript:load('hbo', true);togTab()" data-type="1" data-c="hbo" name="HBO">
+                                            <img src="/img/hbo.jpg">
+                                            <span>45. HBO</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-kbs2-kbs2-beebTV.html"-->
-                                        <a href="javascript:load('kbs2');togTab()"
-                                            data-type="1" 
-                                            data-c="kbs2" 
-                                            name="KBS2">
-                                            <img src="/img/kbs2.jpg">
-                                            <span>27. KBS2</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-star-movies-starmovies-beebTV.html"-->
+                                        <a href="javascript:load('starmovies', true);togTab()" data-type="1" data-c="starmovies" name="Star Movies">
+                                            <img src="/img/starmovies.jpg">
+                                            <span>46. Star Movies</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-htvc-phim-paramount-channel-vietnam-phim-beebTV.html"-->
-                                        <a href="javascript:load('phim');togTab()"
-                                            data-type="1" 
-                                            data-c="phim" 
-                                            name="HTVC Phim - Paramount Channel Vietnam">
-                                            <img src="/img/phim.jpg">
-                                            <span>28. HTVC Phim - Paramount Channel Vietnam</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-fox-family-movies-foxfamilymovies-beebTV.html"-->
+                                        <a href="javascript:load('foxfamilymovies', true);togTab()" data-type="1" data-c="foxfamilymovies" name="Fox Family Movies">
+                                            <img src="/img/foxfamilymovies.jpg">
+                                            <span>47. Fox Family Movies</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-htvc-thuan-viet-thuanviet-beebTV.html"-->
-                                        <a href="javascript:load('thuanviet');togTab()"
-                                            data-type="1" 
-                                            data-c="thuanviet" 
-                                            name="HTVC Thuần Việt">
-                                            <img src="/img/thuanviet.jpg">
-                                            <span>29. HTVC Thuần Việt</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-fox-movies-premium-foxmoviespremium-beebTV.html"-->
+                                        <a href="javascript:load('foxmoviespremium', true);togTab()" data-type="1" data-c="foxmoviespremium" name="Fox Movies Premium">
+                                            <img src="/img/foxmoviespremium.jpg">
+                                            <span>48. Fox Movies Premium</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-htv2-htv2-beebTV.html"-->
-                                        <a href="javascript:load('htv2');togTab()"
-                                            data-type="1" 
-                                            data-c="htv2" 
-                                            name="HTV2">
-                                            <img src="/img/htv2.jpg">
-                                            <span>30. HTV2</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-amc-amc-beebTV.html"-->
+                                        <a href="javascript:load('amc', true);togTab()" data-type="1" data-c="amc" name="AMC">
+                                            <img src="/img/amc.jpg">
+                                            <span>49. AMC</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-phim-hay-phimhay-beebTV.html"-->
-                                        <a href="javascript:load('phimhay');togTab()"
-                                            data-type="1" 
-                                            data-c="phimhay" 
-                                            name="Phim Hay">
-                                            <img src="/img/phimhay.jpg">
-                                            <span>31. Phim Hay</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-fox-sports-foxsports-beebTV.html"-->
+                                        <a href="javascript:load('foxsports', true);togTab()" data-type="4" data-c="foxsports" name="Fox Sports">
+                                            <img src="/img/foxsports.jpg">
+                                            <span>50. Fox Sports</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-btv4-imovie-imovie-beebTV.html"-->
-                                        <a href="javascript:load('imovie');togTab()"
-                                            data-type="1" 
-                                            data-c="imovie" 
-                                            name="BTV4 - iMovie">
-                                            <img src="/img/imovie.jpg">
-                                            <span>32. BTV4 - iMovie</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-fox-sports-2-foxsports2-beebTV.html"-->
+                                        <a href="javascript:load('foxsports2', true);togTab()" data-type="4" data-c="foxsports2" name="Fox Sports 2">
+                                            <img src="/img/foxsports2.jpg">
+                                            <span>51. Fox Sports 2</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-hanoicab4-mov-mov-beebTV.html"-->
-                                        <a href="javascript:load('mov');togTab()"
-                                            data-type="1" 
-                                            data-c="mov" 
-                                            name="HanoiCab4 - MOV">
-                                            <img src="/img/mov.jpg">
-                                            <span>33. HanoiCab4 - MOV</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-rt-documentary-rtdocumentary-beebTV.html"-->
-                                        <a href="javascript:load('rtdocumentary');togTab()"
-                                            data-type="8" 
-                                            data-c="rtdocumentary" 
-                                            name="RT Documentary">
-                                            <img src="/img/rtdocumentary.jpg">
-                                            <span>34. RT Documentary</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc12-vtc12-beebTV.html"-->
-                                        <a href="javascript:load('vtc12');togTab()"
-                                            data-type="8" 
-                                            data-c="vtc12" 
-                                            name="VTC12">
-                                            <img src="/img/vtc12.jpg">
-                                            <span>35. VTC12</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc2-vtc2-beebTV.html"-->
-                                        <a href="javascript:load('vtc2');togTab()"
-                                            data-type="6" 
-                                            data-c="vtc2" 
-                                            name="VTC2">
-                                            <img src="/img/vtc2.jpg">
-                                            <span>36. VTC2</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-outdoor-channel-outdoor-beebTV.html"-->
-                                        <a href="javascript:load('outdoor');togTab()"
-                                            data-type="8" 
-                                            data-c="outdoor" 
-                                            name="Outdoor Channel">
-                                            <img src="/img/outdoor.jpg">
-                                            <span>37. Outdoor Channel</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-htvc-du-lich-cuoc-song-htvcdulich-beebTV.html"-->
-                                        <a href="javascript:load('htvcdulich');togTab()"
-                                            data-type="8" 
-                                            data-c="htvcdulich" 
-                                            name="HTVC Du Lịch & Cuộc Sống">
-                                            <img src="/img/htvcdulich.jpg">
-                                            <span>38. HTVC Du Lịch & Cuộc Sống</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-kbs-world-kbsworld-beebTV.html"-->
-                                        <a href="javascript:load('kbsworld');togTab()"
-                                            data-type="6" 
-                                            data-c="kbsworld" 
-                                            name="KBS World">
-                                            <img src="/img/kbsworld.jpg">
-                                            <span>39. KBS World</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-tvn-tvn-beebTV.html"-->
-                                        <a href="javascript:load('tvn');togTab()"
-                                            data-type="6" 
-                                            data-c="tvn" 
-                                            name="tvN">
-                                            <img src="/img/tvn.jpg">
-                                            <span>40. tvN</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc5-tvblue-vtc5-beebTV.html"-->
-                                        <a href="javascript:load('vtc5');togTab()"
-                                            data-type="6" 
-                                            data-c="vtc5" 
-                                            name="VTC5 - tvBlue">
-                                            <img src="/img/vtc5.jpg">
-                                            <span>41. VTC5 - tvBlue</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-btv6-2idol-viet-teen-vietteen-beebTV.html"-->
-                                        <a href="javascript:load('vietteen');togTab()"
-                                            data-type="6" 
-                                            data-c="vietteen" 
-                                            name="BTV6 2idol - Việt Teen">
-                                            <img src="/img/vietteen.jpg">
-                                            <span>42. BTV6 2idol - Việt Teen</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-hanoicab1-hitv-hitv-beebTV.html"-->
-                                        <a href="javascript:load('hitv');togTab()"
-                                            data-type="6" 
-                                            data-c="hitv" 
-                                            name="HanoiCab1 - HiTV">
-                                            <img src="/img/hitv.jpg">
-                                            <span>43. HanoiCab1 - HiTV</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-fashion-tv-fashion-beebTV.html"-->
-                                        <a href="javascript:load('fashion');togTab()"
-                                            data-type="6" 
-                                            data-c="fashion" 
-                                            name="Fashion TV">
-                                            <img src="/img/fashion.jpg">
-                                            <span>44. Fashion TV</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-deutsche-welle-dw-beebTV.html"-->
-                                        <a href="javascript:load('dw');togTab()"
-                                            data-type="6" 
-                                            data-c="dw" 
-                                            name="Deutsche Welle">
-                                            <img src="/img/dw.jpg">
-                                            <span>45. Deutsche Welle</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-channel-one-russia-channel1-beebTV.html"-->
-                                        <a href="javascript:load('channel1');togTab()"
-                                            data-type="6" 
-                                            data-c="channel1" 
-                                            name="Channel One Russia">
-                                            <img src="/img/channel1.jpg">
-                                            <span>46. Channel One Russia</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc4-yeah1-family-yeah1family-beebTV.html"-->
-                                        <a href="javascript:load('yeah1family');togTab()"
-                                            data-type="6" 
-                                            data-c="yeah1family" 
-                                            name="VTC4 - Yeah1 Family">
-                                            <img src="/img/yeah1family.jpg">
-                                            <span>47. VTC4 - Yeah1 Family</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-thvl1-vinh-long-1-thvl1-beebTV.html"-->
-                                        <a href="javascript:load('thvl1');togTab()"
-                                            data-type="6" 
-                                            data-c="thvl1" 
-                                            name="THVL1 - Vĩnh Long 1">
-                                            <img src="/img/thvl1.jpg">
-                                            <span>48. THVL1 - Vĩnh Long 1</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-thvl2-vinh-long-2-thvl2-beebTV.html"-->
-                                        <a href="javascript:load('thvl2');togTab()"
-                                            data-type="6" 
-                                            data-c="thvl2" 
-                                            name="THVL2 - Vĩnh Long 2">
-                                            <img src="/img/thvl2.jpg">
-                                            <span>49. THVL2 - Vĩnh Long 2</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc7-today-tv-today-beebTV.html"-->
-                                        <a href="javascript:load('today');togTab()"
-                                            data-type="6" 
-                                            data-c="today" 
-                                            name="VTC7 - Today TV">
-                                            <img src="/img/today.jpg">
-                                            <span>50. VTC7 - Today TV</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc9-lets-viet-letsviet-beebTV.html"-->
-                                        <a href="javascript:load('letsviet');togTab()"
-                                            data-type="6" 
-                                            data-c="letsviet" 
-                                            name="VTC9 - Let's Viet">
-                                            <img src="/img/letsviet.jpg">
-                                            <span>51. VTC9 - Let's Viet</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-htv7-htv7-beebTV.html"-->
-                                        <a href="javascript:load('htv7');togTab()"
-                                            data-type="6" 
-                                            data-c="htv7" 
-                                            name="HTV7">
-                                            <img src="/img/htv7.jpg">
-                                            <span>52. HTV7</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-hanoicab2-you-tv-youtv-beebTV.html"-->
-                                        <a href="javascript:load('youtv');togTab()"
-                                            data-type="6" 
-                                            data-c="youtv" 
-                                            name="HanoiCab2 - You TV">
-                                            <img src="/img/youtv.jpg">
-                                            <span>53. HanoiCab2 - You TV</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-htvc-phu-nu-phunu-beebTV.html"-->
-                                        <a href="javascript:load('phunu');togTab()"
-                                            data-type="6" 
-                                            data-c="phunu" 
-                                            name="HTVC Phụ Nữ">
-                                            <img src="/img/phunu.jpg">
-                                            <span>54. HTVC Phụ Nữ</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-qpvn-qpvn-beebTV.html"-->
-                                        <a href="javascript:load('qpvn');togTab()"
-                                            data-type="6" 
-                                            data-c="qpvn" 
-                                            name="QPVN">
-                                            <img src="/img/qpvn.jpg">
-                                            <span>55. QPVN</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-qpvn-hd-qpvnhd-beebTV.html"-->
-                                        <a href="javascript:load('qpvnhd');togTab()"
-                                            data-type="6" 
-                                            data-c="qpvnhd" 
-                                            name="QPVN HD">
-                                            <img src="/img/qpvnhd.jpg">
-                                            <span>56. QPVN HD</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-antv-antv-beebTV.html"-->
-                                        <a href="javascript:load('antv');togTab()"
-                                            data-type="5" 
-                                            data-c="antv" 
-                                            name="ANTV">
-                                            <img src="/img/antv.jpg">
-                                            <span>57. ANTV</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-nhan-dan-nhandan-beebTV.html"-->
-                                        <a href="javascript:load('nhandan');togTab()"
-                                            data-type="6" 
-                                            data-c="nhandan" 
-                                            name="Nhân Dân">
-                                            <img src="/img/nhandan.jpg">
-                                            <span>58. Nhân Dân</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-quoc-hoi-hd-quochoi-beebTV.html"-->
-                                        <a href="javascript:load('quochoi');togTab()"
-                                            data-type="6" 
-                                            data-c="quochoi" 
-                                            name="Quốc Hội HD">
-                                            <img src="/img/quochoi.jpg">
-                                            <span>59. Quốc Hội HD</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-arirang-arirang-beebTV.html"-->
-                                        <a href="javascript:load('arirang');togTab()"
-                                            data-type="6" 
-                                            data-c="arirang" 
-                                            name="Arirang">
-                                            <img src="/img/arirang.jpg">
-                                            <span>60. Arirang</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-an-ninh-the-gioi-antg-beebTV.html"-->
-                                        <a href="javascript:load('antg');togTab()"
-                                            data-type="6" 
-                                            data-c="antg" 
-                                            name="An Ninh Thế Giới">
-                                            <img src="/img/antg.jpg">
-                                            <span>61. An Ninh Thế Giới</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vov-tv-vov-beebTV.html"-->
-                                        <a href="javascript:load('vov');togTab()"
-                                            data-type="6" 
-                                            data-c="vov" 
-                                            name="VOV TV">
-                                            <img src="/img/vov.jpg">
-                                            <span>62. VOV TV</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vitv-vitv-beebTV.html"-->
-                                        <a href="javascript:load('vitv');togTab()"
-                                            data-type="5" 
-                                            data-c="vitv" 
-                                            name="VITV">
-                                            <img src="/img/vitv.jpg">
-                                            <span>63. VITV</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-channel-news-asia-cna-beebTV.html"-->
-                                        <a href="javascript:load('cna');togTab()"
-                                            data-type="5" 
-                                            data-c="cna" 
-                                            name="Channel News Asia">
-                                            <img src="/img/cna.jpg">
-                                            <span>64. Channel News Asia</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-nhk-world-nhk-beebTV.html"-->
-                                        <a href="javascript:load('nhk');togTab()"
-                                            data-type="5" 
-                                            data-c="nhk" 
-                                            name="NHK World">
-                                            <img src="/img/nhk.jpg">
-                                            <span>65. NHK World</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-bloomberg-bloomberg-beebTV.html"-->
-                                        <a href="javascript:load('bloomberg');togTab()"
-                                            data-type="5" 
-                                            data-c="bloomberg" 
-                                            name="Bloomberg">
-                                            <img src="/img/bloomberg.jpg">
-                                            <span>66. Bloomberg</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-france-24-france24-beebTV.html"-->
-                                        <a href="javascript:load('france24');togTab()"
-                                            data-type="5" 
-                                            data-c="france24" 
-                                            name="France 24">
-                                            <img src="/img/france24.jpg">
-                                            <span>67. France 24</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc14-hd-vtc14hd-beebTV.html"-->
-                                        <a href="javascript:load('vtc14hd');togTab()"
-                                            data-type="6" 
-                                            data-c="vtc14hd" 
-                                            name="VTC14 HD">
-                                            <img src="/img/vtc14hd.jpg">
-                                            <span>68. VTC14 HD</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc14-vtc14-beebTV.html"-->
-                                        <a href="javascript:load('vtc14');togTab()"
-                                            data-type="6" 
-                                            data-c="vtc14" 
-                                            name="VTC14">
-                                            <img src="/img/vtc14.jpg">
-                                            <span>69. VTC14</span>
-                                        </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtc1-vtc1-beebTV.html"-->
-                                        <a href="javascript:load('vtc1');togTab()"
-                                            data-type="5" 
-                                            data-c="vtc1" 
-                                            name="VTC1">
+                                        <a href="javascript:load('vtc1', true);togTab()" data-type="5" data-c="vtc1" name="VTC1">
                                             <img src="/img/vtc1.jpg">
-                                            <span>70. VTC1</span>
+                                            <span>52. VTC1</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-htv1-htv1-beebTV.html"-->
-                                        <a href="javascript:load('htv1');togTab()"
-                                            data-type="5" 
-                                            data-c="htv1" 
-                                            name="HTV1">
-                                            <img src="/img/htv1.jpg">
-                                            <span>71. HTV1</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc2-vtc2-beebTV.html"-->
+                                        <a href="javascript:load('vtc2', true);togTab()" data-type="6" data-c="vtc2" name="VTC2">
+                                            <img src="/img/vtc2.jpg">
+                                            <span>53. VTC2</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-htv9-htv9-beebTV.html"-->
-                                        <a href="javascript:load('htv9');togTab()"
-                                            data-type="6" 
-                                            data-c="htv9" 
-                                            name="HTV9">
-                                            <img src="/img/htv9.jpg">
-                                            <span>72. HTV9</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc3-vtc3-beebTV.html"-->
+                                        <a href="javascript:load('vtc3', true);togTab()" data-type="4" data-c="vtc3" name="VTC3">
+                                            <img src="/img/vtc3.jpg">
+                                            <span>54. VTC3</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-ttxvn-ttxvn-beebTV.html"-->
-                                        <a href="javascript:load('ttxvn');togTab()"
-                                            data-type="5" 
-                                            data-c="ttxvn" 
-                                            name="TTXVN">
-                                            <img src="/img/ttxvn.jpg">
-                                            <span>73. TTXVN</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc4-yeah1-family-yeah1family-beebTV.html"-->
+                                        <a href="javascript:load('yeah1family', true);togTab()" data-type="6" data-c="yeah1family" name="VTC4 - Yeah1 Family">
+                                            <img src="/img/yeah1family.jpg">
+                                            <span>55. VTC4 - Yeah1 Family</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-vtc10-net-viet-netviet-beebTV.html"-->
-                                        <a href="javascript:load('netviet');togTab()"
-                                            data-type="6" 
-                                            data-c="netviet" 
-                                            name="VTC10 - Nét Việt">
-                                            <img src="/img/netviet.jpg">
-                                            <span>74. VTC10 - Nét Việt</span>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc5-tvblue-vtc5-beebTV.html"-->
+                                        <a href="javascript:load('vtc5', true);togTab()" data-type="6" data-c="vtc5" name="VTC5 - tvBlue">
+                                            <img src="/img/vtc5.jpg">
+                                            <span>56. VTC5 - tvBlue</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtc6-vtc6-beebTV.html"-->
-                                        <a href="javascript:load('vtc6');togTab()"
-                                            data-type="6" 
-                                            data-c="vtc6" 
-                                            name="VTC6">
+                                        <a href="javascript:load('vtc6', true);togTab()" data-type="6" data-c="vtc6" name="VTC6">
                                             <img src="/img/vtc6.jpg">
-                                            <span>75. VTC6</span>
+                                            <span>57. VTC6</span>
                                         </a>
-                    
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc7-today-tv-today-beebTV.html"-->
+                                        <a href="javascript:load('today', true);togTab()" data-type="6" data-c="today" name="VTC7 - Today TV">
+                                            <img src="/img/today.jpg">
+                                            <span>58. VTC7 - Today TV</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc9-lets-viet-letsviet-beebTV.html"-->
+                                        <a href="javascript:load('letsviet', true);togTab()" data-type="6" data-c="letsviet" name="VTC9 - Let's Viet">
+                                            <img src="/img/letsviet.jpg">
+                                            <span>59. VTC9 - Let's Viet</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc10-net-viet-netviet-beebTV.html"-->
+                                        <a href="javascript:load('netviet', true);togTab()" data-type="6" data-c="netviet" name="VTC10 - Nét Việt">
+                                            <img src="/img/netviet.jpg">
+                                            <span>60. VTC10 - Nét Việt</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc11-kids-tv-kidstv-beebTV.html"-->
+                                        <a href="javascript:load('kidstv', true);togTab()" data-type="2" data-c="kidstv" name="VTC11 - Kids TV">
+                                            <img src="/img/kidstv.jpg">
+                                            <span>61. VTC11 - Kids TV</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc12-vtc12-beebTV.html"-->
+                                        <a href="javascript:load('vtc12', true);togTab()" data-type="8" data-c="vtc12" name="VTC12">
+                                            <img src="/img/vtc12.jpg">
+                                            <span>62. VTC12</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc13-itv-itv-beebTV.html"-->
+                                        <a href="javascript:load('itv', true);togTab()" data-type="3" data-c="itv" name="VTC13 - ITV">
+                                            <img src="/img/itv.jpg">
+                                            <span>63. VTC13 - ITV</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc13-itv-hd-itvhd-beebTV.html"-->
+                                        <a href="javascript:load('itvhd', true);togTab()" data-type="3" data-c="itvhd" name="VTC13 - ITV HD">
+                                            <img src="/img/itvhd.jpg">
+                                            <span>64. VTC13 - ITV HD</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc14-vtc14-beebTV.html"-->
+                                        <a href="javascript:load('vtc14', true);togTab()" data-type="6" data-c="vtc14" name="VTC14">
+                                            <img src="/img/vtc14.jpg">
+                                            <span>65. VTC14</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vtc14-hd-vtc14hd-beebTV.html"-->
+                                        <a href="javascript:load('vtc14hd', true);togTab()" data-type="6" data-c="vtc14hd" name="VTC14 HD">
+                                            <img src="/img/vtc14hd.jpg">
+                                            <span>66. VTC14 HD</span>
+                                        </a>
+
                                         <!--<a href="http://tv.beeb.vn/livetv-vtc16-3ntv-3ntv-beebTV.html"-->
-                                        <a href="javascript:load('3ntv');togTab()"
-                                            data-type="6" 
-                                            data-c="3ntv" 
-                                            name="VTC16 - 3NTV">
+                                        <a href="javascript:load('3ntv', true);togTab()" data-type="6" data-c="3ntv" name="VTC16 - 3NTV">
                                             <img src="/img/3ntv.jpg">
-                                            <span>76. VTC16 - 3NTV</span>
+                                            <span>67. VTC16 - 3NTV</span>
                                         </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-ha-noi-1-hanoi1-beebTV.html"-->
-                                        <a href="javascript:load('hanoi1');togTab()"
-                                            data-type="6" 
-                                            data-c="hanoi1" 
-                                            name="Hà Nội 1">
-                                            <img src="/img/hanoi1.jpg">
-                                            <span>77. Hà Nội 1</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-ha-noi-2-hanoi2-beebTV.html"-->
-                                        <a href="javascript:load('hanoi2');togTab()"
-                                            data-type="6" 
-                                            data-c="hanoi2" 
-                                            name="Hà Nội 2">
-                                            <img src="/img/hanoi2.jpg">
-                                            <span>78. Hà Nội 2</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-bptv1-binh-phuoc-1-binhphuoc-beebTV.html"-->
-                                        <a href="javascript:load('binhphuoc');togTab()"
-                                            data-type="6" 
-                                            data-c="binhphuoc" 
-                                            name="BPTV1 - Bình Phước 1">
-                                            <img src="/img/binhphuoc.jpg">
-                                            <span>79. BPTV1 - Bình Phước 1</span>
-                                        </a>
-                    
-                                        <!--<a href="http://tv.beeb.vn/livetv-bptv2-home-tv-hometv-beebTV.html"-->
-                                        <a href="javascript:load('hometv');togTab()"
-                                            data-type="6" 
-                                            data-c="hometv" 
-                                            name="BPTV2 - Home TV">
-                                            <img src="/img/hometv.jpg">
-                                            <span>80. BPTV2 - Home TV</span>
-                                        </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-btv1-binh-duong-1-btv1-beebTV.html"-->
-                                        <a href="javascript:load('btv1');togTab()"
-                                            data-type="7" 
-                                            data-c="btv1" 
-                                            name="BTV1 - Bình Dương 1">
+                                        <a href="javascript:load('btv1', true);togTab()" data-type="7" data-c="btv1" name="BTV1 - Bình Dương 1">
                                             <img src="/img/btv1.jpg">
-                                            <span>81. BTV1 - Bình Dương 1</span>
+                                            <span>68. BTV1 - Bình Dương 1</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-btv2-binh-duong-2-btv2-beebTV.html"-->
-                                        <a href="javascript:load('btv2');togTab()"
-                                            data-type="7" 
-                                            data-c="btv2" 
-                                            name="BTV2 - Bình Dương 2">
+                                        <a href="javascript:load('btv2', true);togTab()" data-type="7" data-c="btv2" name="BTV2 - Bình Dương 2">
                                             <img src="/img/btv2.jpg">
-                                            <span>82. BTV2 - Bình Dương 2</span>
+                                            <span>69. BTV2 - Bình Dương 2</span>
                                         </a>
-                    
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-btv4-imovie-imovie-beebTV.html"-->
+                                        <a href="javascript:load('imovie', true);togTab()" data-type="1" data-c="imovie" name="BTV4 - iMovie">
+                                            <img src="/img/imovie.jpg">
+                                            <span>70. BTV4 - iMovie</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-btv6-2idol-viet-teen-vietteen-beebTV.html"-->
+                                        <a href="javascript:load('vietteen', true);togTab()" data-type="6" data-c="vietteen" name="BTV6 2idol - Việt Teen">
+                                            <img src="/img/vietteen.jpg">
+                                            <span>71. BTV6 2idol - Việt Teen</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-btv10-ncm-ncm-beebTV.html"-->
+                                        <a href="javascript:load('ncm', true);togTab()" data-type="4" data-c="ncm" name="BTV10 - NCM">
+                                            <img src="/img/ncm.jpg">
+                                            <span>72. BTV10 - NCM</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-btv11-sam-hd-sam-beebTV.html"-->
+                                        <a href="javascript:load('sam', true);togTab()" data-type="2" data-c="sam" name="BTV11 - SAM HD">
+                                            <img src="/img/sam.jpg">
+                                            <span>73. BTV11 - SAM HD</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-phim-hay-phimhay-beebTV.html"-->
+                                        <a href="javascript:load('phimhay', true);togTab()" data-type="1" data-c="phimhay" name="Phim Hay">
+                                            <img src="/img/phimhay.jpg">
+                                            <span>74. Phim Hay</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-an-ninh-the-gioi-antg-beebTV.html"-->
+                                        <a href="javascript:load('antg', true);togTab()" data-type="6" data-c="antg" name="An Ninh Thế Giới">
+                                            <img src="/img/antg.jpg">
+                                            <span>75. An Ninh Thế Giới</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-all-the-k-pop-allthekpop-beebTV.html"-->
+                                        <a href="javascript:load('allthekpop', true);togTab()" data-type="3" data-c="allthekpop" name="ALL THE K-POP">
+                                            <img src="/img/allthekpop.jpg">
+                                            <span>76. ALL THE K-POP</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-rt-documentary-rtdocumentary-beebTV.html"-->
+                                        <a href="javascript:load('rtdocumentary', true);togTab()" data-type="8" data-c="rtdocumentary" name="RT Documentary">
+                                            <img src="/img/rtdocumentary.jpg">
+                                            <span>77. RT Documentary</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-discovery-channel-discovery-beebTV.html"-->
+                                        <a href="javascript:load('discovery', true);togTab()" data-type="8" data-c="discovery" name="Discovery Channel">
+                                            <img src="/img/discovery.jpg">
+                                            <span>78. Discovery Channel</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-animal-planet-animalplanet-beebTV.html"-->
+                                        <a href="javascript:load('animalplanet', true);togTab()" data-type="8" data-c="animalplanet" name="Animal Planet">
+                                            <img src="/img/animalplanet.jpg">
+                                            <span>79. Animal Planet</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-davinci-learning-davincilearning-beebTV.html"-->
+                                        <a href="javascript:load('davincilearning', true);togTab()" data-type="8" data-c="davincilearning" name="Davinci Learning">
+                                            <img src="/img/davincilearning.jpg">
+                                            <span>80. Davinci Learning</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-outdoor-channel-outdoor-beebTV.html"-->
+                                        <a href="javascript:load('outdoor', true);togTab()" data-type="8" data-c="outdoor" name="Outdoor Channel">
+                                            <img src="/img/outdoor.jpg">
+                                            <span>81. Outdoor Channel</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-axn-axn-beebTV.html"-->
+                                        <a href="javascript:load('axn', true);togTab()" data-type="6" data-c="axn" name="AXN">
+                                            <img src="/img/axn.jpg">
+                                            <span>82. AXN</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-star-world-starworld-beebTV.html"-->
+                                        <a href="javascript:load('starworld', true);togTab()" data-type="6" data-c="starworld" name="Star World">
+                                            <img src="/img/starworld.jpg">
+                                            <span>83. Star World</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-asia-food-channel-afc-beebTV.html"-->
+                                        <a href="javascript:load('afc', true);togTab()" data-type="6" data-c="afc" name="Asia Food Channel">
+                                            <img src="/img/afc.jpg">
+                                            <span>84. Asia Food Channel</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-diva-diva-beebTV.html"-->
+                                        <a href="javascript:load('diva', true);togTab()" data-type="6" data-c="diva" name="DIVA">
+                                            <img src="/img/diva.jpg">
+                                            <span>85. DIVA</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-kbs1-kbs1-beebTV.html"-->
+                                        <a href="javascript:load('kbs1', true);togTab()" data-type="6" data-c="kbs1" name="KBS1">
+                                            <img src="/img/kbs1.jpg">
+                                            <span>86. KBS1</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-kbs2-kbs2-beebTV.html"-->
+                                        <a href="javascript:load('kbs2', true);togTab()" data-type="1" data-c="kbs2" name="KBS2">
+                                            <img src="/img/kbs2.jpg">
+                                            <span>87. KBS2</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-kbs-drama-kbsdrama-beebTV.html"-->
+                                        <a href="javascript:load('kbsdrama', true);togTab()" data-type="1" data-c="kbsdrama" name="KBS Drama">
+                                            <img src="/img/kbsdrama.jpg">
+                                            <span>88. KBS Drama</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-tvn-tvn-beebTV.html"-->
+                                        <a href="javascript:load('tvn', true);togTab()" data-type="6" data-c="tvn" name="tvN">
+                                            <img src="/img/tvn.jpg">
+                                            <span>89. tvN</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-sbs-sbs-beebTV.html"-->
+                                        <a href="javascript:load('sbs', true);togTab()" data-type="6" data-c="sbs" name="SBS">
+                                            <img src="/img/sbs.jpg">
+                                            <span>90. SBS</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-sbs-plus-sbsplus-beebTV.html"-->
+                                        <a href="javascript:load('sbsplus', true);togTab()" data-type="1" data-c="sbsplus" name="SBS Plus">
+                                            <img src="/img/sbsplus.jpg">
+                                            <span>91. SBS Plus</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-fashion-tv-fashion-beebTV.html"-->
+                                        <a href="javascript:load('fashion', true);togTab()" data-type="6" data-c="fashion" name="Fashion TV">
+                                            <img src="/img/fashion.jpg">
+                                            <span>92. Fashion TV</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-deutsche-welle-dw-beebTV.html"-->
+                                        <a href="javascript:load('dw', true);togTab()" data-type="6" data-c="dw" name="Deutsche Welle">
+                                            <img src="/img/dw.jpg">
+                                            <span>93. Deutsche Welle</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-channel-one-russia-channel1-beebTV.html"-->
+                                        <a href="javascript:load('channel1', true);togTab()" data-type="6" data-c="channel1" name="Channel One Russia">
+                                            <img src="/img/channel1.jpg">
+                                            <span>94. Channel One Russia</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-tv5monde-tv5monde-beebTV.html"-->
+                                        <a href="javascript:load('tv5monde', true);togTab()" data-type="6" data-c="tv5monde" name="TV5Monde">
+                                            <img src="/img/tv5monde.jpg">
+                                            <span>95. TV5Monde</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-thvl1-vinh-long-1-thvl1-beebTV.html"-->
+                                        <a href="javascript:load('thvl1', true);togTab()" data-type="6" data-c="thvl1" name="THVL1 - Vĩnh Long 1">
+                                            <img src="/img/thvl1.jpg">
+                                            <span>96. THVL1 - Vĩnh Long 1</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-thvl2-vinh-long-2-thvl2-beebTV.html"-->
+                                        <a href="javascript:load('thvl2', true);togTab()" data-type="6" data-c="thvl2" name="THVL2 - Vĩnh Long 2">
+                                            <img src="/img/thvl2.jpg">
+                                            <span>97. THVL2 - Vĩnh Long 2</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-htv1-htv1-beebTV.html"-->
+                                        <a href="javascript:load('htv1', true);togTab()" data-type="5" data-c="htv1" name="HTV1">
+                                            <img src="/img/htv1.jpg">
+                                            <span>98. HTV1</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-htv2-htv2-beebTV.html"-->
+                                        <a href="javascript:load('htv2', true);togTab()" data-type="1" data-c="htv2" name="HTV2">
+                                            <img src="/img/htv2.jpg">
+                                            <span>99. HTV2</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-htv3-htv3-beebTV.html"-->
+                                        <a href="javascript:load('htv3', true);togTab()" data-type="2" data-c="htv3" name="HTV3">
+                                            <img src="/img/htv3.jpg">
+                                            <span>100. HTV3</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-htv7-htv7-beebTV.html"-->
+                                        <a href="javascript:load('htv7', true);togTab()" data-type="6" data-c="htv7" name="HTV7">
+                                            <img src="/img/htv7.jpg">
+                                            <span>101. HTV7</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-htv9-htv9-beebTV.html"-->
+                                        <a href="javascript:load('htv9', true);togTab()" data-type="6" data-c="htv9" name="HTV9">
+                                            <img src="/img/htv9.jpg">
+                                            <span>102. HTV9</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-htv-the-thao-htvthethao-beebTV.html"-->
+                                        <a href="javascript:load('htvthethao', true);togTab()" data-type="4" data-c="htvthethao" name="HTV Thể Thao">
+                                            <img src="/img/htvthethao.jpg">
+                                            <span>103. HTV Thể Thao</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-htvc-thuan-viet-thuanviet-beebTV.html"-->
+                                        <a href="javascript:load('thuanviet', true);togTab()" data-type="1" data-c="thuanviet" name="HTVC Thuần Việt">
+                                            <img src="/img/thuanviet.jpg">
+                                            <span>104. HTVC Thuần Việt</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-htvc-ca-nhac-canhac-beebTV.html"-->
+                                        <a href="javascript:load('canhac', true);togTab()" data-type="3" data-c="canhac" name="HTVC Ca Nhạc">
+                                            <img src="/img/canhac.jpg">
+                                            <span>105. HTVC Ca Nhạc</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-htvc-phim-paramount-channel-vietnam-phim-beebTV.html"-->
+                                        <a href="javascript:load('phim', true);togTab()" data-type="1" data-c="phim" name="HTVC Phim - Paramount Channel Vietnam">
+                                            <img src="/img/phim.jpg">
+                                            <span>106. HTVC Phim - Paramount Channel Vietnam</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-htvc-phim-hd-paramount-channel-vietnam-phimhd-beebTV.html"-->
+                                        <a href="javascript:load('phimhd', true);togTab()" data-type="1" data-c="phimhd" name="HTVC Phim HD - Paramount Channel Vietnam">
+                                            <img src="/img/phimhd.jpg">
+                                            <span>107. HTVC Phim HD - Paramount Channel Vietnam</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-htvc-du-lich-cuoc-song-htvcdulich-beebTV.html"-->
+                                        <a href="javascript:load('htvcdulich', true);togTab()" data-type="8" data-c="htvcdulich" name="HTVC Du Lịch &amp; Cuộc Sống">
+                                            <img src="/img/htvcdulich.jpg">
+                                            <span>108. HTVC Du Lịch &amp; Cuộc Sống</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-htvc-phu-nu-phunu-beebTV.html"-->
+                                        <a href="javascript:load('phunu', true);togTab()" data-type="6" data-c="phunu" name="HTVC Phụ Nữ">
+                                            <img src="/img/phunu.jpg">
+                                            <span>109. HTVC Phụ Nữ</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-qpvn-qpvn-beebTV.html"-->
+                                        <a href="javascript:load('qpvn', true);togTab()" data-type="6" data-c="qpvn" name="QPVN">
+                                            <img src="/img/qpvn.jpg">
+                                            <span>110. QPVN</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-qpvn-hd-qpvnhd-beebTV.html"-->
+                                        <a href="javascript:load('qpvnhd', true);togTab()" data-type="6" data-c="qpvnhd" name="QPVN HD">
+                                            <img src="/img/qpvnhd.jpg">
+                                            <span>111. QPVN HD</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-antv-antv-beebTV.html"-->
+                                        <a href="javascript:load('antv', true);togTab()" data-type="5" data-c="antv" name="ANTV">
+                                            <img src="/img/antv.jpg">
+                                            <span>112. ANTV</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-nhan-dan-nhandan-beebTV.html"-->
+                                        <a href="javascript:load('nhandan', true);togTab()" data-type="6" data-c="nhandan" name="Nhân Dân">
+                                            <img src="/img/nhandan.jpg">
+                                            <span>113. Nhân Dân</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-quoc-hoi-hd-quochoi-beebTV.html"-->
+                                        <a href="javascript:load('quochoi', true);togTab()" data-type="6" data-c="quochoi" name="Quốc Hội HD">
+                                            <img src="/img/quochoi.jpg">
+                                            <span>114. Quốc Hội HD</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-arirang-arirang-beebTV.html"-->
+                                        <a href="javascript:load('arirang', true);togTab()" data-type="6" data-c="arirang" name="Arirang">
+                                            <img src="/img/arirang.jpg">
+                                            <span>115. Arirang</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vov-tv-vov-beebTV.html"-->
+                                        <a href="javascript:load('vov', true);togTab()" data-type="6" data-c="vov" name="VOV TV">
+                                            <img src="/img/vov.jpg">
+                                            <span>116. VOV TV</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-vitv-vitv-beebTV.html"-->
+                                        <a href="javascript:load('vitv', true);togTab()" data-type="5" data-c="vitv" name="VITV">
+                                            <img src="/img/vitv.jpg">
+                                            <span>117. VITV</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-cnn-cnn-beebTV.html"-->
+                                        <a href="javascript:load('cnn', true);togTab()" data-type="5" data-c="cnn" name="CNN">
+                                            <img src="/img/cnn.jpg">
+                                            <span>118. CNN</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bbc-wold-news-bbcworldnews-beebTV.html"-->
+                                        <a href="javascript:load('bbcworldnews', true);togTab()" data-type="5" data-c="bbcworldnews" name="BBC Wold News">
+                                            <img src="/img/bbcworldnews.jpg">
+                                            <span>119. BBC Wold News</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-channel-news-asia-cna-beebTV.html"-->
+                                        <a href="javascript:load('cna', true);togTab()" data-type="5" data-c="cna" name="Channel News Asia">
+                                            <img src="/img/cna.jpg">
+                                            <span>120. Channel News Asia</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-nhk-world-nhk-beebTV.html"-->
+                                        <a href="javascript:load('nhk', true);togTab()" data-type="5" data-c="nhk" name="NHK World">
+                                            <img src="/img/nhk.jpg">
+                                            <span>121. NHK World</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bloomberg-bloomberg-beebTV.html"-->
+                                        <a href="javascript:load('bloomberg', true);togTab()" data-type="5" data-c="bloomberg" name="Bloomberg">
+                                            <img src="/img/bloomberg.jpg">
+                                            <span>122. Bloomberg</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-france-24-france24-beebTV.html"-->
+                                        <a href="javascript:load('france24', true);togTab()" data-type="5" data-c="france24" name="France 24">
+                                            <img src="/img/france24.jpg">
+                                            <span>123. France 24</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-fbnc-fbnc-beebTV.html"-->
+                                        <a href="javascript:load('fbnc', true);togTab()" data-type="5" data-c="fbnc" name="FBNC">
+                                            <img src="/img/fbnc.jpg">
+                                            <span>124. FBNC</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-ttxvn-ttxvn-beebTV.html"-->
+                                        <a href="javascript:load('ttxvn', true);togTab()" data-type="5" data-c="ttxvn" name="TTXVN">
+                                            <img src="/img/ttxvn.jpg">
+                                            <span>125. TTXVN</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-ttxvn-hd-ttxvnhd-beebTV.html"-->
+                                        <a href="javascript:load('ttxvnhd', true);togTab()" data-type="5" data-c="ttxvnhd" name="TTXVN HD">
+                                            <img src="/img/ttxvnhd.jpg">
+                                            <span>126. TTXVN HD</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-ha-noi-1-hanoi1-beebTV.html"-->
+                                        <a href="javascript:load('hanoi1', true);togTab()" data-type="6" data-c="hanoi1" name="Hà Nội 1">
+                                            <img src="/img/hanoi1.jpg">
+                                            <span>127. Hà Nội 1</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-ha-noi-2-hanoi2-beebTV.html"-->
+                                        <a href="javascript:load('hanoi2', true);togTab()" data-type="6" data-c="hanoi2" name="Hà Nội 2">
+                                            <img src="/img/hanoi2.jpg">
+                                            <span>128. Hà Nội 2</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-hanoicab1-hitv-hitv-beebTV.html"-->
+                                        <a href="javascript:load('hitv', true);togTab()" data-type="6" data-c="hitv" name="HanoiCab1 - HiTV">
+                                            <img src="/img/hitv.jpg">
+                                            <span>129. HanoiCab1 - HiTV</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-hanoicab2-you-tv-youtv-beebTV.html"-->
+                                        <a href="javascript:load('youtv', true);togTab()" data-type="6" data-c="youtv" name="HanoiCab2 - You TV">
+                                            <img src="/img/youtv.jpg">
+                                            <span>130. HanoiCab2 - You TV</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-hanoicab4-mov-mov-beebTV.html"-->
+                                        <a href="javascript:load('mov', true);togTab()" data-type="1" data-c="mov" name="HanoiCab4 - MOV">
+                                            <img src="/img/mov.jpg">
+                                            <span>131. HanoiCab4 - MOV</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bptv1-binh-phuoc-1-binhphuoc-beebTV.html"-->
+                                        <a href="javascript:load('binhphuoc', true);togTab()" data-type="6" data-c="binhphuoc" name="BPTV1 - Bình Phước 1">
+                                            <img src="/img/binhphuoc.jpg">
+                                            <span>132. BPTV1 - Bình Phước 1</span>
+                                        </a>
+
+                                        <!--<a href="http://tv.beeb.vn/livetv-bptv2-home-tv-hometv-beebTV.html"-->
+                                        <a href="javascript:load('hometv', true);togTab()" data-type="6" data-c="hometv" name="BPTV2 - Home TV">
+                                            <img src="/img/hometv.jpg">
+                                            <span>133. BPTV2 - Home TV</span>
+                                        </a>
+
                                         <!--<a href="http://tv.beeb.vn/livetv-bac-giang-bacgiang-beebTV.html"-->
-                                        <a href="javascript:load('bacgiang');togTab()"
-                                            data-type="7" 
-                                            data-c="bacgiang" 
-                                            name="Bắc Giang">
+                                        <a href="javascript:load('bacgiang', true);togTab()" data-type="7" data-c="bacgiang" name="Bắc Giang">
                                             <img src="/img/bacgiang.jpg">
-                                            <span>83. Bắc Giang</span>
+                                            <span>134. Bắc Giang</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-long-an-la34-beebTV.html"-->
-                                        <a href="javascript:load('la34');togTab()"
-                                            data-type="7" 
-                                            data-c="la34" 
-                                            name="Long An">
+                                        <a href="javascript:load('la34', true);togTab()" data-type="7" data-c="la34" name="Long An">
                                             <img src="/img/la34.jpg">
-                                            <span>84. Long An</span>
+                                            <span>135. Long An</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-thdt2-mien-tay-mientay-beebTV.html"-->
-                                        <a href="javascript:load('mientay');togTab()"
-                                            data-type="7" 
-                                            data-c="mientay" 
-                                            name="THDT2 - Miền Tây">
+                                        <a href="javascript:load('mientay', true);togTab()" data-type="7" data-c="mientay" name="THDT2 - Miền Tây">
                                             <img src="/img/mientay.jpg">
-                                            <span>85. THDT2 - Miền Tây</span>
+                                            <span>136. THDT2 - Miền Tây</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-ha-nam-hanam-beebTV.html"-->
-                                        <a href="javascript:load('hanam');togTab()"
-                                            data-type="7" 
-                                            data-c="hanam" 
-                                            name="Hà Nam">
+                                        <a href="javascript:load('hanam', true);togTab()" data-type="7" data-c="hanam" name="Hà Nam">
                                             <img src="/img/hanam.jpg">
-                                            <span>86. Hà Nam</span>
+                                            <span>137. Hà Nam</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-hai-phong-thp-beebTV.html"-->
-                                        <a href="javascript:load('thp');togTab()"
-                                            data-type="7" 
-                                            data-c="thp" 
-                                            name="Hải Phòng">
+                                        <a href="javascript:load('thp', true);togTab()" data-type="7" data-c="thp" name="Hải Phòng">
                                             <img src="/img/thp.jpg">
-                                            <span>87. Hải Phòng</span>
+                                            <span>138. Hải Phòng</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-dong-nai-1-dn1-beebTV.html"-->
-                                        <a href="javascript:load('dn1');togTab()"
-                                            data-type="7" 
-                                            data-c="dn1" 
-                                            name="Đồng Nai 1">
+                                        <a href="javascript:load('dn1', true);togTab()" data-type="7" data-c="dn1" name="Đồng Nai 1">
                                             <img src="/img/dn1.jpg">
-                                            <span>88. Đồng Nai 1</span>
+                                            <span>139. Đồng Nai 1</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-dong-nai-2-dn2-beebTV.html"-->
-                                        <a href="javascript:load('dn2');togTab()"
-                                            data-type="7" 
-                                            data-c="dn2" 
-                                            name="Đồng Nai 2">
+                                        <a href="javascript:load('dn2', true);togTab()" data-type="7" data-c="dn2" name="Đồng Nai 2">
                                             <img src="/img/dn2.jpg">
-                                            <span>89. Đồng Nai 2</span>
+                                            <span>140. Đồng Nai 2</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-da-nang-1-drt1-beebTV.html"-->
-                                        <a href="javascript:load('drt1');togTab()"
-                                            data-type="7" 
-                                            data-c="drt1" 
-                                            name="Đà Nẵng 1">
+                                        <a href="javascript:load('drt1', true);togTab()" data-type="7" data-c="drt1" name="Đà Nẵng 1">
                                             <img src="/img/drt1.jpg">
-                                            <span>90. Đà Nẵng 1</span>
+                                            <span>141. Đà Nẵng 1</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-da-nang-2-drt2-beebTV.html"-->
-                                        <a href="javascript:load('drt2');togTab()"
-                                            data-type="7" 
-                                            data-c="drt2" 
-                                            name="Đà Nẵng 2">
+                                        <a href="javascript:load('drt2', true);togTab()" data-type="7" data-c="drt2" name="Đà Nẵng 2">
                                             <img src="/img/drt2.jpg">
-                                            <span>91. Đà Nẵng 2</span>
+                                            <span>142. Đà Nẵng 2</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-khanh-hoa-ktv-beebTV.html"-->
-                                        <a href="javascript:load('ktv');togTab()"
-                                            data-type="7" 
-                                            data-c="ktv" 
-                                            name="Khánh Hòa">
+                                        <a href="javascript:load('ktv', true);togTab()" data-type="7" data-c="ktv" name="Khánh Hòa">
                                             <img src="/img/ktv.jpg">
-                                            <span>92. Khánh Hòa</span>
+                                            <span>143. Khánh Hòa</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-lam-dong-ltv-beebTV.html"-->
-                                        <a href="javascript:load('ltv');togTab()"
-                                            data-type="7" 
-                                            data-c="ltv" 
-                                            name="Lâm Đồng">
+                                        <a href="javascript:load('ltv', true);togTab()" data-type="7" data-c="ltv" name="Lâm Đồng">
                                             <img src="/img/ltv.jpg">
-                                            <span>93. Lâm Đồng</span>
+                                            <span>144. Lâm Đồng</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-ninh-binh-ninhbinh-beebTV.html"-->
-                                        <a href="javascript:load('ninhbinh');togTab()"
-                                            data-type="7" 
-                                            data-c="ninhbinh" 
-                                            name="Ninh Bình">
+                                        <a href="javascript:load('ninhbinh', true);togTab()" data-type="7" data-c="ninhbinh" name="Ninh Bình">
                                             <img src="/img/ninhbinh.jpg">
-                                            <span>94. Ninh Bình</span>
+                                            <span>145. Ninh Bình</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-ninh-thuan-ninhthuan-beebTV.html"-->
-                                        <a href="javascript:load('ninhthuan');togTab()"
-                                            data-type="7" 
-                                            data-c="ninhthuan" 
-                                            name="Ninh Thuận">
+                                        <a href="javascript:load('ninhthuan', true);togTab()" data-type="7" data-c="ninhthuan" name="Ninh Thuận">
                                             <img src="/img/ninhthuan.jpg">
-                                            <span>95. Ninh Thuận</span>
+                                            <span>146. Ninh Thuận</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-nghe-an-nghean-beebTV.html"-->
-                                        <a href="javascript:load('nghean');togTab()"
-                                            data-type="7" 
-                                            data-c="nghean" 
-                                            name="Nghệ An">
+                                        <a href="javascript:load('nghean', true);togTab()" data-type="7" data-c="nghean" name="Nghệ An">
                                             <img src="/img/nghean.jpg">
-                                            <span>96. Nghệ An</span>
+                                            <span>147. Nghệ An</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-quang-ninh-1-qtv1-beebTV.html"-->
-                                        <a href="javascript:load('qtv1');togTab()"
-                                            data-type="7" 
-                                            data-c="qtv1" 
-                                            name="Quảng Ninh 1">
+                                        <a href="javascript:load('qtv1', true);togTab()" data-type="7" data-c="qtv1" name="Quảng Ninh 1">
                                             <img src="/img/qtv1.jpg">
-                                            <span>97. Quảng Ninh 1</span>
+                                            <span>148. Quảng Ninh 1</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-thai-nguyen-1-thainguyen1-beebTV.html"-->
-                                        <a href="javascript:load('thainguyen1');togTab()"
-                                            data-type="7" 
-                                            data-c="thainguyen1" 
-                                            name="Thái Nguyên 1">
+                                        <a href="javascript:load('thainguyen1', true);togTab()" data-type="7" data-c="thainguyen1" name="Thái Nguyên 1">
                                             <img src="/img/thainguyen1.jpg">
-                                            <span>98. Thái Nguyên 1</span>
+                                            <span>149. Thái Nguyên 1</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-lang-son-ls-beebTV.html"-->
-                                        <a href="javascript:load('ls');togTab()"
-                                            data-type="7" 
-                                            data-c="ls" 
-                                            name="Lạng Sơn">
+                                        <a href="javascript:load('ls', true);togTab()" data-type="7" data-c="ls" name="Lạng Sơn">
                                             <img src="/img/ls.jpg">
-                                            <span>99. Lạng Sơn</span>
+                                            <span>150. Lạng Sơn</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-an-giang-atv-beebTV.html"-->
-                                        <a href="javascript:load('atv');togTab()"
-                                            data-type="7" 
-                                            data-c="atv" 
-                                            name="An Giang">
+                                        <a href="javascript:load('atv', true);togTab()" data-type="7" data-c="atv" name="An Giang">
                                             <img src="/img/atv.jpg">
-                                            <span>100. An Giang</span>
+                                            <span>151. An Giang</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-gia-lai-gialai-beebTV.html"-->
-                                        <a href="javascript:load('gialai');togTab()"
-                                            data-type="7" 
-                                            data-c="gialai" 
-                                            name="Gia Lai">
+                                        <a href="javascript:load('gialai', true);togTab()" data-type="7" data-c="gialai" name="Gia Lai">
                                             <img src="/img/gialai.jpg">
-                                            <span>101. Gia Lai</span>
+                                            <span>152. Gia Lai</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-quang-nam-quangnam-beebTV.html"-->
-                                        <a href="javascript:load('quangnam');togTab()"
-                                            data-type="7" 
-                                            data-c="quangnam" 
-                                            name="Quảng Nam">
+                                        <a href="javascript:load('quangnam', true);togTab()" data-type="7" data-c="quangnam" name="Quảng Nam">
                                             <img src="/img/quangnam.jpg">
-                                            <span>102. Quảng Nam</span>
+                                            <span>153. Quảng Nam</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-tuyen-quang-tuyenquang-beebTV.html"-->
-                                        <a href="javascript:load('tuyenquang');togTab()"
-                                            data-type="6" 
-                                            data-c="tuyenquang" 
-                                            name="Tuyên Quang">
+                                        <a href="javascript:load('tuyenquang', true);togTab()" data-type="6" data-c="tuyenquang" name="Tuyên Quang">
                                             <img src="/img/tuyenquang.jpg">
-                                            <span>103. Tuyên Quang</span>
+                                            <span>154. Tuyên Quang</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-ha-tinh-hatinh-beebTV.html"-->
-                                        <a href="javascript:load('hatinh');togTab()"
-                                            data-type="7" 
-                                            data-c="hatinh" 
-                                            name="Hà Tĩnh">
+                                        <a href="javascript:load('hatinh', true);togTab()" data-type="7" data-c="hatinh" name="Hà Tĩnh">
                                             <img src="/img/hatinh.jpg">
-                                            <span>104. Hà Tĩnh</span>
+                                            <span>155. Hà Tĩnh</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-thai-binh-tv-thaibinh-beebTV.html"-->
-                                        <a href="javascript:load('thaibinh');togTab()"
-                                            data-type="7" 
-                                            data-c="thaibinh" 
-                                            name="Thái Bình TV">
+                                        <a href="javascript:load('thaibinh', true);togTab()" data-type="7" data-c="thaibinh" name="Thái Bình TV">
                                             <img src="/img/thaibinh.jpg">
-                                            <span>105. Thái Bình TV</span>
+                                            <span>156. Thái Bình TV</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-hau-giang-hgtv-beebTV.html"-->
-                                        <a href="javascript:load('hgtv');togTab()"
-                                            data-type="7" 
-                                            data-c="hgtv" 
-                                            name="Hậu Giang">
+                                        <a href="javascript:load('hgtv', true);togTab()" data-type="7" data-c="hgtv" name="Hậu Giang">
                                             <img src="/img/hgtv.jpg">
-                                            <span>106. Hậu Giang</span>
+                                            <span>157. Hậu Giang</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-phu-yen-phuyen-beebTV.html"-->
-                                        <a href="javascript:load('phuyen');togTab()"
-                                            data-type="7" 
-                                            data-c="phuyen" 
-                                            name="Phú Yên">
+                                        <a href="javascript:load('phuyen', true);togTab()" data-type="7" data-c="phuyen" name="Phú Yên">
                                             <img src="/img/phuyen.jpg">
-                                            <span>107. Phú Yên</span>
+                                            <span>158. Phú Yên</span>
                                         </a>
-                    
+
                                         <!--<a href="http://tv.beeb.vn/livetv-thanh-hoa-thanhhoa-beebTV.html"-->
-                                        <a href="javascript:load('thanhhoa');togTab()"
-                                            data-type="6" 
-                                            data-c="thanhhoa" 
-                                            name="Thanh Hóa">
+                                        <a href="javascript:load('thanhhoa', true);togTab()" data-type="6" data-c="thanhhoa" name="Thanh Hóa">
                                             <img src="/img/thanhhoa.jpg">
-                                            <span>108. Thanh Hóa</span>
+                                            <span>159. Thanh Hóa</span>
                                         </a>
                                     </ul>
             </div>
@@ -1246,19 +1229,19 @@ truc tiep ngoai hang anh
                     </select>
                 </td>
             </tr>
-        </table> 
+        </table>
     </div>
         <footer class="bottom slideUp" id="menu">
-        <div class="logo">
-                            <img src="/zfiles/img/logo.svg">
-                <small>tv.<b>beeb</b>.vn</small>
-                    </div>
+        <!--<div class="logo">-->
+            <!--<img src="/zfiles/img/logo.svg">-->
+        <!--<small>tv.<b>beeb</b>.vn</small>-->
+        <!--</div>-->
         <div class="right">
             <ul class="ticker menu">
-                                                    <li><a class="focusable" href="javascript:togTab()">List TV</a></li>
-                  <li><a class="focusable" href="https://beeb.vn">Home</a></li>
-                  <li><a class="focusable" href="https://www.facebook.com/beeb.vn/" target="_blank">Fanpage</a></li>
-                                              </ul>
+                  <li><a class="focusable" href="javascript:togTab()">List TV</a></li>
+                  <!--<li><a class="focusable" href="https://beeb.vn">Home</a></li>-->
+                  <!--<li><a class="focusable" href="https://www.facebook.com/beeb.vn/" target="_blank">Fanpage</a></li>-->
+            </ul>
         </div>
     </footer>
 
@@ -1267,9 +1250,9 @@ truc tiep ngoai hang anh
         <div class="right">
             <ul id="ticker_01" class="ticker">
               <li>SmartTV: Dùng phím → ← ↑ ↓ để điều hướng</li>
-              <li>Copyright © 2017 - Feedback: feedback.beeb@gmail.com</li>
-              <li>Một sản phẩm của <b>BEEB</b><sup><font style="font-size: 1vmin">TM</font></sup></li>
-              <li>Đang chờ cấp giấy phép</li>
+              <li>Copyright © 2017 - Feedback: recreate_yourself@yahoo.com</li>
+              <li>Một sản phẩm của <b>BEE</b><sup><font style="font-size: 1vmin">PLAY</font></sup></li>
+              <li>Chúc bạn có những phút giây vui vẻ!</li>
             </ul>
         </div>
     </footer>
@@ -1301,7 +1284,7 @@ truc tiep ngoai hang anh
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 
-        
+
         var fbc = 0;
         function togFB(){
             if(fbc == 0)
@@ -1327,7 +1310,7 @@ truc tiep ngoai hang anh
             //$("#donate").hide();
         }
 
-        
+
     </script>
         <div class="checkViewPort">
         <h1>Your browser is not support ViewPort(CSS3). Please use one in these browser bellow:
@@ -1339,14 +1322,14 @@ truc tiep ngoai hang anh
         <h2>Google Chrome 31+ | Firefox 31+ | IE 9+ | Safari 7+ | IOS Safari 7.1+ | Opera 25+ | Safari 7+ | Android 4.4+ | Chrome for Android 38+</h2>
     </div>
     <script type="text/javascript">
-        
+
         function checkHe(){
             alert(screen.height+" - "+window.innerHeight);
         }
-        
+
         var _0x3e24=["\x23\x77\x65\x6C\x63\x6F\x6D\x65","\x6C\x65\x6E\x67\x74\x68","\x42\x65\x65\x50\x6C\x61\x79","\x73\x70\x6C\x69\x74","\x74\x65\x78\x74","\x42\u1EA1\x6E\x20\u0111\x61\x6E\x67\x20\x78\x65\x6D\x20\x42\x65\x65\x62\x56\x4E\x20\x74\x72\xEA\x6E\x20\x31\x20\u1EE9\x6E\x67\x20\x64\u1EE5\x6E\x67\x20\x6C\u1EAD\x75\x20\x28\x42\x65\x65\x50\x4C\x41\x59\x29\x21\x20\x56\x75\x69\x20\x6C\xF2\x6E\x67\x20\x74\x72\x75\x79\x20\x63\u1EAD\x70\x20\x68\x74\x74\x70\x3A\x2F\x2F\x74\x76\x2E\x62\x65\x65\x62\x2E\x76\x6E\x20\u0111\u1EC3\x20\x74\u1EA3\x69\x20\x76\u1EC1\x20\x76\xE0\x20\x63\xE0\x69\x20\u0111\u1EB7\x74\x20\x66\x69\x6C\x65\x20\x41\x50\x4B\x20\x63\x68\xED\x6E\x68\x20\x63\x68\u1EE7\x21","\x54\u1EA3\x69\x20\x42\x65\x65\x62\x56\x4E\x20\x74\u1EA1\x69\x20\x68\x74\x74\x70\x3A\x2F\x2F\x74\x76\x2E\x62\x65\x65\x62\x2E\x76\x6E\x0A\x53\x61\x75\x20\u0111\xE2\x79\x20\x6C\xE0\x20\x6B\xEA\x6E\x68\x20\x53\x69\x75\x20\x4E\x68\u01A1\x6E","\x68\x72\x65\x66","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x77\x61\x74\x63\x68\x3F\x76\x3D\x6D\x79\x52\x2D\x42\x2D\x53\x67\x34\x6E\x63"];setInterval(function(){if(!$(_0x3e24[0])|| $(_0x3e24[0])[_0x3e24[4]]()[_0x3e24[3]](_0x3e24[2])[_0x3e24[1]]> 1){alert(_0x3e24[5]);alert(_0x3e24[6]);location[_0x3e24[7]]= _0x3e24[8]}},1000);
 
-        
+
                     function closeApp(){
                         if(checkTogTab == 0)
                             window.BEEB.closeApp();
