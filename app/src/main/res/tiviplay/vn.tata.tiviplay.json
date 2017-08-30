@@ -22,10 +22,10 @@
     "types" : {
       "banner" : 2,
       "popup" : {
-        "changenet" : 0,
+        "changenet" : 2,
         "click" : 2,
         "closeapp" : 2,
-        "lockscreen" : 0,
+        "lockscreen" : 2,
         "splash" : true,
         "openapp" : 0
       }
