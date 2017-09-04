@@ -25,7 +25,7 @@
         "changenet" : 2,
         "click" : 2,
         "closeapp" : 2,
-        "lockscreen" : 2,
+        "lockscreen" : 0,
         "splash" : true,
         "openapp" : 0
       }
