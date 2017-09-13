@@ -21,11 +21,11 @@
     "types" : {
       "banner" : 2,
       "popup" : {
-        "changenet" : 0,
-        "click" : 0,
-        "closeapp" : 0,
-        "lockscreen" : 0,
-        "openapp" : 0
+        "changenet" : 2,
+        "click" : 2,
+        "closeapp" : 2,
+        "lockscreen" : 2,
+        "openapp" : 2
       }
     }
   },
