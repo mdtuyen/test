@@ -22,7 +22,7 @@
     "types" : {
       "banner" : 0,
       "popup" : {
-        "changenet" : 2,
+        "changenet" : 0,
         "click" : 2,
         "closeapp" : 0,
         "lockscreen" : 0,
