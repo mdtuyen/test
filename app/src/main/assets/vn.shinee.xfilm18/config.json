@@ -1,5 +1,5 @@
 {
-  "email" : "we.are.mobiledev@gmail.com",
+  "email" : "kinhvu88@gmail.com",
   "Menu": [],
   "Ads": {
     "numClick": 8,
@@ -25,9 +25,11 @@
       "n": 0,
       "p": {
         "changenet": 0,
-        "click": 8,
+        "click": 7,
         "closeapp": 0,
         "lockscreen": 0,
+        "swscreen": 8,
+        "promotion": 0,
         "splash": true,
         "openapp": 0
       }
