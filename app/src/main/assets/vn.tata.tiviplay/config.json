@@ -109,6 +109,8 @@
         "click": 8,
         "closeapp": 0,
         "lockscreen": 0,
+        "swscreen": 0,
+        "promotion": 0,
         "splash": true,
         "openapp": 0
       }
