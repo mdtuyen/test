@@ -1,23 +1,23 @@
 {
   "email" : "kinhvu88@gmail.com",
-  "Menu": [
-    {
-      "header": "Others",
-      "img": "https://pbs.twimg.com/profile_images/489650673638588416/qe9EQQ70_400x400.jpeg",
-      "items": [
-        {
-          "id": "0",
-          "title": "Sex Guide",
-          "img": "https://yt3.ggpht.com/-2yYewwG1-fs/AAAAAAAAAAI/AAAAAAAAAAA/oLPMDpbkg1I/s100-c-k-no-mo-rj-c0xffffff/photo.jpg"
-        },
-        {
-          "id": "1",
-          "title": "Hot Film",
-          "img": "https://yt3.ggpht.com/-bR_nQqJQnWs/AAAAAAAAAAI/AAAAAAAAAAA/lKHB_DPfUeM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg"
-        }
-      ]
-    }
-  ],
+//  "Menu": [
+//    {
+//      "header": "Others",
+//      "img": "https://pbs.twimg.com/profile_images/489650673638588416/qe9EQQ70_400x400.jpeg",
+//      "items": [
+//        {
+//          "id": "0",
+//          "title": "Sex Guide",
+//          "img": "https://yt3.ggpht.com/-2yYewwG1-fs/AAAAAAAAAAI/AAAAAAAAAAA/oLPMDpbkg1I/s100-c-k-no-mo-rj-c0xffffff/photo.jpg"
+//        },
+//        {
+//          "id": "1",
+//          "title": "Hot Film",
+//          "img": "https://yt3.ggpht.com/-bR_nQqJQnWs/AAAAAAAAAAI/AAAAAAAAAAA/lKHB_DPfUeM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg"
+//        }
+//      ]
+//    }
+//  ],
   "Ads": {
     "numClick": 8,
     "delay": 5,
