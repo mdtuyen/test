@@ -19,7 +19,7 @@
 //    }
 //  ],
   "Ads": {
-    "numClick": 8,
+    "numClick": 3,
     "delay": 5,
     "ids": {
       "admob": {

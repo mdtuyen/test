@@ -83,7 +83,7 @@
     }
   ],
   "Ads": {
-    "numClick": 8,
+    "numClick": 6,
     "delay": 5,
     "ids": {
       "admob": {
@@ -111,7 +111,7 @@
         "lockscreen": 0,
         "swscreen": 8,
         "promotion": 0,
-        "splash": true,
+        "splash": false,
         "openapp": 0
       }
     }
