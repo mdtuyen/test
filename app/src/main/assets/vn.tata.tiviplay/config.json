@@ -42,7 +42,12 @@
     {
       "header": "ỨNG DỤNG MỚI",
       "items": [
-
+        {
+          "img": "https://lh3.googleusercontent.com/B96XtDKcdVfE1Gi1SHeF4gRNTThwmep8Aagra7Zq1diKEsOsJ6mjbGsK6EbeWkVMKN74=w300-rw",
+          "title": "FiK - Ứng dụng tìm xe",
+          "des": "Ứng dụng cho phép lưu lại vị trí xe bạn gửi cũng như chỉ đường đến nơi bạn để xe, hay đến các gara, bãi đỗ xe gần nhất",
+          "id": "com.mobiledev.findcar"
+        },
         {
           "img": "https://lh3.googleusercontent.com/BLr6NupgVmdjuuexzfwVG-Z4ASvJXCmCLRPxgn5wW0CxiFy0jytWcW1YR0dAU-w_HHQ=w300-rw",
           "title": "Vạn Đề 2017",
