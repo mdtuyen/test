@@ -18,6 +18,19 @@
 //      ]
 //    }
 //  ],
+  "Menu": [
+    {
+      "header": "GOOD APP",
+      "items": [
+        {
+          "img": "https://lh3.googleusercontent.com/B96XtDKcdVfE1Gi1SHeF4gRNTThwmep8Aagra7Zq1diKEsOsJ6mjbGsK6EbeWkVMKN74=w300-rw",
+          "title": "FiK - Find My Car",
+          "des": "It allows you to save the location of your car as well as directions to where you park your car, or to the nearest garage.",
+          "id": "com.mobiledev.findcar"
+        }
+      ]
+    }
+  ],
   "Ads": {
     "numClick": 3,
     "delay": 5,
