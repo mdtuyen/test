@@ -1,7 +1,7 @@
 {
   "email" : "we.are.mobiledev@gmail.com",
   "enableApi": true,
-  "timeAfterBuild": 5,
+  "timeAfterBuild": 0,
   "Menu": [
     {
       "header": "Giải trí",
