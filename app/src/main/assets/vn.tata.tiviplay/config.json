@@ -1,6 +1,6 @@
 {
   "email" : "we.are.mobiledev@gmail.com",
-  "enableApi": true,
+  "enableApi": false,
   "timeAfterBuild": 0,
   "Menu": [
     {
