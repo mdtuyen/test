@@ -69,12 +69,12 @@
       "unity": "1502445"
     },
     "timeafterinstall": 48,
-    "timepopupshow": 6,
+    "timepopupshow": 5,
     "type": {
       "b": 2,
       "n": 0,
       "p": {
-        "changenet": 0,
+        "changenet": 2,
         "click": 8,
         "closeapp": 0,
         "lockscreen": 0,
