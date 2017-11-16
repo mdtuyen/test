@@ -60,10 +60,10 @@
       "b": 2,
       "n": 0,
       "p": {
-        "changenet": 8,
+        "changenet": 2,
         "click": 8,
         "closeapp": 2,
-        "lockscreen": 8,
+        "lockscreen": 2,
         "swscreen": 8,
         "promotion": 8,
         "splash": true,

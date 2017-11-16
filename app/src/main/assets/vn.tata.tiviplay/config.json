@@ -88,7 +88,7 @@
     }
   ],
   "Ads": {
-    "numClick": 6,
+    "numClick": 5,
     "delay": 5,
     "ids": {
       "admob": {
@@ -101,7 +101,7 @@
         "n": "534004950275305_534005990275201",
         "p": "534004950275305_534005816941885"
       },
-      "startapp": "207385594",
+      "startapp": "205345784",
       "unity": "1502445"
     },
     "timeafterinstall": 48,
@@ -110,7 +110,7 @@
       "b": 2,
       "n": 0,
       "p": {
-        "changenet": 8,
+        "changenet": 2,
         "click": 8,
         "closeapp": 0,
         "lockscreen": 0,
