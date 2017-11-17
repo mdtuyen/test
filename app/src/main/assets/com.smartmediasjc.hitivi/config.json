@@ -1,16 +1,16 @@
 {
   "email" : "we.are.mobiledev@gmail.com",
   "enableApi": true,
-  "timeAfterBuild": 0,
+  "timeAfterBuild": 1,
   "Menu": [
     {
       "header": "ỨNG DỤNG MỚI",
       "items": [
         {
-          "img": "https://lh3.googleusercontent.com/B96XtDKcdVfE1Gi1SHeF4gRNTThwmep8Aagra7Zq1diKEsOsJ6mjbGsK6EbeWkVMKN74=w300-rw",
-          "title": "FiK - Ứng dụng tìm xe",
-          "des": "Ứng dụng cho phép lưu lại vị trí xe bạn gửi cũng như chỉ đường đến nơi bạn để xe, hay đến các gara, bãi đỗ xe gần nhất",
-          "id": "com.mobiledev.findcar"
+          "img": "https://lh3.googleusercontent.com/WPK03yrcnMMU9JTf1KHy6w26IeG8bXxnbQucnxlvQ4ELOIl7Jf5uUGlyPkNIb4L3eOc=w300-rw",
+          "title": "Hoi troll 2018: game thách đố cực đỉnh",
+          "des": "Nhiều phần thưởng hấp dẫn qua mỗi màn chơi và ghi nhận cho bạn nào vượt qua 5800 câu hỏi của trò chơi để trở thành thánh troll.",
+          "id": "com.smartmediasjc.hoitroll"
         },
         {
           "img": "https://lh3.googleusercontent.com/BLr6NupgVmdjuuexzfwVG-Z4ASvJXCmCLRPxgn5wW0CxiFy0jytWcW1YR0dAU-w_HHQ=w300-rw",
@@ -74,13 +74,13 @@
       "b": 2,
       "n": 0,
       "p": {
-        "changenet": 8,
-        "click": 8,
+        "changenet": 0,
+        "click": 2,
         "closeapp": 0,
         "lockscreen": 0,
-        "swscreen": 8,
+        "swscreen": 0,
         "promotion": 0,
-        "splash": false,
+        "splash": true,
         "openapp": 0
       }
     }
