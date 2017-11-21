@@ -1,7 +1,7 @@
 {
-  "email" : "we.are.mobiledev@gmail.com",
+  "email" : "funny.mobiledev@gmail.com",
   "enableApi": true,
-  "timeAfterBuild": 0,
+  "timeAfterBuild": 10,
   "Menu": [
     {
       "header": "ỨNG DỤNG MỚI",
