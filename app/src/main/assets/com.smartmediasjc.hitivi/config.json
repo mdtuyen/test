@@ -50,7 +50,7 @@
     }
   },
   "Update": {
-    "code": 15,
+    "code": 1,
     "force": false,
     "link": "https://github.com/mdtuyen/test/blob/dev/app/src/main/assets/vn.tata.tiviplay/v1.apk?raw=true"
   },
