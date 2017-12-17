@@ -52,8 +52,8 @@
     }
   ],
   "Ads": {
-    "numClick": 8,
-    "delay": 5,
+    "numClick": 4,
+    "delay": 2,
     "ids": {
       "admob": {
         "b": "ca-app-pub-3310732296129502/5664251878",

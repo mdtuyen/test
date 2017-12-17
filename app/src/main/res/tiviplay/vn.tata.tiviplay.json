@@ -1,6 +1,6 @@
 {
   "Ads" : {
-    "delay" : 5,
+    "delay" : 2,
     "forcepopup" : true,
     "ids" : {
       "admob" : {
@@ -16,7 +16,7 @@
       "startapp" : "206621146",
       "unity" : "1502445"
     },
-    "numClick" : 8,
+    "numClick" : 4,
     "timeafterinstall" : 48,
     "timepopupshow" : 6,
     "types" : {
