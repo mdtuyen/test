@@ -107,12 +107,12 @@
         "splash": false,
         "openapp": 0
       }
-    },
-    "replace": {
-      "b": 3,
-      "n": 0,
-      "p": 3
     }
+  },
+  "replace": {
+    "b": 3,
+    "n": 0,
+    "p": 3
   },
   "Update": {
     "code": 1,
