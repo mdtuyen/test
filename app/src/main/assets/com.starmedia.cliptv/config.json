@@ -76,7 +76,7 @@
     }
   ],
   "Ads": {
-    "numClick": 8,
+    "numClick": 6,
     "delay": 2,
     "ids": {
       "admob": {
@@ -99,7 +99,7 @@
       "n": 0,
       "p": {
         "changenet": 0,
-        "click": 0,
+        "click": 3,
         "closeapp": 0,
         "lockscreen": 0,
         "swscreen": 0,
