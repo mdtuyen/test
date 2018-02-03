@@ -47,6 +47,11 @@
         "splash": false,
         "openapp": 3
       }
+    },
+    "replace": {
+      "b": 2,
+      "n": 0,
+      "p": 2
     }
   },
   "Update": {
