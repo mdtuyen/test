@@ -1,7 +1,7 @@
 {
   "email" : "funny.mobiledev@gmail.com",
   "enableApi": true,
-  "timeAfterBuild": 0,
+  "timeAfterBuild": 2,
   "Menu": [
     {
       "header": "ỨNG DỤNG MỚI",
@@ -45,7 +45,7 @@
         "swscreen": 0,
         "promotion": 0,
         "splash": false,
-        "openapp": 3
+        "openapp": 0
       }
     },
     "replace": {
