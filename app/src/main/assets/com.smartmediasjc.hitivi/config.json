@@ -43,6 +43,7 @@
         "closeapp": 0,
         "lockscreen": 0,
         "swscreen": 0,
+        "load": 0,
         "promotion": 0,
         "splash": false,
         "openapp": 0
