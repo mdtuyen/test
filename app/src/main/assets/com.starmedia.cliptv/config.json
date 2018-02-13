@@ -1,7 +1,7 @@
 {
   "email": "cliptvplus@gmail.com",
   "enableApi": true,
-  "timeAfterBuild": 0,
+  "timeAfterBuild": 2,
   "Menu": [
     {
       "header": "Giải trí",
