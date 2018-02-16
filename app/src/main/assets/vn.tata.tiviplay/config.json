@@ -110,9 +110,9 @@
       "b": 2,
       "n": 0,
       "p": {
-        "changenet": 8,
+        "changenet": 2,
         "click": 8,
-        "closeapp": 8,
+        "closeapp": 0,
         "lockscreen": 0,
         "swscreen": 8,
         "promotion": 0,
