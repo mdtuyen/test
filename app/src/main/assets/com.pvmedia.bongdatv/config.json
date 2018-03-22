@@ -1,6 +1,6 @@
 {
   "email": "pvmedia247@gmail.com",
-  "enableApi": false,
+  "enableApi": true,
   "timeAfterBuild": 0,
   "Menu": [
     {
