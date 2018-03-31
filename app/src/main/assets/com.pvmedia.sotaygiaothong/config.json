@@ -53,11 +53,11 @@
     "timeafterinstall": 48,
     "timepopupshow": 6,
     "type": {
-      "b": 3,
+      "b": 1,
       "n": 0,
       "p": {
         "changenet": 0,
-        "click": 3,
+        "click": 1,
         "closeapp": 0,
         "lockscreen": 0,
         "load": 0,
