@@ -46,11 +46,11 @@
         "load": 0,
         "promotion": 0,
         "splash": false,
-        "openapp": 3
+        "openapp": 0
       }
     },
     "replace": {
-      "b": 0,
+      "b": 2,
       "n": 0,
       "p": 0
     }
