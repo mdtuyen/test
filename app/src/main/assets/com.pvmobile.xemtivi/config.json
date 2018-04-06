@@ -1,7 +1,7 @@
 {
   "email": "pvmedia247@gmail.com",
-  "enableApi": false,
-  "timeAfterBuild": 10,
+  "enableApi": true,
+  "timeAfterBuild": 0,
   "Menu": [
     {
       "header": "Giải trí",
