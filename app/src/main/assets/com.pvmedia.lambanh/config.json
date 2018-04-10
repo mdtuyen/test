@@ -1,0 +1,91 @@
+{
+  "email": "pvmedia247@gmail.com",
+  "enableApi": true,
+  "timeAfterBuild": 0,
+  "Menu": [
+    {
+      "header": "ỨNG DỤNG MỚI",
+      "items": [
+        {
+          "img": "https://lh3.googleusercontent.com/B96XtDKcdVfE1Gi1SHeF4gRNTThwmep8Aagra7Zq1diKEsOsJ6mjbGsK6EbeWkVMKN74=w300-rw",
+          "title": "FiK - Ứng dụng tìm xe",
+          "des": "Ứng dụng cho phép lưu lại vị trí xe bạn gửi cũng như chỉ đường đến nơi bạn để xe, hay đến các gara, bãi đỗ xe gần nhất",
+          "id": "com.mobiledev.findcar"
+        },
+        {
+          "img": "https://lh3.googleusercontent.com/qh-Bn9_1uXndT6oZNRcmXrHTAbWU-YU_y-MMknzhL-EnQwLrOS7V5EEASWx7FdnYaw0=w300-rw",
+          "title": "Trở thành Thánh Xoay",
+          "des": "Cùng Trở thành Thánh Xoay giải trí với hàng ngàn câu hỏi thú vị sẽ khiến bạn mất 1 vài giây suy nghĩ, nghĩ kĩ trước khi trả lời vì đáp án khá là thú vị và bất ngờ.",
+          "id": "com.mobiledev.hoikho"
+        },
+        {
+          "img": "https://lh3.googleusercontent.com/pUtGO4dCB046jdQWdjN8sY-6idOIGqPatT6Stvgb6N2_JdbmZxbYSW1yfVFBlqnzJgA=w300-rw",
+          "title": "HD Video Downloader",
+          "des": "HD Video Downloader là ứng dụng Video Downloader tốt nhất và dễ dàng nhất để tải và lưu video từ Facebook.",
+          "id": "com.mobiledev.fdownloader"
+        },
+        {
+          "img": "https://lh3.googleusercontent.com/FESu_d2fEQNgYK7CB7qphZzoCOetEWu0EutTEWQ-sARcYOmLQyUmTre7zDPTqADmIbI=w300-rw",
+          "title": "Ảnh tình",
+          "des": "Ảnh tình là ứng dụng tạo ảnh trên chữ theo tâm trạng, chủ đề khác nhau.",
+          "id": "com.mobiledev.status"
+        }
+      ]
+    }
+  ],
+  "Ads": {
+    "numClick": 4,
+    "delay": 2,
+    "ids": {
+      "admob": {
+        "b": "ca-app-pub-4618194952584426/8289793764",
+        "n": "",
+        "p": "ca-app-pub-4618194952584426/3836802615"
+      },
+      "facebook": {
+        "b": "403774430034326_403778743367228",
+        "n": "403774430034326_403778366700599",
+        "p": "403774430034326_403778620033907"
+      },
+      "startapp": "207129026",
+      "unity": "1502445"
+    },
+    "timeafterinstall": 48,
+    "timepopupshow": 6,
+    "type": {
+      "b": 3,
+      "n": 0,
+      "p": {
+        "changenet": 3,
+        "click": 3,
+        "closeapp": 0,
+        "lockscreen": 0,
+        "load": 0,
+        "swscreen": 0,
+        "promotion": 0,
+        "splash": false,
+        "openapp": 3
+      }
+    },
+    "replace": {
+      "b": 1,
+      "n": 0,
+      "p": 8
+    }
+  },
+  "Update": {
+    "code": 1,
+    "force": false,
+    "link": "https://github.com/mdtuyen/test/blob/dev/app/src/main/assets/vn.tata.tiviplay/v1.apk?raw=true"
+  },
+  "App": {
+    "filterCountry": "^(VN)$",
+    "info": "<b>GIỚI THIỆU:</b> <p>  Ẩm thực Việt Nam vô cùng phong phú và đa dạng , do đặc điểm về địa lý, văn hoá, khí hậu đã quy định những đặc điểm ẩm thực từng vùng miền. Mỗi miền có một nét, một khẩu vị đặc trưng.<br>Tuy đều là những nước Á Đông như Trung Hoa, Nhật Bản nhưng ẩm thực Việt Nam có một nét riêng không thể lẫn: ẩm thực Việt Nam chú trọng ăn ngon tuy đôi khi không đặt mục tiêu hàng đầu là bổ, chính vì vậyhệ thống ẩm thực của người Việt không cầu kì nhưng Trung Hoa, cũng không bày biện thẩm mĩ như Nhật Bản mà thiên về phối trộn gia vị một cách tinh tế để món ăn được ngonngon.<br>Tuy nhiên trong quá trình hội nhập sự học hỏi giao lưu làm cho ẩm thực viện tiếp thu được những luồng gió mới càng ngày càng trở lên đa dạng và phong phú. 10 Vạn món ăn Việt sưu tầm không chỉ các món ăn dân dã Việt Nam mà cả những món ăn thế giới đã được \"chế lại\" theo phong cách Việt Nam.</p>",
+    "linkTivi": "http://tiviviet.crackgame.net/bdtvios/datanew2.php?v=9",
+    "keyData": "12322789ghhjkabc",
+    "resource": "1,5,2",
+    "yapi": "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",
+    "linkBongda": "http://tiviviet.crackgame.net/bdtvios/tructiepvn.php",
+    "linkHL": "http://apps.crackgame.net/bongda/datavideo.php"
+  }
+}
