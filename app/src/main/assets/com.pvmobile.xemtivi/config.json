@@ -46,7 +46,7 @@
     }
   ],
   "Ads": {
-    "numClick": 10,
+    "numClick": 8,
     "delay": 2,
     "ids": {
       "admob": {
