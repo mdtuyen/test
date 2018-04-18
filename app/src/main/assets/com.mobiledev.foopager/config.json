@@ -38,7 +38,7 @@
       "b": 3,
       "n": 0,
       "p": {
-        "changenet": 3,
+        "changenet": 0,
         "click": 3,
         "closeapp": 0,
         "lockscreen": 0,
@@ -46,7 +46,7 @@
         "load": 0,
         "promotion": 0,
         "splash": false,
-        "openapp": 0
+        "openapp": 3
       }
     },
     "replace": {
