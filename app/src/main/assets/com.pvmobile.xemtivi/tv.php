@@ -7,7 +7,7 @@
   "channels": [
     {
       "Name": "VTV1",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vtv1.720p.stream/playlist.m3u8?st=1jDhaCBKSwwIVYV6U9n2TQ&e=1523923208",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vtv1.720p.stream/playlist.m3u8?st=X-h12uXlvhv6hJdws28Kwg&e=1524434408",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -33,8 +33,71 @@
       "image": "http://img.htvonline.com.vn/livetv/16062014/vtv6_43081402902871.png"
     },
     {
+      "Name": "21:00 - Chelsea VS Southampton",
+      "url": "http://live.xoac.tv/hls/6e9b40d7b073aab6030a288824fb5687/5acccc211b75856fa66a9d8c/5acc2d270833136c16df244b/da8zm8v/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "url4": "",
+      "url5": "",
+      "image": "http://cdn.livetvcdn.net/img/teams/fullsize/153.gif"
+    },
+    {
+      "Name": "21:00 - Chelsea VS Southampton",
+      "url": "https://talk2.vcdn.vn/hls/6ad859c97f6df054ff71fd394be8f227/162eda78eff/wellbet.uv/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "url4": "",
+      "url5": "",
+      "image": "http://cdn.livetvcdn.net/img/teams/fullsize/153.gif"
+    },
+    {
+      "Name": "20:00 - Chievo VS Inter Milan",
+      "url": "http://cdn2.xoilac.tv/template_mitomtv/live3/chunklist.m3u8",
+      "url2": "",
+      "url3": "",
+      "url4": "",
+      "url5": "",
+      "image": "http://cdn.livetvcdn.net/img/teams/fullsize/4931.gif"
+    },
+    {
+      "Name": "19:30 - Stoke City VS Burnley",
+      "url": "http://cdn2.xoilac.tv/template_mitomtv/live1/chunklist.m3u8",
+      "url2": "",
+      "url3": "",
+      "url4": "",
+      "url5": "",
+      "image": "http://cdn.livetvcdn.net/img/teams/fullsize/668.gif"
+    },
+    {
+      "Name": "19:30 - Arsenal VS West Ham",
+      "url": "http://ay0a4cagij.vcdn.com.vn/hls/dd14fec26c3c36a1e5aed508e1952dfa/1524400479000/lhsazur/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "url4": "",
+      "url5": "",
+      "image": "http://cdn.livetvcdn.net/img/teams/fullsize/147.gif"
+    },
+    {
+      "Name": "19:30 - Arsenal VS West Ham",
+      "url": "http://live.xoac.tv/hls/980237ef4cf9c71369007d2000b9d7cf/5acccc211b75856fa66a9d8c/5ad2256329364f577c64cc71/lawvcpp/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "url4": "",
+      "url5": "",
+      "image": "http://cdn.livetvcdn.net/img/teams/fullsize/147.gif"
+    },
+    {
+      "Name": "19:30 - Arsenal VS West Ham",
+      "url": "http://cdn2.xoilac.tv/template_mitomtv/live2/chunklist.m3u8",
+      "url2": "",
+      "url3": "",
+      "url4": "",
+      "url5": "",
+      "image": "http://cdn.livetvcdn.net/img/teams/fullsize/147.gif"
+    },
+    {
       "Name": "VTC7",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/todaytv.480.stream/playlist.m3u8?st=qMBtNuxczQSjYos7FbNTxQ&e=1523923210",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/todaytv.480.stream/playlist.m3u8?st=I88n73VELaeXsi8iuN9Ntg&e=1524434410",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -42,17 +105,8 @@
       "image": "http://img.hplus.com.vn/355x200/poster/2016/07/15/177459-todaytv.png"
     },
     {
-      "Name": "VTVCab 3",
-      "url": "http://cdn.vtvcab.vn/hls/dvr/TTHD/01.m3u8",
-      "url2": "",
-      "url3": "",
-      "url4": "",
-      "url5": "",
-      "image": "https://lh3.googleusercontent.com/-PHGTiPEebnI/Waf3lbS5eZI/AAAAAAAADqM/-mFoQUguje8I4HFHqtH2J9S5K41FRy55ACEwYBhgL/w345-h259-p/icon_channel_the-thao-tv-hd_145578381574.png"
-    },
-    {
       "Name": "HTV7",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/htv7.480p.stream/playlist.m3u8?st=_hPqMN6DMWjuPoeTopm-8Q&e=1523923209",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/htv7.480p.stream/playlist.m3u8?st=j_oP-SQjG4RYdomPnvXrMQ&e=1524434409",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -61,7 +115,7 @@
     },
     {
       "Name": "Max HBO",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/maxbyhbo.fpt.720p.stream/playlist.m3u8?st=7dhJqy_Z0iYcdOG5u-ZmTw&e=1523923206",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/maxbyhbo.fpt.720p.stream/playlist.m3u8?st=Vi3e6_QL-cIOq0f_qgpNNA&e=1524434408",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -70,7 +124,7 @@
     },
     {
       "Name": "Red HBO",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/redhbo.fpt.720p.stream/playlist.m3u8?st=ZzNmRsNUtVlEbm7ZSeDElQ&e=1523923206",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/redhbo.fpt.720p.stream/playlist.m3u8?st=Ykc0gPy53MsPrpjPUyfmow&e=1524434408",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -79,7 +133,7 @@
     },
     {
       "Name": "HTV9",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/htv9.480p.stream/playlist.m3u8?st=T8l1ra1H2CtwaXqQw9NwvQ&e=1523923209",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/htv9.480p.stream/playlist.m3u8?st=5yhVE9FHUSXKNf97LHRM5w&e=1524434409",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -88,7 +142,7 @@
     },
     {
       "Name": "VTC3 HD",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vtc3.720p.stream/playlist.m3u8?st=p3UY8FEDKk4JIAoATFmh-g&e=1523923210",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vtc3.720p.stream/playlist.m3u8?st=pZ4lsE0A28vjelAUSqBTKg&e=1524434409",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -97,7 +151,7 @@
     },
     {
       "Name": "Star Movies",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/starmovies.FPT.720p.stream/playlist.m3u8?st=7tR8RGmMVb54vryQeMC4Ng&e=1523923210",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/starmovies.FPT.720p.stream/playlist.m3u8?st=ZIB93QYlTLhrdwn8HGgMqQ&e=1524434406",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -106,7 +160,7 @@
     },
     {
       "Name": "Cinemax",
-      "url": "http://mytv.tvmienphi.biz/mytv.php?id=cinemax&token=pt1_Ak89hBSsN9GrEnW9Vg&time=1523894405",
+      "url": "http://mytv.tvmienphi.biz/mytv.php?id=cinemax&token=4b_K91JwnzRU5CS1IhomAQ&time=1524405599",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -115,7 +169,7 @@
     },
     {
       "Name": "STAR World",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/starworld.FPT.720p.stream/playlist.m3u8?st=id50NWNizHf9hT-PR5YzKg&e=1523923210",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/starworld.FPT.720p.stream/playlist.m3u8?st=K95mwoLwcDiVd-CSwRoDKw&e=1524434406",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -124,7 +178,7 @@
     },
     {
       "Name": "Khoa Học",
-      "url": "http://mytv.tvmienphi.biz/mytv.php?id=davinci&token=pt1_Ak89hBSsN9GrEnW9Vg&time=1523894405",
+      "url": "http://mytv.tvmienphi.biz/mytv.php?id=davinci&token=4b_K91JwnzRU5CS1IhomAQ&time=1524405599",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -133,7 +187,7 @@
     },
     {
       "Name": "Phim Hay",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/phimhay.FPT.480p.stream/playlist.m3u8?st=VjSkLmdvaeDrV6Za2YKihw&e=1523924223",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/phimhay.FPT.480p.stream/playlist.m3u8?st=EN9E_-J30hbK7zUqdK4NHw&e=1524434409",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -142,7 +196,7 @@
     },
     {
       "Name": "HBO",
-      "url": "https://talk.vcdn.vn/hls/5decdc7058e62fb55de0f5e7486190e7/162cf329e01/thegioionline/index.m3u8",
+      "url": "https://talk.vcdn.vn/hls/7d7f9093e4b4546a518e19cf80a6b2bf/162eda5ca14/thegioionline/index.m3u8",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -151,7 +205,7 @@
     },
     {
       "Name": "Nấu Ăn",
-      "url": "http://mytv.tvmienphi.biz/mytv.php?id=afc&token=pt1_Ak89hBSsN9GrEnW9Vg&time=1523894405",
+      "url": "http://mytv.tvmienphi.biz/mytv.php?id=afc&token=4b_K91JwnzRU5CS1IhomAQ&time=1524405599",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -160,7 +214,7 @@
     },
     {
       "Name": "Hoạt Hình",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/toonami.fpt.720p.stream/playlist.m3u8?st=Tq6lo2WwLjvyOXWq5XFPhg&e=1523924105",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/toonami.fpt.720p.stream/playlist.m3u8?st=pm8LmFS_VhQ2CUGGGoRo7w&e=1524434408",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -169,7 +223,7 @@
     },
     {
       "Name": "Hoạt Hình 2",
-      "url": "http://mytv.tvmienphi.biz/mytv.php?id=disneyjunior&token=LgBm2BkHZc-DqOvzR14jmA&time=1523894406",
+      "url": "http://mytv.tvmienphi.biz/mytv.php?id=disneyjunior&token=4b_K91JwnzRU5CS1IhomAQ&time=1524405599",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -178,7 +232,7 @@
     },
     {
       "Name": "Disney",
-      "url": "https://talk2.vcdn.vn/hls/34fbda8ccda4c6292a1a5a9898e1da9d/162cf3868a1/1102578626/index.m3u8",
+      "url": "https://talk2.vcdn.vn/hls/cd99449d4163c9a8669b6b4498ca4bae/162eda7a83e/1102578626/index.m3u8",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -187,7 +241,7 @@
     },
     {
       "Name": "HTVC Phim",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/htvcphim.480p.stream/playlist.m3u8?st=1BH6tvwjDmjtFxxcCN5FHA&e=1523923210",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/htvcphim.480p.stream/playlist.m3u8?st=jvrBu9IRLyWrHYXxxLDXXA&e=1524434409",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -196,7 +250,7 @@
     },
     {
       "Name": "Cartoon Netword",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/cartoonnetwork.fpt.720p.stream/playlist.m3u8?st=d5NumMVNu9KPjn6KqRPUJw&e=1523923205",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/cartoonnetwork.fpt.720p.stream/playlist.m3u8?st=DtwhCh1pbi2KG_9PNQ6DZg&e=1524434407",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -205,7 +259,7 @@
     },
     {
       "Name": "Warner TV",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/wanertv.fpt.720p.stream/playlist.m3u8?st=7ogOAe10LfOoo-QbYKaAZw&e=1523924104",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/wanertv.fpt.720p.stream/playlist.m3u8?st=3CM-FtV-W5BDMOEc2iWdEw&e=1524434408",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -214,7 +268,7 @@
     },
     {
       "Name": "MTV",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/mtv.480p.stream/playlist.m3u8?st=_Oc-7sBPJVpn6zfjBRuCOw&e=1523923211",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/mtv.480p.stream/playlist.m3u8?st=CDCGNVlwuyeozMrD8KdPMg&e=1524434408",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -223,7 +277,7 @@
     },
     {
       "Name": "Kênh Giải Trí",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/axn.fpt.720p.stream/playlist.m3u8?st=Gy9CjEYDn3lmzo5bCmNjIw&e=1523924104",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/axn.fpt.720p.stream/playlist.m3u8?st=BwhnlGQsMAnL4mISU4ToIA&e=1524434410",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -232,7 +286,7 @@
     },
     {
       "Name": "CNN",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/cnn.fpt.720p.stream/playlist.m3u8?st=_5XzNkggh4bQfqB6jxM6qw&e=1523924105",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/cnn.fpt.720p.stream/playlist.m3u8?st=LVyuZyaI38Ox3DlbvvoDQw&e=1524434408",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -241,7 +295,7 @@
     },
     {
       "Name": "Bóng Đá",
-      "url": "http://mytv.tvmienphi.biz/mytv.php?id=sctv15&token=LgBm2BkHZc-DqOvzR14jmA&time=1523894406",
+      "url": "http://mytv.tvmienphi.biz/mytv.php?id=vtvcab3&token=4b_K91JwnzRU5CS1IhomAQ&time=1524405599",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -250,7 +304,7 @@
     },
     {
       "Name": "Cinema World",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/cinemaworld.fpt.720p.stream/playlist.m3u8?st=Ksyec3BISzFiXEC8wuTEcQ&e=1523924105",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/cinemaworld.fpt.720p.stream/playlist.m3u8?st=XDq0Sg7wT6cbtJ3Xpi1fNQ&e=1524434408",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -259,7 +313,7 @@
     },
     {
       "Name": "Fox Sport HD1",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/foxsports.FPT.720p.stream/playlist.m3u8?st=xFPNpQEvkkV4yJw9z92jpQ&e=1523923210",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/foxsports.FPT.720p.stream/playlist.m3u8?st=aHGx08e0ywiTUQXG2WmeQQ&e=1524434407",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -268,7 +322,7 @@
     },
     {
       "Name": "SAM",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/sam.fpt.720p.stream/playlist.m3u8?st=Apjzc74iq9KmklwinC_Fag&e=1523924222",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/sam.fpt.720p.stream/playlist.m3u8?st=8-_XUvrqEBVv97a48_lisA&e=1524434409",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -277,7 +331,7 @@
     },
     {
       "Name": "THVL2",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vinhlong2.480p.stream/playlist.m3u8?st=U_S_BHaJQJwTuDO9UpFKdA&e=1523923209",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vinhlong2.480p.stream/playlist.m3u8?st=bGufl2FeeIyDWmGdlq1H0w&e=1524434409",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -286,7 +340,7 @@
     },
     {
       "Name": "THVL1",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vinhlong1.480p.stream/playlist.m3u8?st=DNN7-8eEmInULH6P0RU_Jw&e=1523923209",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vinhlong1.480p.stream/playlist.m3u8?st=Xr4BqTaRvGb5c2dk781lnQ&e=1524434409",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -295,7 +349,7 @@
     },
     {
       "Name": "HTVC Phim HD",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/htvcphim.720p.stream/playlist.m3u8?st=q5wphKonq_ErVSog-hifVA&e=1523923211",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/htvcphim.720p.stream/playlist.m3u8?st=0Cc6BkwJ6-TJd7ghKoppeQ&e=1524434410",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -304,7 +358,7 @@
     },
     {
       "Name": "iMovie HD",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/imovie.fpt.720p.stream/playlist.m3u8?st=edNOgvbEo2jvnefPnySjag&e=1523924223",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/imovie.fpt.720p.stream/playlist.m3u8?st=c5sq94fea5MiKFc7iMZpeA&e=1524434409",
       "url2": "",
       "url3": "",
       "url4": "",

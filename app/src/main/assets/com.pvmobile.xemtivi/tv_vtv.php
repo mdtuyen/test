@@ -7,21 +7,12 @@
   "channels": [
     {
       "Name": "VTV1",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vtv1.720p.stream/playlist.m3u8?st=1jDhaCBKSwwIVYV6U9n2TQ&e=1523923208",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vtv1.720p.stream/playlist.m3u8?st=X-h12uXlvhv6hJdws28Kwg&e=1524434408",
       "url2": "",
       "url3": "",
       "url4": "",
       "url5": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/VTV1_2013.png"
-    },
-    {
-      "Name": "VTV3",
-      "url": "http://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/playlist.m3u8",
-      "url2": "",
-      "url3": "",
-      "url4": "",
-      "url5": "",
-      "image": "http://img.bongdanet.vn/application/admin/image/01.07.2016/Vtv3_logo.png"
     },
     {
       "Name": "VTV2",
@@ -31,6 +22,15 @@
       "url4": "",
       "url5": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/VTV2%281%29.png"
+    },
+    {
+      "Name": "VTV3",
+      "url": "http://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "url4": "",
+      "url5": "",
+      "image": "http://img.bongdanet.vn/application/admin/image/01.07.2016/Vtv3_logo.png"
     },
     {
       "Name": "VTV6",
@@ -79,7 +79,7 @@
     },
     {
       "Name": "VTV7",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vtv7.FPT.720p.stream/playlist.m3u8?st=7njkWaUPREcELrI1W7tfXA&e=1523923210",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vtv7.FPT.720p.stream/playlist.m3u8?st=XQisJ9YvSqYzKMKeQSIPlg&e=1524434408",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -88,7 +88,7 @@
     },
     {
       "Name": "VTV8",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vtv8.FPT.720p.stream/playlist.m3u8?st=xQfgcFQN9I8A4ZTj__Qs7g&e=1523923211",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vtv8.FPT.720p.stream/playlist.m3u8?st=3Jv1hBmT2tcJ7yGcBlZTUg&e=1524434408",
       "url2": "",
       "url3": "",
       "url4": "",
@@ -97,7 +97,7 @@
     },
     {
       "Name": "VTV9",
-      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vtv9.fpt.720p.stream/playlist.m3u8?st=1BvDzKnb3BYpUoOVJ2Aqqw&e=1523923211",
+      "url": "http://htv-mb.live.cdn.fptplay.net/htvonline/vtv9.fpt.720p.stream/playlist.m3u8?st=vmvCxsuH14kWRFAPqP4YqA&e=1524434408",
       "url2": "",
       "url3": "",
       "url4": "",
