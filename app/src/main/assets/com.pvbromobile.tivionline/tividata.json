@@ -1,8 +1,48 @@
 {
+  "group":[
+    {
+      "name": "Hot",
+      "id":1
+    },
+    {
+      "name": "VTV",
+      "id":2
+    },
+    {
+      "name": "VTC",
+      "id":3
+    },
+    {
+      "name": "HTV",
+      "id":4
+    },
+    {
+      "name": "SCTV",
+      "id":5
+    },
+    {
+      "name": "Địa phương",
+      "id":6
+    },
+    {
+      "name": "Nước ngoài",
+      "id":7
+    },
+    {
+      "name": "Thể thao",
+      "id":8
+    },
+    {
+      "name": "Khác",
+      "id":9
+    }
+  ],
   "channels": [
     {
       "name": "VTV1",
       "icon": "https://lh3.googleusercontent.com/-1mL7pe5_LyQ/VpxA8NVTYzI/AAAAAAAAAXQ/JfCQuwwxVNU/h120/vtv1.png",
+      "group":"1",
+      "enable": true,
       "links": [
         {
           "name": "Server 1",
@@ -12,147 +52,435 @@
     },
     {
       "name": "VTV2",
-      "icon": "https://lh3.googleusercontent.com/-Aykze5_tRMw/VpxA8QoNI_I/AAAAAAAAAXc/7l19HckD6R4/h120/vtv2.png"
+      "icon": "https://lh3.googleusercontent.com/-Aykze5_tRMw/VpxA8QoNI_I/AAAAAAAAAXc/7l19HckD6R4/h120/vtv2.png",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTV4",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTV5",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTV6",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTV7",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTV8",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTV9",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "ANTV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "QPVN - Quoc phong Viet Nam",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 1 Giai Tri TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 2 Phim Viet",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 3 The thao TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 4 Van hoa",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 5 EChannel",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 6 HayTV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 7 Phim D Dramas",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 8 Bibi TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 9 Info TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 10 O2 TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 12 Style TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 15 M Channel",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 16 Bong da TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 17 Yeah1 TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 20 VFamily",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTVCab 21 Bibi Plus Sao TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VCTV 19 Phim",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC1 Thong tin tong hop",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC2 CNTT va Truyen thong",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC3 The thao",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC4 Yeal1 Family",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC5 Giai tri",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC5 Sai Gon Channel",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC7 Today TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC8 Thong tin kinh te",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC9 Let's Viet",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC10 NetViet",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC11 Kids TV",
@@ -160,331 +488,1003 @@
     },
     {
       "name": "VTC12",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC14",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTC16",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "ITV Am nhac tuong tac",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTCHD1 Thong tin tong hop",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTCHD2",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VTCHD3 Thong tin giai tri tong hop",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VOVTV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV1 Thong tin tong hop",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV2 Giai tri tong hop",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV3 Thieu nhi",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV4 Khoa hoc va giao duc",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV7 Kenh 7 TPHCM",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV9 Kenh 9 TPHCM",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HCTV The thao",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV Phim",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV Gia dinh",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV Phu nu",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV Du lich cuoc song",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV Thuan Viet",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV Ca nhac",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV Shopping",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HTV FBNC Thong tin - Tai chinh - Ngan hang",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV1 Hai",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV2 YanTV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV3 SaoTV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV4 Giai tri tong hop",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV5 Shopping TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV6 Song nhac",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV7 San khau van nghe",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV8 Kinh te",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV9 Phim chau A",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV10 Home Shopping",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV11 Hat tren truyen hinh",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV12 Du lich kham pha",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV13 Phu nu Gia dinh",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV14 Phim truyen Viet Nam",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV15 The thao",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV16",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTV18 sSport1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTVHD Hai",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "SCTVHD The thao",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Ha Noi 1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Ha Noi 2",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Dong Thap",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "An Giang",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Vinh Long 1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Vinh Long 2",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Bac Lieu",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Hau Giang",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": "",
+          "group":"1",
+          "enable": true,
+          "links": [
+            {
+              "name": "Server 1",
+              "link": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Can Tho",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Soc Trang",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Tien Giang",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Long An",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Dong Nai 1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Dong Nai 2",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Binh Phuoc 1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Binh Phuoc 2",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Binh Phuoc 3",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Ba Ria Vung Tau",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Dak Nong",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Thua Thien Hue",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Quang Nam",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Quang Nam 1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Quang Nam 3",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": "",
+          "group":"1",
+          "enable": true,
+          "links": [
+            {
+              "name": "Server 1",
+              "link": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Quang Ngai",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Quang Tri",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Vinh Phuc",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Phu Tho",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Tuyen Quang",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Thai Nguyen",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Lang Son",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Binh Duong 1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Binh Duong 2",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Binh Duong 4",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Binh Duong 5",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Khanh Hoa",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Da Nang 1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Da Nang 2",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Nghe An",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Hoa Binh",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Hai Phong",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Ninh Binh",
@@ -492,347 +1492,1035 @@
     },
     {
       "name": "Tra Vinh",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Bac Giang",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Ha Tinh",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Thanh Hoa",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Gia Lai",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Lao Cai",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Quang Binh",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Tay Ninh",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Kien Giang",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Thai Binh",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Ha Nam",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Bac Ninh",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Phu Yen",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Binh Dinh",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HBO",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "HBO HD",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "RED By HBO",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "MAX HBO",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Warner TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Star Movies",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Star Movies HD",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "StarWorld",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "AXN HD",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "AFC",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "DIVA TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Davinci TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Discovery",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "National Geographic",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "FoxSports",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Foxsports2",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "MTV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Cartoon Network",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "TooNami",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BooMerang",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "CNN",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Fashion TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Ariang",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Cinemax",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "CinemaWorld",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Disney",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "AnimalPlanet",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "DW",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Channel News Asia",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "TV5 Monde TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "KBS World",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "NHK World",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Bloomberg",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "RT Documentary",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "ESPN1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "NBA TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "K+1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "K+PM",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "K+PC",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "K+NS",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Match Football 1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Match Football 2",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Match Football 3",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BeIN Sports 1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BeIN Sports 2",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BeIN Sports 3",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BeIN Sports 4",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BeIN Sports 5",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BeIN Sports 6",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BeIN Sports 7",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BeIN Sports 8",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BeIN Sports 9",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BeIN Sports 10",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BeIN Sports 11",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BeIN Sports 12",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "EuroSport1",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "EuroSport2",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "AZShop TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "TTXVN Vietnam News Agency",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VGSShop TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VOV1 TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VOV2 TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VOV3 TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "VOV5 TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "XONE RADIO",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Mien Tay",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Sam TV",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BTV6 - VietTeen",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BTV9 AnVien HD",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "BTV10 NCM",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Phim Hay",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     },
     {
       "name": "Anninh TG",
-      "icon": ""
+      "icon": "",
+      "group":"1",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
     }
   ]
 }
