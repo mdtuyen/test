@@ -1,0 +1,838 @@
+{
+  "channels": [
+    {
+      "name": "VTV1",
+      "icon": "https://lh3.googleusercontent.com/-1mL7pe5_LyQ/VpxA8NVTYzI/AAAAAAAAAXQ/JfCQuwwxVNU/h120/vtv1.png",
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "name": "VTV2",
+      "icon": "https://lh3.googleusercontent.com/-Aykze5_tRMw/VpxA8QoNI_I/AAAAAAAAAXc/7l19HckD6R4/h120/vtv2.png"
+    },
+    {
+      "name": "VTV4",
+      "icon": ""
+    },
+    {
+      "name": "VTV5",
+      "icon": ""
+    },
+    {
+      "name": "VTV6",
+      "icon": ""
+    },
+    {
+      "name": "VTV7",
+      "icon": ""
+    },
+    {
+      "name": "VTV8",
+      "icon": ""
+    },
+    {
+      "name": "VTV9",
+      "icon": ""
+    },
+    {
+      "name": "ANTV",
+      "icon": ""
+    },
+    {
+      "name": "QPVN - Quoc phong Viet Nam",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 1 Giai Tri TV",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 2 Phim Viet",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 3 The thao TV",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 4 Van hoa",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 5 EChannel",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 6 HayTV",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 7 Phim D Dramas",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 8 Bibi TV",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 9 Info TV",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 10 O2 TV",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 12 Style TV",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 15 M Channel",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 16 Bong da TV",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 17 Yeah1 TV",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 20 VFamily",
+      "icon": ""
+    },
+    {
+      "name": "VTVCab 21 Bibi Plus Sao TV",
+      "icon": ""
+    },
+    {
+      "name": "VCTV 19 Phim",
+      "icon": ""
+    },
+    {
+      "name": "VTC1 Thong tin tong hop",
+      "icon": ""
+    },
+    {
+      "name": "VTC2 CNTT va Truyen thong",
+      "icon": ""
+    },
+    {
+      "name": "VTC3 The thao",
+      "icon": ""
+    },
+    {
+      "name": "VTC4 Yeal1 Family",
+      "icon": ""
+    },
+    {
+      "name": "VTC5 Giai tri",
+      "icon": ""
+    },
+    {
+      "name": "VTC5 Sai Gon Channel",
+      "icon": ""
+    },
+    {
+      "name": "VTC7 Today TV",
+      "icon": ""
+    },
+    {
+      "name": "VTC8 Thong tin kinh te",
+      "icon": ""
+    },
+    {
+      "name": "VTC9 Let's Viet",
+      "icon": ""
+    },
+    {
+      "name": "VTC10 NetViet",
+      "icon": ""
+    },
+    {
+      "name": "VTC11 Kids TV",
+      "icon": ""
+    },
+    {
+      "name": "VTC12",
+      "icon": ""
+    },
+    {
+      "name": "VTC14",
+      "icon": ""
+    },
+    {
+      "name": "VTC16",
+      "icon": ""
+    },
+    {
+      "name": "ITV Am nhac tuong tac",
+      "icon": ""
+    },
+    {
+      "name": "VTCHD1 Thong tin tong hop",
+      "icon": ""
+    },
+    {
+      "name": "VTCHD2",
+      "icon": ""
+    },
+    {
+      "name": "VTCHD3 Thong tin giai tri tong hop",
+      "icon": ""
+    },
+    {
+      "name": "VOVTV",
+      "icon": ""
+    },
+    {
+      "name": "HTV1 Thong tin tong hop",
+      "icon": ""
+    },
+    {
+      "name": "HTV2 Giai tri tong hop",
+      "icon": ""
+    },
+    {
+      "name": "HTV3 Thieu nhi",
+      "icon": ""
+    },
+    {
+      "name": "HTV4 Khoa hoc va giao duc",
+      "icon": ""
+    },
+    {
+      "name": "HTV7 Kenh 7 TPHCM",
+      "icon": ""
+    },
+    {
+      "name": "HTV9 Kenh 9 TPHCM",
+      "icon": ""
+    },
+    {
+      "name": "HCTV The thao",
+      "icon": ""
+    },
+    {
+      "name": "HTV Phim",
+      "icon": ""
+    },
+    {
+      "name": "HTV Gia dinh",
+      "icon": ""
+    },
+    {
+      "name": "HTV Phu nu",
+      "icon": ""
+    },
+    {
+      "name": "HTV Du lich cuoc song",
+      "icon": ""
+    },
+    {
+      "name": "HTV Thuan Viet",
+      "icon": ""
+    },
+    {
+      "name": "HTV Ca nhac",
+      "icon": ""
+    },
+    {
+      "name": "HTV Shopping",
+      "icon": ""
+    },
+    {
+      "name": "HTV FBNC Thong tin - Tai chinh - Ngan hang",
+      "icon": ""
+    },
+    {
+      "name": "SCTV1 Hai",
+      "icon": ""
+    },
+    {
+      "name": "SCTV2 YanTV",
+      "icon": ""
+    },
+    {
+      "name": "SCTV3 SaoTV",
+      "icon": ""
+    },
+    {
+      "name": "SCTV4 Giai tri tong hop",
+      "icon": ""
+    },
+    {
+      "name": "SCTV5 Shopping TV",
+      "icon": ""
+    },
+    {
+      "name": "SCTV6 Song nhac",
+      "icon": ""
+    },
+    {
+      "name": "SCTV7 San khau van nghe",
+      "icon": ""
+    },
+    {
+      "name": "SCTV8 Kinh te",
+      "icon": ""
+    },
+    {
+      "name": "SCTV9 Phim chau A",
+      "icon": ""
+    },
+    {
+      "name": "SCTV10 Home Shopping",
+      "icon": ""
+    },
+    {
+      "name": "SCTV11 Hat tren truyen hinh",
+      "icon": ""
+    },
+    {
+      "name": "SCTV12 Du lich kham pha",
+      "icon": ""
+    },
+    {
+      "name": "SCTV13 Phu nu Gia dinh",
+      "icon": ""
+    },
+    {
+      "name": "SCTV14 Phim truyen Viet Nam",
+      "icon": ""
+    },
+    {
+      "name": "SCTV15 The thao",
+      "icon": ""
+    },
+    {
+      "name": "SCTV16",
+      "icon": ""
+    },
+    {
+      "name": "SCTV18 sSport1",
+      "icon": ""
+    },
+    {
+      "name": "SCTVHD Hai",
+      "icon": ""
+    },
+    {
+      "name": "SCTVHD The thao",
+      "icon": ""
+    },
+    {
+      "name": "Ha Noi 1",
+      "icon": ""
+    },
+    {
+      "name": "Ha Noi 2",
+      "icon": ""
+    },
+    {
+      "name": "Dong Thap",
+      "icon": ""
+    },
+    {
+      "name": "An Giang",
+      "icon": ""
+    },
+    {
+      "name": "Vinh Long 1",
+      "icon": ""
+    },
+    {
+      "name": "Vinh Long 2",
+      "icon": ""
+    },
+    {
+      "name": "Bac Lieu",
+      "icon": ""
+    },
+    {
+      "name": "Hau Giang",
+      "icon": ""
+    },
+    {
+      "name": "Can Tho",
+      "icon": ""
+    },
+    {
+      "name": "Soc Trang",
+      "icon": ""
+    },
+    {
+      "name": "Tien Giang",
+      "icon": ""
+    },
+    {
+      "name": "Long An",
+      "icon": ""
+    },
+    {
+      "name": "Dong Nai 1",
+      "icon": ""
+    },
+    {
+      "name": "Dong Nai 2",
+      "icon": ""
+    },
+    {
+      "name": "Binh Phuoc 1",
+      "icon": ""
+    },
+    {
+      "name": "Binh Phuoc 2",
+      "icon": ""
+    },
+    {
+      "name": "Binh Phuoc 3",
+      "icon": ""
+    },
+    {
+      "name": "Ba Ria Vung Tau",
+      "icon": ""
+    },
+    {
+      "name": "Dak Nong",
+      "icon": ""
+    },
+    {
+      "name": "Thua Thien Hue",
+      "icon": ""
+    },
+    {
+      "name": "Quang Nam",
+      "icon": ""
+    },
+    {
+      "name": "Quang Nam 1",
+      "icon": ""
+    },
+    {
+      "name": "Quang Nam 3",
+      "icon": ""
+    },
+    {
+      "name": "Quang Ngai",
+      "icon": ""
+    },
+    {
+      "name": "Quang Tri",
+      "icon": ""
+    },
+    {
+      "name": "Vinh Phuc",
+      "icon": ""
+    },
+    {
+      "name": "Phu Tho",
+      "icon": ""
+    },
+    {
+      "name": "Tuyen Quang",
+      "icon": ""
+    },
+    {
+      "name": "Thai Nguyen",
+      "icon": ""
+    },
+    {
+      "name": "Lang Son",
+      "icon": ""
+    },
+    {
+      "name": "Binh Duong 1",
+      "icon": ""
+    },
+    {
+      "name": "Binh Duong 2",
+      "icon": ""
+    },
+    {
+      "name": "Binh Duong 4",
+      "icon": ""
+    },
+    {
+      "name": "Binh Duong 5",
+      "icon": ""
+    },
+    {
+      "name": "Khanh Hoa",
+      "icon": ""
+    },
+    {
+      "name": "Da Nang 1",
+      "icon": ""
+    },
+    {
+      "name": "Da Nang 2",
+      "icon": ""
+    },
+    {
+      "name": "Nghe An",
+      "icon": ""
+    },
+    {
+      "name": "Hoa Binh",
+      "icon": ""
+    },
+    {
+      "name": "Hai Phong",
+      "icon": ""
+    },
+    {
+      "name": "Ninh Binh",
+      "icon": ""
+    },
+    {
+      "name": "Tra Vinh",
+      "icon": ""
+    },
+    {
+      "name": "Bac Giang",
+      "icon": ""
+    },
+    {
+      "name": "Ha Tinh",
+      "icon": ""
+    },
+    {
+      "name": "Thanh Hoa",
+      "icon": ""
+    },
+    {
+      "name": "Gia Lai",
+      "icon": ""
+    },
+    {
+      "name": "Lao Cai",
+      "icon": ""
+    },
+    {
+      "name": "Quang Binh",
+      "icon": ""
+    },
+    {
+      "name": "Tay Ninh",
+      "icon": ""
+    },
+    {
+      "name": "Kien Giang",
+      "icon": ""
+    },
+    {
+      "name": "Thai Binh",
+      "icon": ""
+    },
+    {
+      "name": "Ha Nam",
+      "icon": ""
+    },
+    {
+      "name": "Bac Ninh",
+      "icon": ""
+    },
+    {
+      "name": "Phu Yen",
+      "icon": ""
+    },
+    {
+      "name": "Binh Dinh",
+      "icon": ""
+    },
+    {
+      "name": "HBO",
+      "icon": ""
+    },
+    {
+      "name": "HBO HD",
+      "icon": ""
+    },
+    {
+      "name": "RED By HBO",
+      "icon": ""
+    },
+    {
+      "name": "MAX HBO",
+      "icon": ""
+    },
+    {
+      "name": "Warner TV",
+      "icon": ""
+    },
+    {
+      "name": "Star Movies",
+      "icon": ""
+    },
+    {
+      "name": "Star Movies HD",
+      "icon": ""
+    },
+    {
+      "name": "StarWorld",
+      "icon": ""
+    },
+    {
+      "name": "AXN HD",
+      "icon": ""
+    },
+    {
+      "name": "AFC",
+      "icon": ""
+    },
+    {
+      "name": "DIVA TV",
+      "icon": ""
+    },
+    {
+      "name": "Davinci TV",
+      "icon": ""
+    },
+    {
+      "name": "Discovery",
+      "icon": ""
+    },
+    {
+      "name": "National Geographic",
+      "icon": ""
+    },
+    {
+      "name": "FoxSports",
+      "icon": ""
+    },
+    {
+      "name": "Foxsports2",
+      "icon": ""
+    },
+    {
+      "name": "MTV",
+      "icon": ""
+    },
+    {
+      "name": "Cartoon Network",
+      "icon": ""
+    },
+    {
+      "name": "TooNami",
+      "icon": ""
+    },
+    {
+      "name": "BooMerang",
+      "icon": ""
+    },
+    {
+      "name": "CNN",
+      "icon": ""
+    },
+    {
+      "name": "Fashion TV",
+      "icon": ""
+    },
+    {
+      "name": "Ariang",
+      "icon": ""
+    },
+    {
+      "name": "Cinemax",
+      "icon": ""
+    },
+    {
+      "name": "CinemaWorld",
+      "icon": ""
+    },
+    {
+      "name": "Disney",
+      "icon": ""
+    },
+    {
+      "name": "AnimalPlanet",
+      "icon": ""
+    },
+    {
+      "name": "DW",
+      "icon": ""
+    },
+    {
+      "name": "Channel News Asia",
+      "icon": ""
+    },
+    {
+      "name": "TV5 Monde TV",
+      "icon": ""
+    },
+    {
+      "name": "KBS World",
+      "icon": ""
+    },
+    {
+      "name": "NHK World",
+      "icon": ""
+    },
+    {
+      "name": "Bloomberg",
+      "icon": ""
+    },
+    {
+      "name": "RT Documentary",
+      "icon": ""
+    },
+    {
+      "name": "ESPN1",
+      "icon": ""
+    },
+    {
+      "name": "NBA TV",
+      "icon": ""
+    },
+    {
+      "name": "K+1",
+      "icon": ""
+    },
+    {
+      "name": "K+PM",
+      "icon": ""
+    },
+    {
+      "name": "K+PC",
+      "icon": ""
+    },
+    {
+      "name": "K+NS",
+      "icon": ""
+    },
+    {
+      "name": "Match Football 1",
+      "icon": ""
+    },
+    {
+      "name": "Match Football 2",
+      "icon": ""
+    },
+    {
+      "name": "Match Football 3",
+      "icon": ""
+    },
+    {
+      "name": "BeIN Sports 1",
+      "icon": ""
+    },
+    {
+      "name": "BeIN Sports 2",
+      "icon": ""
+    },
+    {
+      "name": "BeIN Sports 3",
+      "icon": ""
+    },
+    {
+      "name": "BeIN Sports 4",
+      "icon": ""
+    },
+    {
+      "name": "BeIN Sports 5",
+      "icon": ""
+    },
+    {
+      "name": "BeIN Sports 6",
+      "icon": ""
+    },
+    {
+      "name": "BeIN Sports 7",
+      "icon": ""
+    },
+    {
+      "name": "BeIN Sports 8",
+      "icon": ""
+    },
+    {
+      "name": "BeIN Sports 9",
+      "icon": ""
+    },
+    {
+      "name": "BeIN Sports 10",
+      "icon": ""
+    },
+    {
+      "name": "BeIN Sports 11",
+      "icon": ""
+    },
+    {
+      "name": "BeIN Sports 12",
+      "icon": ""
+    },
+    {
+      "name": "EuroSport1",
+      "icon": ""
+    },
+    {
+      "name": "EuroSport2",
+      "icon": ""
+    },
+    {
+      "name": "AZShop TV",
+      "icon": ""
+    },
+    {
+      "name": "TTXVN Vietnam News Agency",
+      "icon": ""
+    },
+    {
+      "name": "VGSShop TV",
+      "icon": ""
+    },
+    {
+      "name": "VOV1 TV",
+      "icon": ""
+    },
+    {
+      "name": "VOV2 TV",
+      "icon": ""
+    },
+    {
+      "name": "VOV3 TV",
+      "icon": ""
+    },
+    {
+      "name": "VOV5 TV",
+      "icon": ""
+    },
+    {
+      "name": "XONE RADIO",
+      "icon": ""
+    },
+    {
+      "name": "Mien Tay",
+      "icon": ""
+    },
+    {
+      "name": "Sam TV",
+      "icon": ""
+    },
+    {
+      "name": "BTV6 - VietTeen",
+      "icon": ""
+    },
+    {
+      "name": "BTV9 AnVien HD",
+      "icon": ""
+    },
+    {
+      "name": "BTV10 NCM",
+      "icon": ""
+    },
+    {
+      "name": "Phim Hay",
+      "icon": ""
+    },
+    {
+      "name": "Anninh TG",
+      "icon": ""
+    }
+  ]
+}
