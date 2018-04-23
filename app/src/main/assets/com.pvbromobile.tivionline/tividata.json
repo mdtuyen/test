@@ -41,7 +41,19 @@
     {
       "name": "VTV1",
       "icon": "https://lh3.googleusercontent.com/-1mL7pe5_LyQ/VpxA8NVTYzI/AAAAAAAAAXQ/JfCQuwwxVNU/h120/vtv1.png",
-      "group":"1",
+      "group":"1,2",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "name": "VTV1HD",
+      "icon": "https://lh3.googleusercontent.com/-uY4g2y8OuGo/WqtXt7qa5ZI/AAAAAAAAD2M/MXdToZLvZbUBQwzXpVeR7XY4AjBZ95ECgCLcBGAs/h120/vtv1-hd.png",
+      "group":"1,2",
       "enable": true,
       "links": [
         {
@@ -53,7 +65,7 @@
     {
       "name": "VTV2",
       "icon": "https://lh3.googleusercontent.com/-Aykze5_tRMw/VpxA8QoNI_I/AAAAAAAAAXc/7l19HckD6R4/h120/vtv2.png",
-      "group":"1",
+      "group":"1,2",
       "enable": true,
       "links": [
         {
@@ -65,7 +77,19 @@
     {
       "name": "VTV3",
       "icon": "https://lh3.googleusercontent.com/-8JZJiyARXEQ/VpxA8stldpI/AAAAAAAAAXs/8SUjno7LOY8/h120/vtv3%25281%2529.png",
-      "group":"1",
+      "group":"1,2",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "name": "VTV3HD",
+      "icon": "https://lh3.googleusercontent.com/-ehL-GTiYAQs/WqtV9mv7ZbI/AAAAAAAAD18/u0E6xRr1O3Ut4qo0OdfzUM10ei5C22mtgCLcBGAs/h120/vtv3-hd.png",
+      "group":"1,2",
       "enable": true,
       "links": [
         {
@@ -77,7 +101,7 @@
     {
       "name": "VTV4",
       "icon": "https://lh3.googleusercontent.com/-TyYxeYZZHD0/VpxA9WvRGSI/AAAAAAAAAXk/UY1FGKUkp24/h120/vtv4.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -89,7 +113,7 @@
     {
       "name": "VTV5",
       "icon": "https://lh3.googleusercontent.com/-Lt-9cCJuwNY/VpxA990ceoI/AAAAAAAAAYM/5q29RPaFiFo/h120/vtv5.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -101,7 +125,19 @@
     {
       "name": "VTV6",
       "icon": "https://lh3.googleusercontent.com/-iDruUNNh5hs/VpxA-PABZsI/AAAAAAAAAYI/OYeqw7dPRIc/h120/vtv6%25281%2529.png",
-      "group":"1",
+      "group":"1,2",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "name": "VTV6HD",
+      "icon": "https://lh3.googleusercontent.com/-aI1y2iBTofM/WqtVxJFHZdI/AAAAAAAAD14/vPGewZ7Iw9o-yv9F-Mwq0V8s2znGVwObwCLcBGAs/h120/vtv6-hd.png",
+      "group":"1,2",
       "enable": true,
       "links": [
         {
@@ -113,7 +149,7 @@
     {
       "name": "VTV7",
       "icon": "https://lh3.googleusercontent.com/-FUTGnq2KCvE/VpxB5sT5YuI/AAAAAAAAAbo/TKmLHg4npLg/h50/vtv7.jpg",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -125,7 +161,7 @@
     {
       "name": "VTV8",
       "icon": "https://lh3.googleusercontent.com/-4nIf9kmlOts/VpxB5KalpYI/AAAAAAAAAbg/5-QuFy0rWuk/h120/vtv8.jpg",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -137,7 +173,7 @@
     {
       "name": "VTV9",
       "icon": "https://lh3.googleusercontent.com/-fMQmJ19J9P8/VpxA-mgMilI/AAAAAAAAAYQ/5tfej7LRPzU/h120/vtv9.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -149,7 +185,7 @@
     {
       "name": "ANTV",
       "icon": "https://lh3.googleusercontent.com/-OI8n4ttT0g4/VpxASw9-a4I/AAAAAAAAAIo/qOcEZvBSork/h120/antv.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -161,7 +197,7 @@
     {
       "name": "QPVN - Quoc phong Viet Nam",
       "icon": "http://i.imgur.com/WcxAcsT.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -173,7 +209,7 @@
     {
       "name": "VTVCab 1 Giai Tri TV",
       "icon": "https://lh3.googleusercontent.com/-xwI16_Mb1r0/VpxBBKsI1hI/AAAAAAAAAZM/H_NIHujWnuM/h120/vtvcab-giaitritv%25281%2529.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -185,7 +221,7 @@
     {
       "name": "VTVCab 2 Phim Viet",
       "icon": "https://lh3.googleusercontent.com/-HHx-5aRLu4M/VpxBCtYdcAI/AAAAAAAAAaA/gxLyUh8zLwo/h120/vtvcab-phimviet.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -197,7 +233,7 @@
     {
       "name": "VTVCab 3 The thao TV",
       "icon": "https://lh3.googleusercontent.com/-2SyJ4GSPDqY/VpxBDd4po6I/AAAAAAAAAaQ/-WmJpRwW8BY/h120/vtvcab-thethaotv%25281%2529.png",
-      "group":"1",
+      "group":"1,2,8",
       "enable": true,
       "links": [
         {
@@ -209,7 +245,7 @@
     {
       "name": "VTVCab 4 Van hoa",
       "icon": "https://lh3.googleusercontent.com/-68koczBaZbU/WYq7HUgIpoI/AAAAAAAADlc/GyY5wHRmVQgZ3xZKvLAuT5Y9Tm2X5cCcQCLcBGAs/h120/vtvcab4.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -221,7 +257,7 @@
     {
       "name": "VTVCab 5 EChannel",
       "icon": "https://lh3.googleusercontent.com/-upsj5DeCRXU/VpxBAZiyXSI/AAAAAAAAAZA/EhnmwrAOlKY/h120/vtvcab-echannel%25281%2529.png",
-      "group":"1",
+      "group":"1,2",
       "enable": true,
       "links": [
         {
@@ -233,7 +269,7 @@
     {
       "name": "VTVCab 6 HayTV",
       "icon": "https://lh3.googleusercontent.com/-p0rmz16ht7M/VpxBBYtFf1I/AAAAAAAAAZY/OBLrJUcsMJI/h120/vtvcab-haytv.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -245,7 +281,7 @@
     {
       "name": "VTVCab 7 Phim D Dramas",
       "icon": "https://lh3.googleusercontent.com/-8DmW97XQS20/VpxA_0UdKlI/AAAAAAAAAYk/R24cdtbG3-E/h120/vtvcab-ddramas%25281%2529.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -257,7 +293,7 @@
     {
       "name": "VTVCab 8 Bibi TV",
       "icon": "https://lh3.googleusercontent.com/-Vi4gGcNzwIk/VpxA_cyH9CI/AAAAAAAAAYU/qt0TYMNkvAw/h120/vtvcab-bibi.png",
-      "group":"1",
+      "group":"1,2",
       "enable": true,
       "links": [
         {
@@ -269,7 +305,7 @@
     {
       "name": "VTVCab 9 Info TV",
       "icon": "https://lh3.googleusercontent.com/-1aeoxDQbvn8/VpxBBvgH7AI/AAAAAAAAAZk/ujCk4WuFE4A/h120/vtvcab-infotv.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -281,7 +317,7 @@
     {
       "name": "VTVCab 10 O2 TV",
       "icon": "https://lh3.googleusercontent.com/-4QSlGmJz3iE/WYq6Ibqx-tI/AAAAAAAADlU/T2fxRfDIXS4BFp_RaDQzIfMDjBtXIFErwCLcBGAs/h120/Vctv10_o2tv.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -293,7 +329,7 @@
     {
       "name": "VTVCab 12 Style TV",
       "icon": "https://lh3.googleusercontent.com/-MjoWThYS3A0/VpxBCrErZeI/AAAAAAAAAZ8/JhpXg89di8U/h120/vtvcab-styletv.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -305,7 +341,7 @@
     {
       "name": "VTVCab 15 M Channel",
       "icon": "http://i.imgur.com/nylHwzJ.gif",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -317,7 +353,7 @@
     {
       "name": "VTVCab 16 Bong da TV",
       "icon": "https://lh3.googleusercontent.com/-sxp-2nDa9xQ/VpxA_XDjOWI/AAAAAAAAAYg/Vg3sC8qgjp0/h120/vtvcab-bongdatv%25281%2529.png",
-      "group":"1",
+      "group":"1,2,8",
       "enable": true,
       "links": [
         {
@@ -329,7 +365,7 @@
     {
       "name": "VTVCab 17 Yeah1 TV",
       "icon": "https://lh3.googleusercontent.com/-j4ISxvfAR64/VpxBD1WcLnI/AAAAAAAAAaU/0vEmEfl8TNw/h120/vtvcab-yeah1tv.png",
-      "group":"1",
+      "group":"1,2",
       "enable": true,
       "links": [
         {
@@ -341,7 +377,7 @@
     {
       "name": "VTVCab 20 VFamily",
       "icon": "http://i.imgur.com/Dr5yPIp.jpg",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -353,7 +389,7 @@
     {
       "name": "VTVCab 21 Bibi Plus Sao TV",
       "icon": "http://i.imgur.com/ofaUM9b.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -365,7 +401,7 @@
     {
       "name": "VCTV 19 Phim",
       "icon": "http://i.imgur.com/KH3cApa.png",
-      "group":"1",
+      "group":"2",
       "enable": true,
       "links": [
         {
@@ -377,7 +413,7 @@
     {
       "name": "VTC1 Thong tin tong hop",
       "icon": "https://lh3.googleusercontent.com/-BMyz-VG11cM/VpxA2NGafCI/AAAAAAAAAVc/d3pCs7PZQE0/h115/vtc1.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -389,7 +425,7 @@
     {
       "name": "VTC2 CNTT va Truyen thong",
       "icon": "https://lh3.googleusercontent.com/-9g20IQf243Y/VpxA4aTXELI/AAAAAAAAAWI/w2a2gPyjrm4/h115/vtc2.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -401,7 +437,7 @@
     {
       "name": "VTC3 The thao",
       "icon": "https://lh3.googleusercontent.com/-4GrOHU7vGtY/VpxA5PzoKuI/AAAAAAAAAWY/pgeyiLQTGrk/h115/vtc3.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -411,9 +447,9 @@
       ]
     },
     {
-      "name": "VTC4 Yeal1 Family",
+      "name": "VTC4 Yeah1 Family",
       "icon": "https://lh3.googleusercontent.com/-FgR0eHNPVhk/VpxA5KYwmbI/AAAAAAAAAWg/hwjl4qrpc90/h120/vtc4-yeah1family.png",
-      "group":"1",
+      "group":"1,3",
       "enable": true,
       "links": [
         {
@@ -425,7 +461,7 @@
     {
       "name": "VTC5 Giai tri",
       "icon": "https://lh3.googleusercontent.com/-mQbGkVEkpBM/VpxA5Mb7j0I/AAAAAAAAAWc/kJhM873v7lk/h115/vtc5.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -437,7 +473,7 @@
     {
       "name": "VTC5 Sai Gon Channel",
       "icon": "https://lh3.googleusercontent.com/-Up-gF9MMPt8/VpxA6NPKoyI/AAAAAAAAAW4/CXI84RuN9Pw/h120/vtc6.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -449,7 +485,7 @@
     {
       "name": "VTC7 Today TV",
       "icon": "https://lh3.googleusercontent.com/-C34NWP2O_nU/VpxAxacil1I/AAAAAAAAATs/akqpgi0CUio/h120/todaytv%25281%2529.png",
-      "group":"1",
+      "group":"1,3",
       "enable": true,
       "links": [
         {
@@ -461,7 +497,7 @@
     {
       "name": "VTC8 Thong tin kinh te",
       "icon": "https://lh3.googleusercontent.com/-x0MjhzQO69c/VpxA6O663wI/AAAAAAAAAWo/f6jMewRArEM/h115/vtc8.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -473,7 +509,7 @@
     {
       "name": "VTC9 Let's Viet",
       "icon": "https://lh3.googleusercontent.com/-6l1sFu4Z09U/VpxA6ELiJGI/AAAAAAAAAW0/C5nmmBzvtFo/h120/vtc9%25281%2529.png",
-      "group":"1",
+      "group":"1,3",
       "enable": true,
       "links": [
         {
@@ -485,7 +521,7 @@
     {
       "name": "VTC10 NetViet",
       "icon": "https://lh3.googleusercontent.com/-APRo6ZQRD4c/VpxA3D_5yVI/AAAAAAAAAVw/TT-wTpQ3LYg/h120/vtc10.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -497,7 +533,7 @@
     {
       "name": "VTC11 Kids TV",
       "icon": "https://lh3.googleusercontent.com/-0vXdGd7HiyU/VpxA3CRra_I/AAAAAAAAAV0/LblKms4opXQ/h120/vtc11.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -509,7 +545,7 @@
     {
       "name": "VTC12",
       "icon": "https://lh3.googleusercontent.com/-vYtPPkIJ3JI/VpxA3Qq1ofI/AAAAAAAAAVs/MslHCArWgeA/h115/vtc12.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -521,7 +557,7 @@
     {
       "name": "VTC14",
       "icon": "https://lh3.googleusercontent.com/-7OwSJQT_6P4/VpxA4IfoYzI/AAAAAAAAAWA/ebfFPghGGew/h115/vtc14.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -533,7 +569,7 @@
     {
       "name": "VTC16",
       "icon": "https://lh3.googleusercontent.com/-J2kkpQdzJeI/VpxA4bqG_MI/AAAAAAAAAV8/wjPxtLlHTPY/h120/vtc16.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -545,7 +581,7 @@
     {
       "name": "ITV Am nhac tuong tac",
       "icon": "https://lh3.googleusercontent.com/-D7xXFIIwC7s/VpxAkqvoHfI/AAAAAAAAAOc/Mr8q5yAhKuo/h120/itv.png",
-      "group":"1",
+      "group":"1,3",
       "enable": true,
       "links": [
         {
@@ -557,7 +593,7 @@
     {
       "name": "VTCHD1 Thong tin tong hop",
       "icon": "https://lh3.googleusercontent.com/-6fD-R57Sh3s/VpxA7iCgi6I/AAAAAAAAAXE/tQUuBVuvmKA/h120/vtchd1.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -569,7 +605,7 @@
     {
       "name": "VTCHD2",
       "icon": "https://lh3.googleusercontent.com/-EAbIxSZlMAk/VpxA7uFBd4I/AAAAAAAAAXA/vIi8WOpqkR0/h120/vtchd2.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -581,7 +617,7 @@
     {
       "name": "VTCHD3 Thong tin giai tri tong hop",
       "icon": "https://lh3.googleusercontent.com/-FSK9nr59Nzw/VpxA7g9MKYI/AAAAAAAAAXM/Lns14-7-N5c/h120/vtchd3.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -593,7 +629,7 @@
     {
       "name": "VOVTV",
       "icon": "https://lh3.googleusercontent.com/-B7svQqkvH1E/VpxA2DTPuZI/AAAAAAAAAVY/lHnjB5_5qco/h120/vovtv.png",
-      "group":"1",
+      "group":"3",
       "enable": true,
       "links": [
         {
@@ -605,7 +641,7 @@
     {
       "name": "HTV1 Thong tin tong hop",
       "icon": "https://lh3.googleusercontent.com/-jPTxx7ijNW0/VpxAfun8fzI/AAAAAAAAANU/Z9gByBFi8po/h120/htv1.png",
-      "group":"1",
+      "group":"4",
       "enable": true,
       "links": [
         {
@@ -617,7 +653,7 @@
     {
       "name": "HTV2 Giai tri tong hop",
       "icon": "https://lh3.googleusercontent.com/-kjC72CWJ-QI/VpxAf0RmaOI/AAAAAAAAANY/aZX34auMMng/h120/htv2.png",
-      "group":"1",
+      "group":"4",
       "enable": true,
       "links": [
         {
@@ -629,7 +665,7 @@
     {
       "name": "HTV3 Thieu nhi",
       "icon": "https://lh3.googleusercontent.com/-gQZJ8wcwVGA/VpxAgED0tmI/AAAAAAAAANQ/SKQS47ZxOuk/h120/htv3.png",
-      "group":"1",
+      "group":"4",
       "enable": true,
       "links": [
         {
@@ -641,7 +677,7 @@
     {
       "name": "HTV4 Khoa hoc va giao duc",
       "icon": "https://lh3.googleusercontent.com/-XyvAIIjl868/VpxAgyDbAPI/AAAAAAAAANc/tW0KGE_svUA/h120/htv4.png",
-      "group":"1",
+      "group":"4",
       "enable": true,
       "links": [
         {
@@ -653,7 +689,7 @@
     {
       "name": "HTV7 Kenh 7 TPHCM",
       "icon": "https://lh3.googleusercontent.com/-OFVARyzqrp4/VpxAhO6A6AI/AAAAAAAAANg/_AL8upxPg-s/h120/htv7.png",
-      "group":"1",
+      "group":"1,4",
       "enable": true,
       "links": [
         {
@@ -665,7 +701,7 @@
     {
       "name": "HTV9 Kenh 9 TPHCM",
       "icon": "https://lh3.googleusercontent.com/-t9EkbjC6IGw/VpxAhVGPyvI/AAAAAAAAANk/CGPKLqKcsZ4/h120/htv9.png",
-      "group":"1",
+      "group":"1,4",
       "enable": true,
       "links": [
         {
@@ -677,7 +713,7 @@
     {
       "name": "HCTV The thao",
       "icon": "https://lh3.googleusercontent.com/-dDgNzf4LYgk/VpxAjjDuOqI/AAAAAAAAAOQ/_otddw_NWYU/h120/htvthethao.png",
-      "group":"1",
+      "group":"1,4,8",
       "enable": true,
       "links": [
         {
@@ -689,7 +725,7 @@
     {
       "name": "HTV Phim",
       "icon": "https://lh3.googleusercontent.com/-QbRuocGGUsU/VpxAixomdDI/AAAAAAAAAN4/Pmh65kJsx8c/h120/htvphim.png",
-      "group":"1",
+      "group":"4",
       "enable": true,
       "links": [
         {
@@ -701,7 +737,7 @@
     {
       "name": "HTV Gia dinh",
       "icon": "https://lh3.googleusercontent.com/-3EbgGXSCk2o/VpxAiFfaetI/AAAAAAAAAOA/4IWtZC_Sle4/h120/htvgiadinh.png",
-      "group":"1",
+      "group":"4",
       "enable": true,
       "links": [
         {
@@ -713,7 +749,7 @@
     {
       "name": "HTV Phu nu",
       "icon": "https://lh3.googleusercontent.com/-UFasOGZJ5dM/VpxAjO0ukFI/AAAAAAAAAN8/N5OT2BmLoAM/h120/htvphunu.png",
-      "group":"1",
+      "group":"4",
       "enable": true,
       "links": [
         {
@@ -725,7 +761,7 @@
     {
       "name": "HTV Du lich cuoc song",
       "icon": "https://lh3.googleusercontent.com/-G9mQcv7J7Kc/VpxAh8Rb65I/AAAAAAAAANs/xdMi4n-ARNs/h120/htvdulich.png",
-      "group":"1",
+      "group":"4",
       "enable": true,
       "links": [
         {
@@ -737,7 +773,7 @@
     {
       "name": "HTV Thuan Viet",
       "icon": "https://lh3.googleusercontent.com/-oqNHnx9J_Fg/VpxAj5NN6OI/AAAAAAAAAOM/FL-6rR5-qQs/h120/htvthuanviet.png",
-      "group":"1",
+      "group":"4",
       "enable": true,
       "links": [
         {
@@ -749,7 +785,7 @@
     {
       "name": "HTV Ca nhac",
       "icon": "https://lh3.googleusercontent.com/-2pXIrXYBFu8/VpxAhplRRnI/AAAAAAAAANw/8ounGrKt0aw/h120/htvcanhac.png",
-      "group":"1",
+      "group":"4",
       "enable": true,
       "links": [
         {
@@ -761,7 +797,7 @@
     {
       "name": "HTV Shopping",
       "icon": "https://lh3.googleusercontent.com/-PuYe9NZYpmU/VpxAjjHGxlI/AAAAAAAAAOU/X0qRRvtMQWE/h120/htvshopping.png",
-      "group":"1",
+      "group":"4",
       "enable": true,
       "links": [
         {
@@ -773,7 +809,7 @@
     {
       "name": "HTV FBNC Thong tin - Tai chinh - Ngan hang",
       "icon": "https://lh3.googleusercontent.com/-lZFej0HtpXM/VpxPCsL_rjI/AAAAAAAAAcI/BvD-V2SNHdw/h120/fbnc.jpg",
-      "group":"1",
+      "group":"4",
       "enable": true,
       "links": [
         {
@@ -785,7 +821,7 @@
     {
       "name": "SCTV1 Hai",
       "icon": "https://lh3.googleusercontent.com/-JCUydBScx5M/VpxAqhUrUYI/AAAAAAAAAQs/i6yW7b2YA5k/h120/sctv1.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -797,7 +833,7 @@
     {
       "name": "SCTV2 YanTV",
       "icon": "https://lh3.googleusercontent.com/-HyWyqwjY-lg/VpxAtKW1hyI/AAAAAAAAASI/nrmf7GUpaGA/h120/sctv2.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -809,7 +845,7 @@
     {
       "name": "SCTV3 SaoTV",
       "icon": "https://lh3.googleusercontent.com/-jMpzSXJIep8/VpxAtc46-9I/AAAAAAAAASA/FMAJPNZEqFA/h120/sctv3.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -821,7 +857,7 @@
     {
       "name": "SCTV4 Giai tri tong hop",
       "icon": "https://lh3.googleusercontent.com/-utxIOmo3B18/VpxAtTWv_mI/AAAAAAAAASM/MtNZuLFFTVc/h120/sctv4.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -833,7 +869,7 @@
     {
       "name": "SCTV5 Shopping TV",
       "icon": "https://lh3.googleusercontent.com/-TpWA3edTbqs/VpxAt2dhKTI/AAAAAAAAASU/Nr5rUU8z26Y/h120/sctv5.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -845,7 +881,7 @@
     {
       "name": "SCTV6 Song nhac",
       "icon": "https://lh3.googleusercontent.com/-aRJdZbAiOQA/VpxAuVmP4fI/AAAAAAAAASk/LuG4KBWvhnQ/h120/sctv6.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -857,7 +893,7 @@
     {
       "name": "SCTV7 San khau van nghe",
       "icon": "https://lh3.googleusercontent.com/-SCFBwogpr2Y/VpxAuIsVb6I/AAAAAAAAASc/Yw5wPfeKj6Y/h120/sctv7.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -869,7 +905,7 @@
     {
       "name": "SCTV8 Kinh te",
       "icon": "https://lh3.googleusercontent.com/-UXe14uvM6eA/VpxAuT-C_vI/AAAAAAAAASo/d0m-l9-jUtQ/h120/sctv8.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -881,7 +917,7 @@
     {
       "name": "SCTV9 Phim chau A",
       "icon": "https://lh3.googleusercontent.com/-EyUCXA9uGwk/VpxAujUFsbI/AAAAAAAAASs/AkR3rThtBcg/h120/sctv9.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -893,7 +929,7 @@
     {
       "name": "SCTV10 Home Shopping",
       "icon": "https://lh3.googleusercontent.com/-gWO8-ylIUBc/VpxAq6563CI/AAAAAAAAAQ8/HIQH8FgEOxs/h120/sctv10.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -905,7 +941,7 @@
     {
       "name": "SCTV11 Hat tren truyen hinh",
       "icon": "https://lh3.googleusercontent.com/-5bv8j-MLqqc/VpxArWqkXpI/AAAAAAAAARQ/D11xqjvTV3A/h120/sctv11.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -917,7 +953,7 @@
     {
       "name": "SCTV12 Du lich kham pha",
       "icon": "https://lh3.googleusercontent.com/-iE8oQt-vSS0/VpxAras81uI/AAAAAAAAARM/uc6dno-Dsi4/h120/sctv12.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -929,7 +965,7 @@
     {
       "name": "SCTV13 Phu nu Gia dinh",
       "icon": "https://lh3.googleusercontent.com/-tCqPnQWNZIU/VpxAr1rWraI/AAAAAAAAARU/k_wEuh_UIDc/h120/sctv13.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -941,7 +977,7 @@
     {
       "name": "SCTV14 Phim truyen Viet Nam",
       "icon": "https://lh3.googleusercontent.com/-l3P2hIOHHbI/VpxAsMwmhdI/AAAAAAAAARs/ZLWinmGtWV4/h120/sctv14.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -953,7 +989,7 @@
     {
       "name": "SCTV15 The thao",
       "icon": "https://lh3.googleusercontent.com/-MKfhL_MB230/VpxAsR7eOsI/AAAAAAAAARk/B8rJFg3wcDw/h120/sctv15.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -965,7 +1001,7 @@
     {
       "name": "SCTV16",
       "icon": "https://lh3.googleusercontent.com/-6cGor41iWnY/VpxAsjrTgsI/AAAAAAAAARw/N2Eqzhy26Oo/h120/sctv16.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -977,7 +1013,7 @@
     {
       "name": "SCTV17 sSport1",
       "icon": "https://lh3.googleusercontent.com/-1cePPjxOx40/WsixUsnhzZI/AAAAAAAAD8U/bp7wsLVy9p4nqE1EJQ2Y88p0POTA-zlrQCEwYBhgL/w140-h78-p/s17.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -989,7 +1025,7 @@
     {
       "name": "SCTVHD Hai",
       "icon": "https://lh3.googleusercontent.com/-cBZv_OSLEoE/VpxAuyyPXNI/AAAAAAAAASw/UsjRE-LqA48/h120/sctvhai.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -1001,7 +1037,7 @@
     {
       "name": "SCTVHD The thao",
       "icon": "https://lh3.googleusercontent.com/-f36fo_2QwOM/VpxAvJHkW6I/AAAAAAAAAS4/zZwssUB8YFo/h120/sctvthethao.png",
-      "group":"1",
+      "group":"5",
       "enable": true,
       "links": [
         {
@@ -1013,7 +1049,7 @@
     {
       "name": "Ha Noi 1",
       "icon": "https://lh3.googleusercontent.com/-zqOghnRSplE/VpxAdkCQMfI/AAAAAAAAAMk/5MsZ7oAZdqs/h120/hanoi1.png",
-      "group":"1",
+      "group":"1,6",
       "enable": true,
       "links": [
         {
@@ -1025,7 +1061,7 @@
     {
       "name": "Ha Noi 2",
       "icon": "https://lh3.googleusercontent.com/-XqTriIqEV34/VpxAeEBjSwI/AAAAAAAAANI/amrJXwnj4Yw/h120/hanoi2.png",
-      "group":"1",
+      "group":"1,6",
       "enable": true,
       "links": [
         {
@@ -1037,7 +1073,7 @@
     {
       "name": "Dong Thap",
       "icon": "https://lh3.googleusercontent.com/-4Zbq2uJsM8c/VpxAazw5s4I/AAAAAAAAALc/7Xj255dsTAY/h120/dongthap.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1049,7 +1085,7 @@
     {
       "name": "An Giang",
       "icon": "https://lh3.googleusercontent.com/-HNrRXCZUCKs/VpxAS1fzXCI/AAAAAAAAAIk/7mdg845i4qg/h120/angiang.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1061,7 +1097,7 @@
     {
       "name": "Vinh Long 1",
       "icon": "https://lh3.googleusercontent.com/-xoBlaQILP3c/VpxAyhoM4UI/AAAAAAAAAUM/RMJtwhnkJ7o/h120/vinhlong1%25281%2529.png",
-      "group":"1",
+      "group":"1,6",
       "enable": true,
       "links": [
         {
@@ -1073,7 +1109,7 @@
     {
       "name": "Vinh Long 2",
       "icon": "https://lh3.googleusercontent.com/-TG9qRY3jA3M/VpxAzcVvvGI/AAAAAAAAAUY/mS2P_5SPcfE/h120/vinhlong2.png",
-      "group":"1",
+      "group":"1,6",
       "enable": true,
       "links": [
         {
@@ -1085,7 +1121,7 @@
     {
       "name": "Bac Lieu",
       "icon": "https://lh3.googleusercontent.com/-VaMNdD94New/VpxAUKL1YxI/AAAAAAAAAI4/muwBbHIbIPo/h120/baclieu.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1097,27 +1133,19 @@
     {
       "name": "Hau Giang",
       "icon": "https://lh3.googleusercontent.com/-QE0BISWSKUk/VpxAeKRzJBI/AAAAAAAAAMo/0xerbFb7jok/h116/haugiang.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
           "name": "Server 1",
-          "link": "https://lh3.googleusercontent.com/--QJ_KmUiae8/VpxAWdpcMVI/AAAAAAAAAJ0/7_o5lhF7zy4/h120/cantho.png",
-          "group":"1",
-          "enable": true,
-          "links": [
-            {
-              "name": "Server 1",
-              "link": ""
-            }
-          ]
+          "link": ""
         }
       ]
     },
     {
       "name": "Can Tho",
-      "icon": "https://lh3.googleusercontent.com/-HiIzXn-crh4/VpxAvdDs5XI/AAAAAAAAAS8/t1H42nhsCHY/h120/soctrang.png",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/--QJ_KmUiae8/VpxAWdpcMVI/AAAAAAAAAJ0/7_o5lhF7zy4/h120/cantho.png",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1129,7 +1157,7 @@
     {
       "name": "Soc Trang",
       "icon": "https://lh3.googleusercontent.com/-HiIzXn-crh4/VpxAvdDs5XI/AAAAAAAAAS8/t1H42nhsCHY/h120/soctrang.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1141,7 +1169,7 @@
     {
       "name": "Tien Giang",
       "icon": "https://lh3.googleusercontent.com/-9CdpGGk3zpc/VpxAxSH2NaI/AAAAAAAAATo/W890016zDwc/h120/tiengiang.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1153,7 +1181,7 @@
     {
       "name": "Long An",
       "icon": "https://lh3.googleusercontent.com/-tFqzxaUYeCM/VpxAmW4iKFI/AAAAAAAAAPI/oiDMGllnieQ/h120/longan.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1165,7 +1193,7 @@
     {
       "name": "Dong Nai 1",
       "icon": "https://lh3.googleusercontent.com/-pezF2UFxuz0/VpxAant4iaI/AAAAAAAAALg/OYoU7GxVrTk/h120/dongnai1.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1177,7 +1205,7 @@
     {
       "name": "Dong Nai 2",
       "icon": "https://lh3.googleusercontent.com/-3YIjIK3oOJE/VpxAaw2OtXI/AAAAAAAAALY/O0TR8mMZ-GI/h120/dongnai2.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1189,7 +1217,7 @@
     {
       "name": "Binh Phuoc 1",
       "icon": "https://lh3.googleusercontent.com/-XjAjR7Bxp6U/VpxAV9SIzCI/AAAAAAAAAJk/7iiIAF0iNbU/h120/binhphuoc1.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1201,7 +1229,7 @@
     {
       "name": "Binh Phuoc 2",
       "icon": "https://lh3.googleusercontent.com/-JCaRpwphhAc/VpxAWTDMMKI/AAAAAAAAAJw/SizWxySeOGQ/h120/binhphuoc2.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1213,7 +1241,7 @@
     {
       "name": "Binh Phuoc 3",
       "icon": "https://lh3.googleusercontent.com/-V5ew5ZdWoTk/WsbcVHiGTSI/AAAAAAAAD5Y/avmVspG1YxcozP8yEPJTUinCrPl3kdKGQCEwYBhgL/w140-h58-p/bptv3.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1225,7 +1253,7 @@
     {
       "name": "Ba Ria Vung Tau",
       "icon": "https://lh3.googleusercontent.com/-IQ3hbrXfK4A/VpxAUpt6lFI/AAAAAAAAAJI/6rtpfMX-LoE/h120/bariavungtau.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1237,7 +1265,7 @@
     {
       "name": "Dak Nong",
       "icon": "https://lh3.googleusercontent.com/-ffUkEO5wbRc/VpxAYaPqkRI/AAAAAAAAAKk/pHJjUS1kA48/h120/daknong.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1249,7 +1277,7 @@
     {
       "name": "Thua Thien Hue",
       "icon": "https://lh3.googleusercontent.com/-dw2JiqLnRXM/VpxAw0iBzXI/AAAAAAAAATk/8cIkeN_gVFM/h120/thuathienhue.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1261,7 +1289,7 @@
     {
       "name": "Quang Nam",
       "icon": "https://lh3.googleusercontent.com/-FgXOPuyIFig/VpxApHn_WJI/AAAAAAAAAQQ/EF_S_rrW6nU/h120/quangnam.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1273,7 +1301,7 @@
     {
       "name": "Quang Ninh 1",
       "icon": "https://lh3.googleusercontent.com/-PuWdvDUAUUM/VpxAp2nvoLI/AAAAAAAAAQU/SrJXghw8Rf0/h120/quangninh1.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1285,7 +1313,7 @@
     {
       "name": "Quang Ninh 3",
       "icon": "https://lh3.googleusercontent.com/-fXynCfJVGac/VpxAp31vOlI/AAAAAAAAAQY/nrI2TBXTZcM/h120/quangninh3.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1297,7 +1325,7 @@
     {
       "name": "Quang Ngai",
       "icon": "https://lh3.googleusercontent.com/-2rY0l38MYLI/VpxAqFogdOI/AAAAAAAAAQ0/RsSqZpGBN9s/h120/quangngai.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1309,7 +1337,7 @@
     {
       "name": "Quang Tri",
       "icon": "https://lh3.googleusercontent.com/-_C1B8wQ32Rw/VpxAqdAhv5I/AAAAAAAAAQk/UFqVishL5aE/h120/quangtri.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1321,7 +1349,7 @@
     {
       "name": "Vinh Phuc",
       "icon": "https://lh3.googleusercontent.com/-V6pssCDyxkY/VpxAzUdD39I/AAAAAAAAAVM/qhuga3jZw00/h120/vinhphuc.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1333,7 +1361,7 @@
     {
       "name": "Phu Tho",
       "icon": "https://lh3.googleusercontent.com/-pasbJGKH2mc/VpxAoGny3DI/AAAAAAAAAPw/14E39A5PRlw/h120/phutho.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1345,7 +1373,7 @@
     {
       "name": "Tuyen Quang",
       "icon": "https://lh3.googleusercontent.com/-EZfXSmTxl6Q/VpxAx23kwLI/AAAAAAAAAUA/90ZfdslPE2o/h120/tuyenquang.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1357,7 +1385,7 @@
     {
       "name": "Thai Nguyen",
       "icon": "https://lh3.googleusercontent.com/-xPD37_wrimc/VpxAwaw5NdI/AAAAAAAAATQ/FiK_GDPyyJo/h120/thainguyen.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1369,7 +1397,7 @@
     {
       "name": "Lang Son",
       "icon": "https://lh3.googleusercontent.com/-Xz2Iptdt4Mw/VpxAl6DU4oI/AAAAAAAAAPc/6qfMj0roZqc/h120/langson.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1381,7 +1409,7 @@
     {
       "name": "Binh Duong 1",
       "icon": "https://lh3.googleusercontent.com/-PUCfinB8va8/VpxAVBeiuYI/AAAAAAAAAJQ/KLXBIpyEt3I/h120/binhduong1.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1393,7 +1421,7 @@
     {
       "name": "Binh Duong 2",
       "icon": "https://lh3.googleusercontent.com/-RzMcStm_HHU/VpxAVMl5YpI/AAAAAAAAAJU/yDgiGvxAIZo/h120/binhduong2.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1405,7 +1433,7 @@
     {
       "name": "Binh Duong 4",
       "icon": "https://lh3.googleusercontent.com/-h8V5Ifw6vGQ/VpxAVs8KUWI/AAAAAAAAAJg/MYu7Nvl9loU/h120/binhduong4.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1417,7 +1445,7 @@
     {
       "name": "Binh Duong 5",
       "icon": "https://lh3.googleusercontent.com/-WIaQcIRKFEo/VpxFuR2B00I/AAAAAAAAAb4/jNH89-FxQTs/h120/btv5.jpg",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1429,7 +1457,7 @@
     {
       "name": "Khanh Hoa",
       "icon": "https://lh3.googleusercontent.com/-1WYK83-L98Y/VpxAk87HqKI/AAAAAAAAAOg/lTE0UKLzN8U/h120/khanhhoa.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1441,7 +1469,7 @@
     {
       "name": "Da Nang 1",
       "icon": "https://lh3.googleusercontent.com/-dbrinxRgLEo/VpxAZNrJ8vI/AAAAAAAAAKw/CkXhJneHvcM/h120/danang1.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1453,7 +1481,7 @@
     {
       "name": "Da Nang 2",
       "icon": "https://lh3.googleusercontent.com/-2xVKEg5X2JI/VpxAZBKVEaI/AAAAAAAAAK0/vgzoepPIy2Y/h120/danang2.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1465,7 +1493,7 @@
     {
       "name": "Nghe An",
       "icon": "https://lh3.googleusercontent.com/-TnSSy8J1i58/VpxAnBjgkPI/AAAAAAAAAPY/o6Qq7IjNVSU/h120/nghean.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1477,7 +1505,7 @@
     {
       "name": "Hoa Binh",
       "icon": "https://lh3.googleusercontent.com/-VmU3jvc56QA/VpxAfKa3fGI/AAAAAAAAANA/o5H6yUQ9q6k/h120/hoabinh.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1489,7 +1517,7 @@
     {
       "name": "Hai Phong",
       "icon": "https://lh3.googleusercontent.com/-LlhOGrv16ic/VpxAdO-sa5I/AAAAAAAAAMQ/YzUI2g3ORZ4/h120/haiphong.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1501,7 +1529,7 @@
     {
       "name": "Ninh Binh",
       "icon": "https://lh3.googleusercontent.com/-DLmUmd7nYO4/VpxAn2LfdrI/AAAAAAAAAP0/UsSk5u5b3tY/h120/ninhbinh.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1513,7 +1541,7 @@
     {
       "name": "Tra Vinh",
       "icon": "http://i.imgur.com/aekLV5S.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1525,7 +1553,7 @@
     {
       "name": "Bac Giang",
       "icon": "http://i.imgur.com/R9to4Lh.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1537,7 +1565,7 @@
     {
       "name": "Ha Tinh",
       "icon": "http://i.imgur.com/HNbwGb8.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1549,7 +1577,7 @@
     {
       "name": "Thanh Hoa",
       "icon": "https://lh3.googleusercontent.com/-nrcEfhtTo-0/VpxAwvChq3I/AAAAAAAAATU/pMc3faH_LkM/h120/thanhhoa.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1561,7 +1589,7 @@
     {
       "name": "Gia Lai",
       "icon": "https://lh3.googleusercontent.com/-xIrjuoZGyyw/VpxAc4kj-eI/AAAAAAAAAMM/mG-b03OAbM4/h120/gialai.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1573,7 +1601,7 @@
     {
       "name": "Lao Cai",
       "icon": "https://lh3.googleusercontent.com/-77QAlxkzRow/VpxAl0CSUbI/AAAAAAAAAO8/2whu6SUSJpQ/h120/laocai.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1585,7 +1613,7 @@
     {
       "name": "Quang Binh",
       "icon": "https://lh3.googleusercontent.com/-yIO1ad0KkyI/VpxAo_SyYmI/AAAAAAAAAQE/aFf2FV5PNeA/h120/quangbinh.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1597,7 +1625,7 @@
     {
       "name": "Tay Ninh",
       "icon": "https://lh3.googleusercontent.com/-9XP4107gGwM/VpxAv6z36-I/AAAAAAAAATI/GmyZvRmh2F0/h120/tayninh.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1609,7 +1637,7 @@
     {
       "name": "Kien Giang",
       "icon": "https://lh3.googleusercontent.com/-_QLqfrqjsqg/VpxAlDcTxEI/AAAAAAAAAOs/s3VXs-M_Ec0/h120/kiengiang.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1621,7 +1649,7 @@
     {
       "name": "Thai Binh",
       "icon": "https://lh3.googleusercontent.com/-IUZd5XhUMso/VpxAwZH-FgI/AAAAAAAAATY/vTejRXuYQVA/h120/thaibinh.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1633,7 +1661,7 @@
     {
       "name": "Ha Nam",
       "icon": "https://lh3.googleusercontent.com/-DDRtPOizA5k/VpxAdR-ULgI/AAAAAAAAAMc/qcQCgfkh7ME/h120/hanam.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1645,7 +1673,7 @@
     {
       "name": "Bac Ninh",
       "icon": "https://lh3.googleusercontent.com/-L5IE7ZxVRj0/VpxAUWat-TI/AAAAAAAAAJA/9uep1_0QW2U/h120/bacninh.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1657,7 +1685,7 @@
     {
       "name": "Phu Yen",
       "icon": "https://lh3.googleusercontent.com/-HiWsFJxNUas/VpxAoUkHQ0I/AAAAAAAAAP4/sdgIDcsdxu0/h120/phuyen.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1669,7 +1697,7 @@
     {
       "name": "Binh Dinh",
       "icon": "https://lh3.googleusercontent.com/-eqEKZRy1FZ0/VpxAUn0ZgMI/AAAAAAAAALA/lZyA5873bjg/h120/binhdinh.png",
-      "group":"1",
+      "group":"6",
       "enable": true,
       "links": [
         {
@@ -1681,7 +1709,7 @@
     {
       "name": "HBO",
       "icon": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
-      "group":"1",
+      "group":"1,7",
       "enable": true,
       "links": [
         {
@@ -1693,7 +1721,7 @@
     {
       "name": "HBO HD",
       "icon": "https://lh3.googleusercontent.com/-ND6pkK5X5xM/WYrFmcaHUBI/AAAAAAAADls/gop9irY6lxQvT_MYdMg1mzZK3A7gWj6fwCLcBGAs/h99/hbo-hd_w500_h500.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1705,7 +1733,7 @@
     {
       "name": "RED By HBO",
       "icon": "https://lh3.googleusercontent.com/-a-sgqaH-lQQ/WYqyP97--UI/AAAAAAAADkw/j7bYpfDsGrQ6mcOZpwMTZLX9CP4ad_wwwCLcBGAs/h120/1258630-unnamed.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1717,7 +1745,7 @@
     {
       "name": "MAX HBO",
       "icon": "https://lh3.googleusercontent.com/-eMIcL7uB5ZA/WYq33-BDMkI/AAAAAAAADlM/sq5L2k6vZUcqANUC1YDtnYXgjhAspUkUACEwYBhgL/w140-h66-p/9740642-logo-max-by-hbo.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1729,7 +1757,7 @@
     {
       "name": "Warner TV",
       "icon": "https://lh3.googleusercontent.com/-tK84o4o0dpk/WYq2Hn3PrmI/AAAAAAAADk8/4ISFDp5RMFQ-uqlpDKPQPTaWgIXKnpydwCLcBGAs/h120/8842640-logo-warnertv-1.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1741,7 +1769,7 @@
     {
       "name": "Star Movies",
       "icon": "https://lh3.googleusercontent.com/-R-Wn5VjbxO4/VpxAvWPtVFI/AAAAAAAAATE/37aWBYROLNU/h120/starmovie.png",
-      "group":"1",
+      "group":"1,7",
       "enable": true,
       "links": [
         {
@@ -1753,7 +1781,7 @@
     {
       "name": "Star Movies HD",
       "icon": "https://lh3.googleusercontent.com/-ENdhOuZYZPI/WYrFuVyKssI/AAAAAAAADlw/afQjWzLYVekgX1y7bQysbw20I_7N_01hACLcBGAs/h120/Star_Movies_HD_logo.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1765,7 +1793,7 @@
     {
       "name": "StarWorld",
       "icon": "https://lh3.googleusercontent.com/-m9MN39xAkJI/VpxAv1dEgqI/AAAAAAAAATA/O7ZgRz096EA/h120/starworld.png",
-      "group":"1",
+      "group":"1,7",
       "enable": true,
       "links": [
         {
@@ -1777,7 +1805,7 @@
     {
       "name": "AXN HD",
       "icon": "https://lh3.googleusercontent.com/-GKAboq51RcY/VpxATaqekNI/AAAAAAAAAIw/DgAevNiBgSA/h120/axn.png",
-      "group":"1",
+      "group":"1,7",
       "enable": true,
       "links": [
         {
@@ -1789,7 +1817,7 @@
     {
       "name": "AFC",
       "icon": "https://lh3.googleusercontent.com/-pe-_NlD4MgU/WYsGEUqzx4I/AAAAAAAADnA/FrwDA62Z3OUbt0CpmKGwr1TVUY2zsia9gCLcBGAs/h120/Afc_logo_svg.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1801,7 +1829,19 @@
     {
       "name": "DIVA TV",
       "icon": "https://lh3.googleusercontent.com/-ESIxK612-nM/WYrZ2vGnMjI/AAAAAAAADmk/F6oAbdr0-eMSk19Zokifoop8Mq83KfHcwCLcBGAs/h120/DIVA-logo.png",
-      "group":"1",
+      "group":"7",
+      "enable": true,
+      "links": [
+        {
+          "name": "Server 1",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "name": "FoxLife",
+      "icon": "https://i.imgur.com/KRTd8Mm.png",
+      "group":"1,7",
       "enable": true,
       "links": [
         {
@@ -1813,7 +1853,7 @@
     {
       "name": "Davinci TV",
       "icon": "https://lh3.googleusercontent.com/-XP11Cu7D2MM/WYrbVnEeCvI/AAAAAAAADmw/eSDtWChRMLoPEdZTYcz8ebEMBYXOE_YyQCLcBGAs/h120/davincilearning.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1825,7 +1865,7 @@
     {
       "name": "Discovery",
       "icon": "https://lh3.googleusercontent.com/-n3TK4lu50iE/VpxAZhcZ5gI/AAAAAAAAAK8/_glZ-AAcAa0/h120/discovery(1).png",
-      "group":"1",
+      "group":"1,7",
       "enable": true,
       "links": [
         {
@@ -1837,7 +1877,7 @@
     {
       "name": "National Geographic",
       "icon": "http://i.imgur.com/eG7NOxH.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1849,7 +1889,7 @@
     {
       "name": "FoxSports",
       "icon": "https://lh3.googleusercontent.com/-Xjs9Qakw1jM/VpxAceXGRnI/AAAAAAAAAL8/w8HYqpNLtwk/h120/foxsport.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1861,7 +1901,7 @@
     {
       "name": "Foxsports2",
       "icon": "https://lh3.googleusercontent.com/-N2E4FOnJamc/VpxAck8k9LI/AAAAAAAAAMA/vFwarUTotX8/h120/foxsport2.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1873,7 +1913,7 @@
     {
       "name": "MTV",
       "icon": "https://lh3.googleusercontent.com/-cYNE0PmuOWU/VpxAm8ROzPI/AAAAAAAAAPk/k4aflA9itT0/h120/mtv.png",
-      "group":"1",
+      "group":"1,7",
       "enable": true,
       "links": [
         {
@@ -1885,7 +1925,7 @@
     {
       "name": "Cartoon Network",
       "icon": "https://lh3.googleusercontent.com/-aIj1QUM0IvA/VpxAW8QSPZI/AAAAAAAAAKA/ZAbMXX6yO0c/h50/cartoon.png",
-      "group":"1",
+      "group":"1,7",
       "enable": true,
       "links": [
         {
@@ -1897,7 +1937,7 @@
     {
       "name": "TooNami",
       "icon": "https://lh3.googleusercontent.com/-vwF_UBaY2Cc/WYnYhxPidSI/AAAAAAAADj4/LGksnl-m2Zs-dxXQM1Pku2UyJCOiS7jCwCLcBGAs/h49/3378323-toonami-asia-lo.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1909,7 +1949,7 @@
     {
       "name": "BooMerang",
       "icon": "https://lh3.googleusercontent.com/-iWitqgFmhGM/WtiN9oMnzcI/AAAAAAAAEBg/0-LgYC4piGgGw-eKv2KKwz3Yq3kAT37EQCLcBGAs/h120/1200px-Boomerang_2014_logo.svg.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1921,7 +1961,7 @@
     {
       "name": "CNN",
       "icon": "https://lh3.googleusercontent.com/-QL5uyRMn97I/VpxAYQrMA7I/AAAAAAAAAKg/ln_13dHciaY/h120/cnn.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1933,7 +1973,7 @@
     {
       "name": "Fashion TV",
       "icon": "https://lh3.googleusercontent.com/-IVyS5C4CbNs/VpxAb_F2eUI/AAAAAAAAALs/lD1dFUmPyAc/h120/fashion(1).png",
-      "group":"1",
+      "group":"1,7",
       "enable": true,
       "links": [
         {
@@ -1945,7 +1985,7 @@
     {
       "name": "Ariang",
       "icon": "https://lh3.googleusercontent.com/--A7ZMZRlIzs/VpxATS9xGSI/AAAAAAAAAIs/BZ1jYsn_PkQ/h120/arirang.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1957,7 +1997,7 @@
     {
       "name": "Cinemax",
       "icon": "https://lh3.googleusercontent.com/-1kxexJ2Tsj0/VpxAXRZa2lI/AAAAAAAAAKQ/uZuHN8CLWu0/h120/cinemax(1).png",
-      "group":"1",
+      "group":"1,7",
       "enable": true,
       "links": [
         {
@@ -1969,7 +2009,7 @@
     {
       "name": "CinemaWorld",
       "icon": "https://lh3.googleusercontent.com/-SSNrUI2r1jA/WYrQnrfBAgI/AAAAAAAADmA/LK-p2Ar3oTs7s5mCXKgnhQ01OBmQbdx-ACLcBGAs/h120/614-cinema-world-on-demand.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -1981,7 +2021,7 @@
     {
       "name": "Disney",
       "icon": "https://lh3.googleusercontent.com/-pB4lo73t5BU/VpxAaKT-9gI/AAAAAAAAALI/nqhTy7Xv2LE/h120/disney(1).png",
-      "group":"1",
+      "group":"1,7",
       "enable": true,
       "links": [
         {
@@ -1993,7 +2033,7 @@
     {
       "name": "AnimalPlanet",
       "icon": "https://lh3.googleusercontent.com/-gt9fAUmpFDk/VpxASiQrqsI/AAAAAAAAAIg/amAmUiG0HXc/h120/animalplanet.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -2005,7 +2045,7 @@
     {
       "name": "DW",
       "icon": "http://htvc.vn/uploads/editor/images/Disney_Junior_Logo.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -2017,7 +2057,7 @@
     {
       "name": "Channel News Asia",
       "icon": "https://lh3.googleusercontent.com/-9LUXiGm9VyM/VpxAXP2eyzI/AAAAAAAAAKE/IMJ7uif7DU0/h120/channelnewsasia.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -2029,7 +2069,7 @@
     {
       "name": "TV5 Monde TV",
       "icon": "https://lh3.googleusercontent.com/-oZgOEiOWpzE/VpxAyS2mBDI/AAAAAAAAAUE/fXgHHk4S66k/h120/tv5monde.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -2041,7 +2081,7 @@
     {
       "name": "KBS World",
       "icon": "https://lh3.googleusercontent.com/-B66LObTDDoM/VpxAkga5KhI/AAAAAAAAAOk/KbZAWd1u0pE/h120/kbs.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -2053,7 +2093,7 @@
     {
       "name": "NHK World",
       "icon": "https://lh3.googleusercontent.com/-HDCBUeMpy8s/VpxAnkkF6LI/AAAAAAAAAPo/P5b2c_Xajh0/h120/nhkworld.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -2065,7 +2105,7 @@
     {
       "name": "Bloomberg",
       "icon": "http://i.imgur.com/pLsln7f.jpg",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -2077,7 +2117,7 @@
     {
       "name": "RT Documentary",
       "icon": "http://i.imgur.com/ZlQysK4.jpg",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -2089,7 +2129,7 @@
     {
       "name": "ESPN1",
       "icon": "http://i.imgur.com/gGJVOBN.png",
-      "group":"1",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -2100,8 +2140,8 @@
     },
     {
       "name": "NBA TV",
-      "icon": "",
-      "group":"1",
+      "icon": "https://i.imgur.com/NbjJToG.png",
+      "group":"7",
       "enable": true,
       "links": [
         {
@@ -2112,8 +2152,8 @@
     },
     {
       "name": "K+1",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-KSi1GgtIn_Y/VpxAlSA6UTI/AAAAAAAAAOw/LT3j3s7QAgQ/h120/kplus.png",
+      "group":"1,8",
       "enable": true,
       "links": [
         {
@@ -2124,8 +2164,8 @@
     },
     {
       "name": "K+PM",
-      "icon": "",
-      "group":"1",
+      "icon": "https://i.imgur.com/7ynaSIG.png",
+      "group":"1,8",
       "enable": true,
       "links": [
         {
@@ -2136,8 +2176,8 @@
     },
     {
       "name": "K+PC",
-      "icon": "",
-      "group":"1",
+      "icon": "https://i.imgur.com/j9cfuMK.png",
+      "group":"1,8",
       "enable": true,
       "links": [
         {
@@ -2148,8 +2188,8 @@
     },
     {
       "name": "K+NS",
-      "icon": "",
-      "group":"1",
+      "icon": "https://i.imgur.com/i31jT4F.png",
+      "group":"1,8",
       "enable": true,
       "links": [
         {
@@ -2160,8 +2200,8 @@
     },
     {
       "name": "Match Football 1",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-hxVHzv-ws18/WbOFbgD9QAI/AAAAAAAADvE/jV6SE8_agjoIFf0ezl0_wJglw3a1AaupgCEwYBhgL/w140-h140-p/matchfootball1.jpg",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2172,8 +2212,8 @@
     },
     {
       "name": "Match Football 2",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-2vJyhS0F8Uo/WbOFbruW8-I/AAAAAAAADvI/1VyVYc95DdghVM4rhdVQA2LSbqlDLNz8wCEwYBhgL/w140-h140-p/matchfootball2.jpg",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2184,8 +2224,8 @@
     },
     {
       "name": "Match Football 3",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-ZGiYorgqffA/WbOFbttC5lI/AAAAAAAADvI/YKYMPIyVFsc6DBYiox4aEoxNz3Ah7u12gCEwYBhgL/w140-h140-p/matchfootball3.jpg",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2196,8 +2236,8 @@
     },
     {
       "name": "BeIN Sports 1",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-ZFMhrYfelXA/WpD3RSnhtnI/AAAAAAAADzA/UFD96Ci7tfMz2pV-Q8P8oEUm_QBvpIV8wCLcBGAs/h50/YMLWWha.gif",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2208,8 +2248,8 @@
     },
     {
       "name": "BeIN Sports 2",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-VUZGGee9YZI/WpD3T2kOA3I/AAAAAAAADzU/vC_VlsnItp0IknPjztdNXN3NGNTTaFjoQCLcBGAs/h50/xULJcUw.gif",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2220,8 +2260,8 @@
     },
     {
       "name": "BeIN Sports 3",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-mjixuiGp43I/WpD3R30-wsI/AAAAAAAADzk/Ae2uoOL5w8kJgMETLrVW8XHuhPe9mD_hgCEwYBhgL/h50/b40JKIy.gif",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2232,8 +2272,8 @@
     },
     {
       "name": "BeIN Sports 4",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-UNS2vyUuO5k/WpD3SxJS_UI/AAAAAAAADzs/uvgSA_gBMqQ2R6TRJCFsOr_gGa8ETgJcwCEwYBhgL/h50/mDkADqn.gif",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2244,8 +2284,8 @@
     },
     {
       "name": "BeIN Sports 5",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-M4a0ZNzqwPk/WpD3TXC4H7I/AAAAAAAADzo/sC6TbXCf8woN2Q_1WCEWtP3e9eAqqDTQgCEwYBhgL/h50/p1M43D4.gif",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2256,8 +2296,8 @@
     },
     {
       "name": "BeIN Sports 6",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-7nbrpOYQ6IQ/WpD3PnbrVRI/AAAAAAAADzs/ORa9vKyYbwwA8BUPboQ4oE3iC77csg9yQCEwYBhgL/h50/IgtQOIS.gif",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2268,8 +2308,8 @@
     },
     {
       "name": "BeIN Sports 7",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-7r9J3nm8YDU/WpD3QeQGB4I/AAAAAAAADzs/iWHHr53RRLAmGaFpdY_-cQGmF-VDaV9lgCEwYBhgL/h50/RJ4ZqBK.gif",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2280,8 +2320,8 @@
     },
     {
       "name": "BeIN Sports 8",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-ZSVs10_4jpk/WpD3Sa_nJFI/AAAAAAAADzo/ENoO4vsd6OANR6IMTeIgekfRM7RqTuxCwCEwYBhgL/h50/b4fR5sM.gif",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2292,8 +2332,8 @@
     },
     {
       "name": "BeIN Sports 9",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-fXXgNKEB46s/WpD3P18T2HI/AAAAAAAADzs/EVlFN3PkxJYljfxzRBgVDAhBjHmunlyHgCEwYBhgL/h50/3Te3VV6.gif",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2304,8 +2344,8 @@
     },
     {
       "name": "BeIN Sports 10",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-hTaOhWbweyQ/WpD3Q-txPLI/AAAAAAAADzc/UwJUCuXsBJURPbPcafvczyIqnpK_gQ7TQCEwYBhgL/h50/TqfA8CY.gif",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2316,8 +2356,8 @@
     },
     {
       "name": "BeIN Sports 11",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-ObKu5y7gjc4/WpD3UitGUkI/AAAAAAAADzs/5rdmBmzOTkEj7V3dgH_ukQbFGt54e9VAQCEwYBhgL/h50/yxq8F8B.gif",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2328,8 +2368,8 @@
     },
     {
       "name": "BeIN Sports 12",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-XZmlR1hkCQs/WpD3Pq-mXEI/AAAAAAAADzc/eHGZo9jwUlk76C_M55aiilagZgeKIdYuACEwYBhgL/h50/OufFv1z.gif",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2340,8 +2380,8 @@
     },
     {
       "name": "EuroSport1",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-lTupp9uLMzc/WbOFbt2DWeI/AAAAAAAADvI/zhgX-rGZxVsVYmsfuRmGXpr2M_npL8aWACEwYBhgL/w140-h67-p/eurosport1.jpg",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2352,8 +2392,8 @@
     },
     {
       "name": "EuroSport2",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-eIpgvGJ7dYQ/WbOFbts2O6I/AAAAAAAADvI/Tp2TRCvK1AM7GS9Y3YwHsNY69mAGQ6YNQCEwYBhgL/w140-h72-p/eurosport2.jpg",
+      "group":"8",
       "enable": true,
       "links": [
         {
@@ -2364,8 +2404,8 @@
     },
     {
       "name": "AZShop TV",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-z84WjOtpn5c/VpxAT_8Z-hI/AAAAAAAAAI0/2FJL5lXpwek/h120/azshop.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2376,8 +2416,8 @@
     },
     {
       "name": "TTXVN Vietnam News Agency",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-Q3ngRTLYloY/VpxAyJvBTtI/AAAAAAAAAT8/25mWx1DiIs0/h120/ttxvn.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2388,8 +2428,8 @@
     },
     {
       "name": "VGSShop TV",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-S572seqWDp0/VpxAyuFmuqI/AAAAAAAAAUU/IrRGuPme7wE/h120/vgsshop.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2400,8 +2440,8 @@
     },
     {
       "name": "VOV1 TV",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-Jsf8Eou5KMc/VpxA0DpQmrI/AAAAAAAAAVI/KIpsrOAMBhA/h120/vov1.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2412,8 +2452,8 @@
     },
     {
       "name": "VOV2 TV",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-LrtvXvNRx0w/VpxAz2l07lI/AAAAAAAAAUk/nn3wcDXT-bU/h120/vov2.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2424,8 +2464,8 @@
     },
     {
       "name": "VOV3 TV",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-9nl4nEP8p_s/VpxA0iS6XBI/AAAAAAAAAVE/RFuAdbZNw0A/h120/vov3.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2436,8 +2476,8 @@
     },
     {
       "name": "VOV5 TV",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-Eb7VscBULN4/VpxA2LYnosI/AAAAAAAAAVg/6-ifFT_hhG0/h120/vov5.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2448,8 +2488,8 @@
     },
     {
       "name": "XONE RADIO",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-jB4fq1oXIf4/VpxBEOmvvzI/AAAAAAAAAaY/MaWCz7txrwM/h120/xonefm.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2460,8 +2500,8 @@
     },
     {
       "name": "Mien Tay",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-CAU3uxyoAhE/WYneLOOOMUI/AAAAAAAADkQ/30PaTCdBYeslH-_aOXHSp2EsTj9taHAvgCLcBGAs/h120/201349-mien.tay_.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2472,8 +2512,8 @@
     },
     {
       "name": "Sam TV",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-tQH3OqdkGHw/WYnb998VtnI/AAAAAAAADkI/092X8vPnrd84Zei0iGDozWAZ6qHFqUmwwCEwYBhgL/w140-h85-p/SAMBTV111.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2484,8 +2524,8 @@
     },
     {
       "name": "BTV6 - VietTeen",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-LVhxpVkl3Ss/WselIBCu3iI/AAAAAAAAD78/r4-hfUCkLyc1VG3O-AK3KckU3XpwOkH6wCLcBGAs/h120/btv6.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2496,8 +2536,8 @@
     },
     {
       "name": "BTV9 AnVien HD",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-yhR10Ee1syU/WsekcnKYF2I/AAAAAAAAD70/fywtrQytkk0LS_AF5JQuN4e_aRpeDgkrgCEwYBhgL/w140-h78-p/1466861188.jpg",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2508,8 +2548,8 @@
     },
     {
       "name": "BTV10 NCM",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-MLKPCNpf9qE/WYqqolN3KOI/AAAAAAAADkg/-TVNS3GTcoUZ1gGbjpXSfJGuJXPas2WzgCLcBGAs/h120/NCM-BTV10.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2520,8 +2560,8 @@
     },
     {
       "name": "Phim Hay",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-l56G7nik2qo/WYrSnhC0YiI/AAAAAAAADmM/1a2ICuTOFZAygps9jNuCuPmFGCpmEBPgwCLcBGAs/h120/1901392-470154-logo-phi.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
@@ -2532,8 +2572,8 @@
     },
     {
       "name": "Anninh TG",
-      "icon": "",
-      "group":"1",
+      "icon": "https://lh3.googleusercontent.com/-aq7l0sNfvNI/WYrTl_IgXuI/AAAAAAAADmU/tFQyOvSUvMoSGxg4IlzWwSVzdkKsH3OkQCLcBGAs/h120/7849376-logo-anninhtg.png",
+      "group":"9",
       "enable": true,
       "links": [
         {
