@@ -99,6 +99,8 @@
     "apilink": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.pvmobile.xemtivi/checkv3.php",
     "apilink2": "",
     "newapilink": "https://gitlab.com/dothitinhvnn/controllink/raw/master/tvv3.php",
+    "keyparser": "linkpopular,linkvtv,linkhtv,linkvtc,linkfilm,linksport,linkarea,linkother",
+    "fakelink": "",
     "poup" : "com.nfmedia.tivi",
     "yapi": "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",
     "linkBongda": "http://tiviviet.crackgame.net/bdtvios/tructiepvn.php",
