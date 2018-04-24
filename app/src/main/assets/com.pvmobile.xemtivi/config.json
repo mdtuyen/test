@@ -46,7 +46,7 @@
     }
   ],
   "Ads": {
-    "numClick": 6,
+    "numClick": 5,
     "delay": 2,
     "ids": {
       "admob": {
@@ -96,7 +96,7 @@
     "linkTivi": "http://tiviviet.crackgame.net/bdtvios/datanew2.php?v=9",
     "keyData": "12322789ghhjkabc",
     "resource": "1,5,3",
-    "apilink": "",
+    "apilink": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.pvmobile.xemtivi/checkv3.php",
     "poup" : "com.nfmedia.tivi",
     "yapi": "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",
     "linkBongda": "http://tiviviet.crackgame.net/bdtvios/tructiepvn.php",
