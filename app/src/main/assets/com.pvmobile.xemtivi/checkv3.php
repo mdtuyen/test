@@ -4,7 +4,7 @@
   "link_country2": "http://freegeoip.net/json/",
   "value_country2": "country_name",
   "link_check_country": "http://socks5list.net/LiveSoccerAppV5/lich-phat-song.php",
-  "link_popular": "https://gitlab.com/dothitinhvnn/xwc18/raw/master/tv_real.php",
+  "link_popular": "https://gitlab.com/dothitinhvnn/xwc18/raw/master/tv.php",
   "link_vtv": "https://gitlab.com/dothitinhvnn/xwc18/raw/master/tv_vtv.php",
   "link_htv": "https://gitlab.com/dothitinhvnn/xwc18/raw/master/tv_htv.php",
   "link_vtc": "https://gitlab.com/dothitinhvnn/xwc18/raw/master/tv_vtc.php",
