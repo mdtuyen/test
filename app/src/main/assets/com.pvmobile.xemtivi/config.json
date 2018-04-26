@@ -96,7 +96,7 @@
     "linkTivi": "http://tiviviet.crackgame.net/bdtvios/datanew2.php?v=9",
     "keyData": "12322789ghhjkabc",
     "resource": "1,5,3",
-    "apilink": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.pvmobile.xemtivi/checkv4.php",
+    "apilink": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.pvmobile.xemtivi/controllink/tvv3.php",
     "apilink2": "",
     "newapilink": "https://gitlab.com/dothitinhvnn/controllink/raw/master/tvv3.php",
     "keyparser": "linkpopular,linkvtv,linkhtv,linkvtc,linkfilm,linksport,linkarea,linkother",
