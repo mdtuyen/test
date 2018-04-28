@@ -1,0 +1,53 @@
+{
+  "email": "pvmedia247@gmail.com",
+  "enableApi": true,
+  "timeAfterBuild": 0,
+  "Ads": {
+    "numClick": 6,
+    "delay": 2,
+    "ids": {
+      "admob": {
+        "b": "",
+        "n": "",
+        "p": ""
+      },
+      "facebook": {
+        "b": "385705308572333_385705595238971",
+        "n": "385705308572333_385705405238990",
+        "p": "385705308572333_385705711905626"
+      },
+      "startapp": "207129026",
+      "unity": "1502445"
+    },
+    "timeafterinstall": 48,
+    "timepopupshow": 6,
+    "type": {
+      "b": 3,
+      "n": 0,
+      "p": {
+        "changenet": 0,
+        "click": 3,
+        "closeapp": 0,
+        "lockscreen": 0,
+        "load": 0,
+        "swscreen": 0,
+        "promotion": 0,
+        "splash": false,
+        "openapp": 0
+      }
+    },
+    "replace": {
+      "b": 2,
+      "n": 0,
+      "p": 8
+    }
+  },
+  "Update": {
+    "code": 0,
+    "force": false,
+    "link": "https://github.com/mdtuyen/test/blob/dev/app/src/main/assets/vn.tata.tiviplay/v1.apk?raw=true"
+  },
+  "App": {
+    "filterCountry": "^(VN)$"
+  }
+}
