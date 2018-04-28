@@ -48,6 +48,7 @@
     "link": "https://github.com/mdtuyen/test/blob/dev/app/src/main/assets/vn.tata.tiviplay/v1.apk?raw=true"
   },
   "App": {
+    "dlink": "https://www.google.com/",
     "filterCountry": "^(VN)$"
   }
 }
