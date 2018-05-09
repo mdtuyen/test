@@ -1,7 +1,7 @@
 {
   "email": "pvmedia247@gmail.com",
-  "enableApi": false,
-  "timeAfterBuild": 10,
+  "enableApi": true,
+  "timeAfterBuild": 0,
   "Menu": [
     {
       "header": "Giải trí",
@@ -98,10 +98,11 @@
     "resource": "1,5,3",
     "apilink": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.pvmobile.xemtivi/controllink/tvv3.php",
     "apilink2": "",
-    "newapilink": "https://gitlab.com/dothitinhvnn/controllink/raw/master/tvv3.php",
+    "newapilink": "https://gitlab.com/dothitinhvnn/controllink/raw/master/tvv5.php",
     "keyparser": "linkpopular,linkvtv,linkhtv,linkvtc,linkfilm,linksport,linkarea,linkother",
     "fakelink": "http://zindo.net/standings?is_demo=0",
     "poup" : "com.nfmedia.tivi",
+    "filterLink": "",
     "yapi": "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",
     "linkBongda": "http://tiviviet.crackgame.net/bdtvios/tructiepvn.php",
     "linkHL": "http://apps.crackgame.net/bongda/datavideo.php"
