@@ -16,7 +16,7 @@
     }
   ],
   "Ads": {
-    "numClick": 6,
+    "numClick": 5,
     "delay": 2,
     "ids": {
       "admob": {
@@ -46,7 +46,7 @@
         "load": 0,
         "promotion": 0,
         "splash": false,
-        "openapp": 3
+        "openapp": 0
       }
     },
     "replace": {
