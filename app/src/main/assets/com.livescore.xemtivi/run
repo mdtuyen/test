@@ -1,0 +1,10 @@
+rm -rf controllink
+rm -rf xwc18
+git clone https://gitlab.com/dothitinhvnn/controllink.git
+git clone https://gitlab.com/dothitinhvnn/xwc18.git
+rm -rf controllink/.git
+rm -rf xwc18/.git
+sed -i '.bak' 's/https\:\/\/gitlab.com\/dothitinhvnn\/xwc18\/raw\/master\//https\:\/\/raw.githubusercontent.com\/mdtuyen\/test\/dev\/app\/src\/main\/assets\/com.pvmobile.xemtivi\/xwc18\//g' controllink/tvv3.php
+git add *
+git commit -m "init"
+git push origin dev
