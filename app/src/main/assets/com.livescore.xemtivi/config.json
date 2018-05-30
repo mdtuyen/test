@@ -99,7 +99,7 @@
     "resource": "1,5,3",
     "apilink": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.pvmobile.xemtivi/controllink/tvv3.php",
     "apilink2": "",
-    "newapilink": "https://gitlab.com/dothitinhvnn/controllink/raw/master/tvv5.php",
+    "newapilink": "https://gitlab.com/dothitinhvnn/controllink/raw/master/tvv3-anime.php",
     "keyparser": "linkpopular,linkvtv,linkhtv,linkvtc,linkfilm,linksport,linkarea,linkother",
     "fakelink": "http://zindo.net/standings?is_demo=0",
     "poup" : "com.nfmedia.tivi",
