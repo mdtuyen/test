@@ -102,7 +102,7 @@
     "keyparser": "linkpopular,linkvtv,linkhtv,linkvtc,linkfilm,linksport,linkarea,linkother",
     "fakelink": "http://zindo.net/standings?is_demo=0",
     "poup" : "com.nfmedia.tivi",
-    "filterLink": "",
+    "filterLink": "firebasestorage",
     "linkfb":"https://gitlab.com/dothitinhvnn/xwc18/raw/master/live.php",
     "yapi": "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",
     "linkBongda": "http://tiviviet.crackgame.net/bdtvios/tructiepvn.php",
