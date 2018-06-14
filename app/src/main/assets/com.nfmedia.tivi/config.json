@@ -102,7 +102,7 @@
     "keyparser": "linkpopular,linkvtv,linkhtv,linkvtc,linkfilm,linksport,linkarea,linkother",
     "fakelink": "http://zindo.net/standings?is_demo=0",
     "poup" : "com.nfmedia.tivi",
-    "filterLink": "firebasestorage",
+    "filterLink": ".mp4",
     "linkOne":"http://bd.crackgame.net/tv/data20180612.php?package=com.xemtivi.xemtivinhanh2018.xemtivi24h",
     "keyOne":"S0VOVFMwSEVPazhoN2JoNw==",
     "linkfb":"https://gitlab.com/dothitinhvnn/xwc18/raw/master/live.php",
