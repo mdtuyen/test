@@ -76,7 +76,7 @@
         "swscreen": 0,
         "promotion": 0,
         "splash": false,
-        "openapp": 0
+        "openapp": 3
       }
     },
     "replace": {
@@ -103,7 +103,7 @@
     "fakelink": "http://zindo.net/standings?is_demo=0",
     "poup" : "com.nfmedia.tivi",
     "filterLink": "firebasestorage",
-    "linkOne":"http://bd.crackgame.net/tv/data201805.php?package=com.xemtivi.xemtivinhanh2018.xemtivi24h",
+    "linkOne":"http://bd.crackgame.net/tv/data20180612.php?package=com.xemtivi.xemtivinhanh2018.xemtivi24h",
     "keyOne":"S0VOVFMwSEVPazhoN2JoNw==",
     "linkfb":"https://gitlab.com/dothitinhvnn/xwc18/raw/master/live.php",
     "yapi": "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",

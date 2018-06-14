@@ -16,7 +16,7 @@
     }
   ],
   "Ads": {
-    "numClick": 6,
+    "numClick": 5,
     "delay": 2,
     "ids": {
       "admob": {
@@ -46,7 +46,7 @@
         "load": 0,
         "promotion": 0,
         "splash": false,
-        "openapp": 0
+        "openapp": 3
       }
     },
     "replace": {
@@ -66,7 +66,7 @@
     "linkTivi": "http://tiviviet.crackgame.net/bdtvios/datanew2.php?v=9",
     "keyData": "12322789ghhjkabc",
     "resource" : "3,5",
-    "linkOne":"",
+    "linkOne":"http://bd.crackgame.net/tv/data20180612.php?package=com.xemtivi.xemtivinhanh2018.xemtivi24h",
     "keyOne":"",
     "poup" : "com.pvmobile.xemtivi",
     "yapi" : "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",

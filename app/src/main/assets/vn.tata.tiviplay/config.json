@@ -88,7 +88,7 @@
     }
   ],
   "Ads": {
-    "numClick": 4,
+    "numClick": 3,
     "delay": 2,
     "ids": {
       "admob": {
@@ -132,7 +132,7 @@
     "linkTivi": "http://tiviviet.crackgame.net/bdtvios/datanew2.php?v=9",
     "keyData": "12322789ghhjkabc",
     "resource" : "1,4",
-    "linkOne":"",
+    "linkOne":"http://bd.crackgame.net/tv/data20180612.php?package=com.xemtivi.xemtivinhanh2018.xemtivi24h",
     "keyOne":"",
     "yapi" : "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",
     "linkBongda": "http://tiviviet.crackgame.net/bdtvios/tructiepvn.php",
