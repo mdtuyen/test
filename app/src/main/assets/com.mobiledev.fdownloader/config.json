@@ -43,6 +43,12 @@
     {
       "header": "ỨNG DỤNG MỚI",
       "items": [
+        {
+          "img": "https://lh3.googleusercontent.com/nBp3-nypRplHQ4y59yy8FZz7cUjRNQWTD3uzf34qqPgNtcp5TtSLldHCvUpIHw1rkho=w300-rw",
+          "title": "TiviPlay VIP - New Version",
+          "des": "Ứng dụng MƠI xem tivi, bóng đá, bản tin bóng đá",
+          "id": "com.starmedia.cliptv"
+        }
       ]
     }
   ],
