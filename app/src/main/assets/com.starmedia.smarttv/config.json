@@ -19,8 +19,8 @@
       "startapp": "207129026",
       "unity": "1502445"
     },
-    "delay": 48,
-    "timepopupshow": 6,
+    "trigger": 48,
+    "interval": 6,
     "type": {
       "b": 3,
       "n": 0,
@@ -42,5 +42,10 @@
     }
   },
   "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/config.json/update.json",
-  "app": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/config.json/app.json"
+  "app": {
+    "country": "^(VN)$",
+    "sim": "vn",
+    "yapi": "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",
+    "resource": "6,1,5,3"
+  }
 }
