@@ -72,7 +72,7 @@
       "id": "com.mobiledev.status"
     }
   ],
-  "menu": {
+  "menu": [{
     "header": "Giải trí",
     "img": "https://pbs.twimg.com/profile_images/489650673638588416/qe9EQQ70_400x400.jpeg",
     "items": [
@@ -1010,7 +1010,7 @@
         ]
       }
     ]
-  },
+  }],
   "update": {
     "versionCode":1,
     "versionName":"1",
