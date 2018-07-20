@@ -1,7 +1,0 @@
-{
-  "country": "^(VN)$",
-  "sim": "vn",
-  "wordblock": ".*.mp4.*",
-  "yapi": "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",
-  "resource": "6,1,5,3"
-}
