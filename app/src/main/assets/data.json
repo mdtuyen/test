@@ -19,6 +19,10 @@
     {
       "key":"http://103.56.158.185/tv_icon/premier-league-2.png",
       "value":"http://tv.101vn.com/images/3.jpg"
+    },
+    {
+      "key":"https://i.imgur.com/XZLeP47.png",
+      "value":"https://raw.githubusercontent.com/mdtuyen/test/dev2/app/src/main/assets/others/bongda.jpeg"
     }
   ],
   "more":[
