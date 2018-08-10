@@ -1,7 +1,7 @@
 {
   "email": "funny.mobiledev@gmail.com",
   "enable": true,
-  "later": 0,
+  "later": 86400000,
   "ads": {
     "items": 4,
     "ids": {
@@ -31,7 +31,7 @@
         "load": 0,
         "switch": 0,
         "gift": 0,
-        "open": 0
+        "open": 3
       }
     },
     "replace": {
