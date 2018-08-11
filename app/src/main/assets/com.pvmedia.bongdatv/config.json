@@ -18,6 +18,7 @@
       "startapp": "207129026",
       "unity": "1502445"
     },
+    "delay": 86400000,
     "trigger": 48,
     "interval": 6,
     "type": {
