@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Hit TV",
+    "link": "http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8",
+    "img": "hittv"
+  },
+  {
+    "title": "NRJ HITS TV",
+    "link": "http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1330300049.m3u8",
+    "img": "nrj_hits"
+  },
+  {
+    "title": "XITE Music Live",
+    "link": "http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8",
+    "img": "xite"
+  },
+  {
+    "title": "Qmuisc",
+    "link": "http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8",
+    "img": "qmusic"
+  },
+  {
+    "title": "Music Choice",
+    "link": "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8",
+    "img": "music_choice"
+  },
+  {
+    "title": "1 HD",
+    "link": "https://cdn-01.bonus-tv.ru:8090/1HDmusic/index.m3u8",
+    "img": "hd1"
+  },
+  {
+    "title": "Hit Music Channel",
+    "link": "http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8",
+    "img": "hit_music_channel1"
+  },
+  {
+    "title": "Radio 105 TV",
+    "link": "http://fms.105.net:1935/live/105Test1/playlist.m3u8",
+    "img": "radio_105_tv"
+  },
+  {
+    "title": "Virgin Radio",
+    "link": "http://fms.105.net:1935/live/virgin1/playlist.m3u8",
+    "img": "virgin_radio_tv"
+  },
+  {
+    "title": "Heart TV",
+    "link": "http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8",
+    "img": "hearttv"
+  },
+  {
+    "title": "M2OTV",
+    "link": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8",
+    "img": "m2otv"
+  },
+  {
+    "title": "Nebiset",
+    "link": "http://hls.nebiset.tv/nebiset.m3u8",
+    "img": "nebiset"
+  },
+  {
+    "title": "Monte Carlo TV",
+    "link": "http://fms.105.net:1935/live/rmc1/playlist.m3u8",
+    "img": "radiomontecarlo"
+  },
+  {
+    "title": "Radio Italia TV",
+    "link": "http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8",
+    "img": "radio_italia"
+  },
+  {
+    "title": "Radionorba TV",
+    "link": "http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8",
+    "img": "radionorba"
+  },
+  {
+    "title": "The Country Network",
+    "link": "http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8",
+    "img": "the_country_network"
+  },
+  {
+    "title": "Dream",
+    "link": "http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8",
+    "img": "dreamtv"
+  },
+  {
+    "title": "Folx TV",
+    "link": "http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8",
+    "img": "folx_tv"
+  }
+]
