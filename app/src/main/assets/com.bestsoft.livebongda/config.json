@@ -18,12 +18,14 @@
       "startapp": "207129026",
       "unity": "1502445"
     },
+    "delay": 86400000,
     "trigger": 48,
     "interval": 6,
     "type": {
       "b": 3,
       "n": 0,
       "p": {
+        "launch": 0,
         "net": 0,
         "click": 3,
         "close": 0,
@@ -31,7 +33,7 @@
         "load": 0,
         "switch": 0,
         "gift": 0,
-        "open": 0
+        "open": 3
       }
     },
     "replace": {
