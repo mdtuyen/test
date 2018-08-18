@@ -1708,6 +1708,16 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv3.png",
         "channel": [
           {
+            "link": "http://m.tivi8k.net/sctv3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv3-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
             "link": "http://m.xemtivi.biz/sctv3.php",
             "Referer": "http://m.xemtivi.biz/",
             "prefix": "http://m.xemtivi.biz/"
@@ -1723,6 +1733,16 @@
         "title": "SCTV4",
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv4.png",
         "channel": [
+          {
+            "link": "http://m.tivi8k.net/sctv4.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv4-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
           {
             "link": "http://m.xemtivi.biz/sctv4.php",
             "Referer": "http://m.xemtivi.biz/",
@@ -1740,6 +1760,16 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv5.png",
         "channel": [
           {
+            "link": "http://m.tivi8k.net/sctv5.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv5-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
             "link": "http://m.xemtivi.biz/sctv5.php",
             "Referer": "http://m.xemtivi.biz/",
             "prefix": "http://m.xemtivi.biz/"
@@ -1755,6 +1785,16 @@
         "title": "SCTV6",
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv6.png",
         "channel": [
+          {
+            "link": "http://m.tivi8k.net/sctv6.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv6-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
           {
             "link": "http://m.xemtivi.biz/sctv6.php",
             "Referer": "http://m.xemtivi.biz/",
@@ -1772,6 +1812,16 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv7.png",
         "channel": [
           {
+            "link": "http://m.tivi8k.net/sctv7.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv7-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
             "link": "http://m.xemtivi.biz/sctv7.php",
             "Referer": "http://m.xemtivi.biz/",
             "prefix": "http://m.xemtivi.biz/"
@@ -1787,6 +1837,16 @@
         "title": "SCTV8",
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv8.png",
         "channel": [
+          {
+            "link": "http://m.tivi8k.net/sctv8.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv8-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
           {
             "link": "http://m.xemtivi.biz/sctv8.php",
             "Referer": "http://m.xemtivi.biz/",
@@ -1804,6 +1864,16 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv9.png",
         "channel": [
           {
+            "link": "http://m.tivi8k.net/sctv9.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv9-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
             "link": "http://m.xemtivi.biz/sctv9.php",
             "Referer": "http://m.xemtivi.biz/",
             "prefix": "http://m.xemtivi.biz/"
@@ -1819,6 +1889,16 @@
         "title": "SCTV10",
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv10.png",
         "channel": [
+          {
+            "link": "http://m.tivi8k.net/sctv10.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv10-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
           {
             "link": "http://m.xemtivi.biz/sctv10.php",
             "Referer": "http://m.xemtivi.biz/",
@@ -1836,6 +1916,16 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv11.png",
         "channel": [
           {
+            "link": "http://m.tivi8k.net/sctv11.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv11-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
             "link": "http://m.xemtivi.biz/sctv11.php",
             "Referer": "http://m.xemtivi.biz/",
             "prefix": "http://m.xemtivi.biz/"
@@ -1851,6 +1941,16 @@
         "title": "SCTV12",
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv12.png",
         "channel": [
+          {
+            "link": "http://m.tivi8k.net/sctv12.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv12-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
           {
             "link": "http://m.xemtivi.biz/sctv12.php",
             "Referer": "http://m.xemtivi.biz/",
@@ -1868,6 +1968,16 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv13.png",
         "channel": [
           {
+            "link": "http://m.tivi8k.net/sctv13.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv13-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
             "link": "http://m.xemtivi.biz/sctv13.php",
             "Referer": "http://m.xemtivi.biz/",
             "prefix": "http://m.xemtivi.biz/"
@@ -1883,6 +1993,16 @@
         "title": "SCTV14",
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv14.png",
         "channel": [
+          {
+            "link": "http://m.tivi8k.net/sctv14.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv14-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
           {
             "link": "http://m.xemtivi.biz/sctv14.php",
             "Referer": "http://m.xemtivi.biz/",
@@ -1900,6 +2020,21 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv15.png",
         "channel": [
           {
+            "link": "http://m.tivi8k.net/sctv15.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv15-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv15-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
             "link": "http://m.xemtivi.biz/sctv15.php",
             "Referer": "http://m.xemtivi.biz/",
             "prefix": "http://m.xemtivi.biz/"
@@ -1916,6 +2051,16 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv16.png",
         "channel": [
           {
+            "link": "http://m.tivi8k.net/sctv16.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv16-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
             "link": "http://m.xemtivi.biz/sctv16.php",
             "Referer": "http://m.xemtivi.biz/",
             "prefix": "http://m.xemtivi.biz/"
@@ -1931,6 +2076,21 @@
         "title": "SCTV17",
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv17.png",
         "channel": [
+          {
+            "link": "http://m.tivi8k.net/sctv17.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv17-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv17-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
           {
             "link": "http://m.xemtivi.biz/sctv17.php",
             "Referer": "http://m.xemtivi.biz/",
