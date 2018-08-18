@@ -2214,6 +2214,258 @@
     "title": "Kênh Tổng hợp",
     "item": [
       {
+        "title": "Cinemax",
+        "img": "https://lh3.googleusercontent.com/-lfSpgDMJjgM/VixuoYvwm8I/AAAAAAAAAXM/5OwmOlBxiNU/s128-Ic42/cinemax.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/cinemax.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/cinemax-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/cinemax-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/cinemax-4.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "TTXVN",
+        "img": "https://lh3.googleusercontent.com/-kOB2sK9bsE8/VixvWPQr5HI/AAAAAAAAAy0/clQj7cnGz_o/s128-Ic42/ttxvn.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/ttxvn.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/ttxvn-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/ttxvn-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/ttxvn-4.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "MovieStar HD",
+        "img": "https://lh3.googleusercontent.com/-JJ7pZaXf2wA/VixvRNYoQ4I/AAAAAAAAAms/D8qWzXvOcUQ/s128-Ic42/starmovieshd.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/movies.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/movies-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/movies-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/movies-4.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "HBO",
+        "img": "https://lh3.googleusercontent.com/-Z1gl53VuExQ/Vixuy8Htv6I/AAAAAAAAAzA/aTRvA2gr-Dk/s105-Ic42/hbo1.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/hbo.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/hbo-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/hbo-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/hbo-4.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "AXN",
+        "img": "https://lh3.googleusercontent.com/-jdqBXb5T4eg/VixugsjpWbI/AAAAAAAAAzM/JbEnvSPJ7SY/s128-Ic42/axn.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/axn.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/axn-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/axn-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "Discovery",
+        "img": "https://lh3.googleusercontent.com/-gT-A3dTfYdc/VixusUgJpQI/AAAAAAAAAzE/7C9VhBDGe4o/s128-Ic42/discovery.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/dicovery.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/dicovery-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/dicovery-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/dicovery-4.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/dicovery-5.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "MTVViet",
+        "img": "https://lh3.googleusercontent.com/-u4U0wapBHfo/VixvCqUliYI/AAAAAAAAAgs/juP7vLPubnU/s128-Ic42/mtvviet.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/mtvviet.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/mtvviet-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/mtvviet-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/mtvviet-4.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/mtvviet-5.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },{
+        "title": "VChannel",
+        "img": "https://lh3.googleusercontent.com/-ySZOwdCRSYE/VixvXoVa5YI/AAAAAAAAAy0/PL9Kw5BBCYI/s128-Ic42/vchannel.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/v-chanel.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/v-chanel-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/v-chanel-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },{
+        "title": "FashionTV",
+        "img": "https://lh3.googleusercontent.com/-SkbFhh0I5J8/Vixuu7xyfdI/AAAAAAAAAzE/sEyrchYiVSE/s128-Ic42/fashion.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/fashion.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/fashion-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/fashion-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/fashion-4.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },{
+        "title": "National Geographic",
+        "img": "https://lh3.googleusercontent.com/-i8oiIwhQbHs/VixvEEPqEQI/AAAAAAAAAhY/dScA8YaZJpE/s128-Ic42/nageohd.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/nageohd.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/nageohd-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/nageohd-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
         "title": "QPVN",
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/qpvn.png",
         "channel": [
