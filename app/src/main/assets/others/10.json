@@ -7,18 +7,26 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtv1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtv1.php"
-          },{
+            "link": "http://m.xemtivi.biz/vtv1.php",
+            "Referer": "http://www.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv1-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv1-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv1-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv1-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv1-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv1-7.php"
           }
         ]
@@ -29,17 +37,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtv1.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv1-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv1-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv1-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv1-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv1-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv1-7.php"
           }
         ]
@@ -50,17 +64,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtv2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv2-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv2-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv2-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv2-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv2-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv2-7.php"
           }
         ]
@@ -71,17 +91,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtv3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv3-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv3-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv3-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv3-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv3-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv3-7.php"
           }
         ]
@@ -92,17 +118,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtv3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv3-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv3-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv3-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv3-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv3-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv3-7.php"
           }
         ]
@@ -113,17 +145,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtv4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv4-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv4-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv4-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv4-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv4-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv4-7.php"
           }
         ]
@@ -134,17 +172,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtv5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv5-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv5-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv5-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv5-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv5-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv5-7.php"
           }
         ]
@@ -155,17 +199,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtv6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv6-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv6-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv6-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv6-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv6-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv6-7.php"
           }
         ]
@@ -176,17 +226,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtv6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv6-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv6-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv6-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv6-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv6-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv6-7.php"
           }
         ]
@@ -197,17 +253,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtv7.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv7-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv7-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv7-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv7-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv7-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv7-7.php"
           }
         ]
@@ -218,17 +280,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtv8.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv8-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv8-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv8-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv8-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv8-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv8-7.php"
           }
         ]
@@ -239,17 +307,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtv9.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv9-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv9-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv9-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv9-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv9-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtv9-7.php"
           }
         ]
@@ -260,9 +334,11 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtvcab5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtvcab5-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtvcab5-3.php"
           }
         ]
@@ -598,13 +674,17 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/htv1.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv1-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv1-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv1-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv1-5.php"
           }
         ]
@@ -615,13 +695,17 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/htv2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv2-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv2-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv2-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv2-5.php"
           }
         ]
@@ -632,13 +716,17 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/htv3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv3-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv3-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv3-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv3-5.php"
           }
         ]
@@ -649,13 +737,17 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/htv4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv4-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv4-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv4-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv4-5.php"
           }
         ]
@@ -666,13 +758,17 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/htv7.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv7-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv7-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv7-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv7-5.php"
           }
         ]
@@ -683,13 +779,17 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/htv7.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv7-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv7-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv7-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv7-5.php"
           }
         ]
@@ -700,13 +800,17 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/htv9.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv9-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv9-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv9-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv9-5.php"
           }
         ]
@@ -717,13 +821,17 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/htv9.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv9-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv9-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv9-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv9-5.php"
           }
         ]
@@ -734,13 +842,17 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/htv-thethao.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv-thethao-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv-thethao-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv-thethao-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/htv-thethao-5.php"
           }
         ]
@@ -977,9 +1089,11 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtvcab16.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtvcab16-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtvcab16-3.php"
           }
         ]
@@ -990,9 +1104,11 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtvcab3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtvcab3-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtvcab3-3.php"
           }
         ]
@@ -1003,17 +1119,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/k-1.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-7.php"
           }
         ]
@@ -1024,17 +1146,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/k-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-1.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-7.php"
           }
         ]
@@ -1045,17 +1173,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/k-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-1.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-7.php"
           }
         ]
@@ -1066,17 +1200,23 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/k-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-4.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-6.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/k-7.php"
           }
         ]
@@ -1087,7 +1227,8 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/btv5.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/btv5-2.php"
           }
         ]
@@ -1113,9 +1254,11 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/fox2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/fox2-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/fox2-3.php"
           }
         ]
@@ -1131,11 +1274,14 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/qpvn.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/qpvn-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/qpvn-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/qpvn-4.php"
           }
         ]
@@ -1146,7 +1292,8 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/fbnc.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/fbnc-2.php"
           }
         ]
@@ -1169,7 +1316,8 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/disney.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/disney-2.php"
           }
         ]
@@ -1192,11 +1340,14 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtc13.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtc13-2.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtc13-3.php"
-          },{
+          },
+          {
             "link": "http://m.xemtivi.biz/vtc13-4.php"
           }
         ]
