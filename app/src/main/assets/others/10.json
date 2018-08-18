@@ -2314,6 +2314,26 @@
             "link": "http://m.tivi8k.net/hbo-4.php",
             "Referer": "http://m.tivi8k.net/",
             "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.xemtivi.biz/hbo.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
+          },
+          {
+            "link": "http://m.xemtivi.biz/hbo-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
+          },
+          {
+            "link": "http://m.xemtivi.biz/hbo-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
+          },
+          {
+            "link": "http://m.xemtivi.biz/hbo-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
