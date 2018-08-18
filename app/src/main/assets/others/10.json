@@ -1656,6 +1656,16 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv1.png",
         "channel": [
           {
+            "link": "http://m.tivi8k.net/sctv1.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv1-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
             "link": "http://m.xemtivi.biz/sctv1.php",
             "Referer": "http://m.xemtivi.biz/",
             "prefix": "http://m.xemtivi.biz/"
@@ -1671,6 +1681,16 @@
         "title": "SCTV2",
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv2.png",
         "channel": [
+          {
+            "link": "http://m.tivi8k.net/sctv2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv2-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
           {
             "link": "http://m.xemtivi.biz/sctv2.php",
             "Referer": "http://m.xemtivi.biz/",
