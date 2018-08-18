@@ -2108,6 +2108,16 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv18.png",
         "channel": [
           {
+            "link": "http://m.tivi8k.net/sctv18.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/sctv18-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
             "link": "http://m.xemtivi.biz/sctv18.php",
             "Referer": "http://m.xemtivi.biz/",
             "prefix": "http://m.xemtivi.biz/"
