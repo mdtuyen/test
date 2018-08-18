@@ -8,26 +8,38 @@
         "channel": [
           {
             "link": "http://m.xemtivi.biz/vtv1.php",
-            "Referer": "http://www.xemtivi.biz/",
+            "Referer": "http://m.xemtivi.biz/",
             "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv1-2.php"
+            "link": "http://m.xemtivi.biz/vtv1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv1-3.php"
+            "link": "http://m.xemtivi.biz/vtv1-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv1-4.php"
+            "link": "http://m.xemtivi.biz/vtv1-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv1-5.php"
+            "link": "http://m.xemtivi.biz/vtv1-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv1-6.php"
+            "link": "http://m.xemtivi.biz/vtv1-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv1-7.php"
+            "link": "http://m.xemtivi.biz/vtv1-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -36,25 +48,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtv1hd.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtv1.php"
+            "link": "http://m.xemtivi.biz/vtv1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv1-2.php"
+            "link": "http://m.xemtivi.biz/vtv1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv1-3.php"
+            "link": "http://m.xemtivi.biz/vtv1-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv1-4.php"
+            "link": "http://m.xemtivi.biz/vtv1-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv1-5.php"
+            "link": "http://m.xemtivi.biz/vtv1-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv1-6.php"
+            "link": "http://m.xemtivi.biz/vtv1-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv1-7.php"
+            "link": "http://m.xemtivi.biz/vtv1-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -63,25 +89,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtv2.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtv2.php"
+            "link": "http://m.xemtivi.biz/vtv2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv2-2.php"
+            "link": "http://m.xemtivi.biz/vtv2-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv2-3.php"
+            "link": "http://m.xemtivi.biz/vtv2-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv2-4.php"
+            "link": "http://m.xemtivi.biz/vtv2-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv2-5.php"
+            "link": "http://m.xemtivi.biz/vtv2-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv2-6.php"
+            "link": "http://m.xemtivi.biz/vtv2-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv2-7.php"
+            "link": "http://m.xemtivi.biz/vtv2-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -90,25 +130,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtv3.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtv3.php"
+            "link": "http://m.xemtivi.biz/vtv3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv3-2.php"
+            "link": "http://m.xemtivi.biz/vtv3-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv3-3.php"
+            "link": "http://m.xemtivi.biz/vtv3-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv3-4.php"
+            "link": "http://m.xemtivi.biz/vtv3-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv3-5.php"
+            "link": "http://m.xemtivi.biz/vtv3-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv3-6.php"
+            "link": "http://m.xemtivi.biz/vtv3-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv3-7.php"
+            "link": "http://m.xemtivi.biz/vtv3-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -117,25 +171,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtv3hd.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtv3.php"
+            "link": "http://m.xemtivi.biz/vtv3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv3-2.php"
+            "link": "http://m.xemtivi.biz/vtv3-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv3-3.php"
+            "link": "http://m.xemtivi.biz/vtv3-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv3-4.php"
+            "link": "http://m.xemtivi.biz/vtv3-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv3-5.php"
+            "link": "http://m.xemtivi.biz/vtv3-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv3-6.php"
+            "link": "http://m.xemtivi.biz/vtv3-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv3-7.php"
+            "link": "http://m.xemtivi.biz/vtv3-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -144,25 +212,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtv4.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtv4.php"
+            "link": "http://m.xemtivi.biz/vtv4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv4-2.php"
+            "link": "http://m.xemtivi.biz/vtv4-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv4-3.php"
+            "link": "http://m.xemtivi.biz/vtv4-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv4-4.php"
+            "link": "http://m.xemtivi.biz/vtv4-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv4-5.php"
+            "link": "http://m.xemtivi.biz/vtv4-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv4-6.php"
+            "link": "http://m.xemtivi.biz/vtv4-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv4-7.php"
+            "link": "http://m.xemtivi.biz/vtv4-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -171,25 +253,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtv5.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtv5.php"
+            "link": "http://m.xemtivi.biz/vtv5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv5-2.php"
+            "link": "http://m.xemtivi.biz/vtv5-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv5-3.php"
+            "link": "http://m.xemtivi.biz/vtv5-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv5-4.php"
+            "link": "http://m.xemtivi.biz/vtv5-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv5-5.php"
+            "link": "http://m.xemtivi.biz/vtv5-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv5-6.php"
+            "link": "http://m.xemtivi.biz/vtv5-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv5-7.php"
+            "link": "http://m.xemtivi.biz/vtv5-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -198,25 +294,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtv6.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtv6.php"
+            "link": "http://m.xemtivi.biz/vtv6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv6-2.php"
+            "link": "http://m.xemtivi.biz/vtv6-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv6-3.php"
+            "link": "http://m.xemtivi.biz/vtv6-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv6-4.php"
+            "link": "http://m.xemtivi.biz/vtv6-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv6-5.php"
+            "link": "http://m.xemtivi.biz/vtv6-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv6-6.php"
+            "link": "http://m.xemtivi.biz/vtv6-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv6-7.php"
+            "link": "http://m.xemtivi.biz/vtv6-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -225,25 +335,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtv6hd.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtv6.php"
+            "link": "http://m.xemtivi.biz/vtv6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv6-2.php"
+            "link": "http://m.xemtivi.biz/vtv6-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv6-3.php"
+            "link": "http://m.xemtivi.biz/vtv6-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv6-4.php"
+            "link": "http://m.xemtivi.biz/vtv6-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv6-5.php"
+            "link": "http://m.xemtivi.biz/vtv6-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv6-6.php"
+            "link": "http://m.xemtivi.biz/vtv6-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv6-7.php"
+            "link": "http://m.xemtivi.biz/vtv6-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -252,25 +376,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtv7.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtv7.php"
+            "link": "http://m.xemtivi.biz/vtv7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv7-2.php"
+            "link": "http://m.xemtivi.biz/vtv7-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv7-3.php"
+            "link": "http://m.xemtivi.biz/vtv7-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv7-4.php"
+            "link": "http://m.xemtivi.biz/vtv7-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv7-5.php"
+            "link": "http://m.xemtivi.biz/vtv7-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv7-6.php"
+            "link": "http://m.xemtivi.biz/vtv7-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv7-7.php"
+            "link": "http://m.xemtivi.biz/vtv7-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -279,25 +417,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtv8.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtv8.php"
+            "link": "http://m.xemtivi.biz/vtv8.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv8-2.php"
+            "link": "http://m.xemtivi.biz/vtv8-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv8-3.php"
+            "link": "http://m.xemtivi.biz/vtv8-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv8-4.php"
+            "link": "http://m.xemtivi.biz/vtv8-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv8-5.php"
+            "link": "http://m.xemtivi.biz/vtv8-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv8-6.php"
+            "link": "http://m.xemtivi.biz/vtv8-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv8-7.php"
+            "link": "http://m.xemtivi.biz/vtv8-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -306,25 +458,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtv9.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtv9.php"
+            "link": "http://m.xemtivi.biz/vtv9.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv9-2.php"
+            "link": "http://m.xemtivi.biz/vtv9-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv9-3.php"
+            "link": "http://m.xemtivi.biz/vtv9-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv9-4.php"
+            "link": "http://m.xemtivi.biz/vtv9-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv9-5.php"
+            "link": "http://m.xemtivi.biz/vtv9-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv9-6.php"
+            "link": "http://m.xemtivi.biz/vtv9-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtv9-7.php"
+            "link": "http://m.xemtivi.biz/vtv9-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -333,13 +499,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtvcab5.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtvcab5.php"
+            "link": "http://m.xemtivi.biz/vtvcab5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtvcab5-2.php"
+            "link": "http://m.xemtivi.biz/vtvcab5-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtvcab5-3.php"
+            "link": "http://m.xemtivi.biz/vtvcab5-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       }
@@ -353,19 +525,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc1.php"
+            "link": "http://m.xemtivi.biz/vtc1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc1-2.php"
+            "link": "http://m.xemtivi.biz/vtc1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc1-3.php"
+            "link": "http://m.xemtivi.biz/vtc1-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc1-4.php"
+            "link": "http://m.xemtivi.biz/vtc1-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc1-5.php"
+            "link": "http://m.xemtivi.biz/vtc1-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -374,19 +556,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc2.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc5.php"
+            "link": "http://m.xemtivi.biz/vtc5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc5-2.php"
+            "link": "http://m.xemtivi.biz/vtc5-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc5-3.php"
+            "link": "http://m.xemtivi.biz/vtc5-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc5-4.php"
+            "link": "http://m.xemtivi.biz/vtc5-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc5-5.php"
+            "link": "http://m.xemtivi.biz/vtc5-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -395,19 +587,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc3.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc3.php"
+            "link": "http://m.xemtivi.biz/vtc3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc3-2.php"
+            "link": "http://m.xemtivi.biz/vtc3-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc3-3.php"
+            "link": "http://m.xemtivi.biz/vtc3-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc3-4.php"
+            "link": "http://m.xemtivi.biz/vtc3-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc3-5.php"
+            "link": "http://m.xemtivi.biz/vtc3-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -416,19 +618,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc4.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc4.php"
+            "link": "http://m.xemtivi.biz/vtc4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc4-2.php"
+            "link": "http://m.xemtivi.biz/vtc4-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc4-3.php"
+            "link": "http://m.xemtivi.biz/vtc4-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc4-4.php"
+            "link": "http://m.xemtivi.biz/vtc4-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc4-5.php"
+            "link": "http://m.xemtivi.biz/vtc4-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -437,19 +649,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc5.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc5.php"
+            "link": "http://m.xemtivi.biz/vtc5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc5-2.php"
+            "link": "http://m.xemtivi.biz/vtc5-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc5-3.php"
+            "link": "http://m.xemtivi.biz/vtc5-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc5-4.php"
+            "link": "http://m.xemtivi.biz/vtc5-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc5-5.php"
+            "link": "http://m.xemtivi.biz/vtc5-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -458,19 +680,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc6.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc6.php"
+            "link": "http://m.xemtivi.biz/vtc6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc6-2.php"
+            "link": "http://m.xemtivi.biz/vtc6-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc6-3.php"
+            "link": "http://m.xemtivi.biz/vtc6-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc6-4.php"
+            "link": "http://m.xemtivi.biz/vtc6-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc6-5.php"
+            "link": "http://m.xemtivi.biz/vtc6-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -479,19 +711,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc7.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc7.php"
+            "link": "http://m.xemtivi.biz/vtc7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc7-2.php"
+            "link": "http://m.xemtivi.biz/vtc7-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc7-3.php"
+            "link": "http://m.xemtivi.biz/vtc7-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc7-4.php"
+            "link": "http://m.xemtivi.biz/vtc7-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc7-5.php"
+            "link": "http://m.xemtivi.biz/vtc7-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -500,19 +742,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc8.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc8.php"
+            "link": "http://m.xemtivi.biz/vtc8.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc8-2.php"
+            "link": "http://m.xemtivi.biz/vtc8-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc8-3.php"
+            "link": "http://m.xemtivi.biz/vtc8-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc8-4.php"
+            "link": "http://m.xemtivi.biz/vtc8-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc8-5.php"
+            "link": "http://m.xemtivi.biz/vtc8-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -521,19 +773,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc9.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc9.php"
+            "link": "http://m.xemtivi.biz/vtc9.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc9-2.php"
+            "link": "http://m.xemtivi.biz/vtc9-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc9-3.php"
+            "link": "http://m.xemtivi.biz/vtc9-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc9-4.php"
+            "link": "http://m.xemtivi.biz/vtc9-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc9-5.php"
+            "link": "http://m.xemtivi.biz/vtc9-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -542,19 +804,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc10.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc10.php"
+            "link": "http://m.xemtivi.biz/vtc10.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc10-2.php"
+            "link": "http://m.xemtivi.biz/vtc10-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc10-3.php"
+            "link": "http://m.xemtivi.biz/vtc10-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc10-4.php"
+            "link": "http://m.xemtivi.biz/vtc10-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc10-5.php"
+            "link": "http://m.xemtivi.biz/vtc10-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -563,19 +835,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc11.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc11.php"
+            "link": "http://m.xemtivi.biz/vtc11.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc11-2.php"
+            "link": "http://m.xemtivi.biz/vtc11-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc11-3.php"
+            "link": "http://m.xemtivi.biz/vtc11-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc11-4.php"
+            "link": "http://m.xemtivi.biz/vtc11-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc11-5.php"
+            "link": "http://m.xemtivi.biz/vtc11-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -584,19 +866,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc12.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc12.php"
+            "link": "http://m.xemtivi.biz/vtc12.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc12-2.php"
+            "link": "http://m.xemtivi.biz/vtc12-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc12-3.php"
+            "link": "http://m.xemtivi.biz/vtc12-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc12-4.php"
+            "link": "http://m.xemtivi.biz/vtc12-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc12-5.php"
+            "link": "http://m.xemtivi.biz/vtc12-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -605,19 +897,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc13.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc13.php"
+            "link": "http://m.xemtivi.biz/vtc13.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc13-2.php"
+            "link": "http://m.xemtivi.biz/vtc13-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc13-3.php"
+            "link": "http://m.xemtivi.biz/vtc13-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc13-4.php"
+            "link": "http://m.xemtivi.biz/vtc13-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc13-5.php"
+            "link": "http://m.xemtivi.biz/vtc13-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -626,19 +928,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc14.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc14.php"
+            "link": "http://m.xemtivi.biz/vtc14.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc14-2.php"
+            "link": "http://m.xemtivi.biz/vtc14-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc14-3.php"
+            "link": "http://m.xemtivi.biz/vtc14-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc14-4.php"
+            "link": "http://m.xemtivi.biz/vtc14-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc14-5.php"
+            "link": "http://m.xemtivi.biz/vtc14-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -647,19 +959,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtc16.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc16.php"
+            "link": "http://m.xemtivi.biz/vtc16.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc16-2.php"
+            "link": "http://m.xemtivi.biz/vtc16-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc16-3.php"
+            "link": "http://m.xemtivi.biz/vtc16-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc16-4.php"
+            "link": "http://m.xemtivi.biz/vtc16-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc16-5.php"
+            "link": "http://m.xemtivi.biz/vtc16-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       }
@@ -673,19 +995,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/htv1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/htv1.php"
+            "link": "http://m.xemtivi.biz/htv1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv1-2.php"
+            "link": "http://m.xemtivi.biz/htv1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv1-3.php"
+            "link": "http://m.xemtivi.biz/htv1-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv1-4.php"
+            "link": "http://m.xemtivi.biz/htv1-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv1-5.php"
+            "link": "http://m.xemtivi.biz/htv1-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -694,19 +1026,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/htv2.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/htv2.php"
+            "link": "http://m.xemtivi.biz/htv2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv2-2.php"
+            "link": "http://m.xemtivi.biz/htv2-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv2-3.php"
+            "link": "http://m.xemtivi.biz/htv2-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv2-4.php"
+            "link": "http://m.xemtivi.biz/htv2-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv2-5.php"
+            "link": "http://m.xemtivi.biz/htv2-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -715,19 +1057,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/htv3.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/htv3.php"
+            "link": "http://m.xemtivi.biz/htv3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv3-2.php"
+            "link": "http://m.xemtivi.biz/htv3-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv3-3.php"
+            "link": "http://m.xemtivi.biz/htv3-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv3-4.php"
+            "link": "http://m.xemtivi.biz/htv3-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv3-5.php"
+            "link": "http://m.xemtivi.biz/htv3-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -736,19 +1088,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/htv4.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/htv4.php"
+            "link": "http://m.xemtivi.biz/htv4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv4-2.php"
+            "link": "http://m.xemtivi.biz/htv4-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv4-3.php"
+            "link": "http://m.xemtivi.biz/htv4-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv4-4.php"
+            "link": "http://m.xemtivi.biz/htv4-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv4-5.php"
+            "link": "http://m.xemtivi.biz/htv4-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -757,19 +1119,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/htv7.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/htv7.php"
+            "link": "http://m.xemtivi.biz/htv7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv7-2.php"
+            "link": "http://m.xemtivi.biz/htv7-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv7-3.php"
+            "link": "http://m.xemtivi.biz/htv7-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv7-4.php"
+            "link": "http://m.xemtivi.biz/htv7-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv7-5.php"
+            "link": "http://m.xemtivi.biz/htv7-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -778,19 +1150,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/htv7hd.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/htv7.php"
+            "link": "http://m.xemtivi.biz/htv7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv7-2.php"
+            "link": "http://m.xemtivi.biz/htv7-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv7-3.php"
+            "link": "http://m.xemtivi.biz/htv7-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv7-4.php"
+            "link": "http://m.xemtivi.biz/htv7-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv7-5.php"
+            "link": "http://m.xemtivi.biz/htv7-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -799,19 +1181,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/htv9.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/htv9.php"
+            "link": "http://m.xemtivi.biz/htv9.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv9-2.php"
+            "link": "http://m.xemtivi.biz/htv9-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv9-3.php"
+            "link": "http://m.xemtivi.biz/htv9-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv9-4.php"
+            "link": "http://m.xemtivi.biz/htv9-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv9-5.php"
+            "link": "http://m.xemtivi.biz/htv9-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -820,19 +1212,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/htv9hd.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/htv9.php"
+            "link": "http://m.xemtivi.biz/htv9.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv9-2.php"
+            "link": "http://m.xemtivi.biz/htv9-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv9-3.php"
+            "link": "http://m.xemtivi.biz/htv9-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv9-4.php"
+            "link": "http://m.xemtivi.biz/htv9-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv9-5.php"
+            "link": "http://m.xemtivi.biz/htv9-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -841,19 +1243,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/htvthethao.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/htv-thethao.php"
+            "link": "http://m.xemtivi.biz/htv-thethao.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv-thethao-2.php"
+            "link": "http://m.xemtivi.biz/htv-thethao-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv-thethao-3.php"
+            "link": "http://m.xemtivi.biz/htv-thethao-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv-thethao-4.php"
+            "link": "http://m.xemtivi.biz/htv-thethao-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/htv-thethao-5.php"
+            "link": "http://m.xemtivi.biz/htv-thethao-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       }
@@ -867,10 +1279,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv1.php"
+            "link": "http://m.xemtivi.biz/sctv1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv1-2.php"
+            "link": "http://m.xemtivi.biz/sctv1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -879,10 +1295,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv2.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv2.php"
+            "link": "http://m.xemtivi.biz/sctv2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv2-2.php"
+            "link": "http://m.xemtivi.biz/sctv2-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -891,10 +1311,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv3.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv3.php"
+            "link": "http://m.xemtivi.biz/sctv3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv3-2.php"
+            "link": "http://m.xemtivi.biz/sctv3-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -903,10 +1327,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv4.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv4.php"
+            "link": "http://m.xemtivi.biz/sctv4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv4-2.php"
+            "link": "http://m.xemtivi.biz/sctv4-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -915,10 +1343,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv5.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv5.php"
+            "link": "http://m.xemtivi.biz/sctv5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv5-2.php"
+            "link": "http://m.xemtivi.biz/sctv5-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -927,10 +1359,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv6.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv6.php"
+            "link": "http://m.xemtivi.biz/sctv6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv6-2.php"
+            "link": "http://m.xemtivi.biz/sctv6-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -939,10 +1375,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv7.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv7.php"
+            "link": "http://m.xemtivi.biz/sctv7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv7-2.php"
+            "link": "http://m.xemtivi.biz/sctv7-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -951,10 +1391,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv8.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv8.php"
+            "link": "http://m.xemtivi.biz/sctv8.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv8-2.php"
+            "link": "http://m.xemtivi.biz/sctv8-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -963,10 +1407,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv9.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv9.php"
+            "link": "http://m.xemtivi.biz/sctv9.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv9-2.php"
+            "link": "http://m.xemtivi.biz/sctv9-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -975,10 +1423,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv10.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv10.php"
+            "link": "http://m.xemtivi.biz/sctv10.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv10-2.php"
+            "link": "http://m.xemtivi.biz/sctv10-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -987,10 +1439,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv11.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv11.php"
+            "link": "http://m.xemtivi.biz/sctv11.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv11-2.php"
+            "link": "http://m.xemtivi.biz/sctv11-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -999,10 +1455,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv12.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv12.php"
+            "link": "http://m.xemtivi.biz/sctv12.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv12-2.php"
+            "link": "http://m.xemtivi.biz/sctv12-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1011,10 +1471,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv13.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv13.php"
+            "link": "http://m.xemtivi.biz/sctv13.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv13-2.php"
+            "link": "http://m.xemtivi.biz/sctv13-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1023,10 +1487,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv14.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv14.php"
+            "link": "http://m.xemtivi.biz/sctv14.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv14-2.php"
+            "link": "http://m.xemtivi.biz/sctv14-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1035,10 +1503,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv15.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv15.php"
+            "link": "http://m.xemtivi.biz/sctv15.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv15-2.php"
+            "link": "http://m.xemtivi.biz/sctv15-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1047,10 +1519,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv16.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv16.php"
+            "link": "http://m.xemtivi.biz/sctv16.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv16-2.php"
+            "link": "http://m.xemtivi.biz/sctv16-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1059,10 +1535,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv17.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv17.php"
+            "link": "http://m.xemtivi.biz/sctv17.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv17-2.php"
+            "link": "http://m.xemtivi.biz/sctv17-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1071,10 +1551,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/sctv18.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/sctv18.php"
+            "link": "http://m.xemtivi.biz/sctv18.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/sctv18-2.php"
+            "link": "http://m.xemtivi.biz/sctv18-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       }
@@ -1088,13 +1572,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/bongdatvhd.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtvcab16.php"
+            "link": "http://m.xemtivi.biz/vtvcab16.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtvcab16-2.php"
+            "link": "http://m.xemtivi.biz/vtvcab16-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtvcab16-3.php"
+            "link": "http://m.xemtivi.biz/vtvcab16-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1103,13 +1593,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/thethaotvhd.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtvcab3.php"
+            "link": "http://m.xemtivi.biz/vtvcab3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtvcab3-2.php"
+            "link": "http://m.xemtivi.biz/vtvcab3-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtvcab3-3.php"
+            "link": "http://m.xemtivi.biz/vtvcab3-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1118,25 +1614,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/kplus.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/k-1.php"
+            "link": "http://m.xemtivi.biz/k-1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-2.php"
+            "link": "http://m.xemtivi.biz/k-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-3.php"
+            "link": "http://m.xemtivi.biz/k-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-4.php"
+            "link": "http://m.xemtivi.biz/k-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-5.php"
+            "link": "http://m.xemtivi.biz/k-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-6.php"
+            "link": "http://m.xemtivi.biz/k-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-7.php"
+            "link": "http://m.xemtivi.biz/k-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1145,25 +1655,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/kpm.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/k-2.php"
+            "link": "http://m.xemtivi.biz/k-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-1.php"
+            "link": "http://m.xemtivi.biz/k-1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-3.php"
+            "link": "http://m.xemtivi.biz/k-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-4.php"
+            "link": "http://m.xemtivi.biz/k-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-5.php"
+            "link": "http://m.xemtivi.biz/k-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-6.php"
+            "link": "http://m.xemtivi.biz/k-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-7.php"
+            "link": "http://m.xemtivi.biz/k-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1172,25 +1696,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/kpc.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/k-3.php"
+            "link": "http://m.xemtivi.biz/k-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-2.php"
+            "link": "http://m.xemtivi.biz/k-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-1.php"
+            "link": "http://m.xemtivi.biz/k-1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-4.php"
+            "link": "http://m.xemtivi.biz/k-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-5.php"
+            "link": "http://m.xemtivi.biz/k-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-6.php"
+            "link": "http://m.xemtivi.biz/k-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-7.php"
+            "link": "http://m.xemtivi.biz/k-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1199,25 +1737,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/kns.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/k-4.php"
+            "link": "http://m.xemtivi.biz/k-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-2.php"
+            "link": "http://m.xemtivi.biz/k-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-3.php"
+            "link": "http://m.xemtivi.biz/k-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-4.php"
+            "link": "http://m.xemtivi.biz/k-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-5.php"
+            "link": "http://m.xemtivi.biz/k-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-6.php"
+            "link": "http://m.xemtivi.biz/k-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/k-7.php"
+            "link": "http://m.xemtivi.biz/k-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1226,10 +1778,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/binhduong5.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/btv5.php"
+            "link": "http://m.xemtivi.biz/btv5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/btv5-2.php"
+            "link": "http://m.xemtivi.biz/btv5-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1238,13 +1794,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/fox.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/fox.php"
+            "link": "http://m.xemtivi.biz/fox.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/fox-2.php"
+            "link": "http://m.xemtivi.biz/fox-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/fox-3.php"
+            "link": "http://m.xemtivi.biz/fox-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1253,13 +1815,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/fox2.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/fox2.php"
+            "link": "http://m.xemtivi.biz/fox2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/fox2-2.php"
+            "link": "http://m.xemtivi.biz/fox2-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/fox2-3.php"
+            "link": "http://m.xemtivi.biz/fox2-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       }
@@ -1273,16 +1841,24 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/qpvn.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/qpvn.php"
+            "link": "http://m.xemtivi.biz/qpvn.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/qpvn-2.php"
+            "link": "http://m.xemtivi.biz/qpvn-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/qpvn-3.php"
+            "link": "http://m.xemtivi.biz/qpvn-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/qpvn-4.php"
+            "link": "http://m.xemtivi.biz/qpvn-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1291,10 +1867,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/fbnc.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/fbnc.php"
+            "link": "http://m.xemtivi.biz/fbnc.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/fbnc-2.php"
+            "link": "http://m.xemtivi.biz/fbnc-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1303,10 +1883,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/car-toon.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/carton-cn.php"
+            "link": "http://m.xemtivi.biz/carton-cn.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/carton-cn-2.php"
+            "link": "http://m.xemtivi.biz/carton-cn-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1315,10 +1899,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/disney.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/disney.php"
+            "link": "http://m.xemtivi.biz/disney.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/disney-2.php"
+            "link": "http://m.xemtivi.biz/disney-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1327,10 +1915,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/straworldhd.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/star-world.php"
+            "link": "http://m.xemtivi.biz/star-world.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/star-world-2.php"
+            "link": "http://m.xemtivi.biz/star-world-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1339,16 +1931,24 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/itvhd.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vtc13.php"
+            "link": "http://m.xemtivi.biz/vtc13.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc13-2.php"
+            "link": "http://m.xemtivi.biz/vtc13-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc13-3.php"
+            "link": "http://m.xemtivi.biz/vtc13-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vtc13-4.php"
+            "link": "http://m.xemtivi.biz/vtc13-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       }
@@ -1362,25 +1962,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vinhlong1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vinhlong1.php"
+            "link": "http://m.xemtivi.biz/vinhlong1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhlong1-2.php"
+            "link": "http://m.xemtivi.biz/vinhlong1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhlong1-3.php"
+            "link": "http://m.xemtivi.biz/vinhlong1-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhlong1-4.php"
+            "link": "http://m.xemtivi.biz/vinhlong1-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhlong1-5.php"
+            "link": "http://m.xemtivi.biz/vinhlong1-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhlong1-6.php"
+            "link": "http://m.xemtivi.biz/vinhlong1-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhlong1-7.php"
+            "link": "http://m.xemtivi.biz/vinhlong1-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1389,25 +2003,39 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vinhlong2.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vinhlong2.php"
+            "link": "http://m.xemtivi.biz/vinhlong2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhlong2-2.php"
+            "link": "http://m.xemtivi.biz/vinhlong2-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhlong2-3.php"
+            "link": "http://m.xemtivi.biz/vinhlong2-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhlong2-4.php"
+            "link": "http://m.xemtivi.biz/vinhlong2-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhlong2-5.php"
+            "link": "http://m.xemtivi.biz/vinhlong2-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhlong2-6.php"
+            "link": "http://m.xemtivi.biz/vinhlong2-6.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhlong2-7.php"
+            "link": "http://m.xemtivi.biz/vinhlong2-7.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1416,19 +2044,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/hanoi1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/hanoi1.php"
+            "link": "http://m.xemtivi.biz/hanoi1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hanoi1-2.php"
+            "link": "http://m.xemtivi.biz/hanoi1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hanoi1-3.php"
+            "link": "http://m.xemtivi.biz/hanoi1-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hanoi1-4.php"
+            "link": "http://m.xemtivi.biz/hanoi1-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hanoi1-5.php"
+            "link": "http://m.xemtivi.biz/hanoi1-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1437,19 +2075,29 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/hanoi2.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/hanoi2.php"
+            "link": "http://m.xemtivi.biz/hanoi2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hanoi2-2.php"
+            "link": "http://m.xemtivi.biz/hanoi2-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hanoi2-3.php"
+            "link": "http://m.xemtivi.biz/hanoi2-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hanoi2-4.php"
+            "link": "http://m.xemtivi.biz/hanoi2-4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hanoi2-5.php"
+            "link": "http://m.xemtivi.biz/hanoi2-5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1458,13 +2106,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/angiang1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/angiang1.php"
+            "link": "http://m.xemtivi.biz/angiang1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/angiang1-2.php"
+            "link": "http://m.xemtivi.biz/angiang1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/angiang1-3.php"
+            "link": "http://m.xemtivi.biz/angiang1-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1473,13 +2127,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/baclieu.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/baclieu.php"
+            "link": "http://m.xemtivi.biz/baclieu.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/baclieu-2.php"
+            "link": "http://m.xemtivi.biz/baclieu-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/baclieu-3.php"
+            "link": "http://m.xemtivi.biz/baclieu-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1488,13 +2148,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/bacgiang.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/bacgiang.php"
+            "link": "http://m.xemtivi.biz/bacgiang.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/bacgiang-2.php"
+            "link": "http://m.xemtivi.biz/bacgiang-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/bacgiang-3.php"
+            "link": "http://m.xemtivi.biz/bacgiang-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1503,13 +2169,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vungtau.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/baria-vungtau.php"
+            "link": "http://m.xemtivi.biz/baria-vungtau.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/baria-vungtau-2.php"
+            "link": "http://m.xemtivi.biz/baria-vungtau-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/baria-vungtau-3.php"
+            "link": "http://m.xemtivi.biz/baria-vungtau-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1518,13 +2190,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/bentre.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/bentre.php"
+            "link": "http://m.xemtivi.biz/bentre.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/bentre-2.php"
+            "link": "http://m.xemtivi.biz/bentre-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/bentre-3.php"
+            "link": "http://m.xemtivi.biz/bentre-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1533,13 +2211,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/binhduong1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/binhduong1.php"
+            "link": "http://m.xemtivi.biz/binhduong1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhduong1-2.php"
+            "link": "http://m.xemtivi.biz/binhduong1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhduong1-3.php"
+            "link": "http://m.xemtivi.biz/binhduong1-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1548,13 +2232,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/binhduong2.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/binhduong2.php"
+            "link": "http://m.xemtivi.biz/binhduong2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhduong2-2.php"
+            "link": "http://m.xemtivi.biz/binhduong2-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhduong2-3.php"
+            "link": "http://m.xemtivi.biz/binhduong2-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1563,13 +2253,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/binhduong4.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/binhduong4.php"
+            "link": "http://m.xemtivi.biz/binhduong4.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhduong4-2.php"
+            "link": "http://m.xemtivi.biz/binhduong4-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhduong4-3.php"
+            "link": "http://m.xemtivi.biz/binhduong4-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1578,13 +2274,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/binhdinh.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/binhdinh.php"
+            "link": "http://m.xemtivi.biz/binhdinh.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhdinh-2.php"
+            "link": "http://m.xemtivi.biz/binhdinh-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhdinh-3.php"
+            "link": "http://m.xemtivi.biz/binhdinh-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1593,13 +2295,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/binhthuan.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/binhthuan.php"
+            "link": "http://m.xemtivi.biz/binhthuan.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhthuan-2.php"
+            "link": "http://m.xemtivi.biz/binhthuan-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhthuan-3.php"
+            "link": "http://m.xemtivi.biz/binhthuan-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1608,13 +2316,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/binhphuoc1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/binhphuoc1.php"
+            "link": "http://m.xemtivi.biz/binhphuoc1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhphuoc1-2.php"
+            "link": "http://m.xemtivi.biz/binhphuoc1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhphuoc1-3.php"
+            "link": "http://m.xemtivi.biz/binhphuoc1-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1623,13 +2337,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/binhphuoc2.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/binhphuoc2.php"
+            "link": "http://m.xemtivi.biz/binhphuoc2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhphuoc2-2.php"
+            "link": "http://m.xemtivi.biz/binhphuoc2-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/binhphuoc2-3.php"
+            "link": "http://m.xemtivi.biz/binhphuoc2-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1638,10 +2358,14 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/caumau.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/camau.php"
+            "link": "http://m.xemtivi.biz/camau.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/camau-2.php"
+            "link": "http://m.xemtivi.biz/camau-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
             "link": "http://m.xemtivi.biz/camau-3.php"
@@ -1653,13 +2377,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/daclac.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/daclac.php"
+            "link": "http://m.xemtivi.biz/daclac.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/daclac-2.php"
+            "link": "http://m.xemtivi.biz/daclac-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/daclac-3.php"
+            "link": "http://m.xemtivi.biz/daclac-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1668,13 +2398,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/daknong.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/dacnong.php"
+            "link": "http://m.xemtivi.biz/dacnong.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/dacnong-2.php"
+            "link": "http://m.xemtivi.biz/dacnong-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/dacnong-3.php"
+            "link": "http://m.xemtivi.biz/dacnong-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1683,13 +2419,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/danang1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/danang1.php"
+            "link": "http://m.xemtivi.biz/danang1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/danang1-2.php"
+            "link": "http://m.xemtivi.biz/danang1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/danang1-3.php"
+            "link": "http://m.xemtivi.biz/danang1-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1698,13 +2440,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/danang2.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/danang2.php"
+            "link": "http://m.xemtivi.biz/danang2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/danang2-2.php"
+            "link": "http://m.xemtivi.biz/danang2-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/danang2-3.php"
+            "link": "http://m.xemtivi.biz/danang2-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1713,13 +2461,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/dongthap.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/dongthap.php"
+            "link": "http://m.xemtivi.biz/dongthap.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/dongthap-2.php"
+            "link": "http://m.xemtivi.biz/dongthap-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/dongthap-3.php"
+            "link": "http://m.xemtivi.biz/dongthap-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1728,13 +2482,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/dongnai1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/dongnai1.php"
+            "link": "http://m.xemtivi.biz/dongnai1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/dongnai1-2.php"
+            "link": "http://m.xemtivi.biz/dongnai1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/dongnai1-3.php"
+            "link": "http://m.xemtivi.biz/dongnai1-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1743,13 +2503,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/dongnai2.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/dongnai2.php"
+            "link": "http://m.xemtivi.biz/dongnai2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/dongnai2-2.php"
+            "link": "http://m.xemtivi.biz/dongnai2-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/dongnai2-3.php"
+            "link": "http://m.xemtivi.biz/dongnai2-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1758,13 +2524,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/gialai.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/gialai.php"
+            "link": "http://m.xemtivi.biz/gialai.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/gialai-2.php"
+            "link": "http://m.xemtivi.biz/gialai-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/gialai-3.php"
+            "link": "http://m.xemtivi.biz/gialai-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1773,13 +2545,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/hanam.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/hanam.php"
+            "link": "http://m.xemtivi.biz/hanam.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hanam-2.php"
+            "link": "http://m.xemtivi.biz/hanam-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hanam-3.php"
+            "link": "http://m.xemtivi.biz/hanam-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1788,13 +2566,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/hagiang.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/hagiang.php"
+            "link": "http://m.xemtivi.biz/hagiang.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hagiang-2.php"
+            "link": "http://m.xemtivi.biz/hagiang-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hagiang-3.php"
+            "link": "http://m.xemtivi.biz/hagiang-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1803,13 +2587,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/hatinh.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/hatinh.php"
+            "link": "http://m.xemtivi.biz/hatinh.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hatinh-2.php"
+            "link": "http://m.xemtivi.biz/hatinh-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hatinh-3.php"
+            "link": "http://m.xemtivi.biz/hatinh-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1818,13 +2608,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/haiphong.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/haiphong.php"
+            "link": "http://m.xemtivi.biz/haiphong.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/haiphong-2.php"
+            "link": "http://m.xemtivi.biz/haiphong-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/haiphong-3.php"
+            "link": "http://m.xemtivi.biz/haiphong-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1833,13 +2629,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/haugiang.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/haugiang.php"
+            "link": "http://m.xemtivi.biz/haugiang.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/haugiang-2.php"
+            "link": "http://m.xemtivi.biz/haugiang-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/haugiang-3.php"
+            "link": "http://m.xemtivi.biz/haugiang-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1848,13 +2650,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/khanhhoa.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/khanhhoa.php"
+            "link": "http://m.xemtivi.biz/khanhhoa.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/khanhhoa-2.php"
+            "link": "http://m.xemtivi.biz/khanhhoa-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/khanhhoa-3.php"
+            "link": "http://m.xemtivi.biz/khanhhoa-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1863,13 +2671,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/hoabinh.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/hoabinh.php"
+            "link": "http://m.xemtivi.biz/hoabinh.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hoabinh-2.php"
+            "link": "http://m.xemtivi.biz/hoabinh-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/hoabinh-3.php"
+            "link": "http://m.xemtivi.biz/hoabinh-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1878,13 +2692,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/hue.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/huetv.php"
+            "link": "http://m.xemtivi.biz/huetv.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/huetv-2.php"
+            "link": "http://m.xemtivi.biz/huetv-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/huetv-3.php"
+            "link": "http://m.xemtivi.biz/huetv-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1893,13 +2713,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/kiengiang1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/kiengiang-ptth.php"
+            "link": "http://m.xemtivi.biz/kiengiang-ptth.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/kiengiang-ptth-2.php"
+            "link": "http://m.xemtivi.biz/kiengiang-ptth-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/kiengiang-ptth-3.php"
+            "link": "http://m.xemtivi.biz/kiengiang-ptth-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1908,13 +2734,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/lamdong.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/lamdong.php"
+            "link": "http://m.xemtivi.biz/lamdong.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/lamdong-2.php"
+            "link": "http://m.xemtivi.biz/lamdong-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/lamdong-3.php"
+            "link": "http://m.xemtivi.biz/lamdong-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1923,13 +2755,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/langson.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/langson.php"
+            "link": "http://m.xemtivi.biz/langson.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/langson-2.php"
+            "link": "http://m.xemtivi.biz/langson-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/langson-3.php"
+            "link": "http://m.xemtivi.biz/langson-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1938,13 +2776,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/longan.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/longan.php"
+            "link": "http://m.xemtivi.biz/longan.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/longan-2.php"
+            "link": "http://m.xemtivi.biz/longan-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/longan-3.php"
+            "link": "http://m.xemtivi.biz/longan-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1953,13 +2797,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/ninhthuan.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/nghean.php"
+            "link": "http://m.xemtivi.biz/nghean.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/nghean-2.php"
+            "link": "http://m.xemtivi.biz/nghean-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/nghean-3.php"
+            "link": "http://m.xemtivi.biz/nghean-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1968,13 +2818,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/ninhbinh.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/ninhbinh.php"
+            "link": "http://m.xemtivi.biz/ninhbinh.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/ninhbinh-2.php"
+            "link": "http://m.xemtivi.biz/ninhbinh-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/ninhbinh-3.php"
+            "link": "http://m.xemtivi.biz/ninhbinh-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1983,13 +2839,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/ninhthuan2.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/ninhthuan.php"
+            "link": "http://m.xemtivi.biz/ninhthuan.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/ninhthuan-2.php"
+            "link": "http://m.xemtivi.biz/ninhthuan-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/ninhthuan-3.php"
+            "link": "http://m.xemtivi.biz/ninhthuan-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -1998,13 +2860,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/namdinh.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/namdinh.php"
+            "link": "http://m.xemtivi.biz/namdinh.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/namdinh-2.php"
+            "link": "http://m.xemtivi.biz/namdinh-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/namdinh-3.php"
+            "link": "http://m.xemtivi.biz/namdinh-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2013,13 +2881,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/phutho.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/phutho.php"
+            "link": "http://m.xemtivi.biz/phutho.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/phutho-2.php"
+            "link": "http://m.xemtivi.biz/phutho-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/phutho-3.php"
+            "link": "http://m.xemtivi.biz/phutho-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2028,13 +2902,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/quangbinh.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/quangbinh.php"
+            "link": "http://m.xemtivi.biz/quangbinh.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/quangbinh-2.php"
+            "link": "http://m.xemtivi.biz/quangbinh-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/quangbinh-3.php"
+            "link": "http://m.xemtivi.biz/quangbinh-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2043,13 +2923,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/quangnam.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/quangnam.php"
+            "link": "http://m.xemtivi.biz/quangnam.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/quangnam-2.php"
+            "link": "http://m.xemtivi.biz/quangnam-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/quangnam-3.php"
+            "link": "http://m.xemtivi.biz/quangnam-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2058,13 +2944,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/quangninh1.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/quangninh1.php"
+            "link": "http://m.xemtivi.biz/quangninh1.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/quangninh1-2.php"
+            "link": "http://m.xemtivi.biz/quangninh1-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/quangninh1-3.php"
+            "link": "http://m.xemtivi.biz/quangninh1-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2073,13 +2965,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/quangninh3.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/quangninh3.php"
+            "link": "http://m.xemtivi.biz/quangninh3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/quangninh3-2.php"
+            "link": "http://m.xemtivi.biz/quangninh3-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/quangninh3-3.php"
+            "link": "http://m.xemtivi.biz/quangninh3-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2088,13 +2986,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/soctrang.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/soctrang.php"
+            "link": "http://m.xemtivi.biz/soctrang.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/soctrang-2.php"
+            "link": "http://m.xemtivi.biz/soctrang-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/soctrang-3.php"
+            "link": "http://m.xemtivi.biz/soctrang-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2103,13 +3007,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/tayninh.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/tayninh.php"
+            "link": "http://m.xemtivi.biz/tayninh.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/tayninh-2.php"
+            "link": "http://m.xemtivi.biz/tayninh-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/tayninh-3.php"
+            "link": "http://m.xemtivi.biz/tayninh-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2118,13 +3028,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/thaibinh.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/thaibinh.php"
+            "link": "http://m.xemtivi.biz/thaibinh.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/thaibinh-2.php"
+            "link": "http://m.xemtivi.biz/thaibinh-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/thaibinh-3.php"
+            "link": "http://m.xemtivi.biz/thaibinh-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2133,13 +3049,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/thainguyen.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/thainguyen.php"
+            "link": "http://m.xemtivi.biz/thainguyen.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/thainguyen-2.php"
+            "link": "http://m.xemtivi.biz/thainguyen-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/thainguyen-3.php"
+            "link": "http://m.xemtivi.biz/thainguyen-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2148,13 +3070,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/thanhhoa.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/thanhhoa.php"
+            "link": "http://m.xemtivi.biz/thanhhoa.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/thanhhoa-2.php"
+            "link": "http://m.xemtivi.biz/thanhhoa-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/thanhhoa-3.php"
+            "link": "http://m.xemtivi.biz/thanhhoa-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2163,13 +3091,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/tiengiang.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/tiengiang.php"
+            "link": "http://m.xemtivi.biz/tiengiang.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/tiengiang-2.php"
+            "link": "http://m.xemtivi.biz/tiengiang-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/tiengiang-3.php"
+            "link": "http://m.xemtivi.biz/tiengiang-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2178,13 +3112,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/tpcantho.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/thanhpho-cantho.php"
+            "link": "http://m.xemtivi.biz/thanhpho-cantho.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/thanhpho-cantho-2.php"
+            "link": "http://m.xemtivi.biz/thanhpho-cantho-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/thanhpho-cantho-3.php"
+            "link": "http://m.xemtivi.biz/thanhpho-cantho-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2193,13 +3133,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/travinh.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/travinh.php"
+            "link": "http://m.xemtivi.biz/travinh.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/travinh-2.php"
+            "link": "http://m.xemtivi.biz/travinh-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/travinh-3.php"
+            "link": "http://m.xemtivi.biz/travinh-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2208,13 +3154,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/tuyenquang.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/tuyenquang.php"
+            "link": "http://m.xemtivi.biz/tuyenquang.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/tuyenquang-2.php"
+            "link": "http://m.xemtivi.biz/tuyenquang-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/tuyenquang-3.php"
+            "link": "http://m.xemtivi.biz/tuyenquang-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       },
@@ -2223,13 +3175,19 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vinhphuc.png",
         "channel": [
           {
-            "link": "http://m.xemtivi.biz/vinhphuc.php"
+            "link": "http://m.xemtivi.biz/vinhphuc.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhphuc-2.php"
+            "link": "http://m.xemtivi.biz/vinhphuc-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           },
           {
-            "link": "http://m.xemtivi.biz/vinhphuc-3.php"
+            "link": "http://m.xemtivi.biz/vinhphuc-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
           }
         ]
       }
