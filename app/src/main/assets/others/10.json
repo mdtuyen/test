@@ -518,6 +518,190 @@
     ]
   },
   {
+    "title": "Kênh VTV Cab",
+    "item": [
+      {
+        "title": "VTVCab2",
+        "img": "https://lh3.googleusercontent.com/-ld-M-6oMHrg/VixvobxCpLI/AAAAAAAAAyo/rthYcTn5g4w/s128-Ic42/vtvcab2.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/vtvcab2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab2-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "VTVCab3",
+        "img": "https://lh3.googleusercontent.com/-BxmaBDecIo4/VixvoptL8HI/AAAAAAAAAyk/pBgW9T6hRhc/s128-Ic42/vtvcab3.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/vtvcab3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab3-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab3-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "VTVCab5",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/vtvcab5.png",
+        "channel": [
+          {
+            "link": "http://m.xemtivi.biz/vtvcab5.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
+          },
+          {
+            "link": "http://m.xemtivi.biz/vtvcab5-2.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
+          },
+          {
+            "link": "http://m.xemtivi.biz/vtvcab5-3.php",
+            "Referer": "http://m.xemtivi.biz/",
+            "prefix": "http://m.xemtivi.biz/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab5.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab5-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab5-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab5-4.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "VTVCab7",
+        "img": "https://lh3.googleusercontent.com/-g_BXhyL3X18/VixvpYdmq-I/AAAAAAAAAwM/6r-LOZKrFvg/s128-Ic42/vtvcab7.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/vtvcab7.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab7-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "VTVCab8",
+        "img": "https://lh3.googleusercontent.com/-sAnF5KUMa20/VixvppTF9EI/AAAAAAAAAyY/iIStF2VeRaM/s128-Ic42/vtvcab8.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/vtvcab8.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab8-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "VTVCab9",
+        "img": "https://lh3.googleusercontent.com/-ph3GXnN5YKc/Vixvp5izzmI/AAAAAAAAAyU/lgW10wPpaBk/s128-Ic42/vtvcab9.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/vtvcab9.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab9-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "VTVCab10",
+        "img": "https://lh3.googleusercontent.com/-PmCBDvS_Ues/VixvneMjcsI/AAAAAAAAAvc/OYl5sSZfdOE/s128-Ic42/vtvcab10.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/vtvcab10.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab10-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "VTVCab16",
+        "img": "https://lh3.googleusercontent.com/-Idi2AJNeRIc/VixvoOf4-dI/AAAAAAAAAvs/TyGCK3J4Pvs/s128-Ic42/vtvcab16.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/vtvcab16.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab16-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab16-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "VTVCab20",
+        "img": "https://lh3.googleusercontent.com/-0qQA5Hv30ms/VlXMrRNODZI/AAAAAAAABno/maHvxMatla4/s128-Ic42/vtvcab20.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/vtvcab20.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtvcab20-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Kênh VTC",
     "item": [
       {
@@ -984,6 +1168,114 @@
             "prefix": "http://m.xemtivi.biz/"
           }
         ]
+      },
+      {
+        "title": "VTCHD1",
+        "img": "https://lh3.googleusercontent.com/-BAOSqn-C_d8/VixvfN7LzwI/AAAAAAAAArw/tz18p828yhw/s128-Ic42/vtc1hd.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/vtc1.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc1-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc1-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc1-4.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc1-5.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc1-6.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "VTCHD2",
+        "img": "https://lh3.googleusercontent.com/-lUMown6C0e0/VixvflpSxuI/AAAAAAAAAsM/OBzfyquRitA/s128-Ic42/vtc2hd.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/vtc2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc2-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc2-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc2-4.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc2-5.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc2-6.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "VTCHD3",
+        "img": "https://lh3.googleusercontent.com/-4QTtl-3MYrM/VixvgFWkzYI/AAAAAAAAAsc/PiLsOxEv2HU/s128-Ic42/vtc3hd.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/vtc3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc3-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc3-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc3-4.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc3-5.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/vtc3-6.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
       }
     ]
   },
@@ -1268,7 +1560,92 @@
             "prefix": "http://m.xemtivi.biz/"
           }
         ]
+      },
+      {
+        "title": "HTV Ca nhac",
+        "img": "https://lh3.googleusercontent.com/-FhXLdLHtDiA/VixvFR7kycI/AAAAAAAAAiE/5q8mZDaMy6s/s128-Ic42/nhac.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/htv-nhac.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/htv-nhac-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/htv-nhac-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "HTV Phim",
+        "img": "https://lh3.googleusercontent.com/-15l4hXh_rrE/VixvG62C_1I/AAAAAAAAAio/Hwo-geHJL8s/s128-Ic42/phim.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/htv-phim.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/htv-phim-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/htv-phim-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "HTV Phu nu",
+        "img": "https://lh3.googleusercontent.com/-_bbAH90eKhc/VixvHNfjGkI/AAAAAAAAAig/7UgY70PYa6M/s128-Ic42/phunu.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/htv-phunu.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/htv-phunu-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/htv-phunu-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
+      },
+      {
+        "title": "HTV Thuan viet",
+        "img": "https://lh3.googleusercontent.com/-5EcGvCUuwqk/VixvTIQ-C0I/AAAAAAAAAy4/3-6yavrGgoU/s128-Ic42/thuanviet.png",
+        "channel": [
+          {
+            "link": "http://m.tivi8k.net/htv-thuanviet.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/htv-thuanviet-2.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          },
+          {
+            "link": "http://m.tivi8k.net/htv-thuanviet-3.php",
+            "Referer": "http://m.tivi8k.net/",
+            "prefix": "http://m.tivi8k.net/"
+          }
+        ]
       }
+
     ]
   },
   {
