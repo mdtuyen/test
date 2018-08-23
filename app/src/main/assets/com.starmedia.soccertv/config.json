@@ -33,7 +33,7 @@
         "load": 0,
         "switch": 0,
         "gift": 0,
-        "open": 3
+        "open": 0
       }
     },
     "replace": {
@@ -48,6 +48,6 @@
     "sim": "vn",
     "wordblock": ".*.mp4.*",
     "yapi": "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",
-    "resource": "7,2"
+    "resource": "4,7,10,2"
   }
 }
