@@ -48,7 +48,7 @@
     "sim": "vn",
     "wordblock": ".*.mp4.*",
     "addRadio": true,
-    "privacy-policy" : "",
+    "privacy-policy" : "https://sites.google.com/view/appspro-privacy",
     "yapi": "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",
     "resource": "9,10"
   }
