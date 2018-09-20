@@ -47,6 +47,8 @@
     "country": "^(VN)$",
     "sim": "vn",
     "wordblock": ".*.mp4.*",
+    "addRadio": true,
+    "privacy-policy" : "",
     "yapi": "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",
     "resource": "5,7,2,10"
   }
