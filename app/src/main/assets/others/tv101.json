@@ -3199,6 +3199,10 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtivi.biz/hinh/caumau.png",
         "channel": [
           {
+            "link": "http://tv.ctvcamau.vn/live/tv/tv.m3u8",
+            "direct": true
+          },
+          {
             "link": "http://m.xemtivi.biz/camau.php",
             "Referer": "http://m.xemtivi.biz/",
             "prefix": "http://m.xemtivi.biz/"
