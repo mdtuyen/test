@@ -1,7 +1,7 @@
 {
-  "versionCode":1,
+  "versionCode":100,
   "versionName":"1",
-  "content":"1.新增抢单功能#2.性能优化",
+  "content":"1.Fix bug crash",
   "minSupport":1,
-  "url":"http://45.78.52.169/app/app.apk"
+  "url":"https://github.com/mdtuyen/test/blob/dev/app/src/main/assets/com.bestsoft.livebongda/1.apk?raw=true"
 }

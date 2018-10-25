@@ -87,9 +87,9 @@
     }
   },
   "Update": {
-    "code": 1,
-    "force": false,
-    "link": "https://github.com/mdtuyen/test/blob/dev/app/src/main/assets/vn.tata.tiviplay/v1.apk?raw=true"
+    "code": 100,
+    "force": true,
+    "link": "https://github.com/mdtuyen/test/blob/dev/app/src/main/assets/com.bestsoft.livebongda/1.apk?raw=true"
   },
   "App": {
     "filterCountry": "^(VN)$",
