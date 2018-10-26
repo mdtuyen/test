@@ -69,8 +69,8 @@
       "b": 3,
       "n": 0,
       "p": {
-        "changenet": 8,
-        "click": 3,
+        "changenet": 0,
+        "click": 8,
         "closeapp": 0,
         "lockscreen": 0,
         "load": 0,
@@ -87,7 +87,7 @@
     }
   },
   "Update": {
-    "code": 100,
+    "code": 12,
     "force": true,
     "link": "https://github.com/mdtuyen/test/blob/dev/app/src/main/assets/com.bestsoft.livebongda/1.apk?raw=true"
   },
