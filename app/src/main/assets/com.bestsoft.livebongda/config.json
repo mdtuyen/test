@@ -70,14 +70,14 @@
       "n": 0,
       "p": {
         "changenet": 0,
-        "click": 8,
+        "click": 3,
         "closeapp": 0,
         "lockscreen": 0,
         "load": 0,
         "swscreen": 0,
         "promotion": 0,
         "splash": false,
-        "openapp": 8
+        "openapp": 3
       }
     },
     "replace": {
