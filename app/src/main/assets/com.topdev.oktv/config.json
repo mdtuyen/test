@@ -20,7 +20,7 @@
     },
     "delay": 86400000,
     "trigger": 48,
-    "interval": 6,
+    "interval": 4,
     "type": {
       "b": 3,
       "n": 0,
