@@ -1,0 +1,60 @@
+{
+  "email": "nfdroidmobile@gmail.com",
+  "enable": true,
+  "later": 0,
+  "ads": {
+    "items": 4,
+    "ids": {
+      "admob": {
+        "b": "",
+        "n": "",
+        "p": ""
+      },
+      "rxadmob": {
+        "b": "",
+        "n": "",
+        "p": ""
+      },
+      "fan": {
+        "b": "385705308572333_385705595238971",
+        "n": "385705308572333_385705405238990",
+        "p": "385705308572333_385705711905626"
+      },
+      "startapp": "207129026",
+      "unity": "1502445"
+    },
+    "delay": 86400000,
+    "trigger": 48,
+    "interval": 4,
+    "type": {
+      "b": 3,
+      "n": 0,
+      "p": {
+        "launch": 0,
+        "net": 3,
+        "click": 3,
+        "close": 0,
+        "lock": 0,
+        "load": 0,
+        "switch": 0,
+        "gift": 0,
+        "open": 3
+      }
+    },
+    "replace": {
+      "b": 2,
+      "n": 0,
+      "p": 8
+    }
+  },
+  "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
+  "app": {
+    "country": "^(VN)$",
+    "sim": "vn",
+    "wordblock": ".*.mp4.*",
+    "addRadio": true,
+    "privacy-policy" : "https://sites.google.com/view/appspro-privacy",
+    "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc",
+    "resource": "4,8,2"
+  }
+}
