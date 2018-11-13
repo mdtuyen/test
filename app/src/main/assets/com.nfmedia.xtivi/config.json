@@ -36,8 +36,8 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b": 3,
-      "n": 0,
+      "b": "fan",
+      "n": "",
       "p": {
         "launch": "",
         "net": "fan",
