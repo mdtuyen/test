@@ -42,7 +42,7 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b": "fan",
+      "b": "rxadmob",
       "n": "",
       "p": {
         "launch": "",
