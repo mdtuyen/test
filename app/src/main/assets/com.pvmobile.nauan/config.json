@@ -42,25 +42,21 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b": "rxadmob",
+      "b": "fan",
       "n": "",
       "p": {
         "launch": "",
         "net": "fan",
-        "click": "rxadmob",
+        "click": "fan",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
         "gift": "",
-        "open": "rxadmob"
+        "open": "fan"
       }
     },
-    "replace": {
-      "b": 1,
-      "n": 0,
-      "p": 8
-    }
+    "priority": "fan,rxadmob,inmobi,unity,startapp"
   },
   "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
   "app": {
