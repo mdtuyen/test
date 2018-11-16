@@ -48,7 +48,7 @@
         "launch": "",
         "net": "fan",
         "click": "fan",
-        "close": "fan",
+        "close": "",
         "lock": "",
         "load": "",
         "switch": "",
