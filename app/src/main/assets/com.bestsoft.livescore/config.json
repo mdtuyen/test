@@ -1,0 +1,71 @@
+{
+  "email": "nfdroidmobile@gmail.com",
+  "enable": true,
+  "later": 0,
+  "ads": {
+    "items": 4,
+    "ids": {
+      "admob": {
+        "b": "",
+        "n": "",
+        "p": "",
+        "r": ""
+      },
+      "rxadmob": {
+        "b": "/21617116612/134361542643073",
+        "n": "",
+        "p": "/21617116612/334361542643073",
+        "r": ""
+      },
+      "fan": {
+        "b": "1787581557955964_1787582757955844",
+        "n": "",
+        "p": "1787581557955964_1787583294622457",
+        "r": ""
+      },
+      "inmobi": {
+        "b": "1543239343850",
+        "n": "",
+        "p": "1543064780272",
+        "r": ""
+      },
+      "mopub": {
+        "b": "8c03278fe1ff4c099046868cb8923467",
+        "n": "",
+        "p": "c8032012f8e84ad8bb0fe82431685f88",
+        "r": ""
+      },
+      "startapp": "207129026",
+      "unity": "1502445"
+    },
+    "delay": 86400000,
+    "trigger": 48,
+    "interval": 4,
+    "type": {
+      "b": "fan",
+      "n": "",
+      "p": {
+        "launch": "",
+        "net": "fan",
+        "click": "fan",
+        "close": "",
+        "lock": "",
+        "load": "",
+        "switch": "",
+        "gift": "",
+        "open": "fan"
+      }
+    },
+    "priority": "fan,rxadmob,inmobi,unity,startapp"
+  },
+  "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
+  "app": {
+    "country": "^(VN)$",
+    "sim": "vn",
+    "wordblock": ".*.mp4.*",
+    "addRadio": true,
+    "privacy-policy" : "https://sites.google.com/view/appspro-privacy",
+    "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc",
+    "resource": "9,4"
+  }
+}
