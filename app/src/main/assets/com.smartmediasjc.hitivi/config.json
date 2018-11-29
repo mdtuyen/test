@@ -46,7 +46,7 @@
       "n": "",
       "p": {
         "launch": "",
-        "net": "",
+        "net": "fan",
         "click": "fan",
         "close": "",
         "lock": "",
