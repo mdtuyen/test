@@ -2,6 +2,7 @@
   "email": "pvbromobile@gmail.com",
   "enable": true,
   "later": 0,
+  "minSupport": 0,
   "ads": {
     "items": 4,
     "ids": {

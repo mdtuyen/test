@@ -2,6 +2,7 @@
   "email": "nfdroidmobile@gmail.com",
   "enable": true,
   "later": 0,
+  "minSupport": 0,
   "ads": {
     "items": 2,
     "ids": {
