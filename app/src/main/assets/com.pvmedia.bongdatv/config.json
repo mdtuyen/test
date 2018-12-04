@@ -43,12 +43,12 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b": "fan",
+      "b":"rxadmob",
       "n": "",
       "p": {
         "launch": "",
         "net": "fan",
-        "click": "fan",
+        "click": "rxadmob",
         "close": "",
         "lock": "",
         "load": "",
