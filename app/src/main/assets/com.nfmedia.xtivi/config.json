@@ -47,17 +47,17 @@
       "n": "",
       "p": {
         "launch": "",
-        "net": "fan",
+        "net": "unity",
         "click": "rxadmob",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
         "gift": "",
-        "open": "fan"
+        "open": "rxadmob"
       }
     },
-    "priority": "rxadmob,fan,unity,inmobi,startapp"
+    "priority": "rxadmob,admob,fan,unity,inmobi,startapp"
   },
   "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
   "app": {
