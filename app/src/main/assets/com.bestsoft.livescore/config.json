@@ -54,7 +54,7 @@
         "load": "",
         "switch": "",
         "gift": "",
-        "open": "fan"
+        "open": "rxadmob"
       }
     },
     "priority": "rxadmob,fan,unity,inmobi,startapp"
