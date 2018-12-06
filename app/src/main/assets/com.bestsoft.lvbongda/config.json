@@ -1,0 +1,72 @@
+{
+  "email": "abc@gmail.com",
+  "enable": true,
+  "later": 0,
+  "minSupport": 0,
+  "ads": {
+    "items": 4,
+    "ids": {
+      "admob": {
+        "b": "",
+        "n": "",
+        "p": "",
+        "r": ""
+      },
+      "rxadmob": {
+        "b": "/21617116612/135561544060123",
+        "n": "",
+        "p": "/21617116612/335561544060123",
+        "r": ""
+      },
+      "fan": {
+        "b": "199156937537298_199157680870557",
+        "n": "",
+        "p": "199156937537298_199157934203865",
+        "r": ""
+      },
+      "inmobi": {
+        "b": "1543239343850",
+        "n": "",
+        "p": "1543064780272",
+        "r": ""
+      },
+      "mopub": {
+        "b": "8c03278fe1ff4c099046868cb8923467",
+        "n": "",
+        "p": "c8032012f8e84ad8bb0fe82431685f88",
+        "r": ""
+      },
+      "startapp": "207129026",
+      "unity": "1502445"
+    },
+    "delay": 86400000,
+    "trigger": 48,
+    "interval": 4,
+    "type": {
+      "b":"rxadmob",
+      "n": "",
+      "p": {
+        "launch": "",
+        "net": "unity",
+        "click": "rxadmob",
+        "close": "",
+        "lock": "",
+        "load": "",
+        "switch": "",
+        "gift": "",
+        "open": "rxadmob"
+      }
+    },
+    "priority": "rxadmob,fan,unity,inmobi,startapp"
+  },
+  "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
+  "app": {
+    "country": "^(VN)$",
+    "sim": "vn",
+    "wordblock": ".*.mp4.*",
+    "addRadio": true,
+    "policy" : "https://sites.google.com/view/appspro-privacy",
+    "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc",
+    "resource": "9,4"
+  }
+}
