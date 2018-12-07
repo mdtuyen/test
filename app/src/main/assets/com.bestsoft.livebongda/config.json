@@ -22,24 +22,24 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b": 3,
+      "b": 2,
       "n": 0,
       "p": {
         "launch": 0,
-        "net": 3,
-        "click": 3,
+        "net": 8,
+        "click": 8,
         "close": 0,
         "lock": 0,
         "load": 0,
         "switch": 0,
         "gift": 0,
-        "open": 3
+        "open": 8
       }
     },
     "replace": {
       "b": 2,
       "n": 0,
-      "p": 8
+      "p": 2
     }
   },
   "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
