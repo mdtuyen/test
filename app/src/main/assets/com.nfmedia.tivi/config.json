@@ -2,7 +2,7 @@
   "email": "abc@gmail.com",
   "enable": true,
   "later": 0,
-  "minSupport": 14,
+  "minSupport": 0,
   "ads": {
     "items": 4,
     "ids": {
@@ -54,7 +54,7 @@
         "load": "",
         "switch": "",
         "gift": "",
-        "open": "rxadmob"
+        "open": "fan"
       }
     },
     "priority": "rxadmob,fan,unity,inmobi,startapp"
