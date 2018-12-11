@@ -43,7 +43,7 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b":"",
+      "b":"rxadmob",
       "n": 0,
       "p": {
         "launch": "",
