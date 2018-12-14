@@ -43,12 +43,12 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b":"fan",
+      "b":"",
       "n": 0,
       "p": {
         "launch": "",
         "net": "",
-        "click": "fan",
+        "click": "",
         "close": "",
         "lock": "",
         "load": "",
