@@ -43,18 +43,18 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b":"fan",
+      "b": "rxadmob",
       "n": "",
       "p": {
         "launch": "",
         "net": "",
-        "click": "fan",
+        "click": "rxadmob",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
         "gift": "",
-        "open": "fan"
+        "open": "rxadmob"
       }
     },
     "priority": "rxadmob,admob,fan,unity,inmobi,startapp"
