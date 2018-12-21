@@ -1,8 +1,8 @@
 {
   "email": "funny.mobiledev@gmail.com",
-  "enable": true,
+  "enable": false,
   "later": 0,
-  "minSupport": 0,
+  "minSupport": 30,
   "ads": {
     "items": 4,
     "ids": {
