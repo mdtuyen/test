@@ -1,33 +1,33 @@
 {
-  "email": "abc@gmail.com",
-  "enable": true,
+  "email": "funny.mobiledev@gmail.com",
+  "enable": false,
   "later": 0,
-  "minSupport": 0,
+  "minSupport": 30,
   "ads": {
     "items": 4,
     "ids": {
       "admob": {
-        "b": "",
+        "b": "ca-app-pub-4206000415580410/6891013779",
         "n": "",
-        "p": "",
+        "p": "ca-app-pub-4206000415580410/8451507455",
         "r": ""
       },
       "rxadmob": {
-        "b": "/21617116612/135571544060253",
+        "b": "/21617116612/134511542727613",
         "n": "",
-        "p": "/21617116612/335571544060253",
+        "p": "/21617116612/334511542727613",
         "r": ""
       },
       "fan": {
-        "b": "2248465182103234_2248465622103190",
+        "b": "327179364442345_515248688968744",
         "n": "",
-        "p": "2248465182103234_2248465498769869",
+        "p": "327179364442345_515248568968756",
         "r": ""
       },
       "inmobi": {
-        "b": "1543239343850",
+        "b": "1541580144566",
         "n": "",
-        "p": "1543064780272",
+        "p": "1541450136104",
         "r": ""
       },
       "mopub": {
@@ -57,7 +57,7 @@
         "open": "rxadmob"
       }
     },
-    "priority": "rxadmob,unity,fan,startapp,inmobi"
+    "priority": "rxadmob,admob,fan,unity,inmobi,startapp"
   },
   "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
   "app": {
@@ -67,6 +67,6 @@
     "addRadio": true,
     "policy" : "https://sites.google.com/view/appspro-privacy",
     "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc",
-    "resource": "5,4"
+    "resource": "7,11,4"
   }
 }
