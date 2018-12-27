@@ -1,8 +1,8 @@
 {
-  "versionCode":1,
+  "versionCode":50,
   "versionName":"1",
-  "content":"1.新增抢单功能#2.性能优化",
+  "content":"1.Sửa lỗi server#2.Thêm server mới#3.Loại bỏ bớt quảng cáo#5.Phiên bản hiện tại sẽ không được tiếp tục hỗ trợ và sớm không còn làm việc",
   "minSupport":1,
   "fromStore": true,
-  "url":"http://45.78.52.169/app/app.apk"
+  "url":"https://raw.githubusercontent.com/mdtuyen/test/dev3/app/src/main/assets/com.mobiledev.foopager/v5.apk"
 }
