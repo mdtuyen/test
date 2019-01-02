@@ -57,7 +57,7 @@
         "open": "rxadmob"
       }
     },
-    "priority": "rxadmob,admob,fan,unity,inmobi,startapp"
+    "priority": "rxadmob,unity,fan,inmobi,startapp"
   },
   "update": "https://raw.githubusercontent.com/mdtuyen/test/dev3/app/src/main/assets/com.mobiledev.foopager/update.json",
   "app": {
