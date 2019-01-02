@@ -45,12 +45,12 @@
       "b": "rxadmob",
       "n": "",
       "p": {
-        "launch": "",
-        "net": "unity",
+        "launch": "rxadmob",
+        "net": "rxadmob",
         "click": "rxadmob",
         "close": "",
         "lock": "",
-        "load": "",
+        "load": "rxadmob",
         "switch": "",
         "gift": "",
         "open": "rxadmob"
