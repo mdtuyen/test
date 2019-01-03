@@ -46,12 +46,12 @@
       "b": "rxadmob",
       "n": "",
       "p": {
-        "launch": "rxadmob",
+        "launch": "",
         "net": "rxadmob",
         "click": "rxadmob",
         "close": "",
         "lock": "",
-        "load": "rxadmob",
+        "load": "",
         "switch": "",
         "gift": "",
         "open": "rxadmob"
