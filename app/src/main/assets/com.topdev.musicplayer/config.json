@@ -49,6 +49,7 @@
         "net": "",
         "click": "rxadmob",
         "close": "",
+        "sws": "",
         "lock": "",
         "load": "",
         "switch": "",
@@ -61,8 +62,6 @@
 
   "update": {
     "path": "https://raw.githubusercontent.com/mdtuyen/test/dev3/app/src/main/assets/com.mobiledev.foopager/update.json",
-    "time": 6000,
-    "showToast" : false,
     "force" : true
   },
   "app": {
