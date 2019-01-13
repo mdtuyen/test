@@ -58,14 +58,12 @@
     },
     "priority": "rxadmob,unity,fan,startapp,inmobi"
   },
+
   "update": {
-    "versionCode":1,
-    "versionName":"1",
-    "content":"1.新增抢单功能#2.性能优化",
-    "minSupport":1,
-    "store": true,
-    "package": "com.topdev.musicplayer",
-    "url":"http://45.78.52.169/app/app.apk"
+    "path": "https://raw.githubusercontent.com/mdtuyen/test/dev3/app/src/main/assets/com.mobiledev.foopager/update.json",
+    "time": 6000,
+    "showToast" : false,
+    "force" : true
   },
   "app": {
     "sim" : "vn",
