@@ -1,5 +1,5 @@
 {
-  "email": "nfdroidmobile@gmail.com",
+  "email": "abc@gmail.com",
   "enable": true,
   "later": 0,
   "minSupport": 0,
@@ -7,33 +7,31 @@
     "items": 2,
     "ids": {
       "admob": {
-        "b": "",
+        "b1": "",
+        "b2": "",
         "n": "",
         "p": "",
-        "n": ""
+        "r": ""
       },
       "rxadmob": {
-        "b": "/21617116612/137431547042994",
+        "b1": "/21617116612/137431547042994",
+        "b2": "",
         "n": "",
         "p": "/21617116612/337431547042994",
         "r": ""
       },
       "fan": {
-        "b": "",
+        "b1": "",
+        "b2": "",
         "n": "",
         "p": "",
         "n": ""
       },
       "inmobi": {
-        "b": "1544021164711",
+        "b1": "",
+        "b2": "",
         "n": "",
-        "p": "1544163031196",
-        "r": ""
-      },
-      "mopub": {
-        "b": "8c03278fe1ff4c099046868cb8923467",
-        "n": "",
-        "p": "c8032012f8e84ad8bb0fe82431685f88",
+        "p": "",
         "r": ""
       },
       "startapp": "207129026",
@@ -43,7 +41,8 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b":"rxadmob",
+      "b1":"rxadmob",
+      "b2":"rxadmob",
       "n": "",
       "p": {
         "launch": "",
@@ -59,13 +58,18 @@
     },
     "priority": "rxadmob,unity,fan,startapp,inmobi"
   },
-  "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
+  "update": {
+    "versionCode":1,
+    "versionName":"1",
+    "content":"1.新增抢单功能#2.性能优化",
+    "minSupport":1,
+    "store": true,
+    "package": "com.topdev.musicplayer",
+    "url":"http://45.78.52.169/app/app.apk"
+  },
   "app": {
-    "country": "^(VN)$",
-    "wordblock": ".*.mp4.*",
-    "addRadio": true,
+    "sim" : "vn",
     "policy" : "https://sites.google.com/view/appspro-privacy",
-    "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc",
-    "resource": "7,2"
+    "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc"
   }
 }
