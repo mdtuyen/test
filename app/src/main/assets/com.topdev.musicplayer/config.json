@@ -51,7 +51,7 @@
         "close": "",
         "lock": "",
         "load": "",
-        "switch": "fan,rxadmob,inmobi,admob",
+        "sws": "fan,rxadmob,inmobi,admob",
         "gift": "",
         "open": "fan,rxadmob,inmobi,admob"
       }
