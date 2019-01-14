@@ -41,20 +41,19 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b1":"fan",
-      "b2":"fan",
+      "b1":"fan,rxadmob,inmobi,admob",
+      "b2":"fan,rxadmob,inmobi,admob",
       "n": "",
       "p": {
         "launch": "",
         "net": "",
-        "click": "fan",
-        "close": "fan",
-        "sws": "fan",
+        "click": "",
+        "close": "",
         "lock": "",
         "load": "",
-        "switch": "",
+        "switch": "fan,rxadmob,inmobi,admob",
         "gift": "",
-        "open": "fan"
+        "open": "fan,rxadmob,inmobi,admob"
       }
     },
     "priority": "rxadmob,unity,fan,startapp,inmobi"
