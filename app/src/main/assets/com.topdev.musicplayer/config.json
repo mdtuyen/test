@@ -21,17 +21,17 @@
         "r": ""
       },
       "fan": {
-        "b1": "",
-        "b2": "",
+        "b1": "374455323330149_374455433330138",
+        "b2": "374455323330149_374455863330095",
         "n": "",
-        "p": "",
+        "p": "374455323330149_374456049996743",
         "n": ""
       },
       "inmobi": {
-        "b1": "",
+        "b1": "1541580144566",
         "b2": "",
         "n": "",
-        "p": "",
+        "p": "1541450136104",
         "r": ""
       },
       "startapp": "207129026",
@@ -41,19 +41,19 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b1":"rxadmob",
-      "b2":"rxadmob",
+      "b1":"inmobi",
+      "b2":"inmobi",
       "n": "",
       "p": {
         "launch": "",
         "net": "",
-        "click": "rxadmob",
+        "click": "inmobi",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
         "gift": "",
-        "open": "rxadmob"
+        "open": "inmobi"
       }
     },
     "priority": "rxadmob,unity,fan,startapp,inmobi"
