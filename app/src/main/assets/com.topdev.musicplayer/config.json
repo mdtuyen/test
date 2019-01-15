@@ -41,8 +41,8 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b1":"fan,rxadmob,inmobi,admob",
-      "b2":"fan,rxadmob,inmobi,admob",
+      "b1":"fan,rxadmob,admob",
+      "b2":"fan,rxadmob,admob",
       "n": "",
       "p": {
         "launch": "",
@@ -51,12 +51,12 @@
         "close": "",
         "lock": "",
         "load": "",
-        "sws": "fan,rxadmob,inmobi,admob",
+        "sws": "fan,rxadmob,admob",
         "gift": "",
-        "open": "fan,rxadmob,inmobi,admob"
+        "open": "fan,rxadmob,admob"
       }
     },
-    "priority": "rxadmob,unity,fan,startapp,inmobi"
+    "priority": "fan,admob,rxadmob,unity,startapp,inmobi"
   },
 
   "update": {
