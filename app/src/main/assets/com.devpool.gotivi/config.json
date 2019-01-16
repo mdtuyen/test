@@ -59,7 +59,7 @@
     "priority": "fan,admob,rxadmob,unity,startapp,inmobi"
   },
   "update": {
-    "path": "https://raw.githubusercontent.com/mdtuyen/test/dev3/app/src/main/assets/com.mobiledev.foopager/update.json",
+    "path": "https://raw.githubusercontent.com/mdtuyen/test/dev6/app/src/main/assets/com.devpool.gotivi/update.json",
     "force" : true
   },
   "app": {
