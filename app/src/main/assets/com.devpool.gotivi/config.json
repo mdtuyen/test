@@ -7,64 +7,68 @@
     "items": 4,
     "ids": {
       "admob": {
-        "b": "",
+        "b1": "",
+        "b2": "",
         "n": "",
         "p": "",
         "r": ""
       },
       "rxadmob": {
-        "b": "",
+        "b1": "",
+        "b2": "",
         "n": "",
         "p": "",
         "r": ""
       },
       "fan": {
-        "b": "318674638753224_318674712086550",
+        "b1": "318674638753224_318674712086550",
+        "b2": "",
         "n": "",
         "p": "318674638753224_318675232086498",
         "r": ""
       },
       "inmobi": {
-        "b": "1541296262839",
+        "b1": "",
+        "b2": "",
         "n": "",
-        "p": "1541663176788",
-        "r": ""
-      },
-      "mopub": {
-        "b": "8c03278fe1ff4c099046868cb8923467",
-        "n": "",
-        "p": "c8032012f8e84ad8bb0fe82431685f88",
+        "p": "",
         "r": ""
       },
       "startapp": "207129026",
-      "unity": "1502445"
+      "unity": "3004945"
     },
     "delay": 86400000,
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b": "startapp",
+      "b1":"fan,rxadmob,admob",
+      "b2":"fan,rxadmob,admob",
       "n": "",
       "p": {
         "launch": "",
         "net": "",
-        "click": "startapp",
+        "click": "",
         "close": "",
         "lock": "",
         "load": "",
-        "switch": "",
+        "sws": "fan,rxadmob,admob",
         "gift": "",
-        "open": "startapp"
+        "open": "fan,rxadmob,admob"
       }
     },
-    "priority": "unity,startapp"
+    "priority": "fan,admob,rxadmob,unity,startapp,inmobi"
   },
-  "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
+  "update": {
+    "path": "https://raw.githubusercontent.com/mdtuyen/test/dev3/app/src/main/assets/com.mobiledev.foopager/update.json",
+    "force" : true
+  },
   "app": {
-    "country": "^(VN)$",
-    "wordblock": ".*.mp4.*",
-    "addRadio": true,
+    "sim" : "vn",
     "policy" : "https://sites.google.com/view/appspro-privacy",
+    "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc"
+  },
+  "tv": {
+    "addRadio": true,
     "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc",
     "resource": "11,4,7"
   }
