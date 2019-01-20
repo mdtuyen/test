@@ -35,14 +35,14 @@
         "r": ""
       },
       "startapp": "207129026",
-      "unity": "3004945"
+      "unity": "1605091"
     },
     "delay": 86400000,
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b1":"fan,rxadmob,admob",
-      "b2":"fan,rxadmob,admob",
+      "b1":"fan,rxadmob,unity",
+      "b2":"fan,rxadmob,unity",
       "n": "",
       "p": {
         "launch": "",
@@ -51,12 +51,12 @@
         "close": "",
         "lock": "",
         "load": "",
-        "sws": "fan,rxadmob,admob",
+        "sws": "fan,rxadmob,unity",
         "gift": "",
-        "open": "fan,rxadmob,admob"
+        "open": "fan,rxadmob,unity"
       }
     },
-    "priority": "fan,admob,rxadmob,unity,startapp,inmobi"
+    "priority": "fan,rxadmob,unity,startapp"
   },
   "update": {
     "path": "https://raw.githubusercontent.com/mdtuyen/test/dev6/app/src/main/assets/com.devpool.gotivi/update.json",
