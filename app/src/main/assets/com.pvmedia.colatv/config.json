@@ -1,10 +1,10 @@
 {
-  "email": "abc@gmail.com",
+  "email": "colatv@gmail.com",
   "enable": true,
   "later": 0,
   "minSupport": 0,
   "ads": {
-    "items": 5,
+    "items": 4,
     "ids": {
       "admob": {
         "b1": "",
@@ -41,7 +41,8 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b": "unity,startapp,inmobi,rxadmob",
+      "b1": "unity,startapp,inmobi,rxadmob",
+      "b2": "unity,startapp,inmobi,rxadmob",
       "n": 0,
       "p": {
         "launch": "",
@@ -57,14 +58,19 @@
     },
     "priority": "rxadmob,unity,fan,startapp,inmobi"
   },
-  "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
+  "update": {
+    "path": "https://raw.githubusercontent.com/mdtuyen/test/dev6/app/src/main/assets/com.pvmedia.colatv/update.json",
+    "force" : true
+  },
   "app": {
-    "country": "^(VN)$",
-    "sim": "vn",
-    "wordblock": ".*.mp4.*",
-    "addRadio": true,
+    "sim" : "vn",
     "policy" : "https://sites.google.com/view/appspro-privacy",
+    "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc"
+  },
+  "tv": {
+    "addRadio": true,
+    "useFab": 0,
     "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc",
-    "resource": "4,7,5"
+    "resource": "4,5"
   }
 }
