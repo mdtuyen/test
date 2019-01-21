@@ -41,8 +41,8 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b1":"fan,rxadmob",
-      "b2":"fan,rxadmob",
+      "b1":"unity,startapp,inmobi,rxadmob",
+      "b2":"unity,startapp,inmobi,rxadmob",
       "n": "",
       "p": {
         "launch": "",
@@ -51,9 +51,9 @@
         "close": "",
         "lock": "",
         "load": "",
-        "sws": "fan,rxadmob,unity",
+        "sws": "unity,startapp,inmobi,rxadmob",
         "gift": "",
-        "open": "fan,rxadmob,unity"
+        "open": "unity,startapp,inmobi,rxadmob"
       }
     },
     "priority": "rxadmob,fan,unity,startapp,inmobi"
@@ -71,6 +71,6 @@
     "addRadio": true,
     "useFab": 0,
     "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc",
-    "resource": "4,7,8"
+    "resource": "11,4"
   }
 }
