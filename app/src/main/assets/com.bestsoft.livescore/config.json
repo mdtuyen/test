@@ -27,14 +27,14 @@
       "n": 0,
       "p": {
         "launch": 0,
-        "net": 3,
-        "click": 3,
+        "net": 8,
+        "click": 8,
         "close": 0,
         "lock": 0,
         "load": 0,
         "switch": 0,
         "gift": 0,
-        "open": 3
+        "open": 8
       }
     },
     "replace": {
