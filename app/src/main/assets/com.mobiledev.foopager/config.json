@@ -38,15 +38,15 @@
       "b": 3,
       "n": 0,
       "p": {
-        "changenet": 0,
-        "click": 3,
-        "closeapp": 0,
-        "lockscreen": 0,
+        "changenet": 8,
+        "click": 8,
+        "closeapp": 8,
+        "lockscreen": 8,
         "swscreen": 0,
-        "load": 0,
+        "load": 8,
         "promotion": 0,
         "splash": false,
-        "openapp": 3
+        "openapp": 8
       }
     },
     "replace": {

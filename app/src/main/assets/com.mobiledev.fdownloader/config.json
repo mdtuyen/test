@@ -75,15 +75,15 @@
       "b": 1,
       "n": 0,
       "p": {
-        "changenet": 0,
+        "changenet": 8,
         "click": 1,
         "closeapp": 0,
         "lockscreen": 0,
-        "load": 0,
+        "load": 8,
         "swscreen": 0,
         "promotion": 0,
         "splash": false,
-        "openapp": 0
+        "openapp": 8
       }
     },
     "replace": {

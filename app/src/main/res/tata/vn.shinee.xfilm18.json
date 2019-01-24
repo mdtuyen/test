@@ -27,7 +27,7 @@
         "closeapp" : 2,
         "lockscreen" : 2,
         "splash" : true,
-        "openapp" : 0
+        "openapp" : 2
       }
     }
   },
