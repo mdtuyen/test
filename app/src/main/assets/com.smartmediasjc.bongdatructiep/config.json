@@ -7,33 +7,31 @@
     "items": 4,
     "ids": {
       "admob": {
-        "b": "",
+        "b1": "",
+        "b2": "",
         "n": "",
         "p": "",
         "r": ""
       },
       "rxadmob": {
-        "b": "/21617116612/134311542585861",
+        "b1": "/21617116612/134311542585861",
+        "b2": "/21617116612/134311542585861",
         "n": "",
         "p": "/21617116612/334311542585861",
         "r": ""
       },
       "fan": {
-        "b": "204814243667679_345448976270871",
+        "b1": "204814243667679_345448976270871",
+        "b2": "204814243667679_345448976270871",
         "n": "",
         "p": "204814243667679_207053456777091",
         "r": ""
       },
       "inmobi": {
-        "b": "1543145520805",
+        "b1": "1543145520805",
+        "b2": "1543145520805",
         "n": "",
         "p": "1540908976402",
-        "r": ""
-      },
-      "mopub": {
-        "b": "8c03278fe1ff4c099046868cb8923467",
-        "n": "",
-        "p": "c8032012f8e84ad8bb0fe82431685f88",
         "r": ""
       },
       "startapp": "207129026",
@@ -43,30 +41,36 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b": "rxadmob",
+      "b1":"fan,rxadmob,unity",
+      "b2":"fan,rxadmob,unity",
       "n": "",
       "p": {
         "launch": "",
         "net": "",
-        "click": "rxadmob",
+        "click": "",
         "close": "",
         "lock": "",
         "load": "",
-        "switch": "",
+        "sws": "fan,rxadmob,unity",
         "gift": "",
-        "open": "rxadmob"
+        "open": "fan,rxadmob,unity"
       }
     },
-    "priority": "rxadmob,unity,fan,startapp,inmobi"
+    "priority": "fan,rxadmob,unity,startapp"
   },
-  "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
+  "update": {
+    "path": "https://raw.githubusercontent.com/mdtuyen/test/dev6/app/src/main/assets/com.devpool.gotivi/update.json",
+    "force" : true
+  },
   "app": {
-    "country": "^(VN)$",
-    "sim": "vn",
-    "wordblock": ".*.mp4.*",
-    "addRadio": true,
+    "sim" : "vn",
     "policy" : "https://sites.google.com/view/appspro-privacy",
+    "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc"
+  },
+  "tv": {
+    "addRadio": true,
+    "useFab": true,
     "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc",
-    "resource": "7,2,4"
+    "resource": "7,11"
   }
 }
