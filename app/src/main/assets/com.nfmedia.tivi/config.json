@@ -59,7 +59,7 @@
     "priority": "rxadmob,unity,fan,startapp,inmobi"
   },
   "update": {
-    "path": "https://raw.githubusercontent.com/mdtuyen/test/dev6/app/src/main/assets/com.nfmedia.tivi/update.json",
+    "path": "https://raw.githubusercontent.com/mdtuyen/test/dev6/app/src/main/assets/com.devpool.iplaymusictube/update.json",
     "force" : true
   },
   "app": {
