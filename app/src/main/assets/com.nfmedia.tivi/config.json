@@ -7,33 +7,31 @@
     "items": 4,
     "ids": {
       "admob": {
-        "b": "",
+        "b1": "",
+        "b2": "",
         "n": "",
         "p": "",
         "r": ""
       },
       "rxadmob": {
-        "b": "/21617116612/134791542896491",
+        "b1": "/21617116612/134791542896491",
+        "b2": "/21617116612/134791542896491",
         "n": "",
         "p": "/21617116612/334791542896491",
         "r": ""
       },
       "fan": {
-        "b": "385705308572333_541740692968793",
+        "b1": "385705308572333_541740692968793",
+        "b2": "385705308572333_541740692968793",
         "n": "",
         "p": "385705308572333_541740602968802",
         "r": ""
       },
       "inmobi": {
-        "b": "1542858020586",
+        "b1": "1542858020586",
+        "b2": "1542858020586",
         "n": "",
         "p": "1540995149669",
-        "r": ""
-      },
-      "mopub": {
-        "b": "8c03278fe1ff4c099046868cb8923467",
-        "n": "",
-        "p": "c8032012f8e84ad8bb0fe82431685f88",
         "r": ""
       },
       "startapp": "207129026",
@@ -43,29 +41,36 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b": "rxadmob",
+      "b1": "fan,rxadmob,unity",
+      "b2": "fan,rxadmob,unity",
       "n": "",
       "p": {
         "launch": "",
         "net": "",
-        "click": "rxadmob",
+        "click": "",
         "close": "",
         "lock": "",
         "load": "",
-        "switch": "",
+        "sws": "fan,rxadmob,unity",
         "gift": "",
-        "open": "rxadmob"
+        "open": "fan,rxadmob,unity"
       }
     },
     "priority": "rxadmob,unity,fan,startapp,inmobi"
   },
-  "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
+  "update": {
+    "path": "https://raw.githubusercontent.com/mdtuyen/test/dev6/app/src/main/assets/com.nfmedia.tivi/update.json",
+    "force" : true
+  },
   "app": {
-    "country": "^(VN)$",
-    "wordblock": ".*.mp4.*",
-    "addRadio": true,
+    "sim" : "vn",
     "policy" : "https://sites.google.com/view/appspro-privacy",
+    "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc"
+  },
+  "tv": {
+    "addRadio": true,
+    "useFab": 0,
     "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc",
-    "resource": "11,4,8,2"
+    "resource": "5,6"
   }
 }
