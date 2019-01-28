@@ -59,7 +59,7 @@
     "priority": "b1":"rxadmob,inmobi"
   },
   "update": {
-    "path": "https://raw.githubusercontent.com/mdtuyen/test/dev6/app/src/main/assets/com.topdev.onetv/update.json",
+    "path": "https://raw.githubusercontent.com/mdtuyen/test/dev6/app/src/main/assets/com.greenapp.tinbongda/update.json",
     "force" : true
   },
   "app": {
