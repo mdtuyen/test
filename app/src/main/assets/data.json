@@ -36,34 +36,64 @@
           "img": "http://vetinhtv.com/tvstream_new/web/images/1100588548Am%20Nhac%20Icon.png",
           "group": [
             {
-              "name": "Đàm Vĩnh Hưng Tổng hợp",
+              "name": "Bản nhạc hàng đầu - Đan Trường",
+              "avatar": "https://i.ytimg.com/vi/bujtjkN_C64/default.jpg",
+              "link": "PLaeuU6ZukfvnGdFS8nGjcuLkYtA4cbAYg",
+              "desc": "Đan Trường Tổng hợp"
+            },
+            {
+              "name": "Bản nhạc hàng đầu - chau khải phong",
+              "avatar": "https://i.ytimg.com/vi/X0kFbDNaq_w/default.jpg",
+              "link": "PLCZaT0txYxBmdknvFmP5pPt2D3MUQXGwD",
+              "desc": "chau khải phong Tổng hợp"
+            },
+            {
+              "name": "Bản nhạc hàng đầu - Sơn Tùng",
+              "avatar": "https://i.ytimg.com/vi/FN7ALfpGxiI/default.jpg",
+              "link": "PLpAwiDR3-1hjgLQHbBT6DisJY9jjgs9Bv",
+              "desc": "Sơn Tùng Tổng hợp"
+            },
+            {
+              "name": "Bản nhạc hàng đầu - Đàm Vĩnh Hưng",
               "avatar": "https://i.ytimg.com/vi/jZDrfyVpIls/default.jpg",
               "link": "PLxtAGp7EfIr1si2RG9kf8PavO-WtZUhGt",
               "desc": "Đàm Vĩnh Hưng Tổng hợp"
             },
             {
-              "name": "Như Quỳnh Tổng hợp",
+              "name": "Bản nhạc hàng đầu - Như Quỳnh",
               "avatar": "https://i.ytimg.com/vi/DTGEUuO1a0A/default.jpg",
               "link": "PLz-ZkbU0UCdq8RLCDOanGw4LHLFK7t9MG",
               "desc": "Như Quỳnh Tổng hợp"
             },
             {
-              "name": "Phi Nhung Tổng hợp",
+              "name": "Bản nhạc hàng đầu - Phi Nhung",
               "avatar": "https://i.ytimg.com/vi/oEbLL4q9ucQ/default.jpg",
               "link": "PLatySILp-i3CtE2hxZu7ULha40BVI-u_T",
               "desc": "Phi Nhung Tổng hợp"
             },
             {
-              "name": "Quang Lê Tổng hợp",
+              "name": "Bản nhạc hàng đầu - Quang Lê",
               "avatar": "https://i.ytimg.com/vi/p_4v-Zehvlc/default.jpg",
               "link": "PLMLa5lKfbVx0vExMClXFNkUbb25JA28I8",
               "desc": "Quang Lê Tổng hợp"
             },
             {
-              "name": "Mỹ Tâm Tổng hợp",
+              "name": "Bản nhạc hàng đầu - Mỹ Tâm",
               "avatar": "https://i.ytimg.com/vi/f-BzUepNeZw/default.jpg",
               "link": "PLtEnMfLjcd3X8x1jsNP_MINYd8jgL3UWU",
               "desc": "Mỹ Tâm Tổng hợp"
+            },
+            {
+              "name": "Bản nhạc hàng đầu - Phạm Trưởng",
+              "avatar": "https://i.ytimg.com/vi/niQjKxtbT8g/default.jpg",
+              "link": "PLRNAZeaJLpoM0Qa4klQviZme7QhSKGy-z",
+              "desc": "Phạm Trưởng Tổng hợp"
+            },
+            {
+              "name": "Bản nhạc hàng đầu - Đan Nguyên",
+              "avatar": "https://i.ytimg.com/vi/J3vqR9BEkYc/default.jpg",
+              "link": "PLzgrZ2jOt_WBMLpyoKuI1R7GCjfZAc9ik",
+              "desc": "Đan Nguyên Tổng hợp"
             },
             {
               "name": "POPS Music Bolero - Album Tuyển Chọn",
