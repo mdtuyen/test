@@ -69,7 +69,7 @@
   },
   "tv": {
     "addRadio": true,
-    "useFab": 0,
+    "useFab": 2,
     "yapi": "AIzaSyBFVcJwz0IAWpRWfxEbDAL8c5mLGP-B-Kc",
     "resource": "6,9"
   }
