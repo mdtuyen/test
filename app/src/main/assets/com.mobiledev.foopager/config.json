@@ -39,7 +39,7 @@
       "startapp": "207129026",
       "unity": "1502445"
     },
-    "delay": 86400000,
+    "delay": 0,
     "trigger": 48,
     "interval": 4,
     "type": {
@@ -47,7 +47,7 @@
       "n": "",
       "p": {
         "launch": "",
-        "net": "",
+        "net": "inmobi,unity",
         "click": "rxadmob",
         "close": "",
         "lock": "",

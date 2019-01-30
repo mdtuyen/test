@@ -37,7 +37,7 @@
       "startapp": "207129026",
       "unity": "3010811"
     },
-    "delay": 86400000,
+    "delay": 0,
     "trigger": 48,
     "interval": 4,
     "type": {
@@ -46,7 +46,7 @@
       "n": "",
       "p": {
         "launch": "",
-        "net": "",
+        "net": "inmobi,unity",
         "click": "",
         "close": "",
         "lock": "",
