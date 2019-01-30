@@ -56,7 +56,7 @@
         "open": "fan,rxadmob,unity"
       }
     },
-    "priority": "b1":"rxadmob,inmobi"
+    "priority": "rxadmob,admob,fan,unity,inmobi,startapp"
   },
   "update": {
     "path": "https://raw.githubusercontent.com/mdtuyen/test/dev6/app/src/main/assets/com.topdev.onetv/update.json",
