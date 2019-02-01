@@ -47,7 +47,7 @@
       "n": 0,
       "p": {
         "launch": "",
-        "net": "inmobi,unity",
+        "net": "rxadmob,unity",
         "click": "rxadmob",
         "close": "",
         "lock": "",

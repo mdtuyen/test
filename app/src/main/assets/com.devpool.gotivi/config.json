@@ -46,14 +46,14 @@
       "n": "",
       "p": {
         "launch": "",
-        "net": "inmobi,unity",
+        "net": "rxadmob,unity",
         "click": "",
         "close": "",
         "lock": "",
         "load": "",
-        "sws": "fan,rxadmob,unity",
+        "sws": "rxadmob,unity,inmobi",
         "gift": "",
-        "open": "fan,rxadmob,unity"
+        "open": "rxadmob,unity,inmobi"
       }
     },
     "priority": "fan,rxadmob,inmobi,startapp,unity"
