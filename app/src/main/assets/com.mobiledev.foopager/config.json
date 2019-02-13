@@ -41,12 +41,12 @@
     },
     "delay": 86400000,
     "trigger": 48,
-    "interval": 4,
+    "interval": 3,
     "type": {
       "b": "rxadmob",
       "n": "",
       "p": {
-        "launch": "",
+        "launch": "unity",
         "net": "unity",
         "click": "rxadmob",
         "close": "",
@@ -54,7 +54,7 @@
         "load": "",
         "switch": "",
         "gift": "",
-        "open": "rxadmob"
+        "open": ""
       }
     },
     "priority": "rxadmob,fan,unity,inmobi,startapp"
