@@ -47,14 +47,14 @@
       "n": 0,
       "p": {
         "launch": "",
-        "net": "",
-        "click": "",
+        "net": "unity",
+        "click": "unity",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
         "gift": "",
-        "open": ""
+        "open": "unity"
       }
     },
     "priority": "fan,unity,startapp"
