@@ -46,7 +46,7 @@
       "b": "startapp",
       "n": "",
       "p": {
-        "launch": "",
+        "launch": "unity",
         "net": "fan",
         "click": "fan",
         "close": "",
