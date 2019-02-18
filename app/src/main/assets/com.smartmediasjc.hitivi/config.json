@@ -1,5 +1,5 @@
 {
-  "email": "pvbromobile@gmail.com",
+  "email": "abc@gmail.com",
   "enable": true,
   "later": 0,
   "minSupport": 0,
@@ -7,7 +7,8 @@
     "items": 4,
     "ids": {
       "admob": {
-        "b": "",
+        "b1": "",
+        "b2": "",
         "n": "",
         "p": "",
         "r": ""
@@ -45,7 +46,7 @@
       "n": "",
       "p": {
         "launch": "",
-        "net": "rxadmob,unity",
+        "net": "unity",
         "click":"rxadmob,unity",
         "close": "",
         "lock": "",
