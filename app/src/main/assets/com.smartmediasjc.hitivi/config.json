@@ -1,6 +1,6 @@
 {
   "email": "abc@gmail.com",
-  "enable": false,
+  "enable": true,
   "later": 0,
   "minSupport": 0,
   "ads": {
