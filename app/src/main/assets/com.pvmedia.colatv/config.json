@@ -46,7 +46,7 @@
       "n": 0,
       "p": {
         "launch": "",
-        "net": "rxadmob,unity",
+        "net": "",
         "click":"rxadmob,unity",
         "close": "",
         "lock": "",
