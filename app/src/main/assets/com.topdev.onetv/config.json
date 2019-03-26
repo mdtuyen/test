@@ -41,22 +41,22 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b1":"rxadmob,inmobi",
-      "b2":"fan,rxadmob,unity",
+      "b1":"rxadmob,fan",
+      "b2":"fan,rxadmob",
       "n": "",
       "p": {
         "launch": "",
-        "net": "",
+        "net": "unity",
         "click":"rxadmob,unity",
         "close": "",
         "lock": "",
         "load": "",
-        "sws": "rxadmob,unity,inmobi",
+        "sws": "",
         "gift": "",
-        "open": "rxadmob,unity,inmobi"
+        "open": "rxadmob,unity"
       }
     },
-    "priority": "rxadmob,unity,fan,startapp,inmobi"
+    "priority": "rxadmob,unity,fan,startapp"
   },
   "update": {
     "path": "https://raw.githubusercontent.com/mdtuyen/test/dev6/app/src/main/assets/com.topdev.onetv/update.json",

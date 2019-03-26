@@ -41,8 +41,8 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b1": "unity,startapp,inmobi,rxadmob",
-      "b2": "unity,startapp,inmobi,rxadmob",
+      "b1": "unity,startapp,rxadmob",
+      "b2": "unity,startapp,rxadmob",
       "n": 0,
       "p": {
         "launch": "",
@@ -51,12 +51,12 @@
         "close": "",
         "lock": "",
         "load": "",
-        "sws": "unity,startapp,inmobi,rxadmob",
+        "sws": "",
         "gift": "",
-        "open": "unity,startapp,inmobi,rxadmob"
+        "open": "unity,startapp,rxadmob"
       }
     },
-    "priority": "rxadmob,unity,fan,startapp,inmobi"
+    "priority": "rxadmob,unity,fan,startapp"
   },
   "update": {
     "path": "https://raw.githubusercontent.com/mdtuyen/test/dev6/app/src/main/assets/com.pvmedia.colatv/update.json",

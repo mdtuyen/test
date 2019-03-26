@@ -57,7 +57,7 @@
         "open": "rxadmob"
       }
     },
-    "priority": "fan,admob,inmobi,unity,startapp"
+    "priority": "fan,admob,unity,startapp"
   },
   "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
   "app": {
