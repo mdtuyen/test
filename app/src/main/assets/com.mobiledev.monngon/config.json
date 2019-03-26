@@ -42,12 +42,12 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b": "",
+      "b": "rxadmob",
       "n": "",
       "p": {
         "launch": "",
         "net": "unity",
-        "click": "rxadmob",
+        "click": "",
         "close": "",
         "lock": "",
         "load": "",

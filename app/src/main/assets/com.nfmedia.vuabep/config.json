@@ -42,8 +42,8 @@
     "trigger": 48,
     "interval": 4,
     "type": {
-      "b": "",
-      "n": 0,
+      "b": "rxadmob",
+      "n": "",
       "p": {
         "launch": "",
         "net": "unity",
