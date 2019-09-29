@@ -2485,6 +2485,11 @@
         "img": "https://lh3.googleusercontent.com/-Z1gl53VuExQ/Vixuy8Htv6I/AAAAAAAAAzA/aTRvA2gr-Dk/s105-Ic42/hbo1.png",
         "channel": [
           {
+            "link": "http://sv.tvmienphi.net/ok/world/hbo11.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "prefix": "http://sv.tvmienphi.net/"
+          },
+          {
             "link": "http://www.tivi8k.com/ok/hbo.php",
             "Referer": "http://www.tivi8k.com/",
             "prefix": "http://www.tivi8k.com/"
