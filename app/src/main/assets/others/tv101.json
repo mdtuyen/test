@@ -2532,6 +2532,22 @@
         ]
       },
       {
+        "title": "Fox Movies",
+        "img": "https://lh3.googleusercontent.com/-YyF_5JgtFW4/W1lnfLphxqI/AAAAAAAAEI4/ASEniibFLNIuO949G864Cqm7slhufewOgCEwYBhgL/w140-h70-p/foxmoviesvip.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/starmovies11.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "prefix": "http://sv.tvmienphi.net/"
+          },
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/starmovies12.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "prefix": "http://sv.tvmienphi.net/"
+          }
+        ]
+      },
+      {
         "title": "AXN",
         "img": "https://lh3.googleusercontent.com/-jdqBXb5T4eg/VixugsjpWbI/AAAAAAAAAzM/JbEnvSPJ7SY/s128-Ic42/axn.png",
         "channel": [
