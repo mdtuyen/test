@@ -2617,6 +2617,27 @@
         ]
       },
       {
+        "title": "Boomerang",
+        "img": "https://lh3.googleusercontent.com/-iWitqgFmhGM/WtiN9oMnzcI/AAAAAAAAEBg/0-LgYC4piGgGw-eKv2KKwz3Yq3kAT37EQCLcBGAs/h120/1200px-Boomerang_2014_logo.svg.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/boomerang1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "prefix": "http://sv.tvmienphi.net/"
+          }
+        ]
+      },{
+        "title": "Cinemaworld",
+        "img": "https://lh3.googleusercontent.com/-SSNrUI2r1jA/WYrQnrfBAgI/AAAAAAAADmA/LK-p2Ar3oTs7s5mCXKgnhQ01OBmQbdx-ACLcBGAs/h120/614-cinema-world-on-demand.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/cinemaworld1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "prefix": "http://sv.tvmienphi.net/"
+          }
+        ]
+      },
+      {
         "title": "Fox Life",
         "img": "https://lh3.googleusercontent.com/-0aefU3wotlk/W1lgnrkJjjI/AAAAAAAAEIs/mwqLnvppanYpEIz8A6CzFQsKbpoz-TSwwCEwYBhgL/w140-h70-p/foxmoviesvip.png",
         "channel": [
