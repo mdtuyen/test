@@ -619,6 +619,10 @@
         "img": "https://lh3.googleusercontent.com/-sAnF5KUMa20/VixvppTF9EI/AAAAAAAAAyY/iIStF2VeRaM/s128-Ic42/vtvcab8.png",
         "channel": [
           {
+            "link": "http://sv.tvmienphi.net/ok/vtvcab/vtvcab81.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "prefix": "http://sv.tvmienphi.net/"
+          }, {
             "link": "http://www.tivi8k.com/ok/vtvcab8.php",
             "Referer": "http://www.tivi8k.com/",
             "prefix": "http://www.tivi8k.com/"
