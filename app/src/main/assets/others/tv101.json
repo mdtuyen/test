@@ -2532,6 +2532,17 @@
         ]
       },
       {
+        "title": "Max HBO",
+        "img": "https://lh3.googleusercontent.com/-eMIcL7uB5ZA/WYq33-BDMkI/AAAAAAAADlM/sq5L2k6vZUcqANUC1YDtnYXgjhAspUkUACEwYBhgL/w140-h66-p/9740642-logo-max-by-hbo.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/maxhbo1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "prefix": "http://sv.tvmienphi.net/"
+          }
+        ]
+      },
+      {
         "title": "Fox Movies",
         "img": "https://lh3.googleusercontent.com/-YyF_5JgtFW4/W1lnfLphxqI/AAAAAAAAEI4/ASEniibFLNIuO949G864Cqm7slhufewOgCEwYBhgL/w140-h70-p/foxmoviesvip.png",
         "channel": [
