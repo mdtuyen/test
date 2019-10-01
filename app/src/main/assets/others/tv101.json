@@ -1289,7 +1289,7 @@
     "item": [
       {
         "title": "HTV1",
-        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/htv1.png",
+        "img": "https://lh3.googleusercontent.com/-jPTxx7ijNW0/VpxAfun8fzI/AAAAAAAAANU/Z9gByBFi8po/h120/htv1.png",
         "channel": [
           {
             "link": "http://www.xemtvtructuyen.net/ok/htv1.php",
@@ -1320,7 +1320,7 @@
       },
       {
         "title": "HTV2",
-        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/htv2.png",
+        "img": "https://lh3.googleusercontent.com/-kjC72CWJ-QI/VpxAf0RmaOI/AAAAAAAAANY/aZX34auMMng/h120/htv2.png",
         "channel": [
           {
             "link": "http://www.xemtvtructuyen.net/ok/htv2.php",
@@ -1351,7 +1351,7 @@
       },
       {
         "title": "HTV3",
-        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/htv3.png",
+        "img": "https://lh3.googleusercontent.com/-gQZJ8wcwVGA/VpxAgED0tmI/AAAAAAAAANQ/SKQS47ZxOuk/h120/htv3.png",
         "channel": [
           {
             "link": "http://www.xemtvtructuyen.net/ok/htv3.php",
@@ -1382,7 +1382,7 @@
       },
       {
         "title": "HTV4",
-        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/htv4.png",
+        "img": "https://lh3.googleusercontent.com/-XyvAIIjl868/VpxAgyDbAPI/AAAAAAAAANc/tW0KGE_svUA/h120/htv4.png",
         "channel": [
           {
             "link": "http://www.xemtvtructuyen.net/ok/htv4.php",
@@ -1413,7 +1413,7 @@
       },
       {
         "title": "HTV7",
-        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/htv7.png",
+        "img": "https://lh3.googleusercontent.com/-OFVARyzqrp4/VpxAhO6A6AI/AAAAAAAAANg/_AL8upxPg-s/h120/htv7.png",
         "channel": [
           {
             "link": "http://www.xemtvtructuyen.net/ok/htv7.php",
@@ -1475,7 +1475,7 @@
       },
       {
         "title": "HTV9",
-        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/htv9.png",
+        "img": "https://lh3.googleusercontent.com/-dDgNzf4LYgk/VpxAjjDuOqI/AAAAAAAAAOQ/_otddw_NWYU/h120/htvthethao.png",
         "channel": [
           {
             "link": "http://www.xemtvtructuyen.net/ok/htv9.php",
@@ -1537,7 +1537,7 @@
       },
       {
         "title": "HTV The Thao",
-        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/htvthethao.png",
+        "img": "https://lh3.googleusercontent.com/-dDgNzf4LYgk/VpxAjjDuOqI/AAAAAAAAAOQ/_otddw_NWYU/h120/htvthethao.png",
         "channel": [
           {
             "link": "http://www.xemtvtructuyen.net/ok/htv-thethao.php",
@@ -1567,8 +1567,41 @@
         ]
       },
       {
+        "title": "HTV Gia Đình",
+        "img": "https://lh3.googleusercontent.com/-3EbgGXSCk2o/VpxAiFfaetI/AAAAAAAAAOA/4IWtZC_Sle4/h120/htvgiadinh.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/htv/htvgiadinh1.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "prefix": "http://sv.tvmienphi.net"
+          }
+        ]
+      },
+      {
+        "title": "HTV Shopping",
+        "img": "https://lh3.googleusercontent.com/-PuYe9NZYpmU/VpxAjjHGxlI/AAAAAAAAAOU/X0qRRvtMQWE/h120/htvshopping.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/htv/htvshop1.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "prefix": "http://sv.tvmienphi.net"
+          }
+        ]
+      },
+      {
+        "title": "HTV Du lịch và cuộc sống",
+        "img": "https://lh3.googleusercontent.com/-G9mQcv7J7Kc/VpxAh8Rb65I/AAAAAAAAANs/xdMi4n-ARNs/h120/htvdulich.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/htv/htvdulich1.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "prefix": "http://sv.tvmienphi.net"
+          }
+        ]
+      },
+      {
         "title": "HTV Ca nhac",
-        "img": "https://lh3.googleusercontent.com/-FhXLdLHtDiA/VixvFR7kycI/AAAAAAAAAiE/5q8mZDaMy6s/s128-Ic42/nhac.png",
+        "img": "https://lh3.googleusercontent.com/-2pXIrXYBFu8/VpxAhplRRnI/AAAAAAAAANw/8ounGrKt0aw/h120/htvcanhac.png",
         "channel": [
           {
             "link": "http://www.tivi8k.com/ok/htv-nhac.php",
@@ -1610,7 +1643,7 @@
       },
       {
         "title": "HTV Phu nu",
-        "img": "https://lh3.googleusercontent.com/-_bbAH90eKhc/VixvHNfjGkI/AAAAAAAAAig/7UgY70PYa6M/s128-Ic42/phunu.png",
+        "img": "https://lh3.googleusercontent.com/-UFasOGZJ5dM/VpxAjO0ukFI/AAAAAAAAAN8/N5OT2BmLoAM/h120/htvphunu.png",
         "channel": [
           {
             "link": "http://www.tivi8k.com/ok/htv-phunu.php",
@@ -1631,7 +1664,7 @@
       },
       {
         "title": "HTV Thuan viet",
-        "img": "https://lh3.googleusercontent.com/-5EcGvCUuwqk/VixvTIQ-C0I/AAAAAAAAAy4/3-6yavrGgoU/s128-Ic42/thuanviet.png",
+        "img": "https://lh3.googleusercontent.com/-oqNHnx9J_Fg/VpxAj5NN6OI/AAAAAAAAAOM/FL-6rR5-qQs/h120/htvthuanviet.png",
         "channel": [
           {
             "link": "http://www.tivi8k.com/ok/htv-thuanviet.php",
