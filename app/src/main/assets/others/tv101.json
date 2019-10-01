@@ -622,7 +622,8 @@
             "link": "http://sv.tvmienphi.net/ok/vtvcab/vtvcab81.php",
             "Referer": "http://sv.tvmienphi.net/",
             "prefix": "http://sv.tvmienphi.net/"
-          }, {
+          },
+          {
             "link": "http://www.tivi8k.com/ok/vtvcab8.php",
             "Referer": "http://www.tivi8k.com/",
             "prefix": "http://www.tivi8k.com/"
@@ -1327,6 +1328,11 @@
         "img": "https://lh3.googleusercontent.com/-kjC72CWJ-QI/VpxAf0RmaOI/AAAAAAAAANY/aZX34auMMng/h120/htv2.png",
         "channel": [
           {
+            "link": "http://sv.tvmienphi.net/ok/htv/htv21.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "prefix": "http://sv.tvmienphi.net"
+          },
+          {
             "link": "http://www.xemtvtructuyen.net/ok/htv2.php",
             "Referer": "http://www.xemtvtructuyen.net/",
             "prefix": "http://www.xemtvtructuyen.net/"
@@ -1357,6 +1363,11 @@
         "title": "HTV3",
         "img": "https://lh3.googleusercontent.com/-gQZJ8wcwVGA/VpxAgED0tmI/AAAAAAAAANQ/SKQS47ZxOuk/h120/htv3.png",
         "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/htv/htv31.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "prefix": "http://sv.tvmienphi.net"
+          },
           {
             "link": "http://www.xemtvtructuyen.net/ok/htv3.php",
             "Referer": "http://www.xemtvtructuyen.net/",
@@ -1451,6 +1462,11 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/htv7hd.png",
         "channel": [
           {
+            "link": "http://sv.tvmienphi.net/ok/htv/htv71.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "prefix": "http://sv.tvmienphi.net"
+          },
+          {
             "link": "http://www.xemtvtructuyen.net/ok/htv7.php",
             "Referer": "http://www.xemtvtructuyen.net/",
             "prefix": "http://www.xemtvtructuyen.net/"
@@ -1512,6 +1528,11 @@
         "title": "HTV9HD",
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/htv9hd.png",
         "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/htv/htv91.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "prefix": "http://sv.tvmienphi.net"
+          },
           {
             "link": "http://www.xemtvtructuyen.net/ok/htv9.php",
             "Referer": "http://www.xemtvtructuyen.net/",
@@ -1967,6 +1988,11 @@
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv11.png",
         "channel": [
           {
+            "link": "http://sv.tvmienphi.net/ok/sctv/sctv111.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "prefix": "http://sv.tvmienphi.net/"
+          },
+          {
             "link": "http://www.xemtvtructuyen.net/ok/sctv11.php",
             "Referer": "http://www.xemtvtructuyen.net/",
             "prefix": "http://www.xemtvtructuyen.net/"
@@ -2070,6 +2096,11 @@
         "title": "SCTV15",
         "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv15.png",
         "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/sctv/sctv151.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "prefix": "http://sv.tvmienphi.net/"
+          },
           {
             "link": "http://www.xemtvtructuyen.net/ok/sctv15.php",
             "Referer": "http://www.xemtvtructuyen.net/",
@@ -2663,7 +2694,8 @@
             "prefix": "http://sv.tvmienphi.net/"
           }
         ]
-      },{
+      },
+      {
         "title": "Cinemaworld",
         "img": "https://lh3.googleusercontent.com/-SSNrUI2r1jA/WYrQnrfBAgI/AAAAAAAADmA/LK-p2Ar3oTs7s5mCXKgnhQ01OBmQbdx-ACLcBGAs/h120/614-cinema-world-on-demand.png",
         "channel": [
@@ -2849,7 +2881,8 @@
             "link": "http://sv.tvmienphi.net/ok/world/neogeo1.php",
             "Referer": "http://sv.tvmienphi.net/",
             "prefix": "http://sv.tvmienphi.net/"
-          },  {
+          },
+          {
             "link": "http://www.tivi8k.com/ok/nageohd.php",
             "Referer": "http://www.tivi8k.com/",
             "prefix": "http://www.tivi8k.com/"
