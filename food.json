@@ -1,0 +1,660 @@
+{
+    "food": [
+    {
+      "l": "all",
+      "t": "Asparagus, Lomo_Saltado, Biscuits, Cookie, Cracker_(food), Ginger_snap, Hardtack, Abernethy_biscuit, Ac%C4%B1badem_kurabiyesi, Afghan_biscuits, Alfajor, Almond_biscuit, Lebkuchen, Aachener_Printen, Cornish_fairing, Speculaas, Springerle, Kruidnoten, Bread, Bagel, Bialy_(bread), Croissant, Baguette, Toast_(food), Burrito, Cabbage, Cabbage_roll, Cheesecake, Chocolate_cake, Carrot_cake, Strawberry_cake, Ice-cream_cake, Vanilla_cake, Red_velvet_cake, Cupcake, Fudge_cake, Chocolate, Pancake, Poundcake, Chopped_liver, Cheese, Mozzarella, Blue_cheese, Parmesan, Cheese_stick, Cheesestrings, Congee, Donuts, Sprinkles, Donut_holes, Krispy_Kreme, Dumplings, Arepa, Fun_guo, Har_gow, Momo_(food), Pierogi, Wonton, Fruits, Cantaloupe, Durian, Orange_(fruit), Cherry, Kiwifruit, Watermelon, Avocado, Pineapple, Strawberry, Raspberry, French_fries, Poutine, Grains, Cereal, Popcorn, Ice_cream, Vanilla, Cookies_and_cream, Mint_chocolate, Rocky_road_(ice_cream), Biscuit_Tortoni, Blue_moon_(ice_cream), Queso_ice_cream, Hokey_pokey_(ice_cream), Moose_Tracks, Tiger_tail_ice_cream, Strawberry_ice_cream, Superman_(ice_cream_flavor), Spumoni, Pistachio_ice_cream, Moon_mist, Neapolitan_ice_cream, Mashed_potatoes, Meats, Wagyu, Steak, Bacon, Poultry, Buffalo_wing, Chicken_balls, Chicken_nuggets, Chicken_steak, Chicken_feet, Roast_chicken, Ribs_(food), Seafood, Fish_as_food, Salmon_as_food, Shrimp_and_prawn_as_food, Shark_meat, Eggs_as_food, Scrambled_egg, Fried_egg, Omelette, Boiled_egg, Tea_egg, Century_egg, Iron_egg, Smoked_egg, Soy_egg, Chinese_red_eggs, Almond_milk, Soy_milk, Cow_milk, Goat_milk, Onion_rings, Pasta, Lasagna, Linguini, Ravioli, Carbonara, Bolognese, Spaghetti, Spaghetti_and_meatballs, Pancit_canton, Fettuccine, Pudding, Pupusa, Shepherds_pie, Apple_pie, Cream_pie, Pumpkin_pie, Key_lime_pie, Peach_pie, Pizza, Pepperoni, Hawaiian_pizza, Pizza_Margherita, Croquette, Egg_roll, Spring_roll, Lumpia, Sandwiches, Vegetable_sandwich, Grilled_Cheese, Panini_(sandwich), Cheeseburgers, Bacon_cheeseburger, Hamburgers, Chicken_burger, Hot_dogs, Peanut_butter_and_jam_sandwich, Submarine_sandwich, Chowder, Clam_Chowder, Corn_chowder, Sinigang, Sushi, Tamale, Turnover_(food), Jamaican_patty, Waffle, Roti_Canai"
+    },
+    {
+      "l": "af",
+      "t": "Aspersie, Brood, Bagel, Baguette, Roosterbrood, Kaaskoek, Sjokolade, Pannekoek, Kaas, Mozzarella, Bloukaas, Parmesaan, Oliebol, Kluitjie, Spanspek, Kiwivrug, Waatlemoen, Avokado, Pynappel, Framboos, Slaptjips, Graan, Roomys, Vanielje, Vleis, Wagyu_(bees), Biefstuk, Pluimvee, Hoenderpote, Ribbetjie, Seekos, Vis_(voedsel), Eier_(voedsel), Amandelmelk, Melk, Uieringe, Pasta, Lasagne, Bologna, Spaghetti, Fettuccine, Pizza, Kroket_(voedsel), Lenterolletjie, Kaasburger, Hamburger, Soesji"
+    },
+    {
+      "l": "ar",
+      "t": "هليون, بسكويت, كعيكة, رقائق_(خبز), بسكويتة_زنجبيل, غريبة_اللوز_المر, بسكويت_أفغاني, الفاخر_(حلوى), بسكويت_اللوز, سبيكولوس, خبز, بايغل, كرواسون, خبز_فرنسي, خبز_محمص, بوريتو, ملفوف, ملفوف_(طبخة), تشيز_كيك, كعكة_الشوكولاتة, كعكة_الجزرة, كعكة_المثلجات, كعكة_الخمل_الأحمر, كعكة_مكوبة, شوكولاتة, بان_كيك, كعكة_الرطل, جبن, موتزاريلا, جبنة_زرقاء, بارميجيانو_ريجيانو, أصابع_الموزاريلا, دونات, رشات_(حلويات), كرسبي_كريم, دامبلنغ, آريبا, مومو_(طعام), بيروغة, وونتون, فاكهة, كنتالوبي, دوريان, برتقال, كرز, كيوي_(فاكهة), بطيخ_أحمر, أفوكادو, أناناس, فراولة, عليق_(نبات), بطاطا_مقلية, بوتين_(أكلة), حبة_غذائية, محصول_حبوب, فشار, مثلجات, فانيليا, مثلجات_الفراولة, مثلجات_نابولي, بطاطا_مهروسة, لحم, واغيو, ستيك, قديد_الخنزير, دواجن, بوفالو_وينغز, ناجتس_الدجاج, أقدام_الدجاج, دجاجة_مشوية, أضلاع_اللحم, مأكولات_بحرية, سمك_(غذاء), لحم_القرش, بيض_(طعام), بيض_مخفوق, بيض_مقلي, العجة, بيض_مسلوق, بيض_الشاي, بيض_القرن, بيض_الصويا, حليب_اللوز, حليب_صويا, حليب, حلقات_البصل, معكرونة, لازانيا, لنغويني, رافيولي, كربنارة, بولونيا_(إيطاليا), سباغيتي, فيتوتشيني, حلوى_شحمية, بوبوسا, فطيرة_الراعي, فطيرة_التفاح, فطيرة_يقطين, بيتزا, ببروني, بيتزا_مارغيريتا, لفافة_البيض, سبرنغ_رول, شطيرة, بانيني_(شطيرة), تشيز_برغر, همبرغر, هوت_دوغ, شطيرة_زبدة_فول_سوداني_بالمربى, شودر, سوشي, تمال, وافل"
+    },
+    {
+      "l": "an",
+      "t": "Asparagus_officinalis, Pan, Chicolate, Queso, Fruita, Narancha_(fruita), Ceresa, Kiwi, Citrullus_lanatus, Persea_americana, Ananas_comosus, Fraga, Chordón, Cerial, Palometas, Carne, Peix_(alimento), Tortiella_floixa, Leit_de_soya, Leit, Bolonya, Pizza, Sushi"
+    },
+    {
+      "l": "az",
+      "t": "Dərman_qulançarı, Biskvit, Peçenye, Acıbadam_qurabiyəsi, Çörək, Beyql, Kruassan, Baget, Çizkeyk, Qırmızı_məxmər_tortu, Kapkeyk, Şokolad, Pankek, Pendir, Motsarella, Parmezan_pendiri, Ponçik, Portağal_(meyvə), Kivi, Adi_qarpız, Amerika_perseyası, Əsl_ananas, Bağ_çiyələyi, Malina, Taxıl, Dənli_bitkilər, Popkorn, Dondurma, Vanil, Kartof_püresi, Ət, Bifşteks, Toyuq_naqqesi, Yumurta, Omlet, Süd, Makaron, Lazanya, Bolonya, Pudinq, Alma_piroqu, Pizza, Kroket, Sendviç, Hamburger, Hot-doq, Suşi, Vafli"
+    },
+    {
+      "l": "bn",
+      "t": "শতমূলী, লোমো_সল্টাডো, বিস্কুট, রুটি, বাঁধাকপি, চিজকেক, গাজরের_কেক, কাপকেক, চকলেট, প্যানকেক, চিজ, কঞ্জি, ডোনাট, মোমো, খরমুজ, ডুরিয়ান, মাল্টা_(ফল), চেরি, কিউই_ফল, তরমুজ, অ্যাভোকাডো, আনারস, স্ট্রবেরি, কণ্টকগুল্মফল, শস্যদানা, খাদ্যশস্য, পপকর্ন, আইসক্রিম, ম্যাশড_পটেটো, মাংস, স্টেক, বেকন, পোল্ট্রি, বাফেলো_উইং, রোস্ট_মুরগি, ডিম_(খাদ্য), ভাজা_ডিম, ডিম_ভাজি, শতবর্ষী_ডিম, লৌহ_ডিম্ব, ধোঁয়াটে_ডিম, বাদাম_দুধ, সয়াদুধ, দুধ, ছাগলের_দুধ, পাস্তা, বোলোনিয়া, পুডিং, পিৎজা, স্যান্ডউইচ, চিজবার্গার, হ্যামবার্গার, হট_ডগ, সুশি, চানাই_রুটি"
+    },
+    {
+      "l": "ba",
+      "t": "Себен_үләне, Альфахор, Икмәк, Голубцы, Шоколад, Сыр, Ҡабартма, Арепа, Ҡарбуз, Ананас, Ер_еләге, Иген_культуралары, Туңдырма, Ит, Йорт_ҡоштары, Йомортҡа_(ризыҡ), Соя_һөтө, Һөт, Кәзә_һөтө, Пицца, Сэндвич, Суши"
+    },
+    {
+      "l": "be",
+      "t": "Спаржа_лекавая, Пячэнне, Галета, Хлеб, Круасан, Французскі_багет, Бурыта, Капуста_качанная, Галубцы, Чырвоны_аксаміт, Шакалад, Наліснікі, Сыр, Мацарэла, Блакітныя_сыры, Пармезан, Пончык, Арэпа, Садавіна, Ківі_(садавіна), Кавун_звычайны, Авакада, Суніцы_садовыя, Бульба_фры, Збожжавыя_культуры, Марожанае, Фісташкавае_марожанае, Бульбяное_пюрэ, Мяса, Бекон, Морапрадукты, Яйка_(харчовы_прадукт), Яечня, Амлет, Стагадовае_яйка, Соевае_малако, Малако, Макаронныя_вырабы, Лазанья, Балоння, Спагеці, Пудынг, Яблычны_пірог, Піца, Чызбургер, Гамбургер, Хот-дог, Сушы"
+    },
+    {
+      "l": "bg",
+      "t": "Обикновена_аспержа, Бисквита, Хляб, Бейгъл, Кроасан, Франзела, Бурито, Зеле, Сарми, Шоколад, Сирене, Моцарела, Пармиджано-Реджано, Поничка, Дъмплинг, Череша, Киви_(плод), Обикновена_диня, Авокадо, Обикновен_ананас, Градинска_ягода, Пържени_картофи, Путин_(ястие), Зърнено-житни_култури, Пуканки, Сладолед, Картофено_пюре, Месо, Бекон, Пържола, Яйце_(храна), Яйца_на_очи, Омлет, Вековно_яйце, Соево_мляко, Мляко, Паста_(кулинария), Лазаня_на_фурна, Лингуини, Равиоли, Паста_Карбонара, Болоня, Спагети, Пудинг, Ябълков_пай, Пица, Хавайска_пица, Маргарита_(пица), Крокет, Сандвич, Чийзбургер, Хамбургер, Хотдог, Суши, Гофрета"
+    },
+    {
+      "l": "bo",
+      "t": "འདམ་མྱུག, པད་ལོག, ཆུར་བ།, མོ་ཟ་རེལ་ལ།_(ཆུར་བ།), མོག་མོག་, ཧ་མི་ཀུབ།, ཚ་ལུ་མ།, སེའུ།, སྤྲེལ་ཁམ།, ཆུ་ཀུབ།, འབྲི་ཏ་ས་འཛིན།, འབྲུ་རིགས།, དྲི་ཞིམ་ལྡན་པའི་རྩྭ།, པུ་ཏིང་།, ཧྲོའུ་སི།"
+    },
+    {
+      "l": "bs",
+      "t": "Šparoga, Hljeb, Čokolada, Sir, Piroge, Voće, Naranča, Kivi_(voće), Lubenica, Ananas, Jagoda, Malina, Pšeno, Žitarice, Meso, Domaća_perad, Mlijeko, Pasta, Bologna, Pica, Sendvič"
+    },
+    {
+      "l": "ca",
+      "t": "Espàrrec, Bescuit, Galeta, Cracker_(aliment), Bescuit_de_mar, Acıbadem_kurabiyesi, Alfajor, Nürnberger_Lebkuchen, Pa, Bagel, Bialy, Croissant, Baguet, Pa_torrat, Burrito, Col, Farcellets_de_col, Pastís_de_formatge, Pastís_de_vellut_vermell, Cupcake, Xocolata, Pancake, Fetge_picat, Formatge, Mozzarella, Formatge_blau, Parmesà, Telli_peynir, Dònut, Cistellet_farcit_xinès, Arepa, Fun_guo, Pierogui, Wantan, Fruita, Cantalup, Dúrio, Taronja, Cirera, Kiwi, Sindriera, Alvocater, Ananàs, Maduixot, Patates_fregides, Poutine, Cereal, Crispetes, Gelat, Vainilla_(condiment), Gelat_de_formatge, Spumone, Gelat_napolità, Puré_de_patates, Carn, Cansalada, Aviram, Aletes_de_pollastre, Nugget_de_pollastre, Pollastre_rostit, Costelles, Producte_del_mar, Peix_(aliment), Ou_(aliment), Remenat_d'ous, Ou_ferrat, Truita_d'ous, Ou_bullit, Ou_centenari, Llet_d'ametlla, Llet_de_soia, Llet, Llet_de_cabra, Pasta, Lasanya, Linguine, Ravioli, Carbonara, Bolonya, Espagueti, Pancit, Fettuccine, Púding, Pupusa, Shepherd's_pie, Pastís_de_poma, Pastís_de_llimona_merengada, Pizza, Pepperoni, Croqueta, Rotlle_de_primavera, Sandvitx, Hamburguesa_amb_formatge, Entrepà_d'hamburguesa, Frankfurt_(entrepà), Sushi, Tamal, Gofra, Roti_prata"
+    },
+    {
+      "l": "cv",
+      "t": "Эмелле_спаржа, Çăкăр, Франс_багечĕ, Чăкăт, Моцарелла_(чăкăт), Пармиджано_Реджано_(чăкăт), Хуран_кукли, Апельсин, Арбуз, Ананас, Пĕрчĕ, Пĕрчĕлле_культурăсем, Токкоми, Бекон, Çăмарта_(апат-çимĕç), Сĕт, Качака_сĕчĕ, Болонья, Вафли"
+    },
+    {
+      "l": "cs",
+      "t": "Chřest_lékařský, Sušenka, Suchar, Spekulatius, Chléb, Bagel, Croissant, Bageta, Toast, Burrito, Hlávkové_zelí, Sýrový_koláč, Red_Velvet_Cake, Cupcake, Čokoláda, Lívanec, Sýr, Mozzarella, Sýr_s_modrou_plísní, Parmezán, Americká_kobliha, Krispy_Kreme, Arepa, Fun_guo, Momo, Pirohy, Ovoce, Durian, Pomeranč, Třešně, Kiwi, Lubenice_obecná, Hruškovec_přelahodný, Ananasovník_chocholatý, Jahodník_velkoplodý, Malina, Hranolky, Poutine, Obilniny, Popcorn, Zmrzlina, Vanilka, Hokey_pokey, Bramborová_kaše, Maso, Wagyu, Steak, Slanina, Domácí_drůbež, Kuřecí_křidélka_Buffalo, Mořské_plody, Vejce_(potravina), Míchaná_vejce, Volské_oko, Omeleta, Stoleté_vejce, Sojové_mléko, Mléko, Kozí_mléko, Cibulové_kroužky, Těstoviny, Lasagne, Ravioly, Carbonara, Bologna, Špagety, Fettuccine, Pudink, Pupusa, Jablečný_koláč, Pizza, Pizza_havaj, Kroketa, Jarní_závitky, Sendvič, Panini_(sendvič), Cheeseburger, Hamburger, Hot_dog, Polévka_ze_škeblí, Suši, Tamales, Vafle"
+    },
+    {
+      "l": "co",
+      "t": "Asparagus_officinalis, Chjarasgia, Patecca, Fraula, Latti, Pastasciutta, Bulogna"
+    },
+    {
+      "l": "da",
+      "t": "Asparges_(art), Kiks, Småkage, Peberkage, Beskøjt, Brød, Bagel, Croissant, Baguette, Toast, Burrito, Hovedkål, Cheesecake, Chokoladekage, Islagkage, Chokolade, Pandekage, Pund-til-pund-kage, Ost, Mozzarella, Blåskimmelost, Parmigiano-Reggiano, Donut, Krymmel, Durian, Kirsebær_(frugt), Kiwi_(frugt), Vandmelon, Avocado, Almindelig_ananas, Havejordbær, Hindbær_(bær), Pommes_frites, Gryn, Korn, Popcorn, Is_(fødevare), Regnbueis, Kartoffelmos, Kød, Bøf_(mad), Bacon, Fjerkræ, Nuggets, Røræg, Spejlæg, Æggekage, Teæg_(fødevare), Tusindårsæg, Mandelmælk, Sojamælk, Mælk, Gedemælk, Pasta, Lasagne, Linguine, Ravioli, Spaghetti_carbonara, Bologna, Spaghetti, Fettuccine, Budding, Shepard's_pie, Æblepie, Pizza, Pepperoni, Hawaiipizza, Pizza_margherita, Kartoffelkroketter, Forårsrulle, Sandwich, Panini_(sandwich), Cheeseburger, Burger, Hotdog, Jordnøddesmør-_og_syltetøjssandwich, Sushi, Vaffel"
+    },
+    {
+      "l": "de",
+      "t": "Gemüsespargel, Lomo_saltado, Keks, Cracker_(Gebäck), Hartkeks, Alfajor, Nürnberger_Lebkuchen, Aachener_Printen, Spekulatius, Springerle, Brot, Bagel, Bialy, Croissant, Baguette, Toastbrot, Burrito, Kopfkohl, Kohlroulade, Käsekuchen, Schokoladenkuchen, Rüeblitorte, Eistorte, Red_Velvet_Cake, Cupcake, Schokolade, Pfannkuchen, Pound_Cake, Gehackte_Leber, Käse, Mozzarella, Blauschimmelkäse, Parmesan, Mozzarella-Sticks, Reis-Congee, Donut, Krispy_Kreme, Arepa, Momo_(Speise), Pirogge, Wan_Tan, Obst, Cantaloupe-Melone, Durian, Orange_(Frucht), Kiwifrucht, Wassermelone, Avocado, Ananas, Gartenerdbeere, Rubus, Pommes_frites, Poutine, Getreide, Popcorn, Speiseeis, Vanille_(Gewürz), Schlumpfeis, Erdbeereis, Spumoni, Fürst-Pückler-Eis, Kartoffelpüree, Fleisch, Wagyū, Steak, Speck, Geflügel, Chicken_Wings, Chicken-Nuggets, Brathähnchen, Rippenstück, Meeresfrüchte, Speisefisch, Haifisch_(Lebensmittel), Ei_(Lebensmittel), Rührei, Spiegelei, Omelett, Gekochtes_Ei, Tausendjährige_Eier, Eiseneier, Mandelmilch, Sojamilch, Milch, Ziegenmilch, Zwiebelringe, Pasta, Lasagne, Linguine, Ravioli, Carbonara, Bologna, Spaghetti, Pancit, Fettuccine, Pudding, Pupusa, Shepherd’s_Pie, Pumpkin_Pie, Key_Lime_Pie, Pizza, Pizza_Hawaii, Pizza_Margherita, Kroketten, Frühlingsrolle, Sandwich, Panino, Cheeseburger, Hamburger, Hotdog, Chowder, Clam_Chowder, Corn_Chowder, Sushi, Tamale_(Gericht), Waffel, Roti_Canai"
+    },
+    {
+      "l": "nv",
+      "t": "Chʼałdą́ą́ʼ_/_Jádí_nátʼoh_(chʼil_daadánígíí), Bááh, Chʼil_łigaii_(atʼééké_bijish), Géeso, Taʼneeskʼání, Chʼil_łitsxooí, Didzéchííʼ, Chʼil_dishooí, Chʼééhjiyáán, Chʼil_akʼahí, Hosh_łikaní, Dah_woozh, Dzidzé_łikaní_dinilchííʼígíí, Abeʼ_yistiní, Atsįʼ, Abeʼ, Kʼíneeshbízhiinééz, Ałchʼįʼ_beʼestłʼóní"
+    },
+    {
+      "l": "et",
+      "t": "Harilik_aspar, Küpsis, Piparkook, Leib, Sarvesai, Kapsarull, Juustukook, Punane_sametkook, Šokolaad, Pannkook, Juust, Mozzarella, Sinihallitusjuust, Parmesan, Sõõrik, Puuvili, Durian, Apelsin, Kirss, Kiivi_(vili), Arbuus, Avokaadopuu, Ananass, Aedmaasikas, Friikartulid, Tera, Teravili, Plaksumais, Jäätis, Vanilje, Kartulipuder, Liha, Kodulind, Buffalo_tiivad, Kananagitsad, Ahjukana, Mereannid, Kala_(toit), Muna_(toiduaine), Praemuna, Omlett, Mandlipiim, Sojapiim, Piim, Pasta, Lasanje, Bologna, Fettuccine, Õunapirukas, Pitsa, Hawaii_pitsa, Margherita_pitsa, Sändvitš, Hamburger, Hot_dog, Suši, Tamale"
+    },
+    {
+      "l": "el",
+      "t": "Σπαράγγι, Μπισκότο, Ψωμί, Μπέγκελ, Κρουασάν, Μπαγκέτα, Μπουρίτο, Λάχανο, Τσίζκεϊκ, Κέικ_καρότου, Κέικ_Red_velvet, Καπ_κέικ, Σοκολάτα, Τηγανίτα, Τυρί, Μοτσαρέλα, Μπλε_τυρί, Παρμεζάνα, Ντόνατ, Ντάμπλινγκ, Πιερόγκι, Γουάν_ταν, Φρούτα, Ντούριαν, Πορτοκάλι, Κεράσι, Καρπούζι, Αβοκάντο, Ανανάς_ο_εύκομος, Φράουλα, Τηγανητές_πατάτες, Πουτίν, Σιτηρά, Δημητριακά, Ποπ_κορν, Παγωτό, Πουρές, Κρέας, Μπριζόλα, Μπέικον, Πουλερικά, Κοτομπουκιά, Ψητό_κοτόπουλο, Παϊδάκια_(φαγητό), Θαλασσινά, Αβγό_(τρόφιμο), Ομελέτα, Αβγό_σόγιας, Γάλα_αμυγδάλου, Γάλα_σόγιας, Γάλα, Κρεμμυδοροδέλες, Ζυμαρικό, Ραβιόλι, Καρμπονάρα, Μπολόνια, Σπαγκέτι, Πουτίγκα, Μηλόπιτα, Πίτσα, Πεπερόνι, Πίτσα_Μαργαρίτα, Κροκέτα, Σπρινγκ_ρολ, Σάντουιτς, Τσίζμπεργκερ, Χάμπεργκερ, Χοτ_ντογκ, Σούσι, Βάφλα"
+    },
+    {
+      "l": "es",
+      "t": "Asparagus_officinalis, Lomo_saltado, Galleta, Cracker_(alimento), Galleta_marinera, Acıbadem_kurabiyesi, Alfajor_(Latinoamérica), Galleta_de_almendras, Lebkuchen, Aachener_Printen, Spéculoos, Springerle, Kruidnoten, Pan, Bagel, Bialy, Cruasán, Baguette, Tostada, Burrito_(comida), Brassica_oleracea_var._capitata, Col_rellena, Pastel_de_queso, Pastel_de_chocolate, Pastel_de_zanahoria, Tarta_helada, Pastel_de_terciopelo_rojo, Cupcake, Chocolate, Panqueque, Pound_cake, Hígado_picado, Queso, Mozzarella, Queso_azul, Queso_parmesano, Palitos_de_mozzarella, Arroz_congee, Dona_(comida), Grana_(decoración), Krispy_Kreme, Dumpling, Arepa, Fun_guo, Har_gow, Momo_(alimento), Pierogi, Wantán, Fruta, Cantalupo, Durian, Naranja_(fruta), Cereza, Kiwi, Citrullus_lanatus, Persea_americana, Ananas_comosus, Fragaria_×_ananassa, Frambuesa, Papas_fritas, Poutine, Grano_(semilla), Cereal, Palomitas_de_maíz, Helado, Vainilla, Cookies_and_cream, Chocolate_de_menta, Rocky_road_(helado), Helado_de_fresa, Spumone, Helado_de_pistacho, Helado_napolitano, Puré_de_papas, Carne, Wagyū, Filete_(carne_roja), Panceta, Ave_de_corral, Buffalo_wings, Bolas_de_pollo, Nugget_de_pollo, Chicken_fried_steak, Patas_de_pollo, Pollo_asado, Producto_del_mar, Pescado, Huevo_(alimento), Revuelto_de_huevo, Huevo_frito, Tortilla_francesa, Huevo_cocido, Huevo_centenario, Huevo_a_la_soja, Leche_de_almendra, Leche_de_soja, Leche, Leche_de_cabra, Aros_de_cebolla, Pasta, Lasaña, Linguine, Ravioli, Carbonara, Bolonia, Espagueti, Spaghetti_and_meatballs, Pancit, Fettuccine, Budín, Pupusa, Cottage_pie, Tarta_de_manzana, Pastel_de_calabaza, Tarta_de_lima_de_los_Cayos, Pizza, Pepperoni, Pizza_hawaiana, Pizza_margarita, Croqueta, Rollo_de_huevo, Rollito_de_primavera, Lumpiá, Sándwich, Panini_(sándwich), Hamburguesa_con_queso, Hamburguesa, Hot_dog, Sándwich_de_mantequilla_de_cacahuete_y_jalea, Sándwich_submarino, Chowder_(sopa), Clam_chowder, Sinigang, Sushi, Tamal, Pati, Gofre, Roti_canai"
+    },
+    {
+      "l": "eo",
+      "t": "Asparago, Biskvito, Marbiskvito, Alfajor, Spekulaco, Pano, Bagelo, Korna_bulko, Bastonpano, Rostpano, Burito, Kapobrasiko, Brasika_rulaĵo, Fromaĝkuko, Ĉokolado, Patkuko, Fromaĝo, Mocarelo, Parmezano, Arepo, Pierogi, Huntuno, Manĝebla_frukto, Kantalupo, Oranĝo_(frukto), Ĉerizo, Kivifrukto, Akvomelono, Avokado, Ananaso, Frago, Frambo, Terpomfingroj, Pucino, Greno, Cerealo, Krevmaizo, Glaciaĵo, Terpomkaĉo, Viando, Vagjuo, Kortobirdo, Bufalo-flugilaĵo, Nugeto_el_kokaĵo, Fiŝaĵo, Ovo_(manĝaĵo), Kirlovaĵo, Fritita_ovo, Omleto, Migdallakto, Sojlakto, Lakto, Pastaĵo, Lasanjoj, Langetoj, Ravioloj, Bolonjo, Spagetoj, Pudingo, Pico, Havaja_pico, Krokedo, Ovorulaĵo, Printempa_rulaĵo, Lumpio, Sandviĉo, Hamburgero, Kolbasobulko, Sandviĉo_kun_ternuksbutero_kaj_ĵeleo, Submarŝipforma_sandviĉo, Suŝio, Tamalo, Vaflo"
+    },
+    {
+      "l": "eu",
+      "t": "Zainzuri, Galleta, Gozogintzako_pasta_lehor, Lebkuchen, Speculaas, Ogi, Bagel, Croissant, Baguette, Ogi-xigorki, Burrito, Aza, Gazta-tarta, Txokolatezko_tarta, Tarta_izoztu, Cupcake, Txokolate, Opil_txiki, Gazta, Mozzarella, Gazta_urdin, Parmigiano-Reggiano, Donut, Dumpling, Arepa, Fruta, Durian, Laranja, Gerezi, Kiwi_(fruitua), Angurri, Ahuakateondo, Anana, Baratze-marrubi, Mugurdi, Patata_frijitu, Poutine, Zereal, Krispeta, Izozki, Patata-pure, Haragi, Wagyu, Hirugihar, Etxeko_hegazti, Buffalo_wing, Oilasko_erre, Itsaski, Arrainki, Arrautza_(janaria), Arrautza_nahasi, Arrautza_frijitu, Arrautzopil, Arrautza_egosi, Arbendol-esne, Soja-esne, Esne, Ahuntz-esne, Pasta_(jakia), Lasagna, Karbonara, Bolonia, Espageti, Fettuccine, Budin, Sagar-tarta, Pizza, Margherita_pizza, Kroketa, Ogitarteko, Panini_(ogitartekoa), Hanburger, Hot_dog, Sushi, Gofre"
+    },
+    {
+      "l": "fa",
+      "t": "مارچوبه, بیسکویت, کلوچه, تردک, بیسکویت_دریایی, قرابیه_آجی‌بادام, الفخور, اسپکولاس, نان, بیگل, بیالی, کروسان, باگت, نان_تست, بوریتو, کلم, دلمه_کلم‌پیچ, کیک_پنیر, کیک_شکلاتی, کیک_هویج, کیک_توت‌فرنگی, کیک_بستنی, کیک_مخمل_قرمز, کیک_فنجانی, شکلات, پنکیک, کیک_پوند, جگر_خردشده, پنیر, موتزارلا, پنیر_رگه‌آبی, پنیر_پارمیجانو, شله, دونات, ترافل_رنگی, کریسپی_کریم, دامپلینگ, آره‌پا, پیروگی, میوه, گرمک, خارگیل, پرتقال, گیلاس, کیوی, هندوانه, آووکادو, آناناس, توت‌فرنگی, تمشک_(میوه), سیب‌زمینی_سرخ‌کرده, پوتین_(غذا), دانه, غلات, پف_فیل, بستنی, وانیل, بیسکوییت‌ها_و_کرم, بیسکویت_تورتونی, بستنی_توت‌فرنگی, بستنی_پسته‌ای, بستنی_ناپلی, پوره_سیب‌زمینی, گوشت, واگیو, استیک, بیکن, ماکیان, بوفالو_وینگ, ناگت_مرغ, پای_مرغ, دنده_(غذا), خوراک_دریایی, ماهی_(غذا), تخم‌مرغ, تخم‌مرغ_هم‌زده, نیمرو, املت, تخم‌مرغ_آب‌پز, تخم‌مرغ_صدساله, تخم‌مرغ_دودی, شیر_بادام, شیر_سویا, شیر_(خوراکی), پیاز_حلقه‌ای, پاستا, لازانیا, لینگوئینی, راویولی, کاربونارا, بولونیا, اسپاگتی, اسپاگتی_و_کوفته_قلقلی, فتوچینی, پودینگ, پوپوسا, شپردز_پای, پای_سیب, پای_خامه‌ای, پای_کدو_تنبل, پای_لیموی_کی, فهرست_انواع_پای_و_تارت, پیتزا, پپرونی, پیتزا_هاوایی, پیتزا_مارگریتا, رول_بهاری, ساندویچ, ساندویچ_سبزیجات, پانینی_(ساندویچ), چیزبرگر, همبرگر, هات‌داگ, ساندویچ_مربا_و_کره_بادام_زمینی, چاودر, چاودر_صدف, سوشی, تاماله, پاتی_جامائیکایی, وافل, روتی_چانای"
+    },
+    {
+      "l": "fr",
+      "t": "Asperge, Lomo_saltado, Biscuit, Cracker_(biscuit), Piparkūkas, Biscuit_de_mer, Abernethy_biscuit, Acıbadem_kurabiyesi, Alfajor, Biscuit_aux_amandes, Nürnberger_Lebkuchen, Printen, Spéculoos, Springerle, Pain, Bagel, Croissant_(viennoiserie), Baguette_(pain), Pain_grillé, Burrito, Chou_cabus, Chou_farci, Gâteau_au_fromage, Gâteau_au_chocolat, Gâteau_aux_carottes, Gâteau_aux_fraises, Gâteau_glacé, Red_velvet_cake, Cupcake, Chocolat, Pancake, Quatre-quarts, Fromage, Mozzarella, Fromage_à_pâte_persillée, Parmigiano_Reggiano, Mozzarella_sticks, Congee, Donut, Krispy_Kreme, Arepa, Fun_guo, Har_gow, Momo_(plat_traditionnel), Pierogi, Wonton, Fruit_(alimentation_humaine), Cantaloup, Durian, Orange_(fruit), Cerise, Kiwi, Pastèque, Avocatier, Ananas, Fraise, Framboise, Frite, Poutine_(plat), Grain_(céréale), Céréale, Pop-corn, Crème_glacée, Vanille, Cookies_and_Cream, Glace_Hokey_Pokey, Spumone, Tranche_napolitaine, Purée_de_pommes_de_terre, Viande, Wagyu, Steak, Lard_fumé, Volaille, Ailes_de_poulet_à_la_mode_de_Buffalo, Nugget_de_poulet, Chicken_fried_steak, Pattes_de_poulet, Poulet_rôti, Côtes_levées, Produits_de_la_mer, Poisson_(aliment), Œuf_(aliment), Œufs_brouillés, Œuf_au_plat, Omelette, Œuf_à_la_coque, Œufs_au_thé_noir, Œuf_de_cent_ans, Lait_d'amande, Lait_de_soja, Lait, Lait_de_chèvre, Beignet_d'oignon, Pâtes_alimentaires, Lasagnes, Linguine, Ravioli, Pâtes_à_la_carbonara, Bologne, Spaghetti, Fettuccine, Pudding, Pupusa, Cottage_pie, Tarte_aux_pommes, Tarte_à_la_crème, Tarte_à_la_citrouille, Key_lime_pie, Pizza, Pepperoni, Pizza_hawaïenne, Pizza_Margherita, Croquette, Pâté_impérial, Lumpia, Sandwich, Grilled_cheese, Panini_(sandwich), Cheeseburger, Hamburger, Hot-dog, Sandwich_au_beurre_de_cacahuète_et_à_la_confiture, Sandwich_sous-marin, Chaudrée, Chaudrée_de_palourdes, Sinigang, Sushi, Tamal, Chausson_(mets), Gaufre_(cuisine), Roti_canai"
+    },
+    {
+      "l": "ga",
+      "t": "Lus_súgach, Briosca, Arán, Croissant, Cabáiste, Císte_cáise, Borróg, Seacláid, Pancóg, Cáis, Taoschnó, Silín, Mealbhacán_uisce, Abhacád, Anann, Sú_craobh, Sceallóga, Grán, Gránbharr, Grán_rósta, Uachtar_reoite, Fanaile, Brúitín, Feoil, Bagún, Éineoil, Bainne_soighe, Bainne, Pasta, Bologna, Spaigití, Maróg, Píotsa, Ceapaire"
+    },
+    {
+      "l": "gv",
+      "t": "Asparag, Arran, Caashey, Oranje, Mellyn_ushtey, Annane, Feill, Ooh_(bee), Bainney"
+    },
+    {
+      "l": "gl",
+      "t": "Esparragueira, Galleta, Pan, Bagel, Croissant, Torrada, Burrito, Repolo, Torta_de_queixo, Torta_de_cenoria, Cupcake, Chocolate, Chula, Queixo, Mozzarella, Queixo_azul, Parmesano, Donut, Arepa, Pierogi, Froita, Laranxa_(froita), Cereixa, Kiwi_(froita), Sandía, Aguacate, Ananás, Amorodo, Patacas_frixidas, Cereal, Xeado, Carne, Touciño, Ave_de_curral, Peixe_(alimento), Ovo_(alimento), Ovos_revoltos, Ovo_frixido, Tortilla_francesa, Ovo_duro, Bebida_de_améndoa, Bebida_de_soia, Leite, Pasta, Lasaña, Ravioli, Boloña, Espaguetes, Pudin, Pupusa, Empanada_de_mazá, Pizza, Croqueta, Roliño_de_primavera, Sándwich, Hamburguesa, Bocadillo_de_salchicha, Suxi, Tamal"
+    },
+    {
+      "l": "ko",
+      "t": "아스파라거스, 로모_살타도, 비스킷, 쿠키, 크래커, 생강_쿠키, 하드택, 레프쿠헨, 스페퀼로스, 빵, 베이글, 크루아상, 바게트, 토스트, 부리토, 양배추, 양배추말이, 치즈케이크, 초콜릿_케이크, 당근_케이크, 딸기_케이크, 아이스크림_케이크, 레드_벨벳_케이크, 컵케이크, 초콜릿, 팬케이크, 파운드_케이크, 게학테_레베르, 치즈, 모차렐라, 블루_치즈, 파르미자노_레자노, 스트링_치즈, 죽, 도넛, 스프링클, 크리스피_크림, 덤플링, 아레파, 판궈, 하가우, 모모_(음식), 피에로기, 훈툰, 과일, 캔털루프, 두리안, 오렌지, 버찌, 키위_(과일), 수박, 아보카도, 파인애플, 딸기, 라즈베리, 감자튀김, 푸틴_(음식), 곡물, 곡류, 팝콘, 아이스크림, 바닐라, 쿠키_앤드_크림, 민트_초콜릿, 로키_로드_(아이스크림), 호키_포키_(아이스크림), 스푸모니, 나폴리_아이스크림, 매시트_포테이토, 고기, 와규, 스테이크, 베이컨, 가금, 버펄로_윙, 치킨볼, 치킨_너겟, 닭발, 통닭구이, 갈비, 해산물, 생선, 연어_(음식), 상어고기, 식용란, 달걀_스크램블, 달걀_프라이, 오믈렛, 삶은_달걀, 차예단, 피단, 훈제란, 알장조림, 아몬드밀크, 두유, 젖, 염소젖, 어니언_링, 파스타, 라사녜_알_포르노, 링귀니, 라비올리, 카르보나라, 볼로냐, 스파게티, 미트볼_스파게티, 판싯, 페투치네, 푸딩, 푸푸사, 셰퍼드_파이, 사과_파이, 크림_파이, 호박_파이, 키라임_파이, 피자, 페퍼로니, 하와이안_피자, 마르게리타_피자, 크로켓, 에그_롤, 춘권, 룬삐앙, 샌드위치, 파니니_(샌드위치), 치즈버거, 햄버거, 치킨_버거, 핫도그, 피넛_버터_앤드_젤리_샌드위치, 잠수함_샌드위치, 차우더, 클램_차우더, 시니강, 스시, 타말, 턴오버_(음식), 파티_(음식), 와플, 로티_차나이"
+    },
+    {
+      "l": "hy",
+      "t": "Ծնեփակ_դեղատու, Բիսկվիթ_(անգլախոս_երկրներում), Թխվածքաբլիթ, Կրեկեր, Պիպարկուկաս, Աֆղան_(թխվածքաբլիթ), Նյուրնբերգի_քաղցրաբլիթ, Շպրինգերլե, Հաց, Կրուասան, Ֆրանսիական_բագետ, Տոստ, Բուրիտո, Կաղամբ, Կաղամբով_տոլմա, Չիզքեյք, Շոկոլադե_տորթ, Գազարով_տորթ, Ելակով_տորթ, Կարմիր_թավշյա_տորթ, Քափքեյք, Շոկոլադ, Նրբաբլիթ, Պանիր, Մոցարելա, Կապույտ_պանիրներ, Պարմեզան, Կոնջի, Փքաբլիթ, Օղակաձև_բլիթ, Դամփլինգներ, Արեպա, Մոմո, Պերոգի, Միրգ, Կանտալուպ, Նարինջ_(պտուղ), Բալ, Կիվի_(միրգ), Ձմերուկ, Ավոկադո, Փշավոր_արքայախնձոր, Ելակ, Ազնվամորի, Ֆրի_(ուտեստ), Պուտին_(ճաշատեսակ), Հացահատիկ_(պտուղ), Հացահատիկային_բույսեր, Պոպկորն, Պաղպաղակ, Վանիլ_(համեմունք), Նեապոլիտանական_պաղպաղակ, Կարտոֆիլի_պյուրե, Միս, Սթեյք, Բեկոն, Ընտանի_թռչուններ, Բուֆֆալո_թևիկներ, Նագեթներ, Ծովամթերք, Ձուկ_(սննդամթերք), Սաղմոն_(ուտեստ), Ձու_(սննդամթերք), Ձվածեղ, Օմլետ, Խաշած_ձու, Հարյուրամյա_ձու, Նուշի_կաթ, Սոյայի_կաթ, Կաթ, Սոխի_օղակներ, Մակարոնեղեն, Լազանյա, Ռավիոլի, Կարբոնարա, Բոլոնիա, Սպագետտի, Պուդինգ, Խնձորով_կարկանդակ, Դդմի_կարկանդակ, Լայմով_կարկանդակ, Պիցցա, Պեպերոնի, Հավայան_պիցցա, Կրոկետներ, Ձվից_պատրաստված_ռուլետ, Գարնանային_ռուլետ, Սենդվիչ, Բանջարեղենային_բուտերբրոդ, Պանինի_(բուտերբրոդ), Չիզբուրգեր, Համբուրգեր, Հոթ_դոգ, Սուշի, Տամալե, Վաֆլի"
+    },
+    {
+      "l": "hi",
+      "t": "शतावर, बिस्कुट, कुकी_(एक_प्रकार_का_बिस्कुट), डबलरोटी, बंद_गोभी, चॉकलेट, चीज़_(पाश्चात्य_पनीर), मोमो, ख़रबूज़ा, संतरा_(फल), आलूबालू, कीवी_फल, तरबूज़, रूचिरा, अनानास, स्ट्रॉबेरी, रसभरी_(रास्पबेरी), फ्रेंच_फ्राइज़, अनाज, खाद्यान्न, आइसक्रीम, वैनिला, मांस, स्टीक, कुक्कुट, रिब्स_(भोजन), अण्डा_(खाद्य), ऑमलेट, उबले_हुए_अंडे, बादाम_का_दुध, सोया_दूध, दूध, पास्ता, लज़ान्या, स्पगैटी, पुडिंग, पिज़्ज़ा, पेपरोनी, सैंडविच, चीज़बर्गर, हैमबर्गर, हॉट_डॉग, सूशी, रोटी_चनाई"
+    },
+    {
+      "l": "hr",
+      "t": "Ljekovita_šparoga, Biskvit, Keks, Kreker, Speculaas, Kruidnoten, Kruh, Kroasan, Tost, Burrito, Čokolada, Sir, Mozzarella, Parmezan, Krafna, Piroge, Voće, Naranča, Aktinidija_(voće), Lubenica, Avokado_(biljna_vrsta), Ananas_comosus, Vrtna_jagoda, Prženi_krumpirići, Žitarice, Kokice, Sladoled, Meso, Slanina, Perad, Morski_plodovi, Riba_kao_hrana, Jaje_(hrana), Kajgana, Omlet, Bademovo_mlijeko, Sojino_mlijeko, Mlijeko, Tjestenina, Lazanje, Bologna, Špageti, Puding, Pizza, Sendvič, Cheeseburger, Hamburger, Hotdog, Suši, Vafel_proizvod"
+    },
+    {
+      "l": "io",
+      "t": "Asparago, Bisquito, Pano, Chokolado, Quarquarimi-kuko, Fromajo, Parmana_fromajo, Oranjo, Cerizo, Frago, Frambo, Cerealo, Krev-maizo, Vanilo, Karno, Lardo, Pultro, Ovo_(nutrivo), Omleto, Lakto, Pasto_(sika), Lazanyo, Bologna, Spageti, Pizza, Hamburgero, Sushio, Vaflo"
+    },
+    {
+      "l": "id",
+      "t": "Akar_parsi, Lomo_saltado, Biskuit, Kukis, Kraker, Biskuit_jahe, Hardtack, Lebkuchen, Spekulas, Springerle, Roti, Bagel, Kroisan, Baget, Roti_panggang, Burrito, Kubis, Cheesecake, Bolu_beludru_merah, Kue_cangkir, Cokelat, Panekuk, Kue_pon, Hati_cincang, Keju, Mozzarella, Parmesan, Stik_mozzarella, Donat, Beraian, Krispy_Kreme, Dumpling, Arepa, Fun_guo, Hakau, Momo_(makanan), Pierogi, Pangsit, Blewah, Durian, Jeruk, Kiwi_(buah), Semangka, Alpukat, Nanas, Stroberi_kebun, Lembutung, Kentang_goreng, Poutine, Bijian, Serealia, Berondong, Es_krim, Vanila, Es_krim_neapolitan, Kentang_tumbuk, Daging, Wagyu, Steik, Bakon, Unggas, Sayap_ayam, Nuget_ayam, Bistik_ayam_goreng, Ceker_ayam, Ayam_panggang, Makanan_laut, Ikan_(makanan), Salmon_(makanan), Udang_(makanan), Daging_hiu, Telur_sebagai_makanan, Telur_orak-arik, Telur_mata_sapi, Telur_dadar, Telur_rebus, Telur_pindang, Telur_bitan, Telur_besi, Telur_asap, Telur_merah, Sari_kacang_badam, Susu_kedelai, Susu, Susu_kambing, Cincin_bawang, Pasta, Lasagna, Linguine, Ravioli, Carbonara, Bologna, Spageti, Pancit, Fetucini, Puding, Pastei_apel, Pai_krim, Piza, Pepperoni, Piza_Hawaii, Kroket, Lumpia, Roti_lapis, Roti_lapis_sayuran, Roti_lapis_keju_panggang, Panini_(makanan), Burger_keju, Hamburger, Hot_dog, Roti_lapis_selai_kacang_dan_jeli, Roti_lapis_kapal_selam, Sup_kental, Sup_kerang_kental, Sup_jagung_kental, Sinigang, Susyi, Tamale, Wafel, Roti_canai"
+    },
+    {
+      "l": "is",
+      "t": "Spergill, Kex, Smákaka, Piparkaka, Brauð, Beygla, Hvítkál, Bollakaka, Súkkulaði, Pönnukaka, Ostur, Mozzarella, Gráðostur, Parmesan, Kleinuhringur, Dáraaldin, Appelsína, Kirsuber, Kíví_(ávöxtur), Lárpera, Ananas, Franskar_kartöflur, Korn, Poppkorn, Rjómaís, Vanilla, Kjöt, Beikon, Sjávarfang, Fiskur_(matargerð), Egg_(matvæli), Eggjahræra, Spælegg, Möndlumjólk, Sojamjólk, Mjólk, Pasta, Lasanja, Linguine, Bologna, Spagettí, Pitsa, Vorrúlla, Samloka, Hamborgari, Pylsa, Sushi, Vaffla"
+    },
+    {
+      "l": "it",
+      "t": "Asparagus_officinalis, Lomo_saltado, Biscotto, Cookie_(gastronomia), Cracker, Biscotti_allo_zenzero, Galletta, Afghan, Alfajor, Lebkuchen, Speculoos, Kruidnoot, Pane, Bagel, Croissant, Baguette, Toast, Burrito, Cavolo_cappuccio, Golubcy, Cheesecake, Torta_al_cioccolato, Torta_di_carote, Torta_gelato, Red_velvet, Cupcake, Cioccolato, Pancake, Torta_quattro_quarti, Formaggio, Mozzarella, Erborinatura, Parmigiano_Reggiano, Telli_peynir, Congee, Donut, Codette_di_zucchero, Arepa, Momo_(cucina), Pierogi, Wonton, Frutta, Cantalupo_(botanica), Durian, Ciliegia, Kiwi_(frutto), Citrullus_lanatus, Persea_americana, Ananas_comosus, Fragola, Lampone, Patate_fritte, Poutine, Cereali, Popcorn, Gelato, Rocky_road_(gelato), Gelato_al_puffo, Spumone, Gelato_napoletano, Purea_di_patate, Carne, Wagyū, Bistecca, Bacon_(salume), Pollame, Buffalo_wings, Nugget_di_pollo, Chicken_fried_steak, Zampe_di_gallina, Pollo_arrosto, Pesce_(alimento), Uovo_(alimento), Uova_strapazzate, Uovo_all'occhio_di_bue, Omelette, Uovo_alla_coque, Uovo_centenario, Latte_di_mandorla, Latte_di_soia, Latte, Latte_caprino, Anelli_di_cipolla, Pasta, Lasagne_al_forno, Linguine, Ravioli, Pasta_alla_carbonara, Bologna, Spaghetti, Spaghetti_con_polpette, Pancit, Pudding, Pupusa, Cottage_pie, Torta_di_mele, Torta_alla_crema, Torta_di_zucca, Torta_di_limetta, Pizza, Pepperoni, Pizza_hawaiana, Pizza_Margherita, Crocchetta, Involtino_primavera, Lumpia, Sandwich, Grilled_cheese, Panino_imbottito, Cheeseburger, Hamburger_(panino), Hot_dog, Peanut_butter_and_jelly_sandwich, Submarine_sandwich, Chowder, Clam_chowder, Sushi, Tamales, Fagottino, Patty_giamaicano, Gaufre"
+    },
+    {
+      "l": "he",
+      "t": "אספרג_רפואי, ביסקוויט, עוגייה, קרקר, אלפחור, עוגיות_שקדים, לבקוכן, לחם, כעך, ביאלי, קרואסון, בגט, קלי, בוריטו, כרוב, כרוב_ממולא, עוגת_גבינה, עוגת_שוקולד, עוגת_גזר, עוגת_תות, עוגת_גלידה, עוגת_קטיפה_אדומה, קאפקייק, שוקולד, חביתית, עוגת_פאונד, כבד_קצוץ, גבינה, מוצרלה, גבינה_כחולה, פרמזן, דונאט, כיסונים, ארפה, מומו_(מאכל), פירוגי, וונטון, פרי_(מאכל), דוריאן, תפוז, קיווי_(פרי), אבטיח, אבוקדו, אננס, תות_שדה, פטל_(תת-סוג), טוגנים, פוטין_(מאכל), דגנים, פופקורן, גלידה, וניל_עוגיות, מחית_תפוחי_אדמה, בשר, ואגיו, אומצה, קותל_חזיר, כנפי_עוף_באפלו, עוף_צלוי, מאכלי_ים, דג_מאכל, ביצה_(מזון), ביצה_מקושקשת, ביצת_עין, חביתה, ביצה_מבושלת, ביצת_מאה_השנים, חלב_שקדים, חלב_סויה, חלב, טבעות_בצל, פסטה, לזניה, לינגוויני, רביולי, קרבונרה, בולוניה, ספגטי, פטוצ'יני, פודינג, פאי_רועים, פאי_תפוחים, פאי_דלעת, פיצה, פפרוני, פיצה_בנוסח_הוואי, פיצה_מרגריטה, קרוקט_(מזון), אגרול, ספרינג_רול, כריך, פאנינו, צ'יזבורגר, המבורגר, נקניקייה_בלחמנייה, כריך_חמאת_בוטנים_וריבה, כריך_סאב, צ'אודר_צדפות, סושי, טמלה, קיפולית_(מזון), ופל_(מאפה)"
+    },
+    {
+      "l": "jv",
+      "t": "Asparagus_(tanduran), Lomo_saltado, Biskuit, Kukis, Krèker, Biskuit_jaé, Hardtack, Afghan, Alfajor, Lebkuchen, Pameran_jagung, Speculaas, Springerle, Kruidnoten, Roti, Bagel, Biały, Croissant, Baguette, Roti_panggang, Burrito, Kul, Kobis_gulung, Kuwé_kèju, Kuwé_soklat, Kuwé_wortel, Kuwé_strobéri, Kuwé_ès_krim, Kuwé_bludru_abang, Kuwé_mangkok, Soklat, Kuwé_dhadhar, Kuwé_pon, Ati_cincang, Kèju, Mozzarella, Kèju_biru, Parmigiano-Reggiano, Stik_mozzarella, Kéju_tali, Dhonat, Mèses, Pangsit, Arepa, Momo, Pierogi, Wonton, Bléwah, Durian, Jeruk, Céri, Kiwi, Semangka, Apokat, Nanas, Strobèri_kebon, Raspbéri, Kenthang_gorèng, Poutine, Wiji-wijian, Séréalia, Brondong_jagung, Ès_krim, Vanila, Dalan_watu, Hokey_pokey, Ès_krim_strobéri, Ès_krim_neapolitan, Kenthang_uleg, Daging, Wagyu, Stik, Daging_bakon, Unggas, Swiwi_pedhes, Bal_pitik, Nuget, Stik_pitik_gorèng, Cèkèr_pitik, Pitik_panggang, Daging_iga, Tetedhan_seganten, Iwak_(panganan), Urang_minangka_panganan, Daging_hiu, Endhog_minangka_panganan, Endhog_orak-arik, Endhog_gorèng, Omelèt, Endhog_godhog, Endhog_pindhang, Endhog_abad, Endhog_wesi, Endhog_keluk, Endhog_kècap, Susu_almond, Susu_kedhelé, Susu, Susu_wedhus, Ali-ali_bawang, Pasta, Lasagna, Ravioli, Carbonara, Bologna, Spagèti, Spaghetti_lan_bakso, Pancit, Fettuccine, Pudhing, Pupusa, Pai_pondhok, Pai_apel, Pai_krim, Pai_waluh, Pai_jeruk_nipis, Pizza, Pepperoni, Kroket, Endhog_gulung, Lumpia, Sandwich, Kèju_panggang, Panini, Burger_kèju, Hamburger, Hot_dog, Roti_lapis_selé_kacang_lan_gudir, Roti_lapis_prau_silem, Chowder, Saos_kerang, Sop_krim_jagung, Sinigang, Sushi, Tamalé, Turnover, Patty_Jamaika, Wafel, Roti_Canai"
+    },
+    {
+      "l": "kn",
+      "t": "ಶತಾವರಿ, ಕುಕಿ, ಬ್ರೆಡ್, ಎಲೆಕೋಸು, ಚೀಜ಼್‍ಕೇಕ್, ಕಪ್‍ಕೇಕ್, ಚಾಕೋಲೆಟ್, ಪ್ಯಾನ್‍ಕೇಕ್, ಗಿಣ್ಣು, ಮೋಟ್ಸರೆಲ್ಲಾ_ಚೀಸ್, ಪಾರ್ಮಜ಼ಾನ್_ಚೀಸ್, ಡೋನಟ್, ಮೋಮೊ, ಕರ್ಬೂಜ, ಚೆರಿ, ಕೀವಿಹಣ್ಣು, ಕಲ್ಲಂಗಡಿ, ಆವಕಾಡೊ, ಅನಾನಸ್, ಸ್ಟ್ರಾಬೆರಿ, ರಾಸ್‍ಬೆರಿ, ಆಲೂಗಡ್ಡೆಯ_ಉಪ್ಪೇರಿ, ಧಾನ್ಯ, ಪಾಪ್‌ಕಾರ್ನ್, ಐಸ್_ಕ್ರೀಂ, ವನಿಲಾ, ಮಾಂಸ, ಆಮ್ಲೆಟ್_(ತಿಂಡಿ), ಹಾಲು, ಪಾಸ್ತಾ, ಲಜ಼ಾನ್ಯಾ, ಪುಡಿಂಗ್, ಆಪಲ್_ಪೈ, ಪೀಟ್ಸಾ, ಸ್ಪ್ರಿಂಗ್_ರೋಲ್, ಸ್ಯಾಂಡ್‌‌ವಿಚ್, ಹಾಟ್_ಡಾಗ್, ಸೂಶಿ, ವಾಫ಼ಲ್"
+    },
+    {
+      "l": "ka",
+      "t": "ბაღის_სატაცური, ორცხობილა, ალფაჰორი, ლებკუხენი, პური, კრუასანი, ბაგეტი, ბურიტო, ჩიზქეიქი, სტაფილოს_ნამცხვარი, ქაფქეიქი, შოკოლადი, ყველი, ხილი, დურიო, კივი_(ხილი), ავოკადო, კარტოფილი_ფრი, მარცვლეული_კულტურები, პოპკორნი, ნაყინი, ხორცი, ბეკონი, კვერცხი_(საკვები_პროდუქტი), ომლეტი, რძე, მაკარონის_ნაწარმი, ლაზანია, რავიოლი, ბოლონია, სპაგეტი, პუდინგი, ვაშლის_ნამცხვარი, პიცა, გაზაფხულის_როლი, სენდვიჩი, ჩიზბურგერი, ჰამბურგერი, ჰოთ-დოგი, სუში, ვაფლი"
+    },
+    {
+      "l": "kk",
+      "t": "Кәдімгі_қасқыржем, Печенье, Пипаркукас, Нан, Круассан, Багета, Бурито, Голубцы, Шоколад, Құймақ, Ірімшік, Моцарелла, Пончиктер, Салқын_тәтті_тағамдар, Канталупа, Дуриан, Апельсин, Киви_жемісі, Авокадо, Таңқурай, Фри, Астық, Дәнді_дақылдар, Балмұздақ, Пісте_балмұздақ, Ет, Бекон, Үй_құстары, Теңіз_өнімдері, Балық_еті, Яичница, Табиғи_омлет, Сүт, Ешкі_сүті, Равиоли, Болонья, Спагетти, Пудинг, Пицца, Сэндвич, Гамбургер, Хот-дог, Вафли"
+    },
+    {
+      "l": "rw",
+      "t": "Asiperije, Umugati, Ishu, Duriyani, Avoka, Inyama, Igi"
+    },
+    {
+      "l": "ku",
+      "t": "Kilig, Hindok, Nan, Baguette, Kelem, Çoklata, Şilikî, Penîr, Mozzarella, Pirteqal, Zebeş, Avokado, Dan, Bestenî, Goşt, Bîftek, Xwarinên_deryayî, Arxavk, Şîr, Meqarne, Bolonya, Pîza, Cheeseburger, Hambûrger, Mirîşkburger, Hot_dog"
+    },
+    {
+      "l": "la",
+      "t": "Asparagus_officinalis, Crustulum, Panis, Semilixula, Brassica_oleracea_Grex_Capitata, Socolata, Lucunculus, Caseus, Mozzarella, Caseus_mucore_glaucus, Caseus_Parmensis, Candgie, Laganum_turgidum, Wonton, Malum_Sinense, Cerasus_(pomum), Actinidiae_fructus, Citrullus_lanatus, Persea_americana, Ananas_comosus, Fragaria_×_ananassa, Patatae_frictae, Frumentum, Maizium_inflatum, Glacies_edibilis, Vanilla, Patatae_contusae, Caro, Aves_cohortales, Alae_pullinae_Buffalonenses, Conchylium, Sphungatum, Lac_amygdalinum, Lac, Pasta, Lasania, Ravioli, Bononia, Spacelli, Crustum_de_malis, Placenta_Neapolitana, Croquetta, Pastillum_fartum, Pastillum_Hamburgense, Hilla_calens, Sushi, Tamal, Vaflum"
+    },
+    {
+      "l": "lv",
+      "t": "Sparģeļi, Piparkūkas, Kruidnoten, Maize, Galviņkāposti, Kāpostu_tīteņi, Šokolāde, Siers, Mocarella, Parmas_siers, Virtulis, Augļi, Duriāns, Apelsīns, Ķirši, Kivi_(auglis), Arbūzs, Avokado, Ananass, Dārza_zemene, Avene, Frī_kartupeļi, Grauds, Labība, Popkorns, Saldējums, Gaļa, Mājputni, Ola_(pārtika), Omlete, Piens, Pasta_(ēdiens), Boloņa, Spageti, Pica, Sendvičs, Hamburgers, Hotdogs, Suši"
+    },
+    {
+      "l": "lt",
+      "t": "Vaistinis_smidras, Sausainis, Duona, Didriestainis, Kruasanas, Prancūziškas_batonas, Skrebutis, Gūžinis_kopūstas, Balandėliai, Šokoladas, Sūris, Mocarela, Parmezanas, Virviškasis_sūris, Spurga, Virtinis, Raukšlėtasis_melionas, Apelsinas, Kivis_(vaisius), Tikrasis_arbūzas, Amerikinė_persėja, Valgomasis_ananasas, Braškė, Avietė, Bulvytės_fri, Grūdas, Javai, Ledai, Vanilė, Bulvių_košė, Mėsa, Didkepsnis, Paukštiena, Žuvis_(maistas), Kiaušiniai_(maistas), Kiaušinienė, Omletas, Amžiaus_kiaušinis, Migdolų_pienas, Sojų_pienas, Pienas, Ožkos_pienas, Lazanija, Linguine, Ravioliai, Bolonija, Spagečiai, Spagečiai_su_kukuliais, Fetučine, Pudingas, Pica, Pavasariniai_ritinėliai, Sumuštinis, Panini_(sumuštinis), Mėsainis, Dešrainis, Sušis"
+    },
+    {
+      "l": "li",
+      "t": "Asperge, Öcher_printe, Kroednoeët, Broed, Sjoekelaat, Kieës, Appelesien, Gewuuen_aerbel, Friete, Kaore, Vleisj, Ei_(aete), Mèlk, Lezanja, Pizza, Kroket, Hamburger, Waffel"
+    },
+    {
+      "l": "hu",
+      "t": "Közönséges_spárga, Keksz, Aprósütemény, Spekulatius, Kenyér, Baguette, Pirítós, Burrito, Töltött_káposzta, Csokoládétorta, Cupcake, Csokoládé, Sajt, Mozzarella, Parmezán, Csuk, Amerikai_fánk, Barátfüle, Kivi_(gyümölcs), Görögdinnye, Avokádó, Termesztett_ananász, Eper_(növényfaj), Hasábburgonya, Gabona, Pattogatott_kukorica, Fagylalt, Hús, Baromfi, Tenger_gyümölcsei, Tojás_(gasztronómia_és_kultúra), Rántotta, Tükörtojás, Omlett, Száznapos_tojás, Tej, Pasta, Lasagne, Ravioli, Carbonara, Bologna, Spagetti, Puding, Pupusa, Pizza, Pepperoni, Hawaii_pizza, Krokett_(étel), Szendvics, Panini_(szendvics), Sajtburger, Hamburger, Hot_dog, Szusi, Jamaicai_patti"
+    },
+    {
+      "l": "ml",
+      "t": "ശതാവരിച്ചെടി, ബിസ്കറ്റ്, റൊട്ടി, മൊട്ടക്കൂസ്, ചോക്കളേറ്റ്_കേക്ക്, ചോക്കലേറ്റ്, പാൽക്കട്ടി, കഞ്ഞി, ഡോനട്ട്, ഡംലിങ്, ഷമാം, ഓറഞ്ച്_(സസ്യം), കിവിപ്പഴം, തണ്ണിമത്തൻ, വെണ്ണപ്പഴം, കൈതച്ചക്ക, ഗാർഡൻ_സ്ട്രോബെറി, ഫ്രഞ്ച്_ഫ്രൈസ്, ധാന്യം, സിറിയൽ, പോപ്‌കോൺ, ഐസ്‌ക്രീം, റോക്കി_റോഡ്_(ഐസ്ക്രീം), ഇറച്ചി, ചിക്കൻ_നഗ്ഗറ്റ്, ഓംലെറ്റ്, ടീ_എഗ്, സെഞ്ചുറി_എഗ്, ഇരുമ്പ്_മുട്ട, സ്മോക്ഡ്_എഗ്ഗ്, പാൽ, സ്പാഗെട്ടി, പിത്സ, ലംപിയ, സാൻഡ്‌വിച്ച്, ഹോട്ട്_ഡോഗ്, സുഷി"
+    },
+    {
+      "l": "mr",
+      "t": "अस्पॅरॅगस, पाव_(खाद्यपदार्थ), कोबी, चॉकलेट, चीझ, मॉझरेल्ला_चीझ, डोनट, खरबूज, संत्रे, चेरी, किवी_(फळ), टरबूज, ॲव्होकाडो, अननस, स्ट्रॉबेरी, रास्पबेरी, फ्रेंच_फ्राईज, धान्य, लाह्या, आईस्क्रीम, कुक्कुट, अंडी, आम्लेट, दूध, बोलोन्या, पिझ्झा, सुशी_(खाद्यपदार्थ), रोटी_प्राटा"
+    },
+    {
+      "l": "ms",
+      "t": "Asparagus, Biskut, Kraker, Biskut_Abernethy, Acıbadem_kurabiyesi, Biskut_Afghan, Alfajor, Aachener_Printen, Speculaas, Roti, Bagel, Roti_bulan_sabit, Baguette, Roti_bakar, Burrito, Kubis, Kek_keju, Kek_cawan, Coklat, Lempeng, Keju, Mozarela, Parmigiano-Reggiano, Bubur_nasi, Donat, Urai_(makanan), Krispy_Kreme, Momo_(makanan), Wantan, Durian, Oren_(buah), Buah_kiwi, Tembikai, Avokado, Nanas, Strawberi, Raspberi, Kentang_goreng, Bijirin, Bertih_jagung, Aiskrim, Vanila, Kentang_lecek, Daging, Wagyu, Stik, Bakon, Kepak_ayam_Buffalo, Bebola_ayam, Nuget_ayam, Ayam_panggang, Makanan_laut, Ikan_(makanan), Telur_(makanan), Telur_mata_lembu, Telur_dadar, Telur_rebus, Telur_pindang, Telur_padi, Susu_badam, Air_kacang_soya, Susu, Susu_kambing, Gegelang_bawang, Pasta, Lasagne, Linguine, Ravioli, Carbonara, Bologna, Spageti, Spaghetti_dengan_bebola_daging, Fettuccine, Puding, Piza, Peperoni, Piza_Hawaii, Croquette, Sandwic, Burger_keju, Burger, Hot_dog, Sandwic_mentega_kacang_dan_jeli, Sandwic_kapal_selam, Cowder, Susyi, Wafel, Roti_canai"
+    },
+    {
+      "l": "my",
+      "t": "ကညွတ်ပင်, ပေါင်မုန့်, လခြမ်းကွေးပေါင်မုန့်, ဂေါ်ဖီထုပ်, ချောကလက်, ဒိန်ခဲ, ဒူးရင်းသီး, ကီဝီသီး, ဖရဲပင်, ထောပတ်ပင်, နာနတ်သီး, စတော်ဘယ်ရီ, နှံစားပင်, ရေခဲမုန့်, ဗနီလာပင်, အသား, ကြက်ငှက်မွေးမြူခြင်း, နို့, ပါစတာ, ဘိုလိုညာမြို့, စပါဂတီခေါက်ဆွဲ, ပီဇာ, ကြက်ဥလိပ်, ကော်ပြန့်ကြော်, ဟမ်ဘာဂါ, ဆူရှီ"
+    },
+    {
+      "l": "nl",
+      "t": "Asperge, Lomo_saltado, Biscuitje, Koekje, Cracker_(voedsel), Pepparkaka, Scheepsbeschuit, Acıbadem_kurabiyesi, Speculaas, Kruidnoot, Brood, Bagel, Croissant, Stokbrood, Geroosterd_brood, Burrito, Kaastaart, Chocoladetaart, Worteltaart, IJstaart, Red_velvet_cake, Cupcake, Chocolade, Pannenkoek, Cake_(gebak), Kaas, Mozzarella, Blauwschimmelkaas, Parmezaanse_kaas, Congee, Donut, Arepa, Haa_kaauw, Momo_(gerecht), Pierogi, Wantan, Fruit, Cantaloupe, Appelsien, Kers_(fruit), Kiwi_(fruit), Watermeloen, Avocado, Ananas, Aardbei, Framboos_(vrucht), Friet, Poutine, Graan, Popcorn_(voedsel), Roomijs, Vanille, Fürst-Pückler-ijs, Aardappelpuree, Vlees, Wagyu, Biefstuk, Spek, Pluimvee, Kipnugget, Zeevrucht, Vis_(voeding), Ei_(voeding), Roerei, Spiegelei, Omelet, Gekookt_ei, Duizendjarig_ei, Amandelmelk, Sojamelk, Melk_(drank), Geitenmelk, Uienringen, Pasta_(deegwaar), Lasagne, Linguine, Ravioli, Carbonara, Bologna_(stad), Spaghetti, Spaghetti_met_gehaktballen, Fettuccine, Pudding, Shepherd's_pie, Appeltaart, Key_lime_pie, Pizza, Pepperoni, Pizza_Hawaï, Pizza_margherita, Kroket, Loempia, Sandwich_(gerecht), Cheeseburger, Hamburger, Hotdog, Belegd_broodje, Clam_chowder, Sinigang, Sushi, Tamale_(voedsel), Wafel"
+    },
+    {
+      "l": "ne",
+      "t": "कुरिलो, पाउरोटी, बन्दागोभी, सेल, मम:, ठेकीफल, खरबुजा, घ्यूफल, भुइँ_कटहर, भुँइ_ऐँसेलु, मासु, फुल, दुध, पेपरोनी, ह्यामबर्गर, सुसी"
+    },
+    {
+      "l": "ja",
+      "t": "アスパラガス, ロモ・サルタード, ビスケット, クッキー, クラッカー_(食品), ジンジャークッキー, 堅パン, レープクーヘン, スペキュラース, パン, ベーグル, ビアリ, クロワッサン, バゲット, トースト, ブリート, キャベツ, ロールキャベツ, チーズケーキ, チョコレートケーキ, キャロットケーキ, アイスクリームケーキ, レッド・ヴェルヴェット・ケーキ, カップケーキ, チョコレート, ホットケーキ, パウンドケーキ, チーズ, モッツァレッラ, ブルーチーズ, パルミジャーノ・レッジャーノ, ストリングチーズ, 粥, ドーナツ, スプリンクル, クリスピー・クリーム・ドーナツ, ダンプリング, アレパ, 蝦餃, モモ_(料理), ピエロギ, ワンタン, 果物, カンタロープ, ドリアン_(果実), サクランボ, キウイフルーツ, スイカ, アボカド, パイナップル, イチゴ, ラズベリー, フライドポテト, プーティン, 穀粒, 穀物, ポップコーン, アイスクリーム, バニラ_(香辛料), ミントチョコレート, スプモーネ, マッシュポテト, 食肉, 和牛, ステーキ, ベーコン, 家禽, バッファローウィング, チキンボール, チキン・ナゲット, チキンフライドステーキ, ローストチキン, ばら肉, シーフード, 魚肉, ノルウェーサーモン, サメ肉, 食用卵, スクランブルエッグ, 目玉焼き, オムレツ, ゆで卵, 茶葉蛋, 皮蛋, 鐵蛋, アーモンドミルク, 豆乳, 乳, ヤギ乳, オニオンリング, パスタ, ラザニア, リングイネ, ラビオリ, カルボナーラ, ボローニャ, スパゲッティ, スパゲッティ・ウィズ・ミートボール, パンシット, フェットゥチーネ, プディング, ププサ, シェパーズパイ, アップルパイ, パンプキンパイ, キーライムパイ, ピザ, ペパロニ, ハワイアンピザ, マルゲリータ_(ピッツァ), クロケット, エッグロール, 春巻き, サンドイッチ, 野菜サンドイッチ, グリルドチーズ, パニーノ, チーズバーガー, ハンバーガー, ホットドッグ, ピーナッツバターとジェリーのサンドイッチ, サブマリンサンドイッチ, チャウダー, クラムチャウダー, コーンチャウダー, シニガン, 寿司, タマル_(食品), ターンオーバー_(食品), ワッフル, ロティチャナイ"
+    },
+    {
+      "l": "no",
+      "t": "Asparges, Kjeks, Småkaker, Pepperkake, Spekulatius, Brød, Bagel, Croissant, Baguette, Ristet_brød, Burrito, Hodekål, Ostekake, Sjokoladekake, Gulrotkake, Cupcake, Sjokolade, Pannekake, Ost, Mozzarella, Blåmuggost, Parmesan, Congee, Doughnut, Krispy_Kreme, Arepa, Wonton, Cantaloupe, Durian, Appelsin, Kiwi_(frukt), Vannmelon, Avokado, Vanlig_ananas, Hagejordbær, Pommes_frites, Poutine, Korn, Popkorn, Iskrem, Vanilje, Potetmos, Kjøtt, Wagyu, Biff, Bacon, Fjærkre, Buffalo_wings, Sjømat, Egg_(mat), Eggerøre, Speilegg, Omelett, Kokt_egg, Tusenårsegg, Mandelmelk, Melk, Geitemelk, Løkringer, Pasta, Lasagne, Linguini, Ravioli, Pasta_alla_carbonara, Bologna, Spagetti, Pansit, Fettuccine, Pudding, Pupusa, Shepherd’s_pie, Key_lime_pie, Pizza, Pepperoni, Hawaiipizza, Pizza_Margherita, Krokett, Vårrull, Sandwich, Cheeseburger, Hamburger, Pølse_i_brød, Peanøttsmør-_og_syltetøysandwich, Chowder, Sushi, Tamal, Vafler, Roti_canai"
+    },
+    {
+      "l": "nn",
+      "t": "Asparges, Kjeks, Småkaker, Peparkake, Spekulasje, Brød, Bagett, Hovudkål, Ostekake, Sjokoladekake, Sjokolade, Pannekake, Ost, Kantalupp, Durian, Kiwifrukt, Vassmelon, Avokado, Ananas, Hagejordbær, Pommes_frites, Poutine, Gryn, Korn, Popkorn, Iskrem, Vanilje, Potetstappe, Kjøtt, Biff, Flesk, Fjørfe, Sjømat, Matfisk, Omelett, Kokt_egg, Mandelmjølk, Mjølk, Pasta, Bologna, Spagetti, Pudding, Pizza, Margherita, Sandwich, Hamburgar, Pølse_i_brød, Vaffel"
+    },
+    {
+      "l": "oc",
+      "t": "Espargue, Pan, Caulet, Chocolat, Formatge, Durian, Irange, Cerièra, Cereala, Pòp-còrn, Carn, Uòu_(cosina), Lach, Bolonha, Pizza, Entrepan, Hamburger, Hot-dog, Soshí"
+    },
+    {
+      "l": "pa",
+      "t": "ਛਤਾਵਰ, ਡਬਲਰੋਟੀ, ਬੰਦ_ਗੋਭੀ, ਚੌਕਲੇਟ, ਜੁਕ, ਮੋਮੋ, ਖਰਬੂਜਾ, ਸੰਤਰਾ, ਕੀਵੀ_(ਫਲ), ਹਦਵਾਣਾ, ਆਵਾਕੈਡੋ, ਅਨਾਨਾਸ, ਸਟਰਾਬਰੀ, ਫ੍ਰੈਂਚ_ਫ੍ਰਾਈਜ਼, ਪੂਟੀਨ, ਅਨਾਜ, ਆਈਸ_ਕਰੀਮ, ਮੀਟ, ਸਟੀਕ, ਬੇਕਨ, ਪੋਲਟਰੀ, ਮੱਛੀ_(ਭੋਜਨ), ਆਂਡੇ_ਭੋਜਨ_ਦੇ_ਰੂਪ_ਵਿੱਚ, ਆਮਲੇਟ, ਦੁੱਧ, ਪਾਸਤਾ, ਪੀਜ਼ਾ, ਸੈਂਡਵਿਚ, ਹੈਮਬਰਗਰ, ਹੌਟ_ਡੌਗ, ਸੂਸ਼ੀ"
+    },
+    {
+      "l": "pl",
+      "t": "Szparag_lekarski, Lomo_saltado, Herbatnik, Ciastko, Krakers, Suchary_(pieczywo), Alfajor, Aachener_Printen, Speculaas, Kruidnoot, Chleb, Bajgiel, Bialy, Croissant, Bagietka_(pieczywo), Tost, Burrito, Kapusta_warzywna_głowiasta, Gołąbki_(potrawa), Sernik, Ciasto_marchewkowe, Cupcake, Czekolada, Naleśnik_amerykański, Pound_cake, Ser, Mozzarella, Niebieski_ser, Parmezan, Kleik_ryżowy, Donut, Arepa, Momo_(pierogi), Pierogi, Wonton_(kuchnia_chińska), Kantalupa, Durian, Pomarańcza_słodka, Czereśnie, Kiwi_(owoc), Arbuz_zwyczajny, Smaczliwka_wdzięczna, Ananas_jadalny, Truskawka, Malina_(roślina), Frytki, Poutine, Zboża, Popcorn, Lody, Mięso, Wagyū, Stek_(potrawa), Drób, Owoce_morza, Ryby_konsumpcyjne, Jajko_(kulinaria), Jajecznica, Omlet, Stuletnie_jaja, Mleko_migdałowe, Napój_sojowy, Mleko, Krążki_cebulowe, Makaron, Lasagne, Linguine, Ravioli, Carbonara, Bolonia, Spaghetti, Fettuccine, Pudding, Cottage_pie, Apple_pie, Tarta_dyniowa, Pizza, Pepperoni, Pizza_hawajska, Pizza_Margherita, Krokiet_(potrawa_smażona_w_głębokim_tłuszczu), Sajgonki, Kanapka, Panino, Cheeseburger, Hamburger, Hot_dog, PB_&_J, Chowder, Sushi, Tamal, Gofr"
+    },
+    {
+      "l": "pt",
+      "t": "Asparagus_officinalis, Biscoito, Bolacha, Alfajor, Lebkuchen, Spekulaas, Pão, Bagel, Bialy, Croissant, Baguete, Torrada, Burrito, Repolho, Couve_recheada, Cheesecake, Bolo_de_chocolate, Bolo_de_cenoura, Bolo_veludo_vermelho, Cupcake, Chocolate, Panqueca, Queijo, Mozarela, Queijo_azul, Parmesão, Congee, Rosquinha, Granulados, Krispy_Kreme, Arepa, Momo_(alimento), Pierogi, Wonton, Fruta, Meloa, Durio, Laranja, Cereja, Actinidia_deliciosa, Melancia, Persea_americana, Ananás, Morango, Framboesa, Batata_frita, Poutine, Cereal, Pipoca, Sorvete, Baunilha, Sorvete_napolitano, Purê_de_batata, Carne, Wagyu, Bife, Toucinho, Ave_de_capoeira, Buffalo_wing, Nugget_de_frango, Chicken_fried_steak, Costeleta, Produto_do_mar, Ovo_(alimento), Ovos_mexidos, Ovo_estrelado, Omelete, Ovo_cozido, Ovo_centenário, Leite-de-amêndoa, Leite_de_soja, Leite, Leite_de_cabra, Anel_de_cebola, Massa_alimentícia, Lasanha, Linguine, Ravioli, Carbonara, Bolonha, Espaguete, Fettuccine, Pudim, Pupusa, Cottage_pie, Torta_de_maçã, Torta_de_abóbora, Pizza, Pepperoni, Pizza_havaiana, Pizza_Margherita, Croquete, Rolinho_primavera, Sanduíche, Cheeseburger, Hambúrguer, Cachorro-quente, Sanduíche_de_manteiga_de_amendoim_e_geleia, Sanduíche_submarino, Chowder_(sopa), Clam_chowder, Sushi, Tamal, Turnover_(culinária), Waffle"
+    },
+    {
+      "l": "ro",
+      "t": "Sparanghel, Biscuit, Fursec, Pâine, Bagel, Varză, Ciocolată, Brânză, Mozzarella, Brânză_cu_mucegai, Parmezan, Gogoașă, Colțunași, Cantalup, Durian, Portocală_(fruct), Kiwi_(fruct), Pepene_verde, Avocado, Ananas, Cartofi_pai, Poutine, Cereale, Floricele_de_porumb, Înghețată, Vanilie, Piure_de_cartofi, Carne, Friptură, Bacon, Scrob, Ou_în_ceai_negru, Ou_centenar, Lapte, Paste_făinoase, Lasagna, Ravioli, Carbonara, Bologna, Spaghete, Spaghete_cu_chiftele, Pizza, Pizza_hawaiiană, Sandviș, Cheeseburger, Hamburger, Hotdog, Sushi, Gofră"
+    },
+    {
+      "l": "qu",
+      "t": "Isparaw, T'anta, Chukulati, Kisu, Aripa, Wayu, Palta, Chirimaway, Riwi, Kankil, Aycha, Lichi, Bologna, Ispaqiti, Pupusa, Pitsa"
+    },
+    {
+      "l": "ru",
+      "t": "Спаржа_лекарственная, Бисквит_(продукт_питания), Печенье, Крекер, Пипаркукас, Галеты_(печенье), Афганское_печенье, Альфахор, Миндальное_печенье, Нюрнбергский_пряник, Ахенские_пряники, Спекулос, Шпрингерле, Хлеб, Бейгл, Круассан, Французский_багет, Тостовый_хлеб, Буррито, Кочанная_капуста, Голубцы, Чизкейк, Морковный_торт, Красный_бархат_(торт), Капкейк, Шоколад, Панкейк, Фунтовый_кекс, Сыр, Моцарелла, Голубые_сыры, Пармезан, Конджи, Пончик, Krispy_Kreme, Дамплинги, Арепа, Момо_(блюдо), Пероги, Вонтоны, Фрукт, Канталупа_(растение), Апельсин_(плод), Вишня_(ягода), Киви_(фрукт), Арбуз, Авокадо, Ананас, Земляника_ананасная, Малина_(плод), Картофель_фри, Путин_(блюдо), Зерно, Зерновые_культуры, Попкорн, Мороженое, Ваниль_(пряность), Тортони_(мороженое), Спумоне, Фисташковое_мороженое, Неаполитанское_мороженое, Картофельное_пюре, Мясо, Вагю, Стейк, Бекон, Домашние_птицы, Крылышки_Буффало, Наггетсы, Куриные_лапки, Морепродукты, Рыба_(пища), Мясо_акулы, Яйцо_(пищевой_продукт), Яичница, Омлет, Варёное_яйцо, Столетнее_яйцо, Миндальное_молоко, Соевое_молоко, Молоко, Козье_молоко, Луковые_кольца, Макаронные_изделия, Лазанья, Лингуине, Равиоли, Карбонара, Болонья, Спагетти, Спагетти_с_фрикадельками, Пансит, Фетучини, Пудинг, Пупуса, Пастуший_пирог, Яблочный_пирог, Тыквенный_пирог, Лаймовый_пирог, Пицца, Пеперони, Гавайская_пицца, Пицца_Маргарита, Крокеты, Яичный_рулет, Спринг-роллы, Сэндвич, Панини_(бутерброд), Чизбургер, Гамбургер, Хот-дог, Сэндвич-субмарина, Чаудер_(блюдо), Клэм-чаудер, Кукурузная_похлёбка, Суши, Тамале_(блюдо), Ямайский_пирожок, Вафля"
+    },
+    {
+      "l": "sq",
+      "t": "Shpargulli_mjekësor, Biskota, Buka, Baguette, Lakra, Sarma_me_lakër_të_bardhë, Cheesecake, Çokollata, Djathi, Mozzarella, Donut, Pema_(fryt), Nerënxa, Qershia, Shalqini, Avokado, Luleshtrydhja, Patatja_e_skuqur, Drithi, Akullorja, Vanilja, Mishi, Bejkon, Shpezët, Topat_e_pulës, Ushqimi_i_detit, Omleta, Qumështi, Makaronat, Lasanje, Ravioli, Karbonara, Bolonja, Spageti, Pica, Pica_Margarita, Sanduiçi, Hamburgeri, Hot_dogu, Sushi"
+    },
+    {
+      "l": "sd",
+      "t": "اسپريگس, بسڪوٽ, ڊبل_روٽي, بند_گوبي, چاڪليٽ, ڪچريون, نارنگي, آلو_بالو, ھنداڻو, اسٽرا_بيري, رس_ڀري, پٽاٽن_جي_چپس, ان, ونيلا, گوشت, کير"
+    },
+    {
+      "l": "sk",
+      "t": "Asparágus_lekársky, Chlieb, Croissant, Bageta, Toast, Kapusta_obyčajná_hlávková, Cupcake, Čokoláda, Lievanec, Syr, Mozzarella, Parmezán, Americká_šiška, Pirohy, Ovocie, Durian, Pomaranč, Kivi_(ovocie), Dyňa_červená, Hruškovec_americký, Ananás_pestovaný, Malina_(plod), Zemiakové_hranolčeky, Zrno_(plod), Obilniny, Zmrzlina, Mäso, Steak, Slanina_(pokrm), Hydina_(vtáctvo), Vajce_ako_potravina, Praženica, Sójové_mlieko, Mlieko_(cicavce), Kozie_mlieko, Cestovina, Lazane, Raviola, Bologna, Špageta, Puding, Pizza, Pizza_havaj, Sendvič, Panini_(jedlo), Hamburger, Párok_v_rožku, Sendvič_s_arašidovým_maslom_a_želé, Suši, Vafľa"
+    },
+    {
+      "l": "sl",
+      "t": "Beluš, Kruh, Zelje, Čokolada, Sir, Mocarela, Parmigiano_Reggiano, Sadje, Durian, Pomaranča, Kivi, Lubenica, Avokadovec, Ananas, Žito, Pokovka, Sladoled, Vanilja_(začimba), Meso, Vagju, Slanina, Perutnina, Piščančji_kroket, Mleko, Testenine, Bologna, Špageti, Puding, Pica, Sendvič, Hotdog, Suši, Vafelj"
+    },
+    {
+      "l": "sr",
+      "t": "Шпаргла, Бисквит, Кекс, Двопек, Спекулас, Хлеб, Бејгл, Кроасан, Француски_хлеб, Tost, Burito, Купус, Торта_са_сиром, Бела_торта, Капкејк, Чоколада, Сир, Моцарела, Buđavi_sir, Пармиђано_ређано, Крофне, Мрвице_за_колаче, Пироги, Воће, Durijan, Наранџа, Трешња, Киви_(воће), Лубеница, Авокадо, Ananas_comosus, Јагода, Малина, Pomfrit, Житарице, Кокице, Сладолед, Ванила, Кромпир_пире, Месо, Сланина, Живина, Морски_плодови, Riba_kao_hrana, Јаје_(храна), Kajgana, Jaja_na_oko, Омлет, Sojino_mleko, Млеко, Козје_млеко, Колутић_од_лука, Pasta, Лазање, Равиоли, Шпагети_Карбонара, Болоња, Шпагети, Пудинг, Pita_od_jabuka, Пица, Маргерита, Сендвич, Čizburger, Хамбургер, Hot_dog, Суши, Галете"
+    },
+    {
+      "l": "sh",
+      "t": "Špargla, Keks, Hljeb, Kroasan, Kupus, Torta_od_sira, Čokolada, Sir, Mocarela, Parmiđano_ređano, Krofna, Piroge, Voće, Naranča, Trešnja, Kivi_(voće), Lubenica, Avokado, Ananas, Pomfrit, Žitarice, Kokice, Sladoled, Vanilija, Meso, Slanina, Živina, Jaje_(hrana), Kajgana, Mlijeko, Pasta, Bologna, Pica, Sendvič, Hamburger, Hot_dog, Suši"
+    },
+    {
+      "l": "fi",
+      "t": "Parsa, Keksi, Piparkakku, Laivakorppu, Aachener_Printen, Speculaas, Leipä, Vesirinkeli, Voisarvi, Patonki, Paahtoleipä, Burrito, Keräkaali, Kaalikääryle, Juustokakku, Suklaakakku, Mansikkatorttu, Jäätelökakku, Kuppikakku, Suklaa, Pannukakku, Juusto, Mozzarella, Homejuusto, Parmigiano-Reggiano, Mozzarellatikut, Munkki_(leivonnainen), Strösseli, Krispy_Kreme, Myky, Arepa, Momo_(ruoka), Pierogi, Hedelmä_(ruoka), Verkkomeloni, Appelsiini_(hedelmä), Kirsikka_(hedelmä), Kiivi_(hedelmä), Vesimeloni, Avokado, Ananas, Puutarhamansikka, Ranskalaiset_perunat, Poutine, Ryyni, Vilja, Popcorn, Jäätelö, Perunasose, Liha, Wagyū, Pihvi, Pekoni, Siipikarja, Kananugetti, Kala_ruokana, Munakokkeli, Munakas, Keitetty_muna, Tuhatvuotinen_muna, Soijamaito, Maito, Vuohenmaito, Sipulirenkaat, Pasta, Lasagne, Ravioli, Carbonara, Bologna, Spagetti, Fettuccine, Vanukas, Shepherd's_pie, Omenapiirakka, Pizza, Pepperoni, Kinkku-ananaspizza, Kevätkääryle, Sandwich, Grilled_cheese, Panini_(voileipä), Hampurilainen, Nakkisämpylä, Sushi, Vohveli"
+    },
+    {
+      "l": "sv",
+      "t": "Sparris, Kex, Småkakor, Pepparkaka, Skeppsskorpa, Aachener_Printen, Spekulatius, Bröd, Bagel, Croissant, Baguette, Rostat_bröd, Burrito, Kåldolmar, Cheesecake, Morotskaka, Jordgubbstårta, Glasstårta, Red_velvet_cake, Cupcake, Choklad, Pannkaka, Ost, Mozzarella, Blågrön_mögelost, Parmigiano-Reggiano, Rissoppa, Munk_(bakverk), Strössel, Krispy_Kreme, Klimp_(maträtt), Arepa, Har_gow, Momos_(mat), Wonton, Frukt_(mat), Nätmelon, Durian, Apelsin, Körsbär, Kiwi, Vattenmelon, Avokado, Ananas, Jordgubbe, Hallon, Pommes_frites, Poutine, Gryn, Sädesslag, Popcorn, Glass, Vanilj, Rocky_road, Potatismos, Kött, Wagyu, Biff, Bacon, Fjäderfä, Buffalo_wings, Nugget, Fisk_(livsmedel), Ägg_(livsmedel), Äggröra, Stekt_ägg, Omelett, Tusenåriga_ägg, Mandelmjölk, Sojamjölk, Mjölk, Lökringar, Pasta, Lasagne, Linguine, Ravioli, Pasta_alla_carbonara, Bologna, Spagetti, Pudding, Pumpapaj, Key_lime_pie, Pizza, Pepperoni_(korv), Kroketter, Vårrulle, Sandwich, Panino, Hamburgare, Varmkorv, Sushi, Tamales, Våffla, Roti_canai"
+    },
+    {
+      "l": "tl",
+      "t": "Esparago, Biskwit, Galyetas, Tinapay, Bagel, Croissant, Tustadong_tinapay, Repolyo, Tsokolate, Pankeyk, Keso, Mozzarella, Parmigiano-Reggiano, Donat, Arepa, Hakaw, Pierogi, Milong_Kastila, Durian, Seresa, Pakwan, Abukado, Pinya, Sampinit, French_fries, Angkak, Papkorn, Sorbetes, Napolitanong_sorbetes, Minasang_patatas, Karne, Wagyu, Pilete, Bacon, Poltri, Buffalo_wing, Pagkaing-dagat, Itlog_(pagkain), Binating_itlog, Torta, Gatas, Pasta, Lasagne, Carbonara, Bolonia, Ispageti, Pansit, Fettuccine, Puding, Pizza, Kroketa, Lumpiya, Pinalamanang_tinapay, Hamburger, Hotdog, Sinigang, Sushi, Tamales"
+    },
+    {
+      "l": "ta",
+      "t": "சாத்தாவாரியினம், மாச்சில்லு, குக்கீ, வெதுப்பி, பகெத், முட்டைக்கோசு, சாக்கலேட், பாலாடைக்கட்டி, கஞ்சி, மொமொ_(உணவு), பியரோகி, முள்நாறி, தோடம்பழம், சேலாப்பழம், பசலிப்பழம், தர்ப்பூசணி, ஆனைக்கொய்யா, அன்னாசி, செம்புற்று, ராஸ்பெரி, பிரெஞ்சுப்_பொரியல், தானியம், சோளப்பொரி, குளிர்களி, வெனிலா, இறைச்சி, பன்றி_இறைச்சி, கோழியின_வளர்ப்புப்_பறவைகள், கோழிக்கறி_உருண்டை, கடல்_உணவு, மீன்_ஒரு_மனித_உணவு, முட்டைகள்_உள்ள_உணவு, நூற்றாண்டு_முட்டை, பால்_(பானம்), போலோக்னா, ஸ்பாகெட்டி, பீத்சா, சான்விச், பர்கர், சுசி"
+    },
+    {
+      "l": "te",
+      "t": "పిల్లితేగ, రొట్టె, కాబేజీ, చాకొలెట్, చీజ్, గంజి, రాజ_పనస, నారింజ, పుచ్చ, వెన్నపండు, అనాస, స్ట్రాబెర్రీ, కోరిందపండు, ధాన్యం, ఆహారధాన్యం, పాప్_కార్న్, ఐస్_క్రీం, మాంసము, పొరటు, బాదంపాలు, పాలు, పిజ్జా"
+    },
+    {
+      "l": "th",
+      "t": "หน่อไม้ฝรั่ง, โลโมซัลตาโด, บิสกิต, คุกกี้, ขนมปัง, เบเกิล, ครัวซ็อง, บาแก็ต, ขนมปังปิ้ง, บูร์ริโต, กะหล่ำปลี, เค้กเรดเวลเวต, คัปเค้ก, ช็อกโกแลต, แพนเค้ก, เนยแข็ง, มอซซาเรลลา, บลูชีส, ปาร์มีจาโนเรจจาโน, โจ๊ก, โดนัท, คริสปีครีม, อาเรปา, ฝั่นโก๋, ฮะเก๋า, โมโม_(อาหาร), ปีแยรอกี, เกี๊ยว, ผลไม้, แคนตาลูป, ทุเรียน, ส้ม, กีวี_(พืช), แตงโม, อาโวคาโด, สับปะรด, สตรอว์เบอร์รี, แรสเบอร์รี, เฟรนช์ฟรายส์, ธัญพืช, ข้าวโพดคั่ว, ไอศกรีม, วานิลลา, มันฝรั่งบด, เนื้อสัตว์, วางีว, สเต๊ก, เบคอน, บัฟฟาโลวิงส์, อาหารทะเล, ปลาแซลมอน_(อาหาร), ไข่_(อาหาร), ไข่คน, ไข่ดาว, ไข่เจียว, ไข่ต้ม, ไข่เยี่ยวม้า, น้ำเต้าหู้, นม, พาสตา, ลิงกวีเน, ราวีโอลี, การ์โบนารา, โบโลญญา, สปาเกตตี, เฟตตุชชีเน, พายแอปเปิล, พิซซา, เพปเพอโรนี, พิซซาฮาวายเอียน, ครอแก็ต, เปาะเปี๊ยะ, ลุมปียา, แซนด์วิช, ชีสเบอร์เกอร์, แฮมเบอร์เกอร์, ฮอตดอก, ซีนีกัง, ซูชิ, ตามัล, โรตีจาไน"
+    },
+    {
+      "l": "tr",
+      "t": "Kuşkonmaz, Bisküvi, Çerez, Kraker, Zencefilli_kurabiye, Peksimet, Acıbadem_kurabiyesi, Ekmek, Bagel, Bialy, Kruvasan, Francala, Burrito, Lahana, Lahana_sarması, Cheesecake, Çikolatalı_kek, Havuçlu_kek, Dondurmalı_pasta, Kırmızı_kadife_kek, Cupcake, Çikolata, Pankek, Peynir, Mozzarella, Mavi_küflü_peynir, Parmesan_peyniri, Telli_peynir, Congee, Donut, Serpinti, Krispy_Kreme, Etli_hamur, Arepa, Momo_(yemek), Piruhi, Wonton, Portakal_(meyve), Kiraz, Kivi_(bitki), Karpuz, Avokado, Ananas, Bahçe_çileği, Patates_kızartması, Hububat, Tahıl, Patlamış_mısır, Dondurma, Naneli_çikolata, Rocky_road_(dondurma), Biscuit_Tortoni, Patates_püresi, Et, Wagyu, Steak, Domuz_pastırması, Kümes_hayvanları, Nugget, Tavuk_kızartması, Pirzola, Deniz_ürünleri, Balık_eti, Yumurta, Sahanda_yumurta, Omlet, Rafadan_yumurta, Yüzyıl_yumurtası, Badem_sütü, Soya_sütü, Süt, Keçi_sütü, Soğan_halkası, Makarna, Lazanya, Ravioli, Bologna, Spagetti, Fettuccine, Puding_(tatlı), Çoban_payı, Elmalı_turta, Misket_limonlu_tart, Pizza, Pepperoni, Hawaii_pizzası, Margarita_pizza, Çin_böreği, Sandviç, Tost, Çizburger, Hamburger, Sosisli_sandviç, Deniz_tarağı_çorbası, Suşi, Tamal, Turnover_(yiyecek), Waffle"
+    },
+    {
+      "l": "uk",
+      "t": "Холодок_лікарський, Ломо_сальтадо, Бісквіт_(англомовні_країни), Печиво, Крекер, Піпаркукас, Галета, Афганське_печиво, Альфахор, Нюрнберзький_пряник, Аахенські_пряники, Спекулаас, Шпрінгерле, Крайднотен, Хліб, Бейгл, Круасан, Французький_багет, Тостовий_хліб, Бурито, Качанна_капуста, Голубці, Чизкейк, Шоколадний_торт, Морквяний_торт, Білий_бісквіт, Червоний_оксамит_(торт), Капкейк, Шоколад, Панкейк, Фунтовий_кекс, Сир, Моцарела, Блакитні_сири, Пармезан, Конджі, Пончик_(донат), Кріспі_Крім, Арепа, Момо_(їжа), Пироги, Вонтони, Фрукт, Канталуп, Дуріан, Апельсин_(плід), Вишня_(плід), Ківі_(фрукт), Кавун, Авокадо, Ананас, Полуниці_садові, Малина, Картопля_фрі, Путін_(страва), Зерно, Зернові_культури, Попкорн, Морозиво, Ваніль_(прянощі), Спумоні, Фісташкове_морозиво, Неаполітанське_морозиво, Картопляне_пюре, М'ясо, Ваґю, Стейк, Бекон, Свійські_птахи, Курячі_лапки, Морепродукти, Риба_(їжа), Акуляче_м'ясо, Яйце_(їжа), Мішана_яєчня, Яєчня, Омлет, Варене_яйце, Сторічні_яйця, Залізне_яйце, Мигдалеве_молоко, Соєве_молоко, Молоко, Макаронні_вироби, Лазанья, Лінґвіне, Равіолі, Карбонара, Болонья, Спагеті, Фетучіне, Пудинг, Пупуса, Вівчарський_пиріг, Яблучний_пиріг, Гарбузовий_пиріг, Піца, Пепероні, Гавайська_піца, Піца_Маргарита, Крокети, Яєчний_рулет, Спринг-роли, Люмпія, Сандвіч, Паніно, Чизбургер, Гамбургер, Хот-дог, Клем-чаудер, Суші, Тамале_(страва), Загорнутий_пиріжок, Ямайський_пиріжок, Вафлі, Роті_чанай"
+    },
+    {
+      "l": "ur",
+      "t": "ہلیون, بسکٹ, کوکی, ڈبل_روٹی, بوریتو, گاجر_کیک, آئس_کریم_کیک, چاکلیٹ, پین_کیک, دھورئین, سنگترہ, آلو_بالو, کيوی, تربوز, مگر_ناشپاتی, تُوت_علیق, فرنچ_فرائیز, اجناس_(زراعت), غلہ, پاپکارن, آئس_کریم, ونیلا, گوشت, بیکن, چکن_نگٹس, انڈا_(خوراک), آملیٹ, سینچری_ایگ, سویا_دودھ, دودھ, پاستا, بولونیا, پیزا, سینڈوچ, ہیمبرگر, چکن_سینڈوچ, ہاٹ_ڈاگ, سوشی, تامالے"
+    },
+    {
+      "l": "ug",
+      "t": "قۇشقونماس, يەھۇدى_گىردىسى, كرويسانت_(بولكا), توست_(بولكا), بۇررىتو_(يېمەكلىك), كاپۇسكا, شاكىلات, دونات_(يېمەكلىك), تۈگرە, دۇرىيان_(مىۋە), ئاپېلسىن, تاۋۇز, ئاۋكادۇر, بۆلجۈرگەن, مالىنا_(مىۋە), بەرەڭگە_قەلەمچىسى_(يېمەكلىك), قوماچ(قۇناق_پاخ-پاخغى), ماروژنى, چاي_تۇخۇم, پاستا_(ئىتالىيە_چۆپى), پىسسا_قاتلىمى, ساندىۋىژ, ئىرىمچىك_بېرگېر_(تاماق), ھامبۇرگ_(تاماق), خوتدوگ, سۇشى, جامايكا_پەتتىيسى_(يېمەكلىك)"
+    },
+    {
+      "l": "vi",
+      "t": "Măng_tây, Bánh_bích_quy, Bánh_quy, Bánh_quy_hạnh_nhân, Lebkuchen, Bánh_mì, Bánh_mì_vòng, Bialy_(bánh_mì), Bánh_sừng_bò, Bánh_mì_Pháp, Bánh_mì_nướng, Burrito, Cải_bắp, Cải_bắp_cuốn, Bánh_pho_mát, Bánh_Sô-cô-la, Bánh_cà_rốt, Bánh_dâu_tây, Bánh_kem_lạnh, Red_velvet_(bánh_ngọt), Cupcake, Sô-cô-la, Bánh_nướng_chảo, Pho_mát, Mozzarella, Pho_mát_xanh, Pho_mát_Parmesan, Cháo, Bánh_vòng, Krispy_Kreme, Arepa, Há_cảo, Pierogi, Hoành_thánh, Dưa_vàng, Sầu_riêng, Cam, Anh_đào, Kiwi_(quả), Dưa_hấu, Bơ_(thực_vật), Dứa, Dâu_tây, Mâm_xôi_đỏ, Khoai_tây_chiên, Poutine, Hạt_ngũ_cốc, Cây_lương_thực, Bỏng_ngô, Kem_lạnh, Vani, Bánh_quy_và_kem, Kem_Rocky_road, Bánh_quy_Tortoni, Kem_trăng_xanh, Kem_phô_mai, Hokey_pokey_(kem), Kem_đuôi_hổ, Kem_dâu, Kem_Siêu_nhân, Spumoni, Kem_hạt_hồ_trăn, Kem_Napoli, Khoai_tây_nghiền, Thịt, Bò_Nhật_Bản, Lát_thịt, Thịt_lợn_muối_xông_khói, Gia_cầm, Cánh_gà_chiên, Gà_lắc, Bít_tết_gà_rán, Chân_gà, Gà_quay, Sườn_(ẩm_thực), Hải_sản, Cá_(thực_phẩm), Thịt_cá_hồi, Tôm_nõn, Thịt_cá_mập, Trứng_(thực_phẩm), Trứng_bác, Trứng_ốp_la, Ốp_lết, Trứng_luộc, Trứng_trà, Trứng_vịt_bắc_thảo, Sữa_hạnh_nhân, Sữa_đậu_nành, Sữa, Sữa_dê, Hành_tây_chiên_giòn, Pasta, Lasagna, Ravioli, Spaghetti_alla_carbonara, Bologna, Spaghetti, Pancit, Bánh_pudding, Bánh_táo, Cream_pie, Bánh_bí_ngô, Pizza, Pepperoni, Pizza_Margherita, Món_cuốn, Bánh_mì_kẹp, Hamburger_pho_mát, Hamburger, Hot_dog, Chowder, Sushi, Bánh_tổ_ong"
+    },
+    {
+      "l": "wa",
+      "t": "Aspedje, Biscûte, Speculôsse, Pwin, Vôte, Froumadje, Orandje_(frut), Ceréjhe, Pasteke, Fraijhe, Fritche, Dinrêye_d'_awousse, Tchå, Lård, Poytreye, Oû_(amagnî), Laecea, Påsses_itålyinnes, Spaghetti, Poudingue, Amburguer, Tchôd-tchén, Wåfe"
+    },
+    {
+      "l": "yi",
+      "t": "אספארגוס, ברויט, שאקאלאד, געהאקטע_לעבער, קעז, פארמעזאן, מאראנץ, וואסערמעלאן, אוואקאדא, אנאנאס, תבואה, קאקאשעס, אייזקרעם, פלייש, שפעק, עופות, מילך, פעטוטשיני, פיצא, שניטקע, פראנקפורטער"
+    },
+    {
+      "l": "zh-yue",
+      "t": "露筍, 餅乾, 曲奇, 克力架, 杏仁曲奇, 包, 比高包, 牛角包, 百吉包, 多士, 墨西哥卷, 椰菜, 芝士蛋糕, 朱古力蛋糕, 紅蘿蔔蛋糕, 士多啤梨蛋糕, 雪糕蛋糕, 紅絲絨蛋糕, 杯仔蛋糕, 朱古力, 克戟, 芝士, 水牛芝士, 藍芝士, 巴馬臣芝士, 粥, 冬甩, 糖碎, 潮州粉粿, 蝦餃, 雲吞, 生果, 鈔皮瓜, 橙, 車厘子, 奇異果, 西瓜, 牛油果, 菠蘿, 士多啤梨, 蛇抱簕, 薯條, 芝士肉汁薯條, 穀物, 爆穀, 雪糕, 雲呢拿, 石板街_(雪糕), 士多啤梨雪糕, 開心果雪糕, 三色雪糕, 薯茸, 肉食, 和牛, 扒, 煙肉, 家禽, 水牛城雞翼, 雞寶, 鳳爪, 燒雞, 海鮮, 食用魚, 蝦仁, 蛋, 炒蛋, 煎蛋, 奄列, 烚蛋, 茶葉蛋, 皮蛋, 燻蛋, 鹵水雞蛋, 杏仁奶, 荳奶, 奶, 洋蔥圈, 意式麪, 千層麪, 扁意粉, 意大利餃, 卡邦拿意粉, 博洛尼亞, 意粉, 闊麪, 布甸, 牧羊人批, 蘋果批, 忌廉蛋糕, 南瓜批, 青檸批, 意大利薄餅, 夏威夷薄餅, 瑪格麗特薄餅, 炸蛋卷, 春卷, 三文治, 意大利三文治, 芝士漢堡, 漢堡包, 熱狗, 潛艇三文治, 周打湯, 周打蜆湯, 周打粟米湯, 壽司, 格仔餅, 印度煎餅"
+    },
+    {
+      "l": "zh",
+      "t": "芦笋, 饼干, 曲奇, 脆饼干, 薑餅乾, 压缩饼干, 焦糖饼干, 麵包, 貝果, 牛角面包, 法式长棍面包, 多士, 墨西哥卷饼, 捲心菜, 白菜卷, 起士蛋糕, 巧克力蛋糕, 胡蘿蔔蛋糕, 草莓蛋糕, 冰淇淋蛋糕, 红色天鹅绒蛋糕, 纸杯蛋糕, 巧克力, 熱香餅, 磅蛋糕, 乾酪, 马苏里拉奶酪, 藍乾酪, 帕馬森乾酪, 粥, 甜甜圈, 巧克力米, Krispy_Kreme, Dumpling, 阿瑞巴, 潮州粉粿, 蝦餃, 饃饃_(餃子), 波蘭餃子, 馄饨, 水果, 麝香甜瓜, 橙, 樱桃, 奇異果, 西瓜, 鳄梨, 凤梨, 草莓, 樹莓, 馬鈴薯條, 盖浇薯条, 粮食, 谷物, 玉米花, 冰淇淋, 香草_(香料), 石板街冰淇淋, 草莓冰淇淋, 那不勒斯冰淇淋, 馬鈴薯泥, 肉类食物, 和牛, 肉排, 煙肉, 家禽, 水牛城辣雞翅, 软炸鸡肉球, 雞塊, 炸牛排, 凤爪, 烤鸡, 海鮮, 食用鱼, 三文鱼肉, 蝦仁, 蛋类, 炒蛋, 煎蛋, 奄列, 水煮蛋, 茶葉蛋, 皮蛋, 鐵蛋, 滷水蛋, 红鸡蛋, 扁桃仁奶, 豆奶, 乳, 洋蔥圈, 意大利麵, 千層麵, 意大利餃, 卡波納拉義大利麵, 博洛尼亚, 義大利直麵, 布丁, 普普沙, 牧羊人派, 蘋果派, 南瓜派, 佛岛青柠派, 比萨饼, 意大利红肠, 夏威夷披萨, 瑪格麗塔披薩, 可樂餅, 春卷, 潤餅卷, 三明治, 帕尼尼, 起司堡, 漢堡包, 熱狗, 花生果醬三明治, 潛艇三明治, 巧達濃湯, 周打蜆湯, 玉米巧達濃湯, 菲律賓酸湯, 寿司, 塔馬利_(食品), 酥皮盒子, 窩夫, 印度煎饼"
+    },
+    {
+      "l": "uz",
+      "t": "Lomo_salado, Pecheniye, Afg‘on_pechenyesi, Non, Tost, Burrito, Golubsi, Chizkeyk, Shokoladli_tort, Muzqaymoqli_tort, Oq_tort, Kapkeyk, Shokolad, Pishloq, Ponchik, Arepa, Meva, Apelsin, Olcha, Kivi_(meva), Avocado, Ananas, Malina, Kartoshka_fri, Don_ekinlari, Bodroq, Muzqaymoq, Vanil, Yalpizli_shokolad, Tortoni_pechenesi, Pistali_muzqaymoq, Goʻsht, Vagyu, Bekon, Omlet, Bodom_suti, Sut, Piyoz_halqalari, Makaron, Lazanya, Karbonara, Bolonya, Olmali_pirog, Pitsa, Peperoni, Pitsa_Margarita, Sendvich, Panini, Chizburger, Hamburger, Hot-dog, Chauder, Makkajo‘xorili_obiyovg‘on, Sushi_(zushi)"
+    },
+    {
+      "l": "br",
+      "t": "Gwispid, Spekulaas, Bara, Kornegenn, Cheesecake, Gwastell_chokolad, Chokolad, Pevar-c'hard, Keuz_(boued), Parmigiano_Reggiano, Aval-orañjez, Kerez, Kiwi_(frouezh), Sivi, Flamboez, Fritez, Ed, Dienn-skorn, Kig, Kig-sall, Vi_(kegin), Alumenn, Laezh, Toazennoù, Lasagne_al_forno, Bologna, Spaghetti, Pizza, Pizza_Margherita, Sandwich, Panino, Cheeseburger, Hamburger, Hot_dog, Sushi, Tamal, Galfrez"
+    },
+    {
+      "l": "cy",
+      "t": "Bisged, Cracer_(bwyd), Lebkuchen, Bara, Croissant, Tost, Bresychen, Teisen_gaws, Teisen_siocled, Teisen_foron, Siocled, Teisen_driphwys, Caws, Mosarela, Caws_Parmigiano-Reggiano, Toesen, Melysion_mân, Ceiriosen, Ffrwyth_ciwi, Melon_dŵr, Afocado, Pinafal, Mafon_cochion, Sglodion, Grawn, Popgorn, Hufen_iâ, Cig, Bacwn, Dofednod, Bwyd_môr, Wy_(bwyd), Wyau_wedi'u_sgramblo, Llaeth_almon, Llaeth_soia, Llaeth, Pasta, Lasagna, Carbonara, Bologna, Pwdin, Teisen_hufen, Pitsa, Brechdan, Hambyrgyr, Ci_poeth, Cawl_cregyn_bylchog, Swshi, Waffl"
+    },
+    {
+      "l": "gd",
+      "t": "Briosgaid, Lebkuchen, Spekulatius, Aran, Teòclaid, Foileag, Càise, Sùbh-craoibh, Tiops, Poutine_(biadh), Reòiteag, Feòil, Bonnach-uighe, Bainne, Pastà, Bologna"
+    },
+    {
+      "l": "mk",
+      "t": "Бисквити, Колач, Леб, Кроасан, Багет, Бурито, Зелка, Торта_со_сирење, Чоколадо, Сирење, Моцарела, Пармезан, Крофна, Овошје, Диња, Портокал_(плод), Киви_(овошје), Лубеница, Aнанас, Јагода, Малина, Жито, Сладолед, Ванила, Колачиња_и_крем, Спумони, Месо, Вагју, Сланина, Живина, Кајгана, Омлет, Железно_јајце, Млеко, Тестенина, Лазањи, Равиоли, Шпагети_Карбонара, Болоња, Шпагети, Шпагети_и_ќофтиња, Пудинг, Пита_со_јаболка, Пита_со_тиква, Пица, Пица_Хаваи, Маргерита, Сендвич, Панини_(сендвич), Чизбургер, Хамбургер, Хот-дог, Суши, Вафла"
+    },
+    {
+      "l": "so",
+      "t": "Buskud, Rooti, Kaabaj, Shukulaato, Canuuni, Liin, Qare, Afakadho, Cananis, Firiley, Daango, Jalaato, Hilib, Waslad, Ukun, Caano, Baasto, Sandwij, Hambeegar"
+    },
+    {
+      "l": "ik",
+      "t": "Qaqqulaaq, Punniq, Immusuaq, Ivgum_asiaŋa, Niqipiaq, Immuk, Maqpiġaaġmiŋa"
+    },
+    {
+      "l": "ps",
+      "t": "افغان_بسکېټ, ډوډۍ, مالټه, هندواڼه, غوښه, چرګې_هګۍ, شيدې, پيزا, پانيني_(_سندويچ_)"
+    },
+    {
+      "l": "gn",
+      "t": "Arapaho_(tembi’u), Mbujape, Tajao, Chokora, Kesu, Sandía, Anana, Yvapytã, Hu'itĩrã, Pororo, Typy'are'ẽ, Tyru'i_(tembi'uherã), So'o, Ryguasu_rupi'a, Kamby, Mbolóña, Súchi"
+    },
+    {
+      "l": "ha",
+      "t": "Almond_Biscuit, Gurasa, Cuku, Donut, Cherry, Hatsi, Siril, Nama, Century_eggs, Madara, Pasta, Pizza"
+    },
+    {
+      "l": "ia",
+      "t": "Speculoos, Pan, Caule, Chocolate, Caseo, Caseo_blau, Avocatiero, Ananas, Cereal, Gelato, Carne, Pisce_(alimento), Ovo_(alimento), Lacte, Bologna, Spaghetti, Pizza"
+    },
+    {
+      "l": "am",
+      "t": "ዳቦ, ጥቅል_ጎመን, ቸኮላታ, አይብ, ብርቱካን_(ፍሬ), በጢሕ, አቡካዶ, አናናስ, እህል, ፈንዲሻ, አይስ_ክሬም, ስጋ, የዶሮ_አሮስቶ, እንቁላል_(ምግብ), እንቁላል_ጥብስ, ወተት, ላዛኛ, ቦሎኛ, ፒዛ"
+    },
+    {
+      "l": "as",
+      "t": "পাউৰুটী, চকলেট, পনীৰ, মোমো, সুমথিৰা_টেঙা, আভাকাডো, ষ্ট্ৰবেৰী, আলু_পিটিকা, মাংস, গাখীৰ, চুশ্বি"
+    },
+    {
+      "l": "ay",
+      "t": "T'ant'a, Kisu, Achupalla, Aycha, Millk'i, Bologna"
+    },
+    {
+      "l": "bm",
+      "t": "Buuru, Syɛfan, Nɔnɔ"
+    },
+    {
+      "l": "sn",
+      "t": "Chingwa, Ranjisi, Nwiwa, Avhokadho, Chinanazi, Chiyo, Nyama, Mukaka"
+    },
+    {
+      "l": "se",
+      "t": "Láibi, Gohppogáhkku, Appelsiidna, Čáhcemelovdna, Buđetnjuvddus, Lasagne, Spaghetti, Vuodjaláibi"
+    },
+    {
+      "l": "fo",
+      "t": "Breyð, Appilsin, Jarðber, Korn, Kjøt, Mjólk, Sushi"
+    },
+    {
+      "l": "fy",
+      "t": "Bôle, Burrito, Stro_(pankoek), Tsiis, Doughnut, Fruit, Patat, Nôt, Plomfee, Molke, Pasta_(daaiguod), Bologna, Pizza, Hotdog"
+    },
+    {
+      "l": "ig",
+      "t": "Achicha, Cabbage, Mkpụrụ_ọka, Mkpụrụ_ọka_mà_obu_ọkà_ọkà, Ebe_a_na-azụ_ọkukọ"
+    },
+    {
+      "l": "iu",
+      "t": "ᕿᖂᔭᖅ, ᐊᐃᓯᑯᓖᖅ, ᑲᐅ_ᓂᕿ_ᑭᒻᒥᐊᒐᖅ_ᕿᖂᔭᖅ"
+    },
+    {
+      "l": "zu",
+      "t": "Isinkwa, Iklabishi, Ushizi, Isithelo, INtshungwa_(isithelo), Kiwifruit, Isitrobheli, Inyama, Inhlanzi_njengokudla, Amaqanda, Ubisi"
+    },
+    {
+      "l": "kw",
+      "t": "Bara, Choklet, Keus, Greunvos, Kig, Leth"
+    },
+    {
+      "l": "sw",
+      "t": "Mkate, Kabichi, Chokoleti, Jibini, Chungwa, Tikitimaji, Mparachichi, Nanasi, Mstroberi, Mrasiberi, Vibanzi, Nafaka, Nyama, Maziwa_ya_soya, Maziwa, Pasta, Bologna, Spaghetti, Pizza"
+    },
+    {
+      "l": "ht",
+      "t": "Pen, Fwomaj, Kantaloup, Zoranj, Seriz, Kiwi, Melon_dlo, Pye_zaboka, Zannanna, Franbwaz, Krèm_glase, Vyann, La_(materyo_gra), Volay, Lèt_(likid), Sandwich"
+    },
+    {
+      "l": "ky",
+      "t": "Нан, Круассан, Капкейк, Шоколад, Сыр, Момо_(тамак), Жемиштер, Апельсин_(мөмө), Дарбыз, Авокадо, Анaнас, Дан, Дан_эгиндери, Балмуздак, Эт, Сүт, Болонья, Спагетти, Суши"
+    },
+    {
+      "l": "lo",
+      "t": "ເຂົ້າຈີ່, ແປ້ງມ້ວນເມັກຊິກ, ເນີຍແຂງ, ເນີຍແຂງຟ້າແກ່, ໝາກກ້ຽງ, ສາລີ້ແຂ້, ໝາກຟະແລດ, ໝາກຟະລຳບວດ, ປັອບຄອນ, ກະແລມ, ໄຂ່ຈຽວ, ນ້ຳເຕົ້າຮູ້, ນົມ, ພິຊຊ່າ, ຊູຊິ"
+    },
+    {
+      "l": "lb",
+      "t": "Brout, Schockela, Paangech, Kéis, Mozzarella, Uebst, Orange_(Fruucht), Kiischt, Kiwi_(Fruucht), Waassermeloun, Avocado, Ananas, Fritten, Poutine, Popcorn, Glace_(Dessert), Fleesch, Bifdeck, Eeërtriwwel, Gekacht_Ee, Dausendjäregt_Ee, Mëllech, Pasta, Bologna, Spaghetti, Pizza, Hamburger, Eisekuch"
+    },
+    {
+      "l": "ln",
+      "t": "Límpa, Sokolá_(pɔtɔpɔ́tɔ), Mozzarella, Lilála, Nzeté_ya_Sabúká, Ananási, Losángó, Míliki, Pizza, Panini"
+    },
+    {
+      "l": "mi",
+      "t": "Parāoa_(kai), Tiakarete, Aihikirimi, Waiū, Parehe"
+    },
+    {
+      "l": "mn",
+      "t": "Талх, Шоколад, Бяслаг, Жүрж, Интоор, Тарвас, Хан_боргоцой, Цэцэрлэгийн_гүзээлзгэнэ, Амуу, Мах, Сүү, Болонья, Пицца, Сүши"
+    },
+    {
+      "l": "fj",
+      "t": "Madrai, Croissant, Madrai_tavu, Kaveti, Jisi, Moli, Pea, Vainaviu, Aisi_kirimu, Vanila, Kania, Sucu, Seniwiji"
+    },
+    {
+      "l": "cr",
+      "t": "Wikipedia:Archives/ᐲᐧᓭᐋᐃᐦᑯᓈᐤ, Wikipedia:Archivesᐱᒋᔥᑲᐦᐄᐸᑌᑎᓱᐧᐋᓐ"
+    },
+    {
+      "l": "ce",
+      "t": "Бепиг, Шоколад, Нехча, Cтом, Буьртиг-йалта, Жижиг, Шура, Болонья"
+    },
+    {
+      "l": "ty",
+      "t": "Faraoa, ’ānani, ’āvōta, Painapo, Rahipere"
+    },
+    {
+      "l": "sa",
+      "t": "रोटी, पर्णशाकम्, दधिकम्, फलम्, नारङ्गफलम्, कलिङ्गफलम्, अनानसफलरसः, तृणबदरफलम्, वातामक्षीरम्, क्षीरम्, बोलोन्या"
+    },
+    {
+      "l": "su",
+      "t": "Roti, Engkol, Coklat, Kéju, Bubur_béas, Donat, Kadu, Buah_kiwi, Samangka, Alpuket, Ganas, Borondong_jagong, Éskrim, Daging, Ceplok_endog, Goréng_endog, Susu, Spaghetti, Pizza, Karokét, Lumpia, Sushi"
+    },
+    {
+      "l": "tt",
+      "t": "Ипи, Голубцы, Шоколад, Сырлар, Туаруг_пирмәнкәсе, Җиләк-җимеш, Чия, Киви_(җиләк-җимеш), Карбыз, Авокадо, Ананас, Бакча_каен_җиләге, Бөртекле_культуралар, Туңдырма, Ит, Кошчылык, Сөт, Болонья, Пицца, Һамбургер, Суши"
+    },
+    {
+      "l": "za",
+      "t": "Mienhbau, Byaekgienjsim, Giujhaeklig, Haeuxcuk, Mak, Makdoengj, Gvehoengz, Godumh, Gaunae, Haijfeih, Noemz"
+    },
+    {
+      "l": "zh-classical",
+      "t": "麭, 湩酪, 餛飩, 橙, 櫻桃, 獼猴桃, 西瓜, 熬稃, 禽, 魚肉, 鐵蛋, 湩, 漢堡包, 鮨"
+    },
+    {
+      "l": "wo",
+      "t": "Mburu, Suraas_g, Xaal"
+    },
+    {
+      "l": "kg",
+      "t": "QUICALAS, Dilala"
+    },
+    {
+      "l": "bh",
+      "t": "पत्ता_गोभी, डंपलिंग, खरबुज्जा, संतरा, आइसक्रीम, दूध, पिज्जा"
+    },
+    {
+      "l": "bi",
+      "t": "Kabis, Kiwe, Watermelon, Avoka"
+    },
+    {
+      "l": "ks",
+      "t": "بَنٛدگوٗپی, چاکلیٹ, مومو_(کھؠن), سنٛگتر, پرَٛبٕدٔر, اِشٹابٕر, لایہٕ, ماز, دۄد, پیٖزا"
+    },
+    {
+      "l": "km",
+      "t": "ស្ពៃក្ដោប, សូកូឡា, ប្រូម៉ាស, Krispy_Kreme, ទុរេន, ក្រូច, ឪឡឹក, ប៊័រ, ការ៉េម, ប៉ាស្តា, ភីហ្សា, ស៊ូស៊ី"
+    },
+    {
+      "l": "sm",
+      "t": "Kapisi, Moli, Tipi_vevela, Aisakulimi, Bacon"
+    },
+    {
+      "l": "tn",
+      "t": "Khabeche, Carrot_cake, Madombi, Nama, Mashi"
+    },
+    {
+      "l": "si",
+      "t": "ගෝවා, චොකලට්, කේජු, Fruit, දූරියන්, කොමඩු, අන්නාසි, ආහාරමය_ඇට_වර්ග, Ice_cream, මාළු_(ආහාරය), ඔම්ලට්, සත්ත්‍ව_කිරි, පස්ටා, ලසාඤ්ඤා, පීසා, රොටි_ප්‍රාටා"
+    },
+    {
+      "l": "tg",
+      "t": "Карам, Шакалод, Панир, Авокодо, Ананас, Тутфарангӣ, Ғалла, Яхмос, Гӯшт, Тухмбирён, Шир, Болоня, Питзо"
+    },
+    {
+      "l": "to",
+      "t": "Kāpisi, Meleni, ʻĀvoka, Fainā"
+    },
+    {
+      "l": "gu",
+      "t": "કપકેક, ચીઝ, સંતરુ_(ફળ), ચેરી, તરબૂચ, સ્ટ્રોબેરી, આઇસ્ક્રીમ, દૂધ, પાસ્તા"
+    },
+    {
+      "l": "os",
+      "t": "Шоколад, Цыхт, Апельсин_(дыргъ), Харбыз, Авокадо, Мæнæргъы_(гагадыргъ), Хъайла, Æхсыр, Болонья"
+    },
+    {
+      "l": "mg",
+      "t": "Sôkôla, Fromazy, Laoranjy, Voajabo, Zavôka, Mananasy, Frezy, Voaroy, Voamadinika, Vanila, Hena, Akoho_amam-borona, Hazan-dranomasina, Ronono, Bologna"
+    },
+    {
+      "l": "tk",
+      "t": "Şokolad, Peýnir, Ananas, Ýertudana, Guşçulyk, Süýt, Pizza, Çizburger, Gamburger"
+    },
+    {
+      "l": "av",
+      "t": "ХӀан"
+    },
+    {
+      "l": "sc",
+      "t": "Casu, Frùtora, Sìndria, Patatas_frissas, Bologna, Pitza"
+    },
+    {
+      "l": "vo",
+      "t": "Fromad, Mit, Milig, Bologna"
+    },
+    {
+      "l": "dz",
+      "t": "མོ་མོ་"
+    },
+    {
+      "l": "mt",
+      "t": "Frott, Lampuna, Bolonja"
+    },
+    {
+      "l": "or",
+      "t": "ଡୁରିଆନ୍, ତରଭୁଜ, ଫ୍ରେଞ୍ଚ_ଫ୍ରାଇଜ, କୁକୁଡ଼ା_ପାଳନ, କ୍ଷୀର, ପିଜା, ଅଣ୍ଡା_ରୋଲ, ସ୍ୟାଣ୍ଡୱିଚ"
+    },
+    {
+      "l": "dv",
+      "t": "ނާރިނގު, ކަރާ"
+    },
+    {
+      "l": "lg",
+      "t": "Omuchungwa, Sekazzi"
+    },
+    {
+      "l": "ti",
+      "t": "ኪዊ, ኣቮካዶ, ሃምበርገር"
+    },
+    {
+      "l": "ab",
+      "t": "Акарпыжә, Ананас, Ауҭраҵыҵындра, Акәац"
+    },
+    {
+      "l": "om",
+      "t": "Habaabii, Goraa"
+    },
+    {
+      "l": "sg",
+      "t": "Kê, Zanäna"
+    },
+    {
+      "l": "ch",
+      "t": "Alagatapeha'"
+    },
+    {
+      "l": "kv",
+      "t": "Авокадо, Ӧмидз, Лымвый, Болонья"
+    },
+    {
+      "l": "ff",
+      "t": "Onima"
+    },
+    {
+      "l": "tw",
+      "t": "Ananas_comosus, Bologna"
+    },
+    {
+      "l": "yo",
+      "t": "Pineapple"
+    },
+    {
+      "l": "ts",
+      "t": "Ayisikhirimi"
+    },
+    {
+      "l": "rn",
+      "t": "Inyama, Amata"
+    },
+    {
+      "l": "ss",
+      "t": "Inyama"
+    },
+    {
+      "l": "cu",
+      "t": "Мѧсо, Млеко"
+    },
+    {
+      "l": "xh",
+      "t": "Amanqina_enkukhu, Bologna, Sandwich, Hamburger"
+    },
+    {
+      "l": "st",
+      "t": "Laeborari_ya_Parkview"
+    },
+    {
+      "l": "ie",
+      "t": "Bologna"
+    }
+  ]
+}
