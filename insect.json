@@ -1,0 +1,436 @@
+{
+    "insect": [
+    {
+      "l": "all",
+      "t": "Ambrosia_beetle, Army_ant, Australian_wood_cockroach, Bark_mantis, Bat_bug, Bat_fly, Bed_bug, Birch_leafminer, Birdwing, Blue_darner, Blue-green_mealybugs, Bombardier_beetle, Bookworm_(insect), Boxer_mantis, Canna_leaf_roller, Cantharoid_beetles, Cardinal_beetle, Clothes_moth, Cockchafer, Cockroach, Creosote_gall_midge, Cuckoo_bee, Cucumber_beetle, Cutworm, Dead_leaf_mantis, Dung_beetle, Elm_bark_beetle, Field_cricket, Fig_wasp, Flightless_fruit_fly, Flour_beetle, Flower_mantis, Fungus_gnat, Gliding_ant, Glowworm, Grass_bagworm, Grass_mantis, Grasshopper, Green_bottle_fly, Ground_mantis, Guava_moth, Harvester_ant, Holly_leaf_miner, Housefly, Kelp_fly, Leaf_mantis, Leaf-mimic_katydid, Locust, Maguey_worm, Mezcal_worm, Midge, Monkey_beetle, Mud_dauber, Mushroom-feeding_Drosophila, Nairobi_fly, Orange_blister_beetle, Paper_wasp, Pinion_(moth), Pollen_beetle, Rat_flea, Rat-tailed_maggot, Red-bodied_swallowtail, Red-headed_pine_sawfly, Rice_bug, Sandfly, Seed_fly, Shield_mantis, Silkworm, Spotted_pine_sawyer, Spruce_bark_beetle, Spruce_sawflies, Squash_bee, Stick_mantis, Tent_caterpillar, Toktokkies, Twig_borer, Twig-borer, Twigborer, Uzi_fly, Water_beetle, Waxworm, W%C4%93kiu_bug, W%C4%93t%C4%81, Wheat_fly, White_flannel_moth, Witchetty_grub, Woodworm, Yellowjacket"
+    },
+    {
+      "l": "ar",
+      "t": "خنافس_أمبروزيا, نمل_الجيش, بق_الفراش, جناح_طائر, رماثة, دودة_الكتب, عث_الملابس, دودة_بيضاء, صرصور, خنفساء_القثاء, جعل_الروث, سراج_الليل, جندب, خشف, ذبابة_منزلية, جراد, دود_ميزكال, ذباب_صغير, دبور_الورق, ذبابة_رملية, دودة_القز, خنفساء_الماء, سترة_صفراء_(حشرة)"
+    },
+    {
+      "l": "gl",
+      "t": "Escaravello_da_ambrosía, Formiga_lexionaria, Escaravello_bombardeiro, Cascuda, Escaravello_peloteiro, Mosca_doméstica, Verme_da_seda, Escaravello_acuático"
+    },
+    {
+      "l": "ta",
+      "t": "அம்ப்ரோசியா_வண்டு, வௌவால்_ஈ, கரப்பான், காய்ந்த_இலை_கும்பிடுபூச்சி, சாணி_வண்டு, சறுக்கும்_எறும்பு, புல்_கும்பிடுபூச்சி, அறுவடை_எறும்பு, வீட்டு_ஈ, இலைப்_பூச்சிகள், பட்டுப்புழு, குச்சி_கும்பிடுபூச்சி, மெழுகுப்_புழு"
+    },
+    {
+      "l": "gn",
+      "t": "Tahýirẽ"
+    },
+    {
+      "l": "ca",
+      "t": "Formiga_legionària, Escarabat_piloter, Lucilia, Musca_domestica, Vespa_paperera, Atrophaneura, Cuc_de_seda, Escarabat_d'aigua, Weta, Corc_de_la_fusta"
+    },
+    {
+      "l": "de",
+      "t": "Wanderameisen, Scharlachroter_Feuerkäfer, Feldmaikäfer, Küchenschabe, Erdraupe, Stubenfliege, Wanderheuschrecken, Rattenschwanzlarve, Seidenspinner, Witchetty-Made, Nagekäfer"
+    },
+    {
+      "l": "el",
+      "t": "Εκστρατευτικό_μυρμήγκι, Κοριός, Οικιακή_μύγα, Μεταξοσκώληκας"
+    },
+    {
+      "l": "es",
+      "t": "Hormiga_guerrera, Ácaros_de_cama, Polilla_de_los_libros, Pyrochroa_coccinea, Melolontha_melolontha, Abeja_cuco, Gusano_cortador, Escarabajo_pelotero, Avispa_de_los_higos, Lucilia_(insecto), Musca_domestica, Langosta_(insecto), Gusano_de_maguey, Gusano_cola_de_rata, Atrophaneura, Bombyx_mori, Weta, Carcoma_(plaga)"
+    },
+    {
+      "l": "eo",
+      "t": "Armeformiko, Sterkoskarabo, Doma_muŝo, Saltulo, Papervespoj, Silkraŭpo, Vetao"
+    },
+    {
+      "l": "fa",
+      "t": "مورچه_ارتشی, ساس, پرنده‌بال, سوسک_بمب‌افکن, سوسک_طلایی, سوسری‌سانان, سوسک_خیار, کرم_برنده, سرگین‌غلتان, زنبور_انجیر, مورچه_پرنده, ملخ, شیشه‌سبز, آخوندک_زمینی, مورچه_دروگر, مگس_خانگی, ملخ_آفت, مگس‌ریزه, زنبور_کاغذی, دم‌چلچله‌ای_سرخ‌پیکر, شن‌مگس, کرم_ابریشم, سوسک_آبزی, جیرجیرک‌های_سنگین, زنبور_زرد"
+    },
+    {
+      "l": "fr",
+      "t": "Fourmi_légionnaire, Punaise_de_lit, Coléoptère_bombardier, Parasites_du_livre, Pyrochroa_coccinea, Melolontha_melolontha, Blattaria, Abeille_coucou, Ver_gris, Bousier, Scolyte_de_l'orme, Ver_de_la_farine, Sauteriau, Lucilia, Mouche_domestique, Locuste, Larve_à_queue_de_rat, Atrophaneura, Mouche_des_sables, Bombyx_du_mûrier, Ver_de_cire, Weta, Vermoulure"
+    },
+    {
+      "l": "ga",
+      "t": "Seangán_léigiúnach, Féileacán_éaneiteach, Cearnamhán, Scoiltbholb, Priompallán, Breochruimh, Lucilia_(cuil), Cuil_tí, Lócaiste, Míoltóg, Míoltóg_ghainimh, Seiriceán, Ciaróg_uisce, Leamhan_céarach"
+    },
+    {
+      "l": "ko",
+      "t": "군대개미, 버드윙, 쇠똥구리아과, 그래스호퍼_(곤충군), 집파리, 로커스트_(메뚜기), 쌍살벌, 누에나방, 웨타"
+    },
+    {
+      "l": "id",
+      "t": "Semut_tentara, Kutu_kasur, Kutu_buku, Kecoak, Kumbang_kotoran, Belalang_daun, Lalat_rumah, Belalang_padi_(serangga), Sera, Atrophaneura, Ngengat_sutra"
+    },
+    {
+      "l": "he",
+      "t": "נמלי_גדוד, תיקנים, חיפושיות_זבל, חגביים, זבוב_הבית, ארבה, טוואי_המשי, ווטה"
+    },
+    {
+      "l": "nl",
+      "t": "Trekmier, Bedwants, Zwartkopvuurkever, Meikever, Kakkerlakken, Aardrups, Mestkevers, Lucilia, Huisvlieg, Treksprinkhaan, Hopliini, Atrophaneura, Zijdevlinder, Weta's, Houtworm"
+    },
+    {
+      "l": "ja",
+      "t": "グンタイアリ, トリバネチョウ, ボクサーカマキリ, ゴキブリ, 糞虫, グローワーム, イナゴ, イエバエ, ワタリバッタ, カイコ, 木食い虫"
+    },
+    {
+      "l": "no",
+      "t": "Hærmaur, Fuglevinger, Cantharoidea, Vanlig_oldenborre, Melbille, Stor_husflue, Hopliini, Gravevepser_(Spheciformes), Atrophaneura, Silkeorm, Wetaer"
+    },
+    {
+      "l": "nn",
+      "t": "Vandremaur, Bokorm, Grashopper, Silkeorm, Weta"
+    },
+    {
+      "l": "oc",
+      "t": "Formiga_legionària, Mosca_domestica, Manhan"
+    },
+    {
+      "l": "pt",
+      "t": "Formigas_de_correição, Percevejos_de_cama, Besouro-bombardeiro, Pyrochroa_coccinea, Melolontha_melolontha, Barata, Bicho-folha-seca, Lucilia_(mosca), Musca_domestica, Gusano_de_maguey, Larva_Rabo-de-Rato, Bicho-da-seda, Traça_da_cera, Wētā, Witchetty_grub"
+    },
+    {
+      "l": "ro",
+      "t": "Furnică_militară, Ploșnița, Cărăbuș, Gândac_de_castravete, Lucilia, Musca_de_casă, Atrophaneura, Fluture_de_mătase"
+    },
+    {
+      "l": "ru",
+      "t": "Кочевые_муравьи, Птицекрылки, Бомбардир_(жук), Кантароидные, Огнецветка_багряная, Хрущ_майский_западный, Пчёлы-кукушки, Муравьи_с_планирующим_полётом, Зелёные_падальницы, Комнатная_муха, Саранча, Цветоройки, Осы_бумажные, Крыска, Atrophaneura, Тутовый_шелкопряд, Восковая_моль, Уэта"
+    },
+    {
+      "l": "sr",
+      "t": "Armijski_mrav, Buba_bombarder, Гундељ, Balegar, Скакавац, Кућна_мува, Locust, Свилена_буба"
+    },
+    {
+      "l": "sv",
+      "t": "Vandrarmyror, Fågelfjärilar, Stor_kardinalbagge, Ollonborre, Broddmask, Lucilia, Husfluga, Vandringsgräshoppor, Atrophaneura, Silkesfjäril, Weta, Trämask"
+    },
+    {
+      "l": "vi",
+      "t": "Kiến_quân_đội, Bọ_cánh_cứng_thả_bom, Pyrochroa_coccinea, Gián, Bọ_hung, Ruồi_ăn_nấm, Ruồi_nhà, Ruồi_nhuế, Ong_bùn, Giòi_đuôi_chuột, Atrophaneura, Ruồi_cát, Tằm, Bọ_nước, Sâu_sáp, Dế_Weta, Ấu_trùng_Witchetty"
+    },
+    {
+      "l": "zh-yue",
+      "t": "行軍蟻, 放屁蟲, 曱甴, 屎甲蟲, 花螳螂, 放光蟲, 蝗蟲, 家蠅, 蝗群, 蠶蟲"
+    },
+    {
+      "l": "zh",
+      "t": "行軍蟻, 床蟲, 鳥翼蝶, 放屁虫, 欧洲鳃金龟, 蟑螂, 蜣螂, 蝗蟲, 绿蝇属, 家蠅, 海藻扁蠅, 蝗群, 蠓虫, 鼠尾蛆, 曙凤蝶属, 沙蠅, 蚕, 蠟蟲"
+    },
+    {
+      "l": "ml",
+      "t": "ബാർക്ക്_മാന്റിസ്, മൂട്ട, പാറ്റ, കരിയില_പ്രാണികൾ, ഫ്ലവർ_മാന്റിസ്, പുൽച്ചാടി, ഈച്ച, ലീഫ്_മാന്റിസ്, വെട്ടുകിളി, പേപ്പർ_വാസ്പ്, ഷീൽഡ്_മാന്റിസ്, പട്ടുനൂൽപ്പുഴു, സ്റ്റിക്ക്_മാന്റിസ്"
+    },
+    {
+      "l": "as",
+      "t": "উৰহ"
+    },
+    {
+      "l": "bn",
+      "t": "ছারপোকা, বোমারু_বিটল, তেলাপোকা, ঘাসফড়িং, গৃহমাছি, পঙ্গপাল, অ্যাসিড_পোকা, তুঁত_রেশম"
+    },
+    {
+      "l": "bh",
+      "t": "उड़िस"
+    },
+    {
+      "l": "eu",
+      "t": "Ohe-zimitz, Kakalardo_bonbaketari, Pyrochroa_coccinea, Kotxorro, Etxe-euli, Oti, Atrophaneura, Zeta-har"
+    },
+    {
+      "l": "ha",
+      "t": "Ƙazunzumi, Ƙwari"
+    },
+    {
+      "l": "it",
+      "t": "Infestazione_da_cimice_dei_letti, Pyrochroa_coccinea, Melolontha_melolontha, Scarabeo_stercorario, Verme_luminoso, Lucilia_(zoologia), Musca_domestica, Moscerino, Hopliini, Bombyx_mori, Wētā, Tarlo"
+    },
+    {
+      "l": "kn",
+      "t": "ತಿಗಣೆ, ಮನೆ_ನೊಣ, ಮಿಡತೆ, ರೇಷ್ಮೆಹುಳು, ಮರಹುಳು"
+    },
+    {
+      "l": "kw",
+      "t": "Pryv_gweli, Hwilen_dhu, Gwibesen"
+    },
+    {
+      "l": "sw",
+      "t": "Kunguni, Nyuki-kekeo, Sota, Bungo-mavi, Kimetameta_(kisubi), Nzige, Nzi_wa_Nairobi, Bunzi-karatasi"
+    },
+    {
+      "l": "ky",
+      "t": "Жер_канталасы, Батыш_саратаны, Үй_чымыны, Тыт_жибек_көпөлөгү"
+    },
+    {
+      "l": "mg",
+      "t": "Tsipongo, Kalalao, Lalitra_an-trano, Bombyx_mori"
+    },
+    {
+      "l": "ms",
+      "t": "Pepijat_Katil, Kupu-kupu_sayap_burung, Kumbang_kabai, Lipas, Lalat_rumah, Belalang_juta, Sera, Atrophaneura, Ulat_sutera, Wētā"
+    },
+    {
+      "l": "or",
+      "t": "ଛାରପୋକ, ପଙ୍ଗପାଳ"
+    },
+    {
+      "l": "ur",
+      "t": "کٹھمل, لال_بیگ, ٹڈی_(جراد), ریشم_کا_کیڑا"
+    },
+    {
+      "l": "wa",
+      "t": "Wandion, Baloujhe, Doumiesse_moxhe"
+    },
+    {
+      "l": "af",
+      "t": "Voëlvlerk, Miskruier, Huisvlieg, Treksprinkaan, Sywurm"
+    },
+    {
+      "l": "hi",
+      "t": "बॉम्बॉर्डियर_बीटल, तिलचट्टा, शमल_भृंग, टिड्डी, रेशम_कीट"
+    },
+    {
+      "l": "kk",
+      "t": "Бомбардирлер, Батыс_зауза_қоңызы, Қиқоңыздар, Үй_шыбыны, Қара_шегірткелер, Жібеккөбелек"
+    },
+    {
+      "l": "tr",
+      "t": "Bombardıman_böceği, Mayıs_böceği, Bok_böceği, Mantar_sivrisineği, Karasinek, Göçmen_çekirgeler, İpek_böceği"
+    },
+    {
+      "l": "uk",
+      "t": "Жуки-бомбардири, Вогнецвітка_червона, Травневий_хрущ, Жуки-гнойовики, Lucilia, Муха_кімнатна, Сарана, Hopliini, Паперові_оси, Шовкопряд_шовковичний, Водяні_твердокрилі, Вета"
+    },
+    {
+      "l": "cs",
+      "t": "Knihomol_(hmyz), Červenáček_ohnivý, Chroust_obecný, Kukaččí_včely, Moucha_domácí, Bourec_morušový, Weta"
+    },
+    {
+      "l": "da",
+      "t": "Bogorm, Kakerlakker, Rottehale_(larve), Ægte_silkesommerfugl, Weta"
+    },
+    {
+      "l": "mk",
+      "t": "Книжен_молец, Свилена_буба"
+    },
+    {
+      "l": "uz",
+      "t": "Kitob_qurti_(hasharot), Uy_pashshasi, Chigirtka, Ipak_qurti"
+    },
+    {
+      "l": "pl",
+      "t": "Mól_książkowy, Ogniczek_większy, Chrabąszcz_majowy, Konik_polny, Lucilia_(zwierzę), Mucha_domowa, Locusta, Jedwabnik_morwowy, Chrząszcze_wodne, Weta, Witchetty_grub, Kornik"
+    },
+    {
+      "l": "tl",
+      "t": "Uod_ng_aklat_(kulisap), Ipis, Musca_domestica, Bombyx_mori"
+    },
+    {
+      "l": "et",
+      "t": "Punatulilane, Lõuna-maipõrnikas, Harilik_toakärbes, Siidikedrik, Veemardikad"
+    },
+    {
+      "l": "hu",
+      "t": "Nagy_bíborbogár, Májusi_cserebogár, Maggyűjtő_hangyák, Házilégy, Selyemlepke, Weta"
+    },
+    {
+      "l": "an",
+      "t": "Melolontha_melolontha, Musca_domestica, Bombyx_mori"
+    },
+    {
+      "l": "az",
+      "t": "May_böcəyi, Otaq_milçəyi, Çəyirtkə, Tut_ipəkqurdu"
+    },
+    {
+      "l": "bg",
+      "t": "Майски_бръмбари, Хлебарки, Домашна_муха, Копринена_пеперуда"
+    },
+    {
+      "l": "br",
+      "t": "C'hwil-derv, Bleiz-bouzel"
+    },
+    {
+      "l": "io",
+      "t": "Melolonto, Sterko-skarabeo, Lampiro, Silk-vermo"
+    },
+    {
+      "l": "is",
+      "t": "Aldinbori, Húsfluga, Silkiormur"
+    },
+    {
+      "l": "lt",
+      "t": "Paprastasis_grambuolys, Kambarinė_musė, Skėriai, Šilkverpis"
+    },
+    {
+      "l": "sk",
+      "t": "Chrúst_obyčajný, Mucha_domáca, Priadka_morušová"
+    },
+    {
+      "l": "sl",
+      "t": "Majski_hrošč, Domača_muha, Sviloprejka"
+    },
+    {
+      "l": "fi",
+      "t": "Saksanturilas, Huonekärpänen, Kulkusirkka, Mulperiperhonen, Wetat, Jumit"
+    },
+    {
+      "l": "th",
+      "t": "แมงอีนูน, ตั๊กแตน, ไหม_(แมลง)"
+    },
+    {
+      "l": "nv",
+      "t": "Chʼoshtsoh_dóó_Chʼoshzhiin, Chąąneiłmaasii, Wóóneeshchʼįįdii_nahachaʼígíí"
+    },
+    {
+      "l": "jv",
+      "t": "Coro, Kutis, Laler_omah, Tawon_kertas, Uler_sutra"
+    },
+    {
+      "l": "ks",
+      "t": "تِلٕکؠوٚم, ہالو, مٔچھ, پأٹھؠ_کیٚوم"
+    },
+    {
+      "l": "kg",
+      "t": "Mpese"
+    },
+    {
+      "l": "my",
+      "t": "ပိုးဟပ်, ချေးထိုးပိုး, ကျိုင်းကောင်"
+    },
+    {
+      "l": "pa",
+      "t": "ਕਾਕਰੋਚ"
+    },
+    {
+      "l": "su",
+      "t": "Cucunguk, Hileud_sutra, Peupeundeuyan"
+    },
+    {
+      "l": "be",
+      "t": "Пчолы-зязюлі, Мухі_мясныя_зялёныя, Муха_пакаёвая, Саранча, Тутавы_шаўкапрад"
+    },
+    {
+      "l": "hy",
+      "t": "Կկու_մեղուներ, Սենյակային_ճանճ, Թթենու_մետաքսագործ"
+    },
+    {
+      "l": "ne",
+      "t": "फेद_कटुवा_किरा, सलह, रेसम_किरा"
+    },
+    {
+      "l": "mr",
+      "t": "शेणकिडा, माशी, टोळ, नैरोबी_माशी, रेशमाचे_किडे"
+    },
+    {
+      "l": "qu",
+      "t": "Aka_suntu, Murira_pillpintu"
+    },
+    {
+      "l": "sh",
+      "t": "Balegar, Kućna_muva, Dudov_svilac"
+    },
+    {
+      "l": "te",
+      "t": "పేడ_పురుగు, మిడత"
+    },
+    {
+      "l": "za",
+      "t": "Mbongjmbwt, Duzruemh, Nonsei"
+    },
+    {
+      "l": "ka",
+      "t": "მანათობელი_ცხოველები, თუთის_აბრეშუმხვევია"
+    },
+    {
+      "l": "sc",
+      "t": "Culilughe"
+    },
+    {
+      "l": "sd",
+      "t": "ٽانڊاڻو, مڪڙ, گهريتڙي"
+    },
+    {
+      "l": "sn",
+      "t": "Hwiza, Nhunzi"
+    },
+    {
+      "l": "cy",
+      "t": "Ceiliog_y_Gwair"
+    },
+    {
+      "l": "so",
+      "t": "Saanxume, Ayax"
+    },
+    {
+      "l": "am",
+      "t": "የቤት_ዝንብ, አንበጣ"
+    },
+    {
+      "l": "ba",
+      "t": "Бүлмә_себене, Балауыҙ_көйәһе"
+    },
+    {
+      "l": "bs",
+      "t": "Kućna_muha"
+    },
+    {
+      "l": "co",
+      "t": "Mosca"
+    },
+    {
+      "l": "hr",
+      "t": "Kućna_muha, Dudov_svilac"
+    },
+    {
+      "l": "la",
+      "t": "Musca_domestica, Locusta_(grex_insectorum), Atrophaneura, Bombyx, Coleoptera_aquatica"
+    },
+    {
+      "l": "lv",
+      "t": "Istabas_muša, Zīdtauriņš"
+    },
+    {
+      "l": "lb",
+      "t": "Hausméck"
+    },
+    {
+      "l": "ps",
+      "t": "مچ"
+    },
+    {
+      "l": "tt",
+      "t": "Бүлмә_чебене"
+    },
+    {
+      "l": "tg",
+      "t": "Магас, Кирми_абрешим"
+    },
+    {
+      "l": "yo",
+      "t": "Eṣinṣin_ilé"
+    },
+    {
+      "l": "os",
+      "t": "Мæтых, Тутайы_калм"
+    },
+    {
+      "l": "ce",
+      "t": "ЦӀоз"
+    },
+    {
+      "l": "fy",
+      "t": "Flearmûsflinters"
+    },
+    {
+      "l": "ia",
+      "t": "Verme_de_seta"
+    },
+    {
+      "l": "sq",
+      "t": "Krimbi_i_mëndafshit"
+    },
+    {
+      "l": "zh-classical",
+      "t": "蠶"
+    }
+  ]
+}
