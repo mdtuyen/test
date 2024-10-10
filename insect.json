@@ -1,5 +1,4 @@
-{
-    "insect": [
+[
     {
       "l": "all",
       "t": "Ambrosia_beetle, Army_ant, Australian_wood_cockroach, Bark_mantis, Bat_bug, Bat_fly, Bed_bug, Birch_leafminer, Birdwing, Blue_darner, Blue-green_mealybugs, Bombardier_beetle, Bookworm_(insect), Boxer_mantis, Canna_leaf_roller, Cantharoid_beetles, Cardinal_beetle, Clothes_moth, Cockchafer, Cockroach, Creosote_gall_midge, Cuckoo_bee, Cucumber_beetle, Cutworm, Dead_leaf_mantis, Dung_beetle, Elm_bark_beetle, Field_cricket, Fig_wasp, Flightless_fruit_fly, Flour_beetle, Flower_mantis, Fungus_gnat, Gliding_ant, Glowworm, Grass_bagworm, Grass_mantis, Grasshopper, Green_bottle_fly, Ground_mantis, Guava_moth, Harvester_ant, Holly_leaf_miner, Housefly, Kelp_fly, Leaf_mantis, Leaf-mimic_katydid, Locust, Maguey_worm, Mezcal_worm, Midge, Monkey_beetle, Mud_dauber, Mushroom-feeding_Drosophila, Nairobi_fly, Orange_blister_beetle, Paper_wasp, Pinion_(moth), Pollen_beetle, Rat_flea, Rat-tailed_maggot, Red-bodied_swallowtail, Red-headed_pine_sawfly, Rice_bug, Sandfly, Seed_fly, Shield_mantis, Silkworm, Spotted_pine_sawyer, Spruce_bark_beetle, Spruce_sawflies, Squash_bee, Stick_mantis, Tent_caterpillar, Toktokkies, Twig_borer, Twig-borer, Twigborer, Uzi_fly, Water_beetle, Waxworm, W%C4%93kiu_bug, W%C4%93t%C4%81, Wheat_fly, White_flannel_moth, Witchetty_grub, Woodworm, Yellowjacket"
@@ -432,5 +431,4 @@
       "l": "zh-classical",
       "t": "蠶"
     }
-  ]
-}
+]
